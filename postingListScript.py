@@ -24,6 +24,6 @@ for doc in doclist:
     print("finished", doc)
 
 with open(r"./postingJSONScript.json", "w", encoding="utf8") as f:
-    f.write(json.dumps(outdict))
+    f.write(json.dumps(outdict, indent=2))
 
 print("finish")
