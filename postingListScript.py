@@ -1,29 +1,27 @@
 import re
 import json
 import os
+import sys
+from tqdm import tqdm
 from collections import defaultdict
 
-doclist = os.listdir(r"./erzaehltexte")
+
+# run this script from terminal, like 'python postingListScript.py erzaehltexte'
+corpath = sys.argv[1]
+doclist = os.listdir(f"./{corpath}")
 outdict = defaultdict(list)
 
 
 def tokenize(text):
-    tokens = text.split()
-    tokens_strip = [re.sub("\W", "", x) for x in tokens]
-    typeset_inner = set(tokens_strip)
-    return typeset_inner
+    return set(re.findall("\w+", text))
 
 
-for doc in doclist:
-    with open(rf"./erzaehltexte/{doc}", "r", encoding="utf8") as f:
-        docstring = f.read()
-        docstring = docstring.casefold()
-        docset = tokenize(docstring)
+for doc in tqdm(doclist):
+    with open(rf"./{corpath}/{doc}", "r", encoding="utf8") as f:
+        docset = set(re.findall("\w+", f.read().casefold()))
     for types in docset:
         outdict[types].append(doclist.index(doc))
-    print("finished", doc)
 
-with open(r"./postingJSONScript.json", "w", encoding="utf8") as f:
+
+with open(rf"./{corpath}PList.json", "w", encoding="utf8") as f:
     f.write(json.dumps(outdict, indent=2))
-
-print("finish")
