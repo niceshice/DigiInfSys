@@ -1,7 +1,4 @@
-import re
-import json
-import os
-import sys
+import re, os, sys
 from tqdm import tqdm
 from collections import defaultdict
 from querylanguage import create_parser
@@ -23,10 +20,6 @@ for doc in tqdm(doclist):
         outdict[types].append(doclist.index(doc))                   # append index of doc for each type in current doc
 
 
-with open(rf"./{corpath}PList.json", "w", encoding="utf8") as f:    # write inverted index to file
-    json.dump(outdict, f, indent=2)
-
-
 def lookup(term):
     return outdict[term]
 
@@ -36,11 +29,11 @@ def and_lists(pl1, pl2):                                            # and method
     j = 0
     outlist = []
     while (i < len(pl1)) & (j < len(pl2)):
-        if pl1[i] == pl2[j]:
+        if pl1[i] == pl2[j]:                                        # add to outlist if fulfilling AND
             outlist.append(pl1[i])
             i += 1
             j += 1
-        elif pl1[i] < pl2[j]:
+        elif pl1[i] < pl2[j]:                                       # advance smaller pointers
             i += 1
         elif pl1[i] > pl2[j]:
             j += 1
@@ -71,7 +64,7 @@ def or_lists(pl1, pl2):                                             # or method,
     j = 0
     outlist = []
     while (i < len(pl1)) & (j < len(pl2)):
-        if pl1[i] == pl2[j]:
+        if pl1[i] == pl2[j]:                                        # always append
             outlist.append(pl1[i])
             i += 1
             j += 1
