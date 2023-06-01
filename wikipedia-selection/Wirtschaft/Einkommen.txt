@@ -1,0 +1,103 @@
+Einkommen bezeichnet die einer natürlichen oder juristischen Person in einem bestimmten Zeitraum als Geld oder Sache zufließenden Leistungen. Umgangssprachlich spricht man bei natürlichen Personen auch vom Verdienst, bei juristischen Personen hingegen vom Gewinn oder Überschuss.
+In der Volkswirtschaftslehre stellt das Einkommen als Primäreinkommen oder, was gleichbedeutend ist, als Nationaleinkommen die Summe aller Inländern zukommenden Wertschöpfungen der gesellschaftlichen Produktion dar. Es ist in der Mikroökonomie wie in der Makroökonomie eine der Größen zur Beurteilung der ökonomischen Wohlfahrt.Als Einkommen wird der Reinvermögenszugang einer natürlichen Person oder eines Haushalts im volkswirtschaftlichen Sinne innerhalb eines bestimmten Zeitraums (i. A. ein Kalenderjahr bzw. ein Geschäftsjahr) verstanden.Das Einkommen besteht in dem Unterschied des Reinvermögens am Ende des Jahres zum Reinvermögen am Anfang des Jahres zuzüglich des während dieser Zeit Konsumierten.
+
+Einkommen = Reinvermögen (31.12.) − Reinvermögen (1.1.) + Konsum (1.1. bis 31.12)Arbeitseinkommen entsteht durch die Produktion oder den Tausch von Gütern, Leistung abhängiger Arbeit gegen Arbeitsentgelt und anderen Ansprüchen in einem Markt.
+Kapitaleinkommen entstehen durch Zinsen, Dividenden, Einnahmen durch Miete und Pacht.Als Transfereinkommen bezeichnet man Einkommen, welches durch den Staat oder andere Institutionen bereitgestellt wird, ohne dass eine konkrete Gegenleistung erfolgt (Beispiel: Sozialhilfe, Arbeitslosengeld II usw.).
+Aber auch durch Erbschaft oder Schenkungen werden Einkommen erzielt.In der Makroökonomie berücksichtigt man das Einkommen zur kumulierten Messung der Vermögenszugänge einer Volkswirtschaft. Die unterschiedlichen volkswirtschaftlichen Einkommensbegriffe sind international durch die Volkswirtschaftlichen Gesamtrechnungen (VGR) standardisiert, unter anderem als Europäisches System Volkswirtschaftlicher Gesamtrechnungen (ESVG). Dieses wiederum verwendet die Definitionen aus dem Statistik-System der Vereinten Nationen „System of National Accounts“ (SNA). Ausgangspunkt ist dort das Primäreinkommen, das begrifflich mit dem Nationaleinkommen (bzw. früher Sozialprodukt) identisch ist. In seiner Bruttoform vor Abschreibungen als Bruttonationaleinkommen hat es für die Europäische Union hohe Bedeutung als Indikator für die Einkommenshöhe der jeweiligen Mitgliedsländer, beziehungsweise ihrer Bevölkerung, und liefert deshalb (neben dem Umsatzsteueranteil) den Maßstab für die Mitgliedsbeiträge, aus denen die Eigenmittel der EU bestehen.
+Der ebenfalls international verwendete Begriff Nettonationaleinkommen (früher Nettosozialprodukt) ist das Bruttonationaleinkommen abzüglich der Abschreibungen. Der im deutschen Sprachraum genutzte Begriff Volkseinkommen ist das Nettonationaleinkommen abzüglich vor allem der indirekten Steuern (statistischer Fachbegriff hier: Gütersteuern) zuzüglich der Subventionen. Rechnerisch beruht die Höhe des Volkseinkommens in einem bestimmten Land im Vergleich zu seinem Nationaleinkommen also vorrangig darauf, in welchem Umfang der Staat seine Einnahmen aus direkten Steuern oder aus indirekten Steuern bezieht.
+Über die Verteilungsrechnung lässt sich das Verhältnis der verschiedenen Einkommensbestandteile zueinander berechnen. Die beiden wichtigsten makroökonomischen Größen zur Messung des Einkommens sind dort
+
+das Bruttonationaleinkommen und
+das Bruttoinlandsprodukt.Da Einkommenszuwächse bei Vorliegen von Inflation nicht zwingend Wohlstandszuwächse bedeuten, misst man neben dem oben hergeleiteten (Nominal-)Einkommen auch das Realeinkommen.Darunter wird das preisbereinigte Nominaleinkommen verstanden. Es wird ermittelt, indem der Index (Vergleichswert) des Nominaleinkommens durch einen passenden Preisindex geteilt wird. Das Realeinkommen kann nur als Vergleichsgröße in Form einer Veränderung oder eines Indexes angegeben werden. Es dient als Indikator für die tatsächliche Kaufkraft des Einkommens. Anschaulich handelt es sich um die Menge der Waren und Dienstleistungen, die man aufgrund der aktuellen Preise kaufen kann.
+
+Beispiel Index
+Bei einer Inflationsrate von 4 % und einer Erhöhung des Nominaleinkommens um 3 % beträgt der Realeinkommensindex 99,04 % nach der Berechnungsformel:
+
+  
+    
+      
+        
+          
+            
+              1
+              
+                ,
+              
+              03
+            
+            
+              1
+              
+                ,
+              
+              04
+            
+          
+        
+        =
+        0,990
+        3846
+        ≈
+        99
+        
+          ,
+        
+        04
+        
+        %
+      
+    
+    {\displaystyle {\frac {1{,}03}{1{,}04}}=0{,}9903846\approx 99{,}04\,\%}
+  .Die Menge der Waren und Dienstleistungen, die man sich leisten kann, beträgt somit nur noch 99,04 % im Vergleich zum Vorjahr.
+
+Beispiel Veränderung
+Bei einer Inflationsrate von 4 % und einer Erhöhung des Nominaleinkommens um 3 % sinkt das Realeinkommen um 0,96 % nach der Berechnungsformel:
+
+  
+    
+      
+        
+          
+            
+              1
+              
+                ,
+              
+              03
+            
+            
+              1
+              
+                ,
+              
+              04
+            
+          
+        
+        −
+        1
+        ≈
+        −
+        0,009
+        6
+        =
+        −
+        0
+        
+          ,
+        
+        96
+        
+        %
+      
+    
+    {\displaystyle {\frac {1{,}03}{1{,}04}}-1\approx -0{,}0096=-0{,}96\,\%}
+  .Die Menge der Waren und Dienstleistungen, die man sich leisten kann, hat sich also im Vergleich zum Vorjahr um rund 0,96 % verringert.Nicht das gesamte Einkommen kann für privaten Konsum oder Investitionen genutzt werden, da ein erheblicher Teil des Einkommens beispielsweise durch Steuern und Abgaben verbraucht wird. Aus diesem Grund berücksichtigt das verfügbare Einkommen lediglich die für Konsum oder Sparen verbleibenden Teile des Einkommens. Einkommen- und Vermögensteuern, geleistete Sozialbeiträge und sonstige laufende geleistete Transfers werden hierzu vom Einkommen abgezogen, empfangene Sozialleistungen und empfangene laufende Transfers hinzuaddiert.Das Einkommensteuerrecht in Deutschland unterscheidet zwischen Einnahmen, Einkünften, Einkommen und zu versteuerndem Einkommen.
+
+Einnahmen sind bei Arbeitnehmern das Bruttoarbeitsentgelt, bei Selbstständigen die Erlöse.
+Einkünfte ergeben sich, wenn die durch die Einnahmeerzielung veranlassten Kosten (Werbungskosten bei Arbeitnehmern, Betriebsausgaben bei Selbstständigen) von den Einnahmen abgezogen werden (objektives Nettoprinzip).
+Einkommen ergibt sich nach Abzug von Vorsorgeaufwand und anderen Sonderausgaben sowie außergewöhnlichen Belastungen (subjektives Nettoprinzip).
+Zu versteuerndes Einkommen heißt die Bemessungsgrundlage für den Einkommensteuertarif und ist meist wertmäßig mit dem Einkommen gleich, außer beim Abzug von Kinderfreibeträgen.Die Einkommensverteilung untersucht die Verteilung der Einkommen in verschiedenen gesellschaftlichen Gruppen. In allen OECD-Ländern sind die Einkommen ungleich verteilt. Man spricht auch von „Einkommensschere“, um die Differenz zwischen den niedrigen und den hohen Einkommen in einer Gesellschaft zu versinnbildlichen.Neben der Einkommensverteilung sind auch die Entwicklung der Einkommen im Zeitablauf für bestimmte Gruppen (z. B. Berufsgruppen, Männer, Frauen; vgl. Gender-Pay-Gap) und die Einkommensdynamik von Einzelnen (oft verbunden mit sozialem Aufstieg oder Abstieg) Forschungsgegenstände. Letztere werden oft mit Längsschnittstudien ermittelt.Laut Mikrozensus leben in Deutschland 5,5 % der Bevölkerung trotz einer Erwerbsarbeit unter der Armutsgrenze. Besonders oft betroffen sind an- und ungelernte Arbeiter sowie Selbstständige ohne Mitarbeiter. Siehe dazu auch: Working Poor. Das Durchschnittseinkommen aller Arbeitenden betrug in Deutschland im Jahre 2006 etwa 1.503 Euro pro Person und Monat.
+Einpersonen-Haushalte, mit mehr als 2.700 Euro netto Einkommen im Monat, gehören nicht mehr zur Mittelschicht, auch wenn Betroffene das häufig nicht so sehen. Sie können als „wohlhabend“ bezeichnet werden. Ab einem Nettoeinkommen von 3.600 Euro bezeichnet die Wissenschaft einen Menschen als reich.Managergehälter stiegen gegenüber dem Lohn von durchschnittlichen Angestellten in Deutschland in den letzten Jahrzehnten deutlich, zwischen 1987 und 2006 mehr als dreimal stärker:
+2008 hat laut OECD in Deutschland die Einkommensungleichheit stärker zugenommen als in allen anderen OECD-Staaten. Das verfügbare Einkommen war dabei am größten in der Gruppe der Selbständigen mit mehr als zehn Mitarbeitern. Am niedrigsten war es bei den Gruppen ungelernte Arbeiter und Landwirte. Die Landwirte hatten ein noch geringeres verfügbares Einkommen als die Ungelernten; das Mittlere Einkommen (Median) lag bei 1.252 Euro monatlich, das Durchschnittseinkommen war mit 2.706 Euro pro Monat mehr als doppelt so hoch.2010 lag das Durchschnittsbruttoeinkommen in Deutschland bei monatlich 2.136 Euro; Frauen verdienten im Schnitt 23 % weniger als Männer. Auch der Unterschied zwischen einzelnen Wirtschaftsbereichen war teilweise deutlich: Im Durchschnitt verdiente ein im Gastgewerbe vollzeitbeschäftigter Arbeitnehmer im vierten Quartal 2011 1.972 Euro, ein vollzeitbeschäftigter Arbeitnehmer in der Informations- und Kommunikationswirtschaft 4.430 Euro, jeweils vor Abzug von Steuern und Arbeitnehmeranteil der Sozialversicherungsbeiträge.Eine Ende 2011 vorgestellte Studie der OECD bestätigte diesen Trend: Die 10 % der Bevölkerung mit den höchsten Einkommen verdienten 2008 demnach rund das Achtfache der untersten 10 %; darüber hinaus hatte sich der Abstand zwischen den obersten Einkommen und den untersten 10 % der Vollzeiterwerbstätigen etwa zwischen 1995 und 2010 um 20 % vergrößert.In Frankreich lag das mittlere Nettojahreseinkommen unselbstständig Erwerbstätiger bei 20.670 Euro.In Österreich erzielten 2010 die unselbständig Erwerbstätigen (ohne Lehrlinge) ein mittleres Nettojahreseinkommen von 18.366 Euro.Der amerikanische Präsident Theodore Roosevelt hielt im August 1910 in Osawatomie (im Bundesstaat Kansas) vor 30.000 Menschen eine Rede, die in die Geschichtsbücher einging. Er prangerte die große Einkommens-Ungleichheit an und sprach von der Notwendigkeit einer regulierten Wirtschaft und einer starken Regierung. „Menschliche Wohlfahrt“ sei wichtiger als der Profit des Einzelnen. „New Nationalism“ nannte er sein Programm zur Stärkung der Mittelschicht.
+In den USA lag das Verhältnis von Managergehältern zu durchschnittlichen Angestellten 1980 bei 35:1, 2008 bei 319:1.Der amerikanischen Gesellschaft „fehlt die Mitte. Rasant haben sich die Reichen und die Armen im Land auseinanderentwickelt, so rasant, dass das oberste Prozent der Bürger fast ein Viertel aller Einkommen an sich zieht – doppelt so viel wie vor 25 Jahren. Amerika wuchs zuletzt fast nur noch für seine Reichen, die mittleren und unteren Schichten büßten im Schnitt sogar Kaufkraft ein. Und Jobs dazu.“Präsident Barack Obama hielt im Dezember 2011 – ebenfalls in Osawatomie – eine programmatische Rede, in der auch er die wirtschaftliche Ungleichheit anprangerte. Die zunehmende Ungleichheit strafe das Versprechen des amerikanischen Traums Lügen, dass es jeder schaffen könne, wenn er nur wolle. Es gehe hier nicht um irgendeine politische Debatte, sondern um „die entscheidende Frage unserer Zeit“.

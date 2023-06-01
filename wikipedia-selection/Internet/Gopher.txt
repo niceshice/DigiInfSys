@@ -1,0 +1,33 @@
+Gopher (englisch für Taschenratte) ist ein Netzwerkprotokoll zum Abrufen von Dokumenten über das Internet.
+Gopher wurde 1991 unter der Leitung von Mark P. McCahill an der Universität von Minnesota entwickelt und ähnelt dem World Wide Web (WWW) in einem frühen Zustand.Für die Wahl des Namens gibt es mehrere Theorien:
+
+Taschenratte, welche als Maskottchen der Universität von Minnesota dient.
+„gopher“ steht lautmalerisch für „Go for it“ oder „Go-For“ (umgangssprachlich auch „Go-Fer“, zu deutsch etwa „Laufbursche“ (schweiz.: "Gango")).Die Überlegung, die zu Gopher führte, war die umständliche Handhabung von FTP (file transfer protocol), bei dem man sich einloggen und über Konsolenbefehle in Verzeichnisse wechseln musste, um die gewünschte Datei finden und herunterladen zu können. Zudem wollte man ein einfach zu administrierendes Informationssystem schaffen, das wenig Ressourcen benötigt.
+Mitte der 1990er Jahre hatten manche Organisationen, die über einen Internetzugang verfügten, zum Beispiel Universitäten oder Regierungen, einen Gopherserver und stellten der Allgemeinheit darauf Informationen aus allen Bereichen zur Verfügung.
+Mit dem Aufschwung des WWW und den inzwischen wesentlich komfortableren FTP-Programmen ging jedoch die Zeit des Gopherspace zu Ende. Ursächlich für den Niedergang war auch die Entscheidung der Universität von Minnesota, die das Urheberrecht an Gopher hält, für die kommerzielle Nutzung des Dienstes Gebühren zu verlangen.
+Heute gibt es nur noch wenige Gopherserver, die Tendenz ist jedoch seit 2018 steigend.Das Gopher-Netzwerkprotokoll ist in RFC 1436 definiert und ist vergleichbar mit dem Hypertext Transfer Protocol (HTTP).
+Gopher basiert, wie viele Anwendungsprotokolle, auf dem Transmission Control Protocol (TCP).
+Die Standardportnummer von Gopher ist 70.
+Zum Abrufen eines Gopher-Dokuments wird ein Gopher-Client benötigt.
+Gopher bietet im Gegensatz zu HTML-Seiten ein automatisch generiertes Menü an, das aus den im aktuellen Verzeichnis befindlichen Dateien generiert wird. Der Gopherserver erkennt dabei, ob es sich um Verzeichnisse oder Dateien handelt, und zeigt dies durch entsprechende Symbole an (vgl. Abbildung).
+Zusätzlich bieten Gopherserver auch Konfigurationsdateien an, die es dem Betreiber erlauben, Verweise auf externe Gopherserver zu generieren.
+Für den Gopherserver gopherd, der zum Beispiel bei der Linux-Distribution Debian mitgeliefert wird, sieht diese Datei im Aufbau folgendermaßen aus:
+
+Name=Web Server on Athene
+Type=h
+Path=GET /
+Host=athene.dnsalias.org
+Port=80
+#
+Name=NCT Gopher Server
+Type=1
+Port=70
+Path=/
+Host=gopher.nct.de
+
+In dieser Datei wird zum einen ein Verweis auf einen Webserver, aber auch ein Verweis auf einen anderen Gopherserver definiert.
+Abgespeichert wird diese Datei in einem Verzeichnis des Gopherservers unter dem Namen .Links (man beachte den Punkt vor dem Dateinamen).
+Im Gegensatz zu Webseiten sind Gopherseiten reine Textdateien ohne Formatierung oder eingebettete Grafiken.Zum Erkunden des Gopherspace gibt es eigene Clients, z. B. gopher. Der Webbrowser Lynx beherrscht ohne Weiteres das Gopherprotokoll.
+Die Webbrowser Firefox (bis Version 4), SeaMonkey (bis Version 2.1) und Windows Internet Explorer (bis Version 6.0) unterstützen das Gopherprotokoll nativ. Ab Version 6 Service Pack 1 des Internet Explorers (September 2002) wurde es wegen Sicherheitslücken im Programm deaktiviert; man hielt Gopher für nicht wichtig genug, um den Fehler zu beheben.
+Das The Overbite Project von Cameron Kaiser entwickelt Browser Add-ons, um durch aktuelle Webbrowser auf den Gopherspace zugreifen zu können.
+Im WWW findet man Webseiten, die eine Schnittstelle vom Gopherspace in das WWW bereitstellen. Solch eine Schnittstelle stellt z. B. der Proxy Squid zur Verfügung.Aufgrund der Tatsache, dass es sich bei Gopher um ein eigenständiges, etwa von HTTP oder FTP unabhängiges Protokoll handelt, werden zur Suche nach Gopher-Inhalten im Internet auch eigene Suchmaschinen benötigt. Eine der ältesten, aber trotzdem nach wie vor noch aktiven, ist Veronica. Zudem gibt es einige Weiterentwicklungen wie Veronica-2.Unter dem Namen Gopherpedia gibt es eine Gopher-Schnittstelle zur englischsprachigen Wikipedia. Die Onlinebeiträge der taz sind ebenfalls neben dem Webspace auch im Gopherspace zu lesen.

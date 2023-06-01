@@ -1,0 +1,5 @@
+Elektronenleitung bezeichnet den Ladungstransport durch Elektronen.
+Metalle sind Elektronenleiter, da sich bei ihnen Elektronen im Leitungsband befinden.
+Bei einem Halbleiter spricht man von Elektronenleitung, wenn die elektrische Leitung vorwiegend im Leitungsband stattfindet. In einem n-dotiertem Halbleiter dominiert die Elektronenleitung. Das Gegenstück dazu bilden p-dotierte Halbleiter. Hier erfolgt der Ladungstransport durch Defektelektronen und wird daher als Löcherleitung bezeichnet.
+Der Begriff Elektronenleitung wird auch in Abgrenzung zur Ionenleitung verwendet. Im Unterschied zur Ionenleitung findet der Ladungstransport bei Elektronenleitung nicht durch Ionen, sondern durch Elektronen statt.
+Bei Elektronenröhren findet der Ladungstransport durch freie Elektronen statt.

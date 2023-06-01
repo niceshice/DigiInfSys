@@ -1,0 +1,165 @@
+Flusssäure, auch Fluorwasserstoffsäure genannt (zur Namensgebung siehe Fluorit), ist die wässrige Lösung von Fluorwasserstoff (HF).
+Flusssäure ist eine farblose, stechend riechende, hochgiftige Flüssigkeit. Sie greift selbst Glas stark an und wirkt stark ätzend auf die Haut, die Schleimhäute und die Bindehaut der Augen, wobei schon eine geringe Exposition (bspw. durch dermale Aufnahme) schnell zum Tod führen kann. Eine Lösung von 38,2 % HF in Wasser bildet ein azeotrop siedendes Gemisch mit einem Siedepunkt von 112 °C. Flusssäure wird, abhängig von der Konzentration, entweder in Behältern aus Kunststoff oder aus rostfreiem Stahl aufbewahrt.Getrocknetes Fluoritpulver und Schwefelsäure werden zur Reaktion in den Drehrohrofen gegeben. Die Temperatur der Ofengasphase wird auf etwa 280 °C geregelt. Das Nachreaktionsgas tritt in den Rohdestillationsturm ein, um den größten Teil der Schwefelsäure, des Wassers und des Fluoritpulvers zu entfernen. Die Temperatur des Turmkessels wird auf 100 bis 110 °C geregelt und die Kopftemperatur beträgt 35 bis 40 °C. Das rohe Fluorwasserstoffgas wird durch einen Entgasungsturm weiter in einen flüssigen Zustand kondensiert und tritt dann in den Rektifikationsturm zur Rektifikation ein. Der gereinigte Fluorwasserstoff wird von Wasser absorbiert, so dass Flusssäure erhalten wird. Die Reaktionsgleichung lautet:
+
+  
+    
+      
+        
+          
+            CaF
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          HF
+          +
+          
+            CaSO
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CaF2 + H2SO4 -> 2HF + CaSO4}}}
+  
+
+  
+    
+      
+        
+          HF
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            F
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {HF + H2O -> F^- + H3O^+}}}
+  Das Nebenprodukt Fluoroanhydrit findet in der Baustoffindustrie Verwendung.Fluorwasserstoff ist im Vergleich zu den anderen Halogenwasserstoffen eine schwache Säure (pKs = 3,14). Flusssäure greift Gold und Platin nicht an, jedoch werden Tantal, Silber, Kupfer und Blei schwach angegriffen. Flusssäure ist die einzige Säure, die Quarz unter Bildung von Siliciumtetrafluorid oder Hexafluoridokieselsäure aufzulösen vermag.
+
+  
+    
+      
+        
+          
+            SiO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          6
+          
+          HF
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            [
+            
+              SiF
+              
+                6
+              
+              
+                
+              
+            
+            ]
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {SiO2 + 6HF -> H2[SiF6] + 2 H2O}}}Für Flusssäure gibt es zahlreiche Verwendungszwecke in Industrie und Wissenschaft. Die industrielle Gesamtproduktion in Europa betrug im Jahre 2015 über 230.000 Tonnen. Diese wurden in neun Produktionsstätten hergestellt. Fünf davon stehen in Deutschland.Fluorchlorkohlenwasserstoffe (FCKW) werden vor allem in der Kältetechnik und zur Verschäumung von Kunststoffen benutzt.
+60 % der Flusssäure werden für die Herstellung von Fluorkohlenstoffen (FK) benötigt.
+Fluorpolymere sind Kunststoffe, die sich durch ihre besondere Stabilität auszeichnen. Der bekannteste davon ist PTFE (Teflon).
+Metallgewinnung und -verarbeitung. Flusssäure ist dort z. B. ein Reaktionsprodukt, um Aluminiumfluorid herzustellen oder wird bei der Gewinnung seltener Metalle wie Niob oder Tantal und bei der Oberflächenbehandlung von rostfreiem Edelstahl eingesetzt.
+Ansonsten kommt Flusssäure in der Erdölindustrie als Katalysator, in geringen Maße in der Arzneimittel- und Pflanzenschutzmittelherstellung, zum Einsatz.
+Darüber hinaus wird die glasätzende Wirkung bei der Herstellung von Kristallglas zur Oberflächenpolierung genutzt.In der Forschung ist Flusssäure unter anderem ein Ätzmittel für Siliciumdioxid, Titan, Niob, Tantal oder Wolfram, z. B. in der Mikrostrukturierung von Oberflächen. Dort wird häufig eine mit Ammoniumfluorid gepufferte Flusssäure verwendet, um den Ablauf des Ätzprozess besser steuern zu können. Daneben wird die Fähigkeit Silicate zu lösen bei Aufschlussverfahren in der Analytik eingesetzt.
+In der Paläontologie und Pollenkunde wird HF zum Freilegen von unempfindlichen Fossilien oder von Exinen benutzt.Eine 10 % wässrige Fluorwasserstofflösung findet Verwendung als Rostentferner für Textilien.Flusssäure wird auch zum „Etching“, dem Zerkratzen von Glasscheiben, häufig an Einrichtungen des Öffentlichen Personenverkehrs, verwendet (siehe dazu auch Scratching). Dabei kann es zu schweren Verletzungen der Haut und der Atemwege kommen, wenn Fahrgäste oder das Reinigungspersonal mit der Flüssigkeit in Berührung kommen.Durch die Populärkultur, wie der US-Fernsehserie Breaking Bad, erlangte Fluorwasserstoffsäure zusätzliche Berühmtheit. Der Mythos, dass diese mühelos Leichen zersetzen kann, gilt allerdings als widerlegt.Flusssäure ist ein starkes Kontaktgift. Ihre Gefährlichkeit wird dadurch erhöht, dass sie wegen ihrer hohen Lipidlöslichkeit von der Haut sofort resorbiert wird. So ist eine Verätzung tieferer Gewebeschichten und sogar der Knochen möglich, ohne dass die Haut äußerlich sichtbar verletzt ist. Durch sofortiges Unterspritzen des kontaminierten Gewebes mit Calciumgluconat-Lösung kann einem tieferen Eindringen bedingt entgegengewirkt werden.
+Eine handtellergroße Verätzung durch 40-prozentige Flusssäure ist in aller Regel durch resorptive Giftwirkung tödlich. Besonders tückisch ist, dass ein warnender Schmerz oft erst mit einer Verzögerung von mehreren Stunden auftritt. Schmerzstillende Mittel, selbst Opiate und Opioide wie Morphin und Fentanyl, sind hierbei fast wirkungslos. Im schlimmsten Fall müssen die Gliedmaße oder ein großer Teil davon aufgrund der tödlichen Wirkung von Flusssäure amputiert werden.
+Neben der ätzenden Wirkung trägt zur Gefährlichkeit von Flusssäure bei, dass die Fluoridionen den Calcium- und Magnesiumstoffwechsel blockieren und wichtige Enzyme hemmen. Dies führt zu akut bedrohlichen Stoffwechselstörungen, die unter multiplem Organversagen tödlich verlaufen können. Flusssäure schädigt auch das Nervensystem.

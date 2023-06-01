@@ -1,0 +1,45 @@
+Begriffsbeziehung (auch: Begriffsverhältnis) ist die (logische) Beziehung zwischen Begriffen.
+Die Lehre von den Beziehungen zwischen Begriffen ist Teil der klassischen Begriffslogik, findet ihr linguistisches Äquivalent in der Lehre von den semantischen Relationen und gehört aktuell weiterhin zur wissenschaftlichen Methodik.
+Grundlegend für die Lehre von den Begriffsbeziehungen ist die Unterscheidung zwischen Intension und Extension eines Begriffs – oder in Worten der traditionellen Logik zwischen Inhalt und Umfang eines Begriffs.
+Nach der DIN für begriffliche Terminologie soll eine Begriffsbeziehung sich an den Merkmalen der Begriffe orientieren. Dies bedeutet eine intensionale, inhaltliche bzw. semantische Ausrichtung der Begriffsbeziehungslehre. Diese setzt voraus, dass die Extension eines Begriffs von seiner Intension abhängt.
+Die Begriffsbeziehungen lassen sich intensional oder extensional darstellen.
+Bevorzugt wird jedoch zumeist eine extensionale, d. h. eine an den jeweiligen Begriffsumfängen orientierte Darstellung. Hängt die Extension von der Intension ab, bedeutet eine extensionale Darstellung kein Primat der Extension vor der Intension, sondern lediglich eine bessere Anschaulichkeit.
+Die Terminologie der Unterscheidungen ist recht uneinheitlich. Mehrdeutigkeiten der Termini sind so unvermeidlich.Die Begriffe A und B sind unvereinbar (disjunkt, inkompatibel, sich ausschließend), wenn es keinen Gegenstand gibt, der zur Extension sowohl von A und als auch von B gehört.Man kann drei Arten unvereinbarer Begriffe unterscheiden:
+
+nebengeordnete Begriffe
+komplementäre Begriffe
+disparate Begriffe.Nebengeordnete Begriffe (auch: koordinierte Begriffe) sind einander ausschließende Begriffe, die einem gemeinsamen Oberbegriff untergeordnet sind, d. h. ein Merkmal des gemeinsamen Oberbegriffs besitzen.
+
+Beispiel 1: Portugiese – Deutscher (Oberbegriff: Europäer)
+Beispiel 2: Katze – Hund (Oberbegriff: Haustier)In der Sprachwissenschaft spricht man statt von koordinierten Begriffen synonym auch von Kohyponymen.Zwei sich ausschließende Begriffe A und B sind komplementär (es besteht die Beziehung des Komplements, eine Komplementär-Relation), wenn die Extension von A die Komplementmenge der Extension von B ist, d. h. der gesamte (Diskussions-)Bereich (universe of discourse) fällt entweder unter den Begriff A oder B.
+
+Beispiel 1: Mensch – Nichtmensch (Bereich: Lebewesen)
+Beispiel 2: Amerikaner – Nichtamerikaner (Bereich: Menschen)Mehrere sich gegenseitig ausschließende Begriffe, deren Extensionen einen gesamten Bereich abdecken, stellen eine Klassifikation oder (methodengerechte) Einteilung dar.
+
+Beispiel 1: Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag (Bereich: Werktage)
+Beispiel 2: Morgen | Vormittag | Mittag | Nachmittag | Abend | Nacht (Bereich: Tag)Ihrem Umfang nach einander ausschließende Begriffe sind disparat, wenn sie keinen gemeinsamen nahestehenden Oberbegriff haben, mit anderen Worten: nichts gemeinsam haben und völlig verschiedenen Ordnungen angehören.
+
+Beispiel 1: Viereck – Elefant
+Beispiel 2: Seele – MondDie begriffliche Disparität ist der Normalfall.Begriffe sind miteinander vereinbar (auch: schließen sich gegenseitig nicht aus, sind interferierend), wenn es Gegenstände gibt, die der Extension sowohl des einen wie des anderen Begriffs angehören.Das Verhältnis der Extensionen zweier vereinbarer Begriffe A und B kann unterschiedlich sein:
+
+die Extensionen der Begriffe A und B sind identisch (auch: Äquipollenz, Äquivalenz);
+die Extension des Begriffs A ist als echte Teilmenge in der Extension des Begriffs B enthalten (Über- und Unterordnung);
+die Extension des Begriffs A ist (nur) teilweise mit der Extension des Begriffs B identisch (interferierende Begriffe (im engeren Sinn)).Die Begriffe A und B sind extensional identisch (traditionell: umfangsgleich), wenn alle Elemente der Extension des Begriffs A auch Elemente der Extension des Begriffs B sind – und umgekehrt. Man spricht in diesem Fall auch von der Äquipollenz oder von der Äquivalenz der Begriffe.
+
+Beispiel 1 (klassisch): Lebewesen mit Herz – Lebewesen mit Niere
+Beispiel 2 (klassisch (Frege)): Abendstern – Morgenstern (= Venus)Wie die Beispiele zeigen, ist der Sonderfall nur extensionaler Identität bei intensionaler Verschiedenheit vom Fall der Synonymie abzugrenzen, der intensionale Identität (oder schwächer: zumindest intensionale Ähnlichkeit) voraussetzt, die extensionale Identität impliziert.
+Der Fall gleichzeitiger intensionaler Identität und extensionaler Verschiedenheit ist nicht möglich.Ist die Extension des Begriffs A eine echte Teilmenge der Extension des Begriffs B – d. h. sind alle Elemente der Extension des Begriffs A auch Elemente der Extension des Begriffs B und befinden sich in der Extension des Begriffs B noch weitere Elemente – spricht man von subordinierten Begriffen bzw. vom Verhältnis der Über- und Unterordnung oder nur von Unterordnung. Die Begriffe nennt man Unterbegriffe bzw. Oberbegriffe – oder auch untergeordnete (Teil-)Kategorie bzw. übergeordnete Kategorie.
+
+Beispiel 1: Maus – Säugetier
+Beispiel 2: Tulpe – PflanzeIn der Terminologie der traditionellen Logik wird ein subordinierter Begriff auch als Artbegriff des übergeordneten Gattungsbegriffs bezeichnet. Es müssen jedoch noch zwei Zusatzbedingungen erfüllt sein: die mindestens zwei Artbegriffe müssen den Umfang der Gattung erschöpfen und disjunkt sein.Die Theorie des Art- und Gattungsbegriffs spielt eine wichtige Rolle in der klassischen Definitionslehre.
+Artbegriffe werden in der traditionellen Logik konträr genannt, wenn ihre Extensionen nicht die gesamte Extension des Gattungsbegriffs erschöpfen.
+Als unvereinbare Begriffe können sie dann nicht zugleich der Fall sein, jedoch zugleich nicht der Fall sein (vgl. konträrer Gegensatz). Konträre Artbegriffe sind unvereinbare koordinierte Begriffe (siehe oben).
+Artbegriffe werden in der traditionellen Logik kontradiktorisch genannt, wenn ein Gattungsbegriff nur zwei Artbegriffe hat, also die Extensionen der Artbegriffe die Extension des Gattungsbegriffs erschöpfen. Kontradiktorische Artbegriffe sind unvereinbare komplementäre Begriffe (siehe oben).
+In der Sprachwissenschaft spricht man im Fall echter extensionaler Teilmengen synonym von Hyponymie (Unterordnung) bzw. Hyperonymie (Überordnung) und bezüglich der Begriffe ("Wörter") von Hyponym bzw. Hyperonym.
+Versteht man unter Kategorie im weiteren Sinn einen Oberbegriff, kann man die Unterordnung zu einem Oberbegriff auch Kategorisierung nennen. Es besteht in der Regel keine eineindeutige Beziehung zwischen Unter- und Oberbegriff, so dass verschiedene Kategorisierungen möglich sind.
+
+Beispiel 1: Hund – Fleischfresser
+Beispiel 2: Hund – HaustierDurch Über- und Unterordnung entstehen hierarchisch verknüpfte Kategorien, die man Taxonomien nennt.Miteinander vereinbare Begriffe werden auch interferierende (sich gegenseitig überschneidende) Begriffe genannt. Will man die Sonderfälle der extensionalen Identität oder Über- und Unterordnung ausschließen, empfiehlt es sich, von interferierenden Begriffen im engeren Sinn zu sprechen (auch: nicht-subordinierte Begriffe).
+
+Beispiel 1: Nonne – Krankenschwester
+Beispiel 2: Fleischfresser – Blume

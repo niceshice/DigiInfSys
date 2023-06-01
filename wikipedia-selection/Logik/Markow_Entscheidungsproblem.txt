@@ -1,0 +1,216 @@
+Bei dem Markow-Entscheidungsproblem (MEP, auch Markow-Entscheidungsprozess oder MDP für Markov decision process) handelt es sich um ein nach dem russischen Mathematiker Andrei Andrejewitsch Markow benanntes Modell von Entscheidungsproblemen, bei denen der Nutzen eines Agenten von einer Folge von Entscheidungen abhängig ist. Bei den Zustandsübergängen gilt dabei die Markow-Annahme, d. h. die Wahrscheinlichkeit einen Zustand 
+  
+    
+      
+        
+          s
+          ′
+        
+      
+    
+    {\displaystyle s'}
+   von Zustand 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   aus zu erreichen, ist nur von 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   abhängig und nicht von Vorgängern von 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  .Ein MEP ist ein Tupel 
+  
+    
+      
+        (
+        S
+        ,
+        A
+        ,
+        T
+        ,
+        r
+        ,
+        
+          p
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle (S,A,T,r,p_{0})}
+  , wobei
+
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   eine Menge von Zuständen,
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   eine Menge von Aktionen,
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   das Aktionsmodell (auch Transitionswahrscheinlichkeit) 
+  
+    
+      
+        T
+        :
+        S
+        ×
+        A
+        ×
+        S
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle T\colon S\times A\times S\rightarrow [0,1]}
+   ist, so dass 
+  
+    
+      
+        T
+        (
+        s
+        ,
+        a
+        ,
+        
+          s
+          ′
+        
+        )
+        =
+        p
+        (
+        
+          s
+          ′
+        
+        
+          |
+        
+        s
+        ,
+        a
+        )
+      
+    
+    {\displaystyle T(s,a,s')=p(s'|s,a)}
+   die Wahrscheinlichkeit ist von Zustand 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   und Ausführung von Aktion 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in den Zustand 
+  
+    
+      
+        
+          s
+          ′
+        
+      
+    
+    {\displaystyle s'}
+   zu gelangen.
+
+  
+    
+      
+        r
+        :
+        S
+        ×
+        A
+        ×
+        S
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle r\colon S\times A\times S\rightarrow \mathbb {R} }
+   die Belohnungsfunktion ist, die jedem Übergang vom letzten zum aktuellen Zustand eine Belohnung zuordnet und
+
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        :
+        S
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle p_{0}\colon S\rightarrow \mathbb {R} }
+   die Startverteilung ist, die zu jedem Zustand angibt, wie wahrscheinlich es ist, in diesem Zustand zu starten.Ein MEP liegt vor, wenn ein Roboter durch ein Labyrinth zu einem Ziel navigieren muss. Dabei ist die Menge der Zustände die Menge der Positionen des Roboters und die Aktionen sind die möglichen Richtungen, in die sich der Roboter bewegen kann.Die Lösung eines MEP ist eine Funktion 
+  
+    
+      
+        π
+        :
+        S
+        →
+        A
+      
+    
+    {\displaystyle \pi \colon S\rightarrow A}
+  , die zu jedem Zustand die Aktion ausgibt, die den Gewinn über die Zeit maximiert. Bekannte Lösungsverfahren sind unter anderem das Value-Iteration-Verfahren und Bestärkendes Lernen.

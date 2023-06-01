@@ -1,0 +1,856 @@
+Eine Interpretation (von lateinisch interpretatio  ‚Auslegung, Erklärung, Deutung‘) im Sinn der Modelltheorie ist eine Struktur, die auf eine logische Formel bezogen wird. Unter der Interpretation kann die Formel dann wahr oder falsch sein.
+Eine Interpretation, unter der eine Formel wahr ist, heißt Modell der Formel. Falls sie in jeder möglichen Interpretation wahr ist, nennt man sie allgemeingültig.Folgende Aspekte der Interpretation können unterschieden werden:
+
+Interpretationen der Symbole (Signatur) einer formalen (logischen) Sprache,
+Interpretationen einer Menge von Aussagen (Axiomen) über dieser Sprache,
+Interpretationen von Formeln mit Variablen über dieser Sprache.Die Gesamtheit der zu interpretierenden Symbole hängt von der Sprache ab.
+Speziell im Sinn der Prädikatenlogik erster Stufe kann die Sprache Konstanten-, Relations- und Funktionssymbole enthalten, wie die Konstantensymbole 0 und 1, das (zweistellige) Relationssymbol < und das (zweistellige) Funktionssymbol +.
+Ohne eine Interpretation sind dies sinnleere Zeichen; eine Interpretation definiert, für welchen Wert aus welcher Gesamtmenge eine Konstante steht, wann eine Relation gilt und wie die Funktion Werte abbildet.
+Somit besteht eine Interpretation aus einem Wertebereich (auch Universum, Domäne, Wertemenge, Individuenmenge, Individuenbereich, Träger oder Gegenstandsbereich genannt) und Interpretationen der Konstanten-, Relations- und Funktionssymbole über diesem Universum.  Variablen stehen für nicht festgelegte Werte aus dem Universum. (Statt Relationssymbol wird auch der Begriff Prädikat verwendet.)
+Man beachte, dass der Wertebereich (das Universum) Teil der Interpretation ist; daher können zwei Interpretationen unterschiedlich sein, auch wenn sie sich in der Interpretation der Konstanten-, Relations- und Funktionssymbole nicht unterscheiden. (Beispielsweise, wenn eine Interpretation eine Erweiterung der anderen ist).
+Je nach Interpretation ergibt sich eine unterschiedliche Struktur; Aussagen in der Sprache können nur die in der Struktur enthaltenen Elemente und Beziehungen betreffen.Die Definition der Interpretation bestimmt unmittelbar den Wahrheitswert atomarer Aussagen. Der Wahrheitswert einer zusammengesetzten Aussage über einer Struktur (Interpretation) lässt sich aus dem Wahrheitswert der atomaren Ausdrücke mittels Wahrheitstabellen ableiten.
+Ist eine Menge von Aussagen (ein Axiomensystem) gegeben, ist in der Regel eine Interpretation gesucht, die alle diese Axiome gleichzeitig erfüllt, d. h. wahr macht. Die Axiome des Systems werden dann zu wahren Aussagen über das Universum, in dem das System interpretiert werden soll. Eine solche Struktur nennt man ein Modell des Axiomensystems. Im Allgemeinen hat ein Axiomensystem mehrere Modelle.
+Beispiele:
+
+Die Aussage „Jeder hat eine Mutter“ gilt, wenn wir als Universum alle Menschen annehmen, die je gelebt haben, aber nicht, wenn das Universum nur alle lebenden Menschen umfasst.
+Die Aussage 
+  
+    
+      
+        ∀
+        x
+        ∃
+        y
+        :
+        y
+        =
+        x
+        +
+        1
+      
+    
+    {\displaystyle \forall x\exists y\colon y=x+1}
+   hat mehrere Modelle, z. B. die natürlichen, die ganzen und die reellen Zahlen mit der Standard-Addition, aber auch die Menge der Zeichenfolgen, wenn die Funktion + als Konkatenation interpretiert wird und die Konstante 1 als Ziffer.Die Umformungsregeln des  formalen Systems werden damit zu Regeln über die Gewinnung beziehungsweise Umwandlung von Aussagen oder Ausdrücken über das betreffende Sachgebiet.Sobald freie Variablen in einer logischen Formel auftauchen, hängt der Wahrheitswert davon ab, welche Werte man für die Variablen einsetzt. Von einer Interpretation im engeren Sinn werden Variablen (im Gegensatz zu Konstanten) nicht mit Werten belegt. Damit Aussagen überprüfbar sind, muss eine Belegung der Variablen hinzukommen.
+Manchmal spricht man aber auch von einer Interpretation einer Formel, wenn man genaugenommen eine Kombination aus Interpretation und Belegung meint.
+In der theoretischen Informatik werden Aussagen mit freien Variablen oft als „Constraints“ (englisch constraint  ‚Einschränkung‘) über diesen Variablen bezeichnet; in diesen Kontexten ist die Interpretation (Semantik) der Symbole meist gegeben. Dann wird eine Variablenbelegung oder „Interpretation“ gesucht, die zu den Constraints passt,das heißt diese simultan erfüllt.
+Beispiele:
+
+x ist kleiner als y, x + y = 3. (Eine mögliche Lösung ist x = 1, y = 2; je nach Universum auch x = 0, y = 3.)
+x ist oberhalb von y, y ist rechts von z, z ist oberhalb von x. (Diese Constraintmenge ist nicht erfüllbar.)Eine Belegung, die alle Constraints erfüllt, wird oft als Modell bezeichnet (siehe Constraint-Satisfaction-Problem).Eine solche Interpretation bezieht sich immer auf ein zugrunde gelegtes Universum. Durch die Zuordnung von Konstanten und Funktionen des Axiomensystems zu Individuen aus dem Universum, von Prädikaten zu Eigenschaften von bzw. Beziehungen zwischen diesen Individuen, erhalten Formeln eine Bedeutung (Semantik). Dadurch kann man über die Struktur Aussagen treffen.
+Ein abstraktes Axiomensystem, das keine einzige Interpretation zulässt, ist im Allgemeinen wertlos, und die Beschäftigung damit hat nur den Charakter einer Zeichenspielerei. Von besonderem Interesse sind Systeme, die mehrere Interpretationen zulassen, wie etwa die Boolesche Algebra:
+Deren Signatur 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+   enthält die Konstantensymbole 0 und 1, die zweistelligen Funktionssymbole 
+  
+    
+      
+        ∨
+        ,
+        ∧
+      
+    
+    {\displaystyle \vee ,\wedge }
+   und das einstellige Funktionssymbol 
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \neg }
+  . Sie können beispielsweise als Teilmengen einer Menge interpretiert werden oder als logische Wahrheitswerte oder als Zahlen des Einheitsintervalls 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle [0,1]}
+  , und je nachdem bezeichnet 0 beispielsweise die leere Menge, den Wert 
+  
+    
+      
+        
+          f
+          a
+          l
+          s
+          c
+          h
+        
+      
+    
+    {\displaystyle \mathrm {falsch} }
+   oder die Zahl 0.
+Hat ein Axiomensystem Interpretationen in zwei verschiedenen Gebieten 
+  
+    
+      
+        
+          G
+          
+            1
+          
+        
+      
+    
+    {\displaystyle G_{1}}
+   und 
+  
+    
+      
+        
+          G
+          
+            2
+          
+        
+      
+    
+    {\displaystyle G_{2}}
+  , so lassen sich Untersuchungen von 
+  
+    
+      
+        
+          G
+          
+            2
+          
+        
+      
+    
+    {\displaystyle G_{2}}
+   durch solche des anderen Gebiets und Uminterpretation der Ergebnisse ersetzen.Interpretation einer Sprache der Logik erster Stufe:
+Sei 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+   die Signatur einer Sprache. Formal besteht eine 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  -Interpretation 
+  
+    
+      
+        
+          
+            I
+          
+        
+      
+    
+    {\displaystyle {\mathcal {I}}}
+   im Sinn der Logik erster Stufe aus einer nichtleeren Menge 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   (Domäne, auch Universum, Wertemenge, Individuenbereich genannt), und Zuordnungen für Konstanten-, Funktionen- und Relationssymbole:
+
+Jedem Konstantensymbol 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   wird ein Wert  
+  
+    
+      
+        
+          c
+          
+            
+              I
+            
+          
+        
+        ∈
+        U
+      
+    
+    {\displaystyle c^{\mathcal {I}}\in U}
+   zugewiesen,
+jedem 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stelligen Funktionssymbol 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   eine Funktion 
+  
+    
+      
+        
+          f
+          
+            
+              I
+            
+          
+        
+        :
+        
+          U
+          
+            k
+          
+        
+        →
+        U
+      
+    
+    {\displaystyle f^{\mathcal {I}}\colon U^{k}\to U}
+  
+und jedem 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stelligen Relationssymbol 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   wird eine Funktion 
+  
+    
+      
+        
+          R
+          
+            
+              I
+            
+          
+        
+        :
+        
+          U
+          
+            k
+          
+        
+        →
+        {
+        
+          
+            wahr, falsch
+          
+        
+        }
+      
+    
+    {\displaystyle R^{\mathcal {I}}\colon U^{k}\to \{{\mbox{wahr, falsch}}\}}
+   zugewiesen. Manchmal findet man auch die Formulierung, dass jedem 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stelligen Relationssymbol 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   eine Teilmenge 
+  
+    
+      
+        
+          R
+          
+            
+              I
+            
+          
+        
+        ⊆
+        
+          U
+          
+            k
+          
+        
+      
+    
+    {\displaystyle R^{\mathcal {I}}\subseteq U^{k}}
+   zugeordnet wird. Letzteres ist so zu verstehen, dass genau dann 
+  
+    
+      
+        
+          R
+          
+            
+              I
+            
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            k
+          
+        
+        )
+        =
+        
+          
+            wahr
+          
+        
+      
+    
+    {\displaystyle R^{\mathcal {I}}(x_{1},\ldots ,x_{k})={\mbox{wahr}}}
+   gilt, wenn 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            k
+          
+        
+        )
+        ∈
+        
+          R
+          
+            
+              I
+            
+          
+        
+      
+    
+    {\displaystyle (x_{1},\ldots ,x_{k})\in R^{\mathcal {I}}}
+   vorliegt.Dadurch wird eine 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  -Struktur 
+  
+    
+      
+        
+          
+            A
+          
+        
+        =
+        (
+        U
+        ;
+        
+          c
+          
+            1
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            1
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          R
+          
+            1
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        .
+        .
+        .
+        )
+      
+    
+    {\displaystyle {\mathcal {A}}=(U;c_{1}^{\mathcal {I}},c_{2}^{\mathcal {I}},...,f_{1}^{\mathcal {I}},...,R_{1}^{\mathcal {I}},...)}
+   definiert. In ihr sind die Wahrheitswerte für alle Aussagen ableitbar.
+Beispiele:
+
+Die atomare Aussage 
+  
+    
+      
+        
+          
+            A
+          
+        
+        ⊨
+        
+          c
+          
+            1
+          
+        
+        =
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}\models c_{1}=c_{2}}
+   gilt genau dann, wenn 
+  
+    
+      
+        
+          c
+          
+            1
+          
+        
+      
+    
+    {\displaystyle c_{1}}
+    durch denselben Wert interpretiert wird wie 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c_{2}}
+  .
+Die atomare Aussage 
+  
+    
+      
+        
+          
+            A
+          
+        
+        ⊨
+        R
+        (
+        c
+        ,
+        f
+        (
+        c
+        )
+        )
+      
+    
+    {\displaystyle {\mathcal {A}}\models R(c,f(c))}
+   gilt genau dann, wenn 
+  
+    
+      
+        
+          f
+          
+            
+              I
+            
+          
+        
+      
+    
+    {\displaystyle f^{\mathcal {I}}}
+   den Wert 
+  
+    
+      
+        
+          c
+          
+            
+              I
+            
+          
+        
+      
+    
+    {\displaystyle c^{\mathcal {I}}}
+   auf einen abbildet, der mit ihm in der Relation 
+  
+    
+      
+        
+          R
+          
+            
+              I
+            
+          
+        
+      
+    
+    {\displaystyle R^{\mathcal {I}}}
+   steht. Wird über den ganzen Zahlen beispielsweise 
+  
+    
+      
+        
+          f
+          
+            
+              I
+            
+          
+        
+      
+    
+    {\displaystyle f^{\mathcal {I}}}
+   als Verdopplungsfunktion interpretiert und 
+  
+    
+      
+        
+          R
+          
+            
+              I
+            
+          
+        
+      
+    
+    {\displaystyle R^{\mathcal {I}}}
+   als Relation 
+  
+    
+      
+        ≤
+      
+    
+    {\displaystyle \leq }
+  , so gilt diese Aussage für 
+  
+    
+      
+        
+          c
+          
+            
+              I
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle c^{\mathcal {I}}=1}
+   und 
+  
+    
+      
+        
+          c
+          
+            
+              I
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle c^{\mathcal {I}}=0}
+  , aber nicht für 
+  
+    
+      
+        
+          c
+          
+            
+              I
+            
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle c^{\mathcal {I}}=-1}
+  .Mit den Junktoren 
+  
+    
+      
+        ¬
+        ,
+        ∧
+        ,
+        ∨
+        ,
+        →
+        ,
+        ↔
+      
+    
+    {\displaystyle \neg ,\wedge ,\vee ,\rightarrow ,\leftrightarrow }
+   zusammengesetzte Aussagen werden gemäß der Wahrheitstabellen aus diesen abgeleitet. Für die Ableitung der Wahrheitswerte bei Quantorenausdrücken muss die Gültigkeit der Formelausdrücke unter möglichen Belegungen der Variablen ausgewertet werden.
+Die Interpretation (im weiteren Sinn) für eine Formel 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   mit freien Variablen ist ein Paar 
+  
+    
+      
+        
+          
+            I
+          
+        
+        =
+        (
+        
+          
+            A
+          
+        
+        ,
+        β
+        )
+      
+    
+    {\displaystyle {\mathcal {I}}=({\mathcal {A}},\beta )}
+   bestehend aus einer Struktur 
+  
+    
+      
+        
+          
+            A
+          
+        
+        =
+        (
+        U
+        ;
+        
+          c
+          
+            1
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            1
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          R
+          
+            1
+          
+          
+            
+              I
+            
+          
+        
+        ,
+        .
+        .
+        .
+        )
+      
+    
+    {\displaystyle {\mathcal {A}}=(U;c_{1}^{\mathcal {I}},c_{2}^{\mathcal {I}},...,f_{1}^{\mathcal {I}},...,R_{1}^{\mathcal {I}},...)}
+   und einer Belegung 
+  
+    
+      
+        β
+        :
+        V
+        a
+        r
+        (
+        φ
+        )
+        →
+        U
+      
+    
+    {\displaystyle \beta \colon Var(\varphi )\rightarrow U}
+  , die allen Variablen aus 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   einen Wert des Universums zuordnet.

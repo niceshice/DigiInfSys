@@ -1,0 +1,100 @@
+Das Forward-Darlehen ist im Bankwesen der Anglizismus für ein Darlehen oder einen Kredit, die mit einem Forward kombiniert werden. Pendant ist ein Forward-Deposit.Der Forward ist ein Zinsderivat, dessen Kombination mit einem Kredit ein strukturiertes Finanzprodukt entstehen lässt. Forward-Darlehen gehören zum Kreditgeschäft der Kreditinstitute und dienen dem Kreditnehmer als Sicherungsgeschäft zur Absicherung gegen Zinsänderungsrisiken. Beteiligte sind der Kreditnehmer und das den Kredit gewährende Kreditinstitut als Kreditgeber. Der Kredit ist der Basiswert.
+Das Forward-Darlehen entstand während eines Niedrigzinsniveaus, um sich das niedrige Zinsniveau für den künftigen Kreditbedarf zu sichern.Forward-Kredite werden abgeschlossen, wenn sich Kreditnehmer frühzeitig einen Kreditzins sichern wollen, weil sie erwarten, dass das Zinsniveau bis zum späteren Abschluss des Kreditvertrages steigen könnte. Der Kredit kann eine Laufzeit von einem Jahr bis zu zehn Jahren haben, der Forward wird dagegen nur mit einer Laufzeit bis maximal drei Jahren abgeschlossen. Der Forward (einschließlich Laufzeit und Kreditzins) wird bereits abgeschlossen, wenn der Kreditnehmer noch nicht über den Kredit verfügen muss, den er erst später aufzunehmen beabsichtigt. Durch den Forward sichert er sich frühzeitig einen Festzins für den späteren Kredit. Diese Zinssicherheit muss er in Form eines Ausübungspreises bezahlen, der als Aufschlag (Agio) dem vereinbarten Kreditzins zugeschlagen wird. Zum Ausübungszeitpunkt erhält er von der Bank den Kreditbetrag, der ihr mit dem fest vereinbarten Forward-Zins verzinst wird, unabhängig davon, wie sich inzwischen der aktuelle Marktzins entwickelt hat.
+Hierin liegt der einzige wirtschaftliche Nachteil des Forward-Darlehens. Der aktuelle Marktzins könnte unerwartet unter den vereinbarten Forward-Zins sinken, was dem Kreditnehmer nicht zugutekommen wird. Nimmt der Kreditnehmer das Forward-Darlehen aufgrund dessen nicht auf, verlangt die Bank einen Schadensersatz in Form der Nichtabnahmeentschädigung. Rechtlicher Nachteil ist vor allem die Einschränkung der Kündigung eines Forward-Darlehensvertrages.Der Wert 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   des Forwards mit Fälligkeitszeitpunkt 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   und Ausübungspreis 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   bestimmt sich aus Sicht des Kreditinstituts nach folgender Formel:
+
+  
+    
+      
+        W
+        =
+        (
+        F
+        −
+        K
+        )
+        
+          
+            1
+            
+              (
+              1
+              +
+              
+                z
+                
+                  T
+                
+              
+              
+                )
+                
+                  T
+                  −
+                  
+                    t
+                    
+                      0
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle W=(F-K){\frac {1}{(1+z_{T})^{T-t_{0}}}}}
+  ,wobei 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   der faire Terminpreis ist. Der Wert ist also die auf den aktuellen Zeitpunkt aufgezinste Differenz zwischen vereinbartem Ausübungspreis 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   und aktuellem fairen Terminpreis 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  .
+Vereinzelt wird zwischen einem echten und einem unechten Forward-Darlehen unterschieden. Bei einem echten Forward-Darlehen beginnt die Zinsbindungsfrist erst mit dem Tag der Auszahlung des Darlehens, während bei einem unechten Forward-Darlehen die Zinsbindungsfrist sofort beginnt.Entwickelt wurde das Forward-Darlehen im Jahr 1996 von der Dr. Klein & Co. AG für die Finanzierung von kommunalen und gemeinnützigen Wohnungsunternehmen. Für Verbraucher gab es im Jahr 1998 erste Angebote. Besondere Bedeutung hat das Forward-Darlehen heute in der Baufinanzierung und der Immobilienfinanzierung, wo es auch als Annuitätendarlehen erst nach einer bestimmten Vorlaufzeit – bis zu sechzig Monate nach Vertragsabschluss – ausgezahlt wird. Während der Forward-Periode fallen für das Darlehen keine Kredit- oder Bereitstellungszinsen an. Einer Untersuchung der Stiftung Warentest zufolge beträgt der Zinsaufschlag für ein Forward-Darlehen mit einer zehnjährigen Zinsbindung bei einer Forward-Periode von drei Jahren durchschnittlich 0,58 Prozentpunkte (Stand 2015) gegenüber einem Darlehen mit sofortiger Auszahlung. Die Höhe des jeweiligen Zinsaufschlages ist abhängig von der Dauer der Forward-Periode und der jeweils aktuellen Zinsstruktur.
+Die häufigste Anwendung finden Forward-Darlehen bei Anschlussfinanzierungen.
+
+
+== Einzelnachweise ==

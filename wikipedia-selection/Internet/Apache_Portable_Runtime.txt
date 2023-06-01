@@ -1,0 +1,13 @@
+Apache Portable Runtime (APR) ist ein freie Programmbibliothek der Apache Software Foundation. Es ist die Weiterentwicklung einzelner Verallgemeinerungsfunktionen aus einer älteren Version des Apache HTTP Servers: Dieser Webserver läuft unter verschiedenen Betriebssystemen (unter anderem Linux und andere Unix-Varianten, Windows und NetWare).
+Diese Systeme bieten für identische Aufgaben leicht unterschiedliche Schnittstellen. Zur Vereinheitlichung behalf man sich in früheren Versionen von Apache auf Nicht-Unix-Plattformen mit einer POSIX-Emulationsschicht. Da dies auf Kosten von Stabilität und Geschwindigkeit geht, gingen die Entwickler bei der Apache-Version 2.0 einen neuen Weg: Die APR wird für jede Plattform separat aufgesetzt und stellt nach außen Funktionen mit identischem Verhalten zur Verfügung. Auf diese Weise verallgemeinert (abstrahiert) sie bestimmte Basisfunktionen, die der Webserver benötigt, ohne die individuellen Stärken der einzelnen Systeme auszubremsen.
+Die Apache Portable Runtime stellt unter anderem Funktionen aus folgenden Aufgabengebieten bereit:
+
+Dateizugriffe
+Netzwerk-Sockets
+Speicherverwaltung
+Datums- und Uhrzeitfunktionen
+Text- und Zeichenkettenbehandlung
+Angleichung von Datei- und Pfadnamen in ein dateisystemunabhängiges Format
+Zufallsgenerator
+Thread- und Prozessverwaltung
+Laden dynamischer BibliothekenDa die APR die Programmierung plattformunabhängiger Netzwerkanwendungen stark vereinfacht, machen inzwischen auch andere Projekte der Apache Software Foundation und andere Anbieter Gebrauch von ihr, zum Beispiel Apache Flood, JXTA-C, einige Tomcat-Module oder das Versionskontrollsystem Subversion.

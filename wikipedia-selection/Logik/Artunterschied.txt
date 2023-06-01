@@ -1,0 +1,8 @@
+Der Artunterschied (lat. differentia specifica) ist der Begriff/Name, der den Unterschied zwischen Oberbegriff und Unterbegriff bezeichnet. In einer klassischen Definition, die ein Definiendum (den zu erklärenden Begriff) und ein Definiens (den ihn erklärenden Begriff) beinhaltet, besteht das Definiens (der [den zu erklärenden Begriff] erklärende Begriff) aus dem Oberbegriff (auch Gattungsbegriff) und dem „Artunterschied“. 
+Statt von Artunterschied spricht man auch von Differenz/Unterschied/Merkmal, die spezifisch/artbildend sind.
+Ein (nächster) Gattungsbegriff (lat. genus proximum) zusammen mit einem Artunterschied ergibt eine Art.
+Beispiel: In der Definition „das Thermometer ist ein physikalisches Gerät, das zur Temperaturmessung dient“ bezeichnen die Wörter „das zur Temperaturmessung dient“ den Artunterschied, d. h. jenes Merkmal, das das Thermometer von anderen Gegenständen derselben Gattung, nämlich anderen physikalischen Geräten unterscheidet.
+
+Genus proximum et differentia specifica
+Definition
+Prädikabilien

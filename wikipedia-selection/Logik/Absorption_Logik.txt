@@ -1,0 +1,370 @@
+Das Absorptionsgesetz der Aussagenlogik besagt, dass eine Aussage absorbiert wird, d. h., dass ihre Belegung für die Auswertung der Gesamtformel irrelevant ist, wenn sie hintereinander konjunktiv und disjunktiv mit einer anderen Aussage verknüpft wird, wobei die Reihenfolge der Verknüpfungen keine Rolle spielt.Die Wahrheitswertentwicklung von Aussageformen, die die Aussagen a und b direkt aufeinanderfolgend konjunktiv und disjunktiv oder disjunktiv und konjunktiv verknüpfen, entspricht also dem Wahrheitswert von a.
+
+  
+    
+      
+        a
+        ∨
+        (
+        a
+        ∧
+        b
+        )
+        =
+        a
+      
+    
+    {\displaystyle a\lor (a\land b)=a}
+   und 
+  
+    
+      
+        a
+        ∧
+        (
+        a
+        ∨
+        b
+        )
+        =
+        a
+      
+    
+    {\displaystyle a\land (a\lor b)=a}
+  
+In Worten: Die Konjunktion 
+  
+    
+      
+        (
+        a
+        ∧
+        b
+        )
+      
+    
+    {\displaystyle (a\land b)}
+   kann nur wahr sein, wenn a wahr ist. Dann ist aber auch jede Disjunktion mit a wahr, unabhängig von b. Umgekehrt kann die Disjunktion nur dann falsch sein, wenn a falsch ist. Somit ist dann auch die Konjunktion 
+  
+    
+      
+        (
+        a
+        ∧
+        b
+        )
+      
+    
+    {\displaystyle (a\land b)}
+   falsch und damit der gesamte Ausdruck unabhängig von b. Analog bei vertauschten Junktoren. Der Beweis erfolgt über Wahrheitstafeln:
+
+Anschaulich ist auch die mengentheoretische Formulierung:
+
+  
+    
+      
+        A
+        ∪
+        
+          (
+          
+            A
+            ∩
+            B
+          
+          )
+        
+        =
+        A
+      
+    
+    {\displaystyle A\cup \left(A\cap B\right)=A}
+   und 
+  
+    
+      
+        A
+        ∩
+        
+          (
+          
+            A
+            ∪
+            B
+          
+          )
+        
+        =
+        A
+      
+    
+    {\displaystyle A\cap \left(A\cup B\right)=A}
+   
+Die Menge A vereinigt mit ihrem Schnitt mit B ist die Menge A. Analog ist die Schnittmenge der Menge A mit ihrer Vereinigung mit B wieder die Menge A.Da das Absorptionsgesetz keine Quantoren enthält, entsprechen sich die aussagen- und prädikatenlogischen Formulierungen. Russell und Whitehead formulierten es in ihren Principia mathematica wie folgt:
+
+  
+    
+      
+        (
+        P
+        →
+        Q
+        )
+        ↔
+        (
+        P
+        →
+        (
+        P
+        ∧
+        Q
+        )
+        )
+      
+    
+    {\displaystyle (P\to Q)\leftrightarrow (P\to (P\land Q))}
+  ,wobei 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   und 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   Prädikate eines formalen Systems sind. Das Absorptionsgesetz kann dann als Sequenz (also Beweis) des Sequenzenkalküls formuliert werden:
+
+  
+    
+      
+        P
+        →
+        Q
+        ⊢
+        P
+        →
+        (
+        P
+        ∧
+        Q
+        )
+      
+    
+    {\displaystyle P\to Q\vdash P\to (P\land Q)}
+     bzw. in alternativer Notation: 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+              φ
+              →
+              ψ
+            
+            
+              φ
+              →
+              (
+              φ
+              ∧
+              ψ
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Gamma \,\varphi \to \psi }{\varphi \to (\varphi \land \psi )}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                1.
+              
+              
+                
+              
+              
+                Γ
+                
+                φ
+                →
+                ψ
+              
+              
+                
+              
+              
+                (
+                
+                  Prämisse
+                
+                )
+              
+            
+            
+              
+                2.
+              
+              
+                
+              
+              
+                Γ
+                
+                ¬
+                φ
+                ∨
+                ψ
+              
+              
+                
+              
+              
+                (
+                
+                  Umformung
+                
+                )
+              
+            
+            
+              
+                3.
+              
+              
+                
+              
+              
+                Γ
+                
+                ¬
+                φ
+                ∨
+                φ
+              
+              
+                
+              
+              
+                (
+                
+                  Satz vom ausgeschlossenen Dritten
+                
+                )
+              
+            
+            
+              
+                4.
+              
+              
+                
+              
+              
+                Γ
+                
+                (
+                ¬
+                φ
+                ∨
+                φ
+                )
+                ∧
+                (
+                ¬
+                φ
+                ∨
+                ψ
+                )
+              
+              
+                
+              
+              
+                (
+                
+                  Konjunktion 2. und 3.
+                
+                )
+              
+            
+            
+              
+                5.
+              
+              
+                
+              
+              
+                Γ
+                
+                ¬
+                φ
+                ∨
+                (
+                φ
+                ∧
+                ψ
+                )
+              
+              
+                
+              
+              
+                (
+                
+                  Distributivgesetz
+                
+                )
+              
+            
+            
+              
+                6.
+              
+              
+                
+              
+              
+                Γ
+                
+                φ
+                →
+                (
+                φ
+                ∧
+                ψ
+                )
+              
+              
+                
+              
+              
+                (
+                
+                  Umformung
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{3}1.&\quad &\Gamma \,\varphi \rightarrow \psi &\quad &({\text{Prämisse}})\\2.&\quad &\Gamma \,\neg \varphi \lor \psi &\quad &({\text{Umformung}})\\3.&\quad &\Gamma \,\neg \varphi \lor \varphi &\quad &({\text{Satz vom ausgeschlossenen Dritten}})\\4.&\quad &\Gamma \,(\neg \varphi \lor \varphi )\land (\neg \varphi \lor \psi )&\quad &({\text{Konjunktion 2. und 3.}})\\5.&\quad &\Gamma \,\neg \varphi \lor (\varphi \land \psi )&\quad &({\text{Distributivgesetz}})\\6.&\quad &\Gamma \,\varphi \rightarrow (\varphi \land \psi )&\quad &({\text{Umformung}})\\\end{alignedat}}}

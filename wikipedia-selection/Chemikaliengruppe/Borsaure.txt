@@ -1,0 +1,281 @@
+Borsäure (auch: Orthoborsäure, Acidum boricum), H3BO3, ist die einfachste Sauerstoffsäure des Bors. Ihre Salze heißen Borate.Freie Borsäure findet sich in den Wasserdampfquellen (Fumarolen) Mittelitaliens in der Toskana; aus diesen Quellen lässt sich die Säure durch Eindampfen in glänzende Plättchen gewinnen. Ebenfalls in der Toskana kommt die Borsäure als Mineral Sassolin vor. Große Bedeutung haben aber Alkali- und Erdalkalisalze wie beispielsweise das Mineral Kernit Na2[B4O6 (OH)2] · 3 H2O. Ein ähnliches, selteneres Mineral ist Borax, dieses enthält 8 bzw. 10 Äquivalente Kristallwasser. Jenes wird heutzutage aber überwiegend aus Kernit gewonnen. Durch Behandeln von Borax mit Salzsäure oder Schwefelsäure lässt sich Borsäure freisetzen.Reine Borsäure bildet schuppige, farblos-glänzende Kristalle, die bei schnellem Erhitzen in einem geschlossenen System einen Schmelzpunkt von 171 °C haben. Diese bilden eine Schichtstruktur aus, bei der zwischen den einzelnen Borsäuremolekülen Wasserstoffbrückenbindungen ausgebildet werden. Der Abstand zweier Schichten beträgt 318 Pikometer (pm).
+
+Sie löst sich anfangs nur schwer in Wasser, aber mit steigender Konzentration beschleunigt sich dieser Vorgang. Die Lösung reagiert schwach sauer. Beim Erhitzen der Orthoborsäure spaltet sich Wasser ab, und es entsteht die in mehreren Modifikationen auftretende Metaborsäure HBO2 und schließlich unter weiterer Wasserabspaltung Dibortrioxid (B2O3).
+
+  
+    
+      
+        
+          B
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          ⟶
+           
+          H
+          B
+          
+            O
+            
+              2
+            
+          
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {B(OH)_{3}\longrightarrow \ HBO_{2}+\ H_{2}O} }
+  
+
+  
+    
+      
+        
+          2
+           
+          H
+          B
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          
+            B
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ HBO_{2}\longrightarrow \ B_{2}O_{3}+\ H_{2}O} }
+  Trotz ihrer drei Wasserstoffatome reagiert Borsäure in Wasser wie eine einprotonige Säure und reagiert zum Tetrahydroxoborat-Ion, B(OH)4−. Hierbei verhält sie sich nicht wie eine Brønsted-Säure als Protonendonator, sondern wie eine Lewis-Säure als Elektronenpaarakzeptor unter Bildung eines Adduktes mit einem Hydroxid-Ion:
+
+  
+    
+      
+        
+          B
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇌
+          [
+          B
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          
+            ]
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {B(OH)_{3}+H_{2}O\rightleftharpoons [B(OH)_{4}]^{-}+H^{+}} }
+  Borsäure ist eine sehr schwache Säure (pKs = 9,25). Durch Umsetzung mit mehrwertigen Alkoholen wie zum Beispiel Mannitol kann die Säurestärke erheblich gesteigert werden. Dies ist bedingt durch eine Verschiebung des Gleichgewichtes auf die rechte Seite hin zu einem Tetraoxoborat-Derivat infolge einer Veresterung:
+
+Diese Umsetzung wird zur alkalimetrischen Titration von Borsäure verwendet.Borsäure und ihre Salze, die Borate, bilden mit Methanol und der wasserentziehenden konzentrierten Schwefelsäure den flüchtigen Borsäuretrimethylester, der mit grüner Flamme brennt und zum qualitativen Nachweis dient.
+
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          B
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          
+            H
+            
+              3
+            
+          
+          O
+          H
+          ⇌
+          (
+          C
+          
+            H
+            
+              3
+            
+          
+          
+            )
+            
+              3
+            
+          
+          B
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}BO_{3}+3\ CH_{3}OH\rightleftharpoons (CH_{3})_{3}BO_{3}+3\ H_{2}O} }Borsäure ist ein Zwischenprodukt zur Herstellung von Borosilikatglas, Porzellan, Emaille. Die Weltjahresproduktion von Borsäure beträgt über 2.000.000 Tonnen.
+
+In der Medizin wurde Borsäure als wässrige Lösung (Borwasser) und Salbe (Borsalbe) als mildes Desinfektionsmittel verwendet. Seit dem Rückruf borsäurehaltiger Medikamente 1984 durch das damalige Bundesgesundheitsamt ist Borsäure sowie deren Ester und Salze nur noch für die Pufferung und Isotonisierung von Augentropfen sowie zur Verwendung in homöopathischen Verdünnungen zugelassen.
+3-%ige Borsäurelösung (Borwasser) kann bei Verätzungen durch Laugen verwendet werden. Sie wirkt selbst nicht ätzend und kann Laugen neutralisieren.
+In der Lebensmittelindustrie wird Borsäure als Konservierungsmittel mit der Bezeichnung E 284 verwendet.
+Borsäure wird in Desinfektionsmitteln, als Bleichmittel in Spülmitteln sowie als Fungizid und Insektizid (z. B. zur Bekämpfung von Flöhen und Kakerlaken) verwendet.Im Baubereich werden Borsäure sowie Borax und andere Borate (Borsalze) zum vorbeugenden Holzschutz, in Beizen sowie als Flammschutzmittel und zur Prävention von Schimmel und Schädlingsbefall bei organischen Dämmstoffen eingesetzt. Beispielsweise war bei Zellulosedämmstoffen ein 8%iger Zusatz üblich, der aber aufgrund neuerer Richtlinien auf 5,5 % begrenzt werden muss.In Druckwasser-Kernreaktoren wird gelöste Borsäure als Neutronenabsorber zur Regelung der Kettenreaktion verwendet. Sie beruht auf dem großen Absorptions-Wirkungsquerschnitt des in natürlichem Bor zu 20 % enthaltenen Isotops 10B für thermische Neutronen. Hierbei erfolgt die Kernreaktion
+
+  
+    
+      
+        
+          
+            
+              
+              
+                 
+                5
+              
+              
+                10
+              
+            
+            B
+          
+          +
+          
+            
+              
+              
+                0
+              
+              
+                1
+              
+            
+            n
+          
+          →
+          
+            
+              
+              
+                3
+              
+              
+                7
+              
+            
+            L
+            i
+          
+          +
+          
+            
+              
+              
+                2
+              
+              
+                4
+              
+            
+            H
+            e
+          
+        
+      
+    
+    {\displaystyle \mathrm {{^{10}_{\ 5}B}+{^{1}_{0}n}\rightarrow {^{7}_{3}Li}+{^{4}_{2}He}} }
+  .Borsäure wird zur Berechnung des Kohlenstoffdioxid-Gehaltes in erdgeschichtlichen Zeiten benutzt.
+Wenn sich der pH-Wert ins Alkalische verändert, wandelt sich die Borsäure in Borat, das Salz der Borsäure, um. Dabei kommt es zu einer Isotopenfraktionierung, da 10Bor bevorzugt in das Borat eingebaut wird. Da Foraminiferen (fossile als auch rezente Einzeller) und andere Schalentiere Borat für den Aufbau ihrer Schale benötigen, kann anhand des Isotopen-Verhältnisses festgestellt werden, welcher pH-Wert zu welchem Zeitpunkt der Erdgeschichte in diesem Gebiet vorlag. Da die Schalen solcher Einzeller als auch Muscheln etc. den Hauptteil des marinen Sediments stellen, können von dort einfach Sedimentkerne entnommen und im Labor auf die beiden Bor-Isotope untersucht werden. Solche Ergebnisse korrelieren hervorragend mit den in Eiskernen eingeschlossenen Luftblasen.
+Bei der Verbrennung von Borsäuretrimethylester entsteht eine grüne Flamme, die Borsäureester anderer Alkohole zeigen bei der Verbrennung einen grünen Flammensaum. Diese Eigenschaft wird zur Identifizierung von Methanol genutzt (Schulversuch) und in der Pyrotechnik, um beispielsweise die Flammen von Feuerstäben, Poi oder Feuerschalen zu färben.
+In als Spielzeug verkauftem Slime wurden bis zu 1,3 % Borsäure nachgewiesen. Mit dem Borsäuregehalt steigt die Viskosität der schleimigen Masse. Bei Herstellung ist auf konstant niedrigen Gehalt zu achten, da ab einer täglichen Aufnahme von 0,57 mg/kg Körpergewicht mit einer gesundheitlichen Beeinträchtigung gerechnet werden müsse.Im Juni 2010 wurde Borsäure durch die ECHA auf die Kandidatenliste für SVHC (substance of very high concern) aufgenommen. Nach Inkrafttreten der CLP-Verordnung und der REACH-Änderungs-VO 790/2009/EG wurde Borsäure als reproduktionstoxisch gekennzeichnet. Auch Gemische, die freie Borsäure in einer Konzentration von 5,5 % oder mehr enthalten, sind nach der GHS-Verordnung als reproduktionstoxisch zu kennzeichnen.
+
+
+== Einzelnachweise ==

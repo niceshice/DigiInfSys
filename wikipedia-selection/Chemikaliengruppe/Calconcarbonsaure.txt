@@ -1,0 +1,12 @@
+Die Calconcarbonsäure ist ein Azofarbstoff, der in der analytischen Chemie zur komplexometrischen Bestimmung von Calcium eingesetzt wird. Strukturell nahe verwandt ist der wasserlösliche Farbstoff Eriochromblauschwarz R oder Calcon, der aus der Calconcarbonsäure durch Decarboxylierung und Umsetzung mit Natriumhydroxid zugänglich ist.Calconcarbonsäure ist in Wasser unlöslich, in Ethanol löst sie sich mit violetter Farbe. In Alkalihydroxidlösung löst sie sich unter Salzbildung mit blauer Farbe auf.Calconcarbonsäure bildet mit Calciumionen rote Komplexe. Daher wird sie in der Komplexometrie als calciumspezifischer Indikator eingesetzt. Dazu wird die in Wasser gelöste Probe mit Kali- oder Natronlauge und dem Indikator (z. B. als 0,4%ige Lösung in Methanol) versetzt und mit EDTA bis zur Farbänderung von rotviolett nach blau titriert: Calcium bildet mit EDTA ebenfalls eine Komplexverbindung, die allerdings viel stabiler ist als der Komplex mit Calconcarbonsäure, so dass das Calcium bei Zugabe von EDTA nach und nach in den EDTA-Komplex überführt wird. Die rote Farbe des Calconcarbonsäure-Komplexes verschwindet, wenn alles Calcium als EDTA-Komplex vorliegt. Aus der bis zum Farbumschlag hinzu gegebenen EDTA-Menge lässt sich die Menge des ursprünglich vorhandenen Calciums berechnen.
+Die Kalilauge wird zugesetzt, um Magnesium als Hydroxid zu fällen. Würde sich Magnesium in Lösung befinden, komplexierte das EDTA nicht nur Calcium, sondern stattdessen auch Magnesium. Somit würde man mehr EDTA zugeben müssen, bis alles Calcium komplexiert ist; das Ergebnis wird somit verfälscht.Die Reaktion von Calconcarbonsäure mit Calcium ist nur begrenzt spezifisch. Auch Barium und Strontium bilden rot gefärbte Komplexe.
+Die beiden folgenden Bilder zeigen die vier Erdalkalien (Barium – Strontium – Calcium – Magnesium) getrennt in wässriger Lösung nach Zugabe des Indikators:
+
+im linken Bild mit Kalilauge:
+Die Lösungen mit Barium und Calcium sind rot, mit Strontium tiefrot; Magnesium reagiert nicht mit Calconcarbonsäure, so dass sich deren blaue Farbe zeigt.
+im rechten Bild mit Natriumsulfat und Kalilauge:
+Barium- und Strontiumsulfat haben eine zu geringe Löslichkeit, um mit dem Indikator einen roten Komplex einzugehen. Rot ist nur die Calciumlösung.
+		
+
+
+== Einzelnachweise ==

@@ -1,0 +1,75 @@
+Die Paradoxie des Haufens, auch Sorites-Paradoxie (von griechisch sorós: Haufen), ist ein Phänomen, das bei vagen Begriffen auftritt. Die Paradoxie zeigt sich, wenn versucht wird, etwas als Haufen zu bestimmen: Es lässt sich keine konkrete, nicht willkürlich beschlossene Anzahl von Elementen angeben, aus denen ein Haufen mindestens bestehen müsste, denn der Begriff des Haufens beinhaltet, dass etwas, das ein Haufen ist, auch ein Haufen bleibt, wenn ein Teil seiner Elemente entfernt wird. Kehrt man diesen Gedanken um, so wird es schwierig zu sagen, ab wann eine Ansammlung von Elementen als Haufen gelten kann. Der Begriff „Haufen“, verstanden als Anhäufung gleichartiger Teile, lässt sich anscheinend nicht klar definieren. Auch bei anderen ähnlich gelagerten vagen Prädikaten wird von Sorites-Fällen gesprochen, so z. B. beim Paradox vom Kahlköpfigen.
+Die Formulierung als Haufenparadoxie geht vermutlich auf Eubulides oder auf Zenon von Elea zurück, wie auch eine Reihe weiterer berühmter Paradoxien.Es gibt verschiedene Varianten der Haufenparadoxie, die jedoch alle auf das gleiche Problem hinweisen. Beispielhaft soll hier eine Version mit Sandkörnern vorgestellt werden:
+Wir gehen davon aus, dass 100 Sandkörner ein Haufen sind (Falls dies bestritten wird, kann auch mit einer höheren Zahl begonnen werden). Entscheidend ist die zweite Prämisse (die auch als Axiom zu verstehen ist): Wenn wir von einem Haufen Sand ein Sandkorn entfernen, dann bilden die restlichen Sandkörner weiterhin einen Haufen. Somit lässt sich folgern: Weil 100 Sandkörner ein Haufen sind, sind auch 99 Sandkörner ein Haufen; weil aber 99 Sandkörner ein Haufen sind, sind auch 98 Sandkörner ein Haufen usw. Letztendlich gelangen wir so zu der Aussage, dass bereits ein Sandkorn ein Haufen ist. Das ist eine Aussage, die wir intuitiv nicht akzeptieren wollen.Die Paradoxie lässt sich auch andersherum aufziehen; indem wir nämlich davon ausgehen, dass ein Sandkorn kein Haufen ist und sich durch das Hinzufügen eines Sandkorns kein Sandhaufen nicht in einen Sandhaufen verwandeln lässt. Dann entsteht niemals ein Haufen, auch wenn wir beliebig viele Sandkörner hinzufügen. Das ist ebenfalls kontraintuitiv, da es doch Haufen gibt.
+Die gleiche Paradoxie entsteht auch, wenn wir versuchen Begriffe wie „groß“ und „klein“ z. B. in Bezug auf Körpergrößen zu definieren, oder wenn Farben definiert werden sollen: Sorites-Paradoxien sind eine typische Eigenschaft von allen vagen Prädikaten.
+Die in der Problemstellung verwendete Methode ähnelt der vollständigen Induktion: Die Paradoxie besteht nicht im Ziehen eines einzigen Schlusses, sondern in der Aneinanderreihung von sehr vielen gleichförmigen Schlüssen. Es ergibt sich ein Kettenschluss:‚ Wenn 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Körner ein Haufen sind, dann sind 
+  
+    
+      
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle (n-1)}
+   Körner ein Haufen; 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Körner sind ein Haufen, also… – Wenn 
+  
+    
+      
+        (
+        n
+        −
+        (
+        n
+        −
+        1
+        )
+        )
+      
+    
+    {\displaystyle (n-(n-1))}
+   Körner ein Haufen sind, dann ist 1 Korn ein Haufen; 
+  
+    
+      
+        (
+        n
+        −
+        (
+        n
+        −
+        1
+        )
+        )
+      
+    
+    {\displaystyle (n-(n-1))}
+   Körner sind ein Haufen, also ist 1 Korn ein Haufen.‘ Kettenschlüsse wurden daher in der Tradition ebenfalls als Sorites-Schlüsse bezeichnet. Allerdings ist die Eigenschaft, ein Haufen zu sein, nicht über die einzelnen Körner distribuiert.
+Prinzipiell ließe sich die Konklusion auch einfach akzeptieren: Wir könnten ein Sandkorn bereits als Haufen definieren, da es sich um eine semantische und nicht um eine mathematische Definition handelt. Vom sprachphilosophischen Standpunkt her erscheint das jedoch wenig attraktiv: Hier geht es gerade darum, Begriffe so zu verwenden, dass sie Intuitionen einfangen.
+Eher verbreitet sind Lösungen, die die zweite Prämisse bestreiten. Das hieße, dass wir durch das Wegnehmen eines Sandkornes von einem Haufen manchmal den Haufen als solchen auflösen. Diese Position hat ein schwerwiegendes Problem: Wo genau liegt die Grenze zwischen einem Haufen und einer Anordnung von Sandkörnern, die nicht mehr als Haufen zu bezeichnen ist?Es gibt verschiedene Möglichkeiten, mit dem Problem umzugehen. Zum Einen darf behauptet werden, dass es ein eindeutiges Kriterium gibt, wonach eine Ansammlung von Sandkörnern als Haufen zu bezeichnen ist. Zweitens lässt sich vertreten, dass es einen Übergangsbereich gibt, in dem eine Ansammlung weder als Haufen noch als Nicht-Haufen bezeichnet werden kann. Drittens lässt sich die Problemstellung im Ansatz kritisieren und als Kritik an der Mehrdeutigkeit unserer natürlichen Sprache auffassen.Hier wird behauptet, dass ab einer bestimmten Anzahl von Sandkörnern ein Haufen entsteht. Eine bestimmte Anzahl wird dabei aber so gut wie nie genannt; eine Aussage wie „40 Sandkörner sind ein Haufen, dagegen sind 39 Sandkörner kein Haufen“ wäre wohl auch schwer zu rechtfertigen. Allerdings hatte Gottlob Frege die Hoffnung, dass sich eine solche Zahl doch irgendwie finden ließe:
+
+„Durch eine geistige Arbeit […] gelingt es oft erst, einen Begriff in seiner Reinheit zu erkennen, ihn aus den fremden Umhüllungen herauszuschälen, die ihn dem geistigen Auge verbargen. […] Statt eine besondere Reinheit der Begriffe da zu finden, wo man ihrer Quelle Nahe zu sein glaubt, sieht man alles verschwommen und ungesondert wie durch einen Nebel.“Frege kritisiert in diesem Zusammenhang heftig John Stuart Mill, der den Begriff des Haufens für nicht klar definierbar hielt. Er ist der Meinung, dass die Forschung auch bei der Bestimmung von Begriffen, aufeinander aufbauend, vorankommen kann und diese Begriffe schrittweise enträtseln könne.Anders als Frege ist Timothy Williamson nicht der Meinung, dass sich eine konkrete Grenze jemals finden ließe; dennoch gebe es sie. Auch Farbtöne seien von Menschen nur außerhalb einer „margin for error“ zu unterscheiden; d. h., zwei sehr ähnliche Farbtöne werden von uns als gleich wahrgenommen, auch wenn sie physikalische Unterschiede aufweisen – erst bei etwas größeren Unterschieden zwischen den Farbtönen bemerken auch Menschen Unterschiede. Ähnlich sei es auch bei vagen Begriffen: Soweit ein großer Unterschied bestehe, sind wir in der Lage etwa zwischen „Haufen“ und „Nicht-Haufen“ zu unterscheiden. Bei kleinen Unterschieden wie etwa zwischen 39 und 40 Sandkörnern sei unsere Fähigkeit zur Unterscheidung nicht fein genug, um zu einem Ergebnis zu gelangen. Diese Position wird auch als Epistemizismus bezeichnet.Falls ein exakt bestimmter Umschlagpunkt abgelehnt wird, kann auch behauptet werden, dass bestimmte Ansammlungen weder als Haufen zu bezeichnen sind, noch von ihnen gesagt werden könne, sie seien kein Haufen. Beispielsweise kann behauptet werden, dass die Aussage „40 Sandkörner sind ein Haufen“ weder wahr noch falsch ist, sondern ihr ein anderer Wahrheitswert zukomme. Eine solche Lösung lässt sich mit Hilfe einer mehrwertigen Logik darstellen.
+Ein erster Versuch ist, eine Grauzone oder Penumbra einzuführen. Das ist ein Bereich, der zwischen der positiven und der negativen Extension des Begriffs „Haufen“ liegt. In diesem Bereich kann weder gesagt werden, dass die Ansammlung von Sandkörnern ein Haufen ist, noch, dass sie kein Haufen sei. Diesen Aussagen würde dann im Sinne einer dreiwertigen Logik ein unbestimmter Wahrheitswert zugeordnet. Varianten dieser Lösung können auch mit verschiedenen Zwischenstadien vertreten werden, also zum Beispiel mit einer fünfwertigen Logik oder noch mehr Wahrheitswerten.Wenn jedoch von einer begrenzten Zahl von Wahrheitswerten ausgegangen wird, ergibt sich ein weiteres Problem: Wo liegt die Grenze zwischen einer wahrerweise als Haufen zu bezeichnenden Ansammlung von Sandkörnern und einer Ansammlung, von der man dies weder wahrer- noch falscherweise sagen kann? Diese Grenze zu rechtfertigen, ist kaum leichter als in der klassischen Betrachtung mit zwei Wahrheitswerten. Außerdem lässt sich auch durch Hinzunahme einer begrenzten Zahl weiterer Wahrheitswerte das Problem nicht lösen, sondern nur in immer mehr Graubereiche zergliedern.Schon eher eine Lösung ist die Verwendung der Fuzzylogik, bei der es unendlich viele Wahrheitswerte zwischen „wahr“ und „falsch“ gibt. Dann stellt sich die Frage nach einer exakten Grenze nicht mehr. Die Haufenparadoxie wird häufig als Argument für die Fuzzylogik angeführt, allerdings ist diese Logik wegen ihrer anderen Konsequenzen durchaus umstritten.Es kann angeführt werden, dass die obigen Aussagen mit ihren Folgerungen in einem formalen System getroffen werden und per se nichts mit der realen Welt zu tun haben, die Nachdenklichkeit des Philosophen bleibt dennoch. Die Abtrennung des formalen, primär für die exakte Beschreibung und Schlussfolgerung gedachten, Systems von der realweltlichen Bedeutung ermöglicht es zwar, die Haufen-Paradoxie zu entschärfen, aufgelöst wird sie dadurch nicht. Es wird z. B. vorausgesetzt, dass allein die Anzahl der Sandkörner darüber entscheidet, was ein Sandhaufen ist. Aber selbst 100 Sandkörner, wenn sie in einer Reihe nebeneinander liegen, bilden eben gar keinen Haufen, das heißt, eine bestimmte Anordnung im Raum sowie die Anwesenheit der Gravitationskraft sind notwendig, um etwas herzustellen, was umgangssprachlich u. U. dem Begriff Haufen entspricht.
+Bleibt man innerhalb eines formalen Systems, übernimmt ein Begriffswort lediglich eine symbolische Referenz. Nur der Mensch besitzt die Fähigkeit, einem formalen Gebilde eine weitere realweltliche Referenz zuzuordnen. Dem Symbol Haufen ordnet der Mensch intuitiv eine realweltliche Bedeutung zu, die es innerhalb eines formalen Systems nur dann annehmen kann, wenn dieses die reale Welt umfassend und detailliert abbildet. Das formale System kann dies nicht leisten, wenn die Präzisierung fehlt. Hierin ist das Paradoxon verwurzelt. Tauschte man das Symbol Haufen durch Berg aus, das im formalen Sinn die gleiche Bedeutung annehmen kann, ergäbe sich das gleiche Paradoxon, da der Übergang von „Berg“ zu „Hügel“ ebenfalls über das Wegnehmen von kleinsten Mengen an Material erfolgen kann.
+Wenn man Begriffe unserer Umgangssprache – in diesem Fall Haufen – exakten Methoden mit stringenten Schlussweisen unterwirft, können Scheinprobleme entstehen und ggf. auch falsche Ergebnisse produziert werden. 
+Nach Auffassung der sprachkritischen Philosophie des frühen Ludwig Wittgenstein kann man solche Probleme nur auflösen, indem man sie als Fehlanwendung unserer Sprache analysiert. Umgangssprachliche Begriffe haben einen vagen Umfang und müssen für ihre Verwendung in formalen Systemen, wie sie für Mathematik und Logik charakteristisch sind, in ihrer Bedeutung klar bestimmt sein, also ggf. auch redefiniert werden.
+Eine ideale Definition umgangssprachlicher Begriffe lässt sich mit wissenschaftlichen Vorgaben weder begründen noch durchsetzen. Ihre Bedeutung folgt immer der Zweckmäßigkeit im jeweiligen Verwendungsbereich. 
+Für den späten Ludwig Wittgenstein (Philosophische Untersuchungen) ist die Bedeutung des Wortes sein Sprachgebrauch, in diesem Fall ist sie zweckmäßige Charakterisierung von „Haufen“, und nicht etwa die Bezeichnung von „Nicht-Haufen“, da dieses Wort keine Verwendung als Begriff in der Umgangssprache besitzt. In der Umgangssprache wird der Begriff Haufen überwiegend dann eingesetzt, wenn das Abzählen seiner Elemente unzweckmäßig ist oder für den Sprecher unmöglich erscheint, man denke etwa an Sandhaufen oder Hühnerhaufen. Eine Aufforderung, die Ansammlung abzuzählen, damit der „Nicht-Haufen“ bestimmt werden könne, verletzt aber die Anfangsbedingung, welche das Abzählen ausschließt. Hierin liegt die Spitzfindigkeit des Haufen-Paradoxons.

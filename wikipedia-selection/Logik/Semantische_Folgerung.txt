@@ -1,0 +1,425 @@
+Der Begriff der semantischen Folgerung ist in der Modelltheorie eine Form der Implikation. Aus jeder Semantik, das heißt einem Raum möglicher Interpretationen der Sätze einer formalen, logischen Sprache, ergibt sich ein Begriff semantischer Folgerung. Diese ist so definiert, dass ein Satz 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   genau dann aus einer Menge von Sätzen 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle A_{1},A_{2},\ldots }
+   folgt, wenn in jeder Interpretation, in der die Sätze 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle A_{1},A_{2},\ldots }
+   gelten (wahr sind), auch der Satz 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   gilt (wahr ist). Gegenbegriff zur semantischen Folgerung ist die Deduktion, welche sich aus der Anwendung der Schlussregeln eines Beweiskalküls ergibt, das heißt – typischerweise berechenbaren – ohne Verweis auf Interpretationen definierte syntaktische Transformationen auf Sätzen. Zur Unterscheidung wird das Symbol 
+  
+    
+      
+        ⊨
+      
+    
+    {\displaystyle \models }
+   für die semantische und 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   für die syntaktische Folgerungsrelation (Deduktion) verwendet. Durch Vergleich mit einer semantischen Folgerungsrelation lassen sich dabei auch Rückschlüsse über die Verhältnisse und Eigenschaften von Beweiskalkülen gewinnen: So sind die Ableitungsrelationen 
+  
+    
+      
+        ⊨
+      
+    
+    {\displaystyle \models }
+   und 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   je nach Wahl der Semantik auf der einen Seite und des Kalküls auf der anderen Seite im Allgemeinen nicht gleich mächtig. Nur in besonderen, aber auch besonders wichtigen Fällen, wie in der klassischen Aussagen- und Prädikatenlogik erster Stufe mit der Tarski-Semantik auf der einen Seite und den üblichen Kalkülen auf der anderen Seite, sind sie äquivalent. In dem Fall, dass jede syntaktische Folgerung auch eine semantische Folgerung ist, spricht man von Korrektheit, im umgekehrten Fall, dass es zu jeder semantischen Folgerung auch eine syntaktische Ableitung gibt, von Vollständigkeit.⊨
+      
+    
+    {\displaystyle \models }
+  
+Seien 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   und 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   Mengen von Aussagen. Wenn jedes Modell von 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   ein Modell von 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   ist, so ist die semantische Folgerungsrelation erfüllt und man schreibt 
+  
+    
+      
+        Φ
+        ⊨
+        Ψ
+      
+    
+    {\displaystyle \Phi \models \Psi }
+  .
+In der Literatur üblich ist die Verwendung einer Struktur statt einer Aussagenmenge 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   auf der linken Seite von 
+  
+    
+      
+        Φ
+        ⊨
+        Ψ
+      
+    
+    {\displaystyle \Phi \models \Psi }
+  . In diesem Fall wird gelesen: „
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   ist ein Modell von 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+  “ oder auch „
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   ist in 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   erfüllt“. Genau genommen ist dies keine Folgerungsrelation im gerade genannten Sinn, sondern eine Erfüllbarkeitsrelation. Aber da die semantische Folgerung durch die Erfüllbarkeit von Aussagenmengen in Strukturen definiert wird, ist die Mehrdeutigkeit unproblematisch.
+In der theoretischen Informatik ist die Menge 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   stets endlich und man betrachtet nur endliche Modelle. Daher ist es dort üblich, die Menge 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   als die endliche Menge der Zustände, die die Aussagen aus 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   erfüllen, zu definieren. Auch dies ist genau genommen keine Folgerungs-, sondern eine Erfüllbarkeitsrelation. Aber auch hier ist dieser Gebrauch kompatibel mit der mathematischen Definition.Ist eine Formel unter allen Belegungen erfüllt, also immer wahr, so ist sie eine Tautologie:
+
+  
+    
+      
+        ⊨
+        ψ
+      
+    
+    {\displaystyle \models \psi }
+  
+Dies ist das semantische Gegenstück zum Theorem. Ist eine Formel nie erfüllt, so handelt es sich um einen Widerspruch (Kontradiktion).Die semantische Folgerung 
+  
+    
+      
+        ⊨
+      
+    
+    {\displaystyle \models }
+   wird auch „Mathematische Schließen“ (besonders in der Prädikatenlogik) oder „modelltheoretische Folgerung“ genannt. Die Erfüllbarkeitsrelation 
+  
+    
+      
+        ⊨
+      
+    
+    {\displaystyle \models }
+   heißt auch „Modellrelation“ oder „Tarskis Erfüllbarkeitsrelation“.Sei ein Kalkül mit Ableitungsrelation 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   gegeben. Seien 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   und 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   Formeln im Kalkül. Der Kalkül heißt
+
+semantisch vollständig, falls aus 
+  
+    
+      
+        ϕ
+        ⊨
+        ψ
+      
+    
+    {\displaystyle \phi \models \psi }
+   folgt 
+  
+    
+      
+        ϕ
+        ⊢
+        ψ
+      
+    
+    {\displaystyle \phi \vdash \psi }
+  ,
+semantisch widerspruchsfrei oder korrekt, falls aus 
+  
+    
+      
+        ϕ
+        ⊢
+        ψ
+      
+    
+    {\displaystyle \phi \vdash \psi }
+   folgt 
+  
+    
+      
+        ϕ
+        ⊨
+        ψ
+      
+    
+    {\displaystyle \phi \models \psi }
+  .Ist der Kalkül semantisch vollständig und widerspruchsfrei, so heißt er adäquat. Wichtige Beispiele hierfür sind die Prädikatenlogik erster Stufe und die Aussagenlogik.Die syntaktische Ableitung sieht folgendermaßen aus:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  1. Ableitungsschritt:
+                
+                
+              
+              
+                p
+                ∧
+                q
+              
+              
+                
+              
+              
+                
+                (
+                A
+                n
+                n
+                )
+              
+            
+            
+              
+                
+                  2. Ableitungsschritt:
+                
+                
+              
+              
+                p
+              
+              
+                
+              
+              
+                
+                (
+                ∧
+                −
+                E
+                l
+                i
+                m
+                i
+                n
+                a
+                t
+                i
+                o
+                n
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{3}{\text{1. Ableitungsschritt:}}\quad &p\wedge q&\quad &(Ann)\\{\text{2. Ableitungsschritt:}}\quad &p&\quad &(\wedge -Elimination)\end{alignedat}}}
+  
+Somit ist der Ausdruck 
+  
+    
+      
+        p
+        ∧
+        q
+        ⊢
+        p
+      
+    
+    {\displaystyle p\wedge q\vdash p}
+   gültig.
+In der Aussagenlogik lässt sich die semantische Folgerung anhand einer Wahrheitstabelle überprüfen. Um diese anzuwenden, überprüft man, ob die Konklusion bei allen Belegungen, bei denen die Prämissen wahr sind, wahr ist.
+
+Immer wenn 
+  
+    
+      
+        p
+        ∧
+        q
+      
+    
+    {\displaystyle p\wedge q}
+   erfüllt ist, so ist es auch 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . Somit folgt 
+  
+    
+      
+        p
+        ∧
+        q
+        ⊨
+        p
+      
+    
+    {\displaystyle p\wedge q\models p}
+  .
+In der Mathematik ist die semantische Folgerung das Vorbild für Logikkalküle.

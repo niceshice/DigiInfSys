@@ -1,0 +1,16 @@
+Das Informationssystem der Gesundheitsberichterstattung des Bundes ist eine Online-Datenbank, die wichtige Informationen aus dem Gesundheitsbereich zusammenträgt. Betrieben wird das System durch das Statistische Bundesamt. Es kann kostenlos genutzt werden.Derzeit (November 2004) bilden über 800 Millionen Zahlen und Kennziffern in Form von Tabellen den Kern des Informationssystems. Die Daten stammen aus rund 110 verschiedenen Quellen, darunter viele Erhebungen der Statistischen Ämter des Bundes und der Länder, aber auch Erhebungen zahlreicher weiterer Institutionen aus dem Gesundheitsbereich.
+Neben fest vorgegebenen statistischen Tabellen, Grafiken und Texten kann der Benutzer so genannte Ad-hoc-Tabellen nach eigenen Vorgaben generieren lassen. Die angebotenen Daten werden ständig erweitert und aktualisiert. Die Datenquellen sind dokumentiert nach Erhebungsmerkmalen, Methodiken und Ansprechpartnern. 
+Ein direkter Zugriff auf die Daten besteht nicht, da der Zugriff auf die zugrundeliegenden Datenquellen durch das Web-Portal gekapselt ist.
+Das System startete Anfang Mai 1999 und wird seither ausgebaut und weiterentwickelt.
+Über die Webseite ist auch der Zugriff auf regelmäßig erscheinende Themenhefte und Schwerpunktberichte möglich.Das System deckt folgende Themen ab:
+
+Rahmenbedingungen des Gesundheitswesens
+gesundheitliche Lage
+Gesundheitsverhalten und -gefährdungen
+Krankheiten
+Gesundheitsversorgung
+Ausgaben, Kosten und FinanzierungRegionale und internationale Vergleichsdaten:
+
+ausgewählte OECD-Daten (Organisation für wirtschaftliche Zusammenarbeit und Entwicklung)
+ausgewählte WHO-Daten (Weltgesundheitsorganisation)
+ausgewählte Indikatoren aus dem Indikatorensatz der GBE der Länder („AOLG-Indikatoren“)

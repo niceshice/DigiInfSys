@@ -1,0 +1,17 @@
+Apache MINA ist ein freies Java Framework für Netzwerkkommunikation. Es stellt eine ereignisbasierte Programmierschnittstelle für asynchrone Kommunikation über Transportprotokolle wie TCP/IP and UDP/IP und Java NIO zur Verfügung.
+MINA ist ein Akronym für Multipurpose Infrastructure for Network Applications.Apache MINA ist primär eine technologieunabhängige Programmierschnittstelle für verschiedene Netzwerkprotokolle. Diese können über ByteBuffers, StreamIoHandler oder benutzerdefinierte Message Objekte und Codecs angesprochen werden. Die mitgelieferten Protokolle sind:
+
+TCP/IP & UDP/IP via Java NIO, auch Transport Layer Security fähig
+Serielle Kommunikation (EIA-232) via RXTX
+In-VM Pipe KommunikationDarüber hinaus können eigene Protokolle implementiert werden.
+Die Netzwerkkommunikation kann single-threaded oder durch konfigurierbare Thread-Pools abgewickelt werden.Apache MINA bietet Unterstützung für die Absicherung von Überlast, Bandbreitenkontrolle, Unit-Testen über Mock-Objekte, Management und Überwachung via Java Management Extensions sowie Integrationen mit den Dependency Injection Frameworks PicoContainer und Spring.Apache Camel kann als Routing und Konvertierungs-Engine für Apache MINA verwendet werden.Apache MINA basiert auf dem im Juni 2004 von Trustin Lee erstmals veröffentlichten Netzwerk Framework "Netty2". Es war das erste entsprechende Java Framework, welches auf einer ereignisbasierten Architektur aufbaute, hatte allerdings Schwierigkeiten mit Text-Protokollen und architektonische Fehler, die seinen Einsatz in massiv parallelen Systemen verhinderte.
+Alex Karasulu vom Apache Directory Team arbeitete zur gleichen Zeit selbst an einem Netzwerk-Framework und wurde auf Netty2 aufmerksam. Er konnte Trustin Lee zur Zusammenarbeit an einem neuen Netzwerk Framework für das Apache Directory Projekt bewegen. Im September 2004 wurde basierend auf einer Mischung aus den Architekturen der beiden Frameworks die Grundlage für Apache MINA geschaffen.
+Seit damals ist Apache MINA das primäre Netzwerk Framework des Apache Directory Projektes für diverse Protokolle des Apache Directory Servers – u. a. LDAP, Kerberos, DNS and NTP.Neben der direkten Verwendung der Java-Programmierschnittstellen für NIO, Socket und TCP/IP- und UDP/IP-Kommunikation gibt es noch folgende alternative Frameworks zur Netzwerkkommunikation in Java:
+
+Grizzly
+Netty 4
+QuickServer
+xSocket
+
+
+== Einzelnachweise ==

@@ -1,0 +1,257 @@
+Als Vollkonjunktion (auch Minterm oder Elementarkonjunktion) bezeichnet man in der Aussagenlogik einen speziellen Konjunktionsterm, d. h. eine Anzahl von Literalen (booleschen Variablen), die alle durch ein logisches und (
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \wedge }
+  ) verknüpft sind. Dabei müssen alle 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Variablen der betrachteten 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelligen booleschen Funktion im Konjunktionsterm vorkommen. Vollkonjunktionen lassen sich zu einer disjunktiven Normalform zusammensetzen, beispielsweise beim Verfahren nach Quine und McCluskey.Beispiele für 3-stellige boolesche Funktionen
+
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ∧
+        
+          e
+          
+            2
+          
+        
+        ∧
+        
+          e
+          
+            3
+          
+        
+      
+    
+    {\displaystyle e_{1}\wedge e_{2}\wedge e_{3}}
+  
+
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ∧
+        ¬
+        
+          e
+          
+            2
+          
+        
+        ∧
+        
+          e
+          
+            3
+          
+        
+      
+    
+    {\displaystyle e_{1}\wedge \neg e_{2}\wedge e_{3}}
+  
+
+  
+    
+      
+        ¬
+        
+          e
+          
+            1
+          
+        
+        ∧
+        
+          e
+          
+            2
+          
+        
+        ∧
+        ¬
+        
+          e
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \neg e_{1}\wedge e_{2}\wedge \neg e_{3}}Vollkonjunktionen lassen sich auf natürliche Weise nummerieren. Man denkt sich dabei die Variablen in einer Reihe notiert, z. B. 
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+        
+          X
+          
+            n
+            −
+            1
+          
+        
+        .
+        .
+        .
+        
+          X
+          
+            2
+          
+        
+        
+          X
+          
+            1
+          
+        
+      
+    
+    {\displaystyle X_{n}X_{n-1}...X_{2}X_{1}}
+  . Kommt für eine konkrete Vollkonjunktion das jeweilige Literal 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+   negiert vor, so ersetzt man es durch eine 0, sonst durch eine 1. Es entsteht eine Binärzahl, die man dezimal interpretieren kann. Diese Dezimalzahl bezeichnet man als die Nummer oder den Index des Minterms. Will man diesen Minterm über seinen Index 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   bezeichnen, so schreibt man 
+  
+    
+      
+        
+          m
+          
+            i
+          
+        
+      
+    
+    {\displaystyle m_{i}}
+  . Analog geht dies mit den Maxtermen 
+  
+    
+      
+        
+          M
+          
+            i
+          
+        
+      
+    
+    {\displaystyle M_{i}}
+   bei Disjunktionen.In folgender Tabelle ist der Unterschied zwischen der Maxterm- und Mintermdarstellung ersichtlich:
+
+Realisierung von Decoder-Schaltungen mit Mintermen / Maxtermen:Ein einziger Minterm:
+Für genau eine Belegung Funktionswert 1
+Minimalität:
+maximale Anzahl an Nullen
+minimale Anzahl an Einsen(abgesehen von trivialer Nullfunktion)Ein einziger Maxterm:
+Für genau eine Belegung Funktionswert 0
+Maximalität:
+maximale Anzahl an Einsen
+minimale Anzahl an Nullen(abgesehen von trivialer Einsfunktion)Man spricht auch vom Minterm einer Funktion 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  , wenn dieser 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   impliziert, d. h. wenn gilt 
+
+  
+    
+      
+        M
+        (
+        X
+        )
+        =
+        1
+        ⇒
+        F
+        (
+        X
+        )
+        =
+        1
+      
+    
+    {\displaystyle M(X)=1\Rightarrow F(X)=1}
+  .Dabei ist 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   der Vektor der Eingangsvariablen. Derartige Minterme 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   entsprechen umkehrbar eindeutig denjenigen Feldern eines Karnaugh-Veitch-Diagramms, die für die betrachtete Funktion den Wert 1 enthalten.

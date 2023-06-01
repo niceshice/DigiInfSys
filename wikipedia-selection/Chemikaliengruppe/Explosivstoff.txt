@@ -1,0 +1,280 @@
+Explosivstoffe sind feste und flüssige Stoffe sowie Stoffgemische, die bei ausreichender energetischer Aktivierung eine bestimmte starke chemische Reaktion durchlaufen, bei der sich Wärmeenergie und Gase entwickeln. Explosivstoffe haben bei ihrer Reaktion eine heftige expandierende Wirkung, die erhebliche Zerstörungen anrichten kann; bei unsachgemäßem Umgang besteht Lebensgefahr.
+Im regulatorischen Sinne müssen Stoffe bestimmte Prüfkriterien erfüllen, um nach Gefahrstoffrecht als explosionsgefährlich bzw. nach Transportrecht in die Gefahrgutklasse 1 – Explosivstoffe eingestuft zu werden.Explosivstoffe bestehen meist aus chemischen Verbindungen oder Stoffgemischen, die unter anderen Elementen Sauerstoff enthalten, welcher die verbrennbaren Bestandteile des Moleküls, also die brennbaren Komponenten des Gemisches, mit enormer Geschwindigkeit oxidieren lässt. Diese Reaktion wird näher charakterisiert durch die Begriffe Detonation, falls die Reaktionsgeschwindigkeit ÜBER der innerstofflichen Schallgeschwindigkeit liegt bzw. Deflagration, falls die Reaktionsgeschwindigkeit UNTER der innerstofflichen Schallgeschwindigkeit liegt. Dabei ist die Oxidationsgeschwindigkeit einer der unterschiedlichen Faktoren, die die Energie und die Gase für die Explosion freisetzen. In der Zusammensetzung von explosiven Stoffen ist der verfügbare Sauerstoff meist an Stickstoff in Nitro- und Nitratgruppen oder an Chlor in Chloraten und Perchloraten gebunden, die verbrennbaren Bestandteile sind fast immer Kohlenstoff und Wasserstoff, in Gemischen auch Schwefel, Aluminium oder Zink. Ausnahmen bilden beispielsweise Azide, Fulminate und Tetrazen.
+Die Wahrscheinlichkeit für die Zündung eines explosionsfähigen Stoffes hängt von seiner Empfindlichkeit gegen mechanische oder thermische Einwirkung ab. Sehr empfindliche Explosivstoffe wie die Initialsprengstoffe können nur in kleinen Mengen auf einmal hergestellt und verarbeitet werden. Gewerbliche Sprengstoffe auf Basis von Sprengölen und Ammoniumnitrat gehören in die Gruppe der weniger empfindlichen Explosivstoffe. Unempfindliche Explosivstoffe wie die ANC- und Wettersprengstoffe oder gegossenes TNT benötigen neben der Sprengkapsel noch eine Verstärkerladung.Explosivstoffe werden eingeteilt in:
+
+Initialsprengstoffe
+Pyrotechnika
+Sprengstoffe
+Treibmittel (Schwarzpulver, rauchschwache Nitrozellulosepulver (NC-Pulver) und rauchlose Schießpulver)
+ZündmittelExplosivstoffe sind als Gefahrgut nach dem ADR in die Gefahrgutklasse 1 – Explosive Stoffe, mit den Unterklassen 1.1 bis 1.6 eingeordnet, mit der Gefahrnummer 3 oder 4. Für die Kennzeichnung als Gefahrstoff gelten für Explosionsgefährliche Stoffe das oben dargestellten GHS-Symbol und je nach spezieller Eigenschaft einer der folgenden H-Sätze:
+
+H200 Instabil, explosiv.
+H201 Explosiv, Gefahr der Massenexplosion.
+H202 Explosiv; große Gefahr durch Splitter, Spreng- und Wurfstücke.
+H203 Explosiv; Gefahr durch Feuer, Luftdruck oder Splitter, Spreng- und Wurfstücke.
+H204 Gefahr durch Feuer oder Splitter, Spreng- und Wurfstücke.
+H240 Erwärmung kann Explosion verursachen.
+H241 Erwärmung kann Brand oder Explosion verursachen.Sauerstoffbilanz:
+Die Sauerstoffbilanz gibt an, ob zu viel oder zu wenig Sauerstoff zur vollständigen Oxidation zur Verfügung steht.
+Normalgasvolumen:
+Das Normalgasvolumen (Schwadenvolumen) ist das Gesamtvolumen der bei der vollständigen Umsetzung des Explosivstoffs entstehenden Gase, bezogen auf Normalbedingungen.
+Explosionswärme:
+Die Explosionswärme ist die bei der Explosion freigesetzte Wärmeenergie.
+Aus Explosionswärme und Normalgasvolumen ergibt sich die Arbeitskraft eines Explosivstoffs.
+Die Dichte wird nach üblichen Methoden bestimmt. Für Explosivstoffe ist der Begriff der Ladedichte gebräuchlich, definiert als Verhältnis des Gewichts des Explosivstoffs zum Volumen des Explosionsraumes. Bei Explosivstoffen gleicher Zusammensetzung kann die Dichte variiert werden. Hierbei führt eine geringe Dichte wegen größerer innerer Oberfläche und Porosität zu erhöhter Detonationsfähigkeit, eine Erhöhung der Dichte bei Verringerung der Detonationsfähigkeit zu erhöhter Brisanz und Sprengkraft.
+Die Detonationsgeschwindigkeit bzw. Abbrandgeschwindigkeit ist die Geschwindigkeit in m/s, mit welcher die Explosion in einem Explosivstoff fortschreitet. Sie kann von wenigen m/s (Deflagration) bis zu 10000 m/s. (Detonation) reichen. Ihre Bestimmung erfolgt auch heute noch teilweise nach der Dautriche-Methode. Dabei wird der in einem Metallrohr verdämmte Explosivstoff gezündet und löst an zwei Messpunkten Sprengkapseln aus. Diese lösen beidseitig die Detonation einer Sprengschnur aus, deren Mitte auf einer Bleiplatte markiert ist. Die zusammentreffenden Detonationswellen hinterlassen eine Einkerbung auf der Bleiplatte. Aus der bekannten Detonationsgeschwindigkeit der Sprengschnur, dem Abstand der Messpunkte und dem Abstand der Einkerbung von der Markierung der Bleiplatte kann die Detonationsgeschwindigkeit errechnet werden. Für genauere Messungen gibt es elektrische und optische Messmethoden.
+Die Bestimmung der Sprengkraft beruht auf Vergleichsmethoden.
+Eine Möglichkeit besteht in der Bestimmung einer Bleiblockausbauchung nach Trauzl. Dabei werden in einem Bleizylinder von 200 mm Durchmesser und 200 mm Höhe am Boden einer Bohrung von 125 mm Tiefe und 25 mm Durchmesser 10 g des in Stanniol gewickelten Sprengstoffes mit einer Sprengkapsel von 2 g Füllung gezündet. Danach wird die mit Quarzsand verdämmte Bohrung wieder gesäubert, der aufgebauchte Hohlraum dient dann zur Beurteilung der Leistung.
+Eine andere Möglichkeit bietet der seitlich ausschwingende ballistische Mörser, wobei der erzielte Pendelausschlag als Maß für die Leistungsfähigkeit des Explosivstoffe dient.
+Die Brisanz (Stoßdruck) eines Explosivstoffs als Produkt aus Dichte, spezifischem Explosionsdruck und Detonationsgeschwindigkeit wird mit dem Kastschen Apparat bestimmt, in dem ein Kupferzylinder gestaucht wird.
+Schlagempfindlichkeit, Reibempfindlichkeit und Stahlhülsentest sind Kriterien für die Empfindlichkeit eines Explosivstoffs gegen mechanische und thermische Beanspruchung.Berechnung der Sauerstoffbilanz und des Normalgasvolumens:
+
+Tetranitromethan
+
+  
+    
+      
+        C
+        
+          N
+          
+            4
+          
+        
+        
+          O
+          
+            8
+          
+        
+        →
+        C
+        
+          O
+          
+            2
+          
+        
+        +
+        2
+         
+        
+          N
+          
+            2
+          
+        
+        +
+        3
+         
+        
+          O
+          
+            2
+          
+        
+      
+    
+    {\displaystyle CN_{4}O_{8}\rightarrow CO_{2}+2\ N_{2}+3\ O_{2}}
+  Bei der Detonation werden außer einem Mol Kohlendioxid und zwei Mol Stickstoff drei Mol Sauerstoff frei. Die Masse des Sauerstoffs (3·2·15,9994) geteilt durch die Gesamtmolmasse (196,03) ergibt eine positive Sauerstoffbilanz von 49,0 %.
+Das Gasvolumen beträgt 6 Mol pro Mol oder 30,6 Mol/kg. Multipliziert mit der Normalgaskonstanten von 22,414 l/Mol ergibt sich ein Gesamtvolumen von 686 l/kg.
+
+Ethylenglykoldinitrat
+
+  
+    
+      
+        
+          C
+          
+            2
+          
+        
+        
+          H
+          
+            4
+          
+        
+        
+          N
+          
+            2
+          
+        
+        
+          O
+          
+            6
+          
+        
+        →
+        2
+        C
+        
+          O
+          
+            2
+          
+        
+        +
+        2
+         
+        
+          H
+          
+            2
+          
+        
+        O
+        +
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle C_{2}H_{4}N_{2}O_{6}\rightarrow 2CO_{2}+2\ H_{2}O+N_{2}}
+  Bei der Detonation werden zwei Mol Kohlendioxid, zwei Mol Wasserdampf und ein Mol Stickstoff frei. Da weder Sauerstoff zur vollständigen Oxidation benötigt noch frei wird, ist die Sauerstoffbilanz ausgeglichen und beträgt ± 0 %. Das Gasvolumen beträgt 5 Mol pro Mol oder 32,88 Mol/kg. Multipliziert mit der Normalgaskonstanten von 22,414 l/Mol ergibt sich ein Gesamtvolumen von 737 l/kg.
+Im Gegensatz dazu verläuft bei einer Deflagration die Umsetzung unvollständig:
+
+  
+    
+      
+        3
+         
+        
+          C
+          
+            2
+          
+        
+        
+          H
+          
+            4
+          
+        
+        
+          N
+          
+            2
+          
+        
+        
+          O
+          
+            6
+          
+        
+        →
+        C
+        
+          O
+          
+            2
+          
+        
+        +
+        5
+         
+        C
+        O
+        +
+        5
+         
+        
+          H
+          
+            2
+          
+        
+        O
+        +
+        
+          H
+          
+            2
+          
+        
+        +
+        6
+         
+        N
+        O
+      
+    
+    {\displaystyle 3\ C_{2}H_{4}N_{2}O_{6}\rightarrow CO_{2}+5\ CO+5\ H_{2}O+H_{2}+6\ NO}
+  Statt der 1020 kJ/Mol bei einer Detonation werden nur 293 kJ/Mol frei.
+
+Trinitrotoluol
+
+  
+    
+      
+        2
+         
+        
+          C
+          
+            7
+          
+        
+        
+          H
+          
+            5
+          
+        
+        
+          N
+          
+            3
+          
+        
+        
+          O
+          
+            6
+          
+        
+        →
+        7
+         
+        C
+        +
+        7
+         
+        C
+        O
+        +
+        5
+         
+        
+          H
+          
+            2
+          
+        
+        O
+        +
+        3
+         
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 2\ C_{7}H_{5}N_{3}O_{6}\rightarrow 7\ C+7\ CO+5\ H_{2}O+3\ N_{2}}
+  Bei der Detonation werden 3 Mol Stickstoff frei. Aufgrund der höheren Affinität wird der Wasserstoff komplett zu Wasserdampf oxidiert. Der restliche Sauerstoff reicht nur, um 7 Mol Kohlenstoff zu Kohlenmonoxid zu oxidieren. Es verbleiben 7 Mol Kohlenstoff, die als Feststoff nicht in die Gasvolumenberechnung eingehen. Die Masse des zur vollständigen Oxidation benötigten Sauerstoffs (5,25·2·15,9994) geteilt durch die Gesamtmolmasse (227,13) ergibt eine negative Sauerstoffbilanz von 74,0 %. Das Gasvolumen beträgt 7,5 Mol pro Mol oder 33,02 Mol/kg. Multipliziert mit der Normalgaskonstanten von 22,414 l/Mol ergibt sich ein Gesamtvolumen von 740 l/kg.Für gewerbliche und militärische Zwecke als Sprengstoffe (z. B. im Steinkohlenbergbau als Wettersprengstoffe, beim Bau von Straßen, Tunneln, Stauseen etc. als Gesteinssprengstoffe), für geologische Zwecke als seismische Sprengstoffe, als Initialsprengstoffe und Zündmittel zur Auslösung der Detonation weniger empfindlicher Explosivstoffe, als Treib- und Schießstoffe zum Antrieb von Geschossen, auch als Raketentreibstoffe, ferner zur Herstellung pyrotechnischer Artikel wie Feuerwerkskörper und ähnlichem.Die erste verbürgte Darstellung vom Gebrauch von Explosivstoffen stammt aus China im Jahre 1232. Um die Mitte des 13. Jahrhunderts wird von Roger Bacon und Albertus Magnus über schwarzpulverähnliche Mischungen berichtet. Die Wiedererfindung des Schwarzpulvers wird dem legendären Mönch Berthold Schwarz zugeschrieben, es wurde in der 2. Hälfte des 13. Jahrhunderts erstmals zum Verschießen noch pfeilförmiger Geschosse aus geschlossenen Rohren verwendet. Die Geschichte der Explosivstoffe in der Folgezeit ist eng verbunden mit der Entwicklung von Schießrohren und Kanonen ab dem 14. Jahrhundert. Bis weit in das 19. Jahrhundert hinein blieb das Schwarzpulver das einzige Treibmittel für Schusswaffen. Die Verwendung von Schwarzpulver für gewerbliche Zwecke begann um 1620 mit Sprengungen in Steinbrüchen und Erzbergwerken. Das Zeitalter des technischen Fortschritts auf dem Gebiet der Explosivstoffe begann mit der Entdeckung der Nitrozellulose sowie des Nitroglycerins Mitte des 19. Jh. Ihre sichere Handhabung lernte man erst ab ca. 1885. Wichtige Erfindungen auf diesem Gebiet stammen von Alfred Nobel. In der Folgezeit wurden weitere Explosivstoffe auf Nitroaromatenbasis entwickelt. Nach dem Zweiten Weltkrieg wurden in den USA die besonders sicheren und preiswerten ANC-Sprengstoffe sowie die wasserhaltigen Sprengschlämme erfunden. Neueste Entwicklung auf diesem Gebiet sind Emulsionen von Mineralöl in konzentrierter wässrigen Ammoniumnitrat-Lösung.Der Umgang und die Verwendung von Explosivstoffen ist durch eine Reihe gesetzlicher Vorschriften und Verordnungen geregelt:
+
+Sprengstoffgesetz (SprengG), Deutschland
+Schieß- und Sprengmittelgesetz und Pyrotechnikgesetz, Österreich
+Sprengstoffgesetz (SprstG), Schweiz
+Verordnung über die Verhütung von Unfällen bei Sprengarbeiten, LiechtensteinDeutschland: ChemPrüfV § 2 Abs. 4
+Österreich: Verordnung explosionsfähige Atmosphären (VEXAT)

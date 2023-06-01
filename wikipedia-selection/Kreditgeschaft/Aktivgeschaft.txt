@@ -1,0 +1,32 @@
+Unter Aktivgeschäft versteht man im Bankwesen sämtliche Bankgeschäfte, die sich auf der Aktivseite der Bankbilanz und „unter dem Bilanzstrich“ niederschlagen.Zu den Aktivgeschäften gehören insbesondere Kredite an Nichtbanken und Kreditinstitute im Rahmen der Geldleihe (Gelddarlehen jeder Art) und Kreditleihe (Avalkredite, Akkreditive, Akzeptkredite) (Kreditgeschäft), der Erwerb von Beteiligungen und Anleihen (insbesondere Unternehmensanleihen, Staatsanleihen) oder der Kauf von Kreditderivaten als Sicherungsgeber. Bankrechtlich verbergen sich hinter diesen Geschäften die Bankgeschäfte des § 1 Abs. 1 Nr. 2, 3, 8 und 10, Abs. 11 Nr. 8 KWG. Außerdem gehört zum Aktivgeschäft das so genannte Gegenparteiausfallrisiko, das in der Gefahr des Ausfalls der Gegenpartei eines Geschäfts vor der abschließenden Abwicklung der mit diesem Geschäft verbundenen Zahlungen besteht (Art. 2 Nr. 11 Verordnung über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister).Zur Refinanzierung dieser Aktivgeschäfte dienen die Passivgeschäfte. Zwecks Kontingentierung sieht die Kapitaladäquanzverordnung (englische Abkürzung CRR) mehrere Begrenzungen des Aktivgeschäfts vor, weil durch dessen vielfältige Kreditrisiken die Existenz von Kreditinstituten bedroht werden kann. Die aus dem Aktivgeschäft resultierenden risikogewichteten Risikopositionen (einschließlich Sachanlagevermögen und sonstiger Vermögensgegenstände) dürfen das 12,5-Fache der Eigenmittel nicht überschreiten (Art. 92 Abs. 3 CRR). Zudem dürfen die Großkredite nach Art. 392 CRR 10 % der anrechenbaren Eigenmittel nicht übersteigen.
+Durch das Aktivgeschäft verwirklichen die Banken im Rahmen der Bankbetriebslehre die Aufgabe des Finanzintermediärs mit der Fristen-, Losgrößen- und Risikotransformation. Die Maximalbelastungstheorie befasst sich unter anderem mit der Illiquidität vieler Bankkredite im Falle eines Bankansturms.Für die Zwecke von Millionenkrediten definiert § 19 Abs. 1 KWG Kredite als „Bilanzaktiva, Derivate (mit Ausnahme der Stillhalteverpflichtungen aus Kaufoptionen sowie die dafür übernommenen Gewährleistungen) und andere außerbilanzielle Geschäfte“. In § 19 Abs. 1 Satz 3 KWG werden dann 15 außerbilanzielle Geschäfte aufgezählt, die ebenfalls als Kredite gelten. Neben den klassischen Eventualhaftungen gehören hierzu insbesondere Ankaufs- und Refinanzierungs­zusagen (Nr. 12), noch nicht in Anspruch genommene Kreditzusagen (Nr. 13), Kreditderivate (Nr. 14) und sonstige nicht erfasste außerbilanzielle Geschäfte (Nr. 16). Auch im Rahmen des Verschuldungsbegriffs erfasst die Kapitaladäquanzverordnung (CRR) die an den Eigenmitteln eines Instituts gemessene relative Höhe der Aktiva, außerbilanziellen Verpflichtungen und Eventualverpflichtungen (Art. 4 Abs. 1 Nr. 93 CRR). Auch die Risikoposition umfasst (unter anderem für Großkredite) neben den Aktivposten (Vermögenswerten) die außerbilanziellen Posten (Art. 5 Abs. 1 CRR).
+Damit ist der Begriff Aktivgeschäft aufsichtsrechtlich sehr viel weiter gefasst, als dies umgangssprachlich der Fall ist. Mit der weiten Auslegung wird erreicht, dass alle mit einem Adressenausfallrisiko behafteten Geschäfte mit Eigenmitteln zu unterlegen sind. Unter Bilanzaktiva werden mithin alle mit einem Adressenausfallrisiko versehenen Aktiva verstanden.Das Aktivgeschäft lässt sich wie folgt untergliedern:
+
+  Forderungen an Kunden 
+  darunter:
+  täglich fällig (Forderungen aus Kontokorrentkrediten, Dispositionskrediten)
+  + kurzfristige Forderungen (Restlaufzeiten bis zu drei Monaten)
+  + mittelfristige Forderungen (Restlaufzeiten von drei Monaten bis unter fünf Jahren): insbesondere Investitionskredite, Konsumkredite
+  + langfristige Forderungen (Restlaufzeiten von fünf Jahren und mehr): insbesondere Immobilienfinanzierungen
+
+  + Forderungen an Kreditinstitute
+    darunter:
+    täglich fällig (Forderungen aus Interbankgeldgeschäften)
+    + kurzfristige Forderungen (Restlaufzeiten bis zu drei Monaten)
+    + mittelfristige Forderungen (Restlaufzeiten von drei Monaten bis unter fünf Jahren)
+    + langfristige Forderungen (Restlaufzeiten von fünf Jahren und mehr)
+  + Schuldverschreibungen und Aktien des Finanzanlagevermögens
+  + Schuldverschreibungen und Aktien des Umlaufvermögens
+  = bilanzielles Aktivgeschäft
+
+  + Eventualverbindlichkeiten
+    darunter: 
+    Avalkredite, Akkreditive, Azeptkredite
+  + Derivate 
+    darunter:
+    Kreditderivate als Sicherungsgeber
+  = GeschäftsvolumenDie Kreditinstituts-Rechnungslegungsverordnung (RechKredV) gliedert im Unterabschnitt 1 die „Posten der Aktivseite“ nach „Forderungen an Kreditinstitute“ (§ 14 RechKredV), „Forderungen an Nichtbanken“ (§ 15 RechKredV), Schuldverschreibungen im Bestand (§ 16 RechKredV), Aktien im Bestand (§ 17 RechKredV) und Beteiligungen (§ 18 RechKredV). Dabei müssen die Institute im Anhang des Jahresabschlusses Fristenuntergliederungen nach § 9 Abs. 2 RechKredV vornehmen, und zwar für Restlaufzeiten dieser Bilanzpositionen von < 3 Monaten, > 3 Monaten bis 1 Jahr, > 1 Jahr bis 5 Jahre und  > 5 Jahre.
+Die Bilanzierung der Eventualhaftungen ist geregelt in § 26 Abs. 1 RechKredV (Wechselhaftungen), § 26 Abs. 2 RechKredV (Bürgschaften, Gewährleistungsverträge, Garantien, Patronatserklärungen und Akkreditive), § 26 Abs. 3 RechKredV (Sicherheiten aus dem Bankvermögen für fremde Verbindlichkeiten), § 27 Abs. 2 RechKredV (nicht in Anspruch genommene unwiderrufliche Kreditzusagen). Sonstige Derivate unterliegen als schwebende Geschäfte nach herrschender Meinung einem Bilanzierungsverbot durch den so genannten „Nichtbilanzierungsgrundsatz schwebender Geschäfte“. Dieser Grundsatz ist nicht gesetzlich kodifiziert, sondern wird aus den Grundsätzen ordnungsmäßiger Buchführung (Bilanzierung) abgeleitet. Deshalb ist nach § 36 Satz 1 RechKredV in den Anhang eine Aufstellung über noch nicht abgewickelte, fremdwährungs-, zins­abhängige und sonstige Termingeschäfte mit Erfüllungsrisiko aufzunehmen. Unterschieden wird nach währungsbezogenen, zinsbezogenen und Derivaten mit sonstigen Preisrisiken, die lediglich namentlich aufzuzählen sind. Der Sicherungsgeber eines Credit Default Swaps weist in Höhe des übernommenen Kreditrisikos eine Eventualverbindlichkeit gemäß § 251 HGB oder nach § 340a HGB in Verbindung mit § 35 RechKredV und den entsprechenden Formblättern aus, solange mit einer Inanspruchnahme nicht zu rechnen ist.
+
+
+== Einzelnachweise ==

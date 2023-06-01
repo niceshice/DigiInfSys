@@ -1,0 +1,7 @@
+DIPAMP ist eine chemische Verbindung aus der Gruppe der Phosphane, die als chiraler zweizähniger Chelatligand verwendet wird.Es gibt drei DIPAMP-Stereoisomere: Die (S,S)- und (R,R)-DIPAMP-Enantiomere sind chirale Moleküle mit C2-Symmetrie. Die Cs-symmetrische meso-Form (R,S) ist achiral. 
+
+Die Chiralitätszentren werden von den Phosphoratomen gebildet. Der Drehwert einer Lösung eines Gramms (R,R)-DIPAMP in 100 ml Chloroform bei 20 °C beträgt −85° bei einer Wellenlänge von 589 nm.In Komplexen koordiniert DIPAMP mit beiden Phosphoratomen am Metallzentrum. Es unterscheidet sich von weiteren chiralen Phosphinliganden dadurch, dass die Stereozentren direkt am Metall komplexieren und sich nicht im Rückgrat der Liganden befinden, wie beispielsweise im DIOP oder Chiraphos.(S,S)- oder (R,R)-DIPAMP wird als chiraler Phosphinligand in der übergangsmetallvermittelten enantioselektiven Katalyse eingesetzt und ergibt sehr hohe Enantiomerenüberschüsse.
+Die ersten industriellen enantioselektiven Synthesen des pharmazeutisch bedeutenden L-DOPA nutzten enantiomerenreines DIPAMP.
+
+
+== Einzelnachweise ==

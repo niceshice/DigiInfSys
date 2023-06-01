@@ -1,0 +1,87 @@
+Die Glosa (koine-griech. γλώσσα: Sprache, Zunge; span. la glosa: die Glosse, Randbemerkung) ist ein künstlerisches Konstruktionsschema, bei dem das jeweilige Ausgangsmaterial (Text, Melodie) wiederverwendet und kommentiert wird.  Im Spanischen heißt der Verfasser einer Glosa glosador. In der deutschen Dichtung wird die Glosa auch Glosse genannt.Zum einen ist die Glosa eine Gedichtform, deren Grundform in der spanischen Hofdichtung des späten 14. Jahrhunderts aufkam und bis ins 18. Jahrhundert weitergeführt wurde. Sie ist mit den Cantiga de amigo verwandt. Ihr Konstruktionschema wurde aber, ausgehend von Spanien und inspiriert von der Lyrik, seit dem 16. Jahrhundert auch in Musikwerken angewendet – und dabei ebenfalls Glosa genannt.Der zentrale Gedanke der Glosa ist es, sich im Schaffensprozess mit den formalen und inhaltlichen Vorgaben anderer Künstler auseinanderzusetzen. Dabei geht es um die systematische Wiederverwendung und Erweiterung des Ausgangsmaterials. Dies wird im Sinne einer Hommage oder einer konstruktiven Aneignung bzw. kreativen Verarbeitung verstanden. Schon deshalb ist bis heute üblich, dass der Urheber des Ausgangsmaterials genannt wird.Die Glosa fand vereinzelt auch in andere Sprachräume Eingang, etwa in den Angelsächsischen, Portugiesischen und Rumänischen. In den deutschen Staaten wurde die Gedichtform durch die Theoretiker der Frühromantik August Wilhelm und Friedrich Schlegel bekannt gemacht. Sie sahen darin eine „besonders passende Ausdrucksform ihrer Kunstintention“,:62 weil das Ausgangsgedicht durch den Kommentar potenziert wurde. Die Dichter der Romantik verwendeten die Glosse aber auch mit parodistischer Absicht. Moderne Dichter wie Fernando Pessoa setzten die Glosa ein, um etwa die romantische Idee der Originalität zu problematisieren.:13 In freien Formen ist die Glosa in der Postmoderne weiterhin im Gebrauch.In ihrer Grundform war die spanische Glosa aus einer vierzeiligen Eingangsstrophe (span. la cabeza: Kopf) und vier Glossenstrophen (Glosse) aufgebaut:
+Der Text der Eingangsstrophe (auch Motto) wurde üblicherweise von einem anderen Dichter übernommen, etwa eine Quartine oder auch eine Strophe aus längeren Gedichten. In der spanischen Dichtung des 16. und 17. Jahrhunderts handelte es sich bei der Eingangsstrophe meist um eine Redondilla mayor. Die Eingangsstrophe setzte das Thema der Glosa und gab einen Teil der folgenden Reime sowie die Metrik vor.
+Jede Glossenstrophe bestand aus achtsilbigen Dezimen. Die letzte Zeile der Glossenstrophe war jeweils eine unverändert übernommene Zeile aus der Eingangsstrophe. Je nach Reimschema bezogen sich zwei oder mehrere Endreime der Glossenstrophe auf die einmontierte zehnte Zeile, etwa:[A1B1B2A2 cdcdcaaeeA1 efefebbggB1 hihihbbjjB2 klklkaammA2]Bei der englischen Variante der Glosa war der jambische Pentameter üblich. Die Endreime der sechsten und neunten Zeile bezogen sich auf die einmontierte zehnte Zeile, z. B.:
+[ABCD xxxxxaxxaA xxxxxbxxbB xxxxxcxxcC xxxxxdxxdD].
+In einer Doppelglosa tauchten die Cabezazeile zweimal in den Glossenstrophen auf, z. B. [xxxxAaxxaA].Im zweiten Teil von Miguel de Cervantes Roman Don Quijote trägt Don Lorenzo eine Glosa zu einer Quartine des Dichters Gregorio Silvestre Rodríguez de Mesa (1520–1569) vor;  hier in deutscher Übertragung von Ludwig Tieck:
+Ging' mein War in Ist nur ein,
+Würd ich aller Angst befreit,
+Oder käme schon die Zeit
+Dessen, was wird künftig sein.GlosseWie sich alles einst beendet,
+Endigte das Gut, vom Glück
+Mir einst reichlich zugewendet,
+Niemals kam es mir zurück,
+Weder groß noch klein gesendet.
+Schon seit Jahren, Glückesschein,
+Muß ich kniend vor dir sein;
+Sende mir das Gut hernieder,
+Denn mein Sein wär glücklich wieder,
+Ging' mein War in Ist nur ein.Nein, ich will sonst kein Vergnügen,
+Keine Freude, kein Entzücken,
+Nicht Triumphe, kein Besiegen,
+Nur mich wieder zu beglücken,
+Wie sich's vormals mochte fügen.
+Bringst du mich, o Glück, so weit,
+Ist gemildert alles Leid,
+Ausgelöscht die Glut im Herzen,
+Tilgtest du mir bald die Schmerzen,
+Würd ich aller Angst befreit.Unding ist nur mein Verlangen,
+Denn die Zeit zum Sein zu bringen,
+Wenn sie einmal ist vergangen,
+Das kann keiner Macht gelingen,
+So weit reicht kein Unterfangen.
+Sie flieht zur Vergangenheit,
+Wo sie niemals Rückkehr beut,
+Der irrt, wer den Wunsch erlesen,
+Wäre doch die Zeit gewesen,
+Oder käme schon die Zeit.Leben ein verwirrtes Leben,
+Bald im Hoffen, bald im Zagen,
+Heißt im bittern Tode schweben,
+Besser gleich den Tod zu wagen,
+Ausgang seinem Schmerz zu geben.
+Enden wäre gut für mein
+Elend; dennoch darf's nicht sein,
+Denn mit besserm Überlegen
+Gibt mir Leben das Erwägen
+Dessen, was wird künftig sein.
+Über ein Motto Ludwig Tiecks sind in der Romantik mindestens sieben Glossen verschiedener Dichter entstanden, u. a. von August Wilhelm Schlegel und August von Platen-Hallermünde. Hier exemplarisch Der Rezensent von Ludwig Uhland:
+Süße Liebe denkt in Tönen,
+Denn Gedanken stehn zu fern,
+Nur in Tönen mag sie gern
+Alles, was sie will, verschönen.
+TieckSchönste! Du hast mir befohlen
+Dieses Thema zu glossieren;
+Doch ich sag es unverhohlen:
+Dieses heißt die Zeit verlieren,
+Und ich sitze wie auf Kohlen.
+Liebtet ihr nicht, stolze Schönen!
+Selbst die Logik zu verhöhnen,
+Würd ich zu beweisen wagen,
+Daß es Unsinn ist zu sagen:
+Süße Liebe denkt in TönenZwar versteh ich wohl das Schema
+Dieser abgeschmackten Glossen,
+Aber solch verzwicktes Thema,
+Solche rätselhaften Possen
+Sind ein gordisches Problema.
+Dennoch macht' ich mir, mein Stern!
+Diese Freude gar zu gern.
+Hoffnungslos reib ich die Hände,
+Nimmer bring ich es zu Ende,
+Denn Gedanken stehn zu fern.Laß, mein Kind, die span'sche Mode!
+Laß die fremden Triolette!
+Laß die welsche Klangmethode
+Der Kanzonen und Sonette!
+Bleib bei deiner sapph'schen Ode!
+Bleib der Aftermuse fern
+Der romantisch süßen Herrn!
+Duftig schwebeln, luftig tänzeln
+Nur in Reimchen, Assonänzeln,
+Nur in Tönen mag sie gern.Nicht in Tönen solcher Glossen
+Kann die Poesie sich zeigen;
+In antiken Verskolossen
+Stampft sie besser ihren Reigen
+Mit Spondeen und Molossen.
+Nur im Hammerschlag und Dröhnen
+Deutschhellenischer Kamönen
+Kann sie selbst die alten, kranken,
+Allerhäßlichsten Gedanken,
+Alles, was sie will, verschönen.

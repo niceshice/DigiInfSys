@@ -1,0 +1,40 @@
+Das Slingshot-Argument (englisch für „Steinschleuder-Argument“) ist ein Argument für die These, dass Sätze Wahrheitswerte referieren. Es findet sich bereits, zumindest angedeutet, in Gottlob Freges Aufsatz „Über Sinn und Bedeutung“ von 1892. Heute existieren verschiedene Varianten des Argumentes, zum Beispiel von Gottlob Frege, Alonzo Church, W. V. Quine, Donald Davidson und Kurt Gödel.Am bekanntesten dürfte die von Alonzo Church (An Introduction to Mathematical Logic, Princeton 1956) entwickelte Version sein. Das Argument basiert auf zwei Prinzipien:
+A: Wird in einem Satz ein Ausdruck durch einen extensionsgleichen anderen Ausdruck ersetzt, so ändert sich die Extension des Satzes nicht.
+B: Rein syntaktische Umformungen ändern gleichfalls nicht die Referenz eines Satzes.
+Ein von Church angeführtes Beispiel sind die folgenden vier Sätze:
+(1) Walter Scott ist der Autor von Waverley.
+(2) Walter Scott ist der Verfasser von 29 Waverley-Romanen.
+(3) 29 ist die Anzahl der von Walter Scott verfassten Waverley-Romane.
+(4) 29 ist die Anzahl der Countys des Staates Utah.
+(1) und (2) haben dieselbe Extension, weil – gemäß Prinzip A – nur ein extensionsgleicher Ausdruck substituiert wurde; (2) und (3) haben dieselbe Extension, weil der Satz – gemäß Prinzip B – nur syntaktisch umstrukturiert wurde; (3) und (4) haben wiederum in Übereinstimmung mit Prinzip A dieselbe Bedeutung. Wenn nun aber (1) und (4), die völlig verschiedene Gedanken ausdrücken und verschiedene Wahrheitsbedingungen haben und sich nur durch die Identität des Wahrheitswertes auszeichnen, dieselbe Extension haben, dann – so die Konklusion – müsse die Extension bzw. Referenz eines Satzes dessen Wahrheitswert sein.Bei Donald Davidson wird der dem Argument von Frege und Church zugrunde liegende Gedanke dann verwendet, um gegen die Korrespondenztheorie der Wahrheit zu argumentieren. Dies tut Davidson wie folgt:
+Er geht zunächst von zwei Voraussetzungen aus:
+(P1) Die Korrespondenz eines Satzes mit einem Faktum ändert sich nicht durch die
+Ersetzung koreferentieller singulärer Termini.
+(P2) Logisch äquivalente Sätze korrespondieren mit denselben Fakten.
+Die Grundidee seines Arguments ist nun, dass sich zu jedem Satz durch die Ersetzung
+koreferentieller singulärer Termini eine Reihe von logisch äquivalenten Sätzen konstruieren
+lässt, so dass am Ende ein völlig anderer Satz dabei herauskommt, der aber dennoch
+mit demselben Faktum korrespondieren müsste wie der Ausgangssatz.
+An einem Beispiel erläutert:
+(1) Aristoteles ist weise
+(2) Aristoteles ist nicht identisch mit Platon
+(3) Platon ist Grieche
+(1) – (3) sind wahr, korrespondieren also jeweils mit einem Faktum (F1, F2 und F3, respektive).
+Satz (1) ist logisch äquivalent zu:
+(1a) a ist das einzige x, für das gilt: (x = a und Fx)
+(Aristoteles ist der einzige Gegenstand, für den gilt: Er ist identisch mit Aristoteles und er ist weise.)
+Satz (2) ist logisch äquivalent zu:
+(2a) a ist das einzige x, für das gilt: (x = a und x ungleich b)
+(Aristoteles ist der einzige Gegenstand, für den gilt: Er ist identisch mit Aristoteles und er ist nicht identisch mit Platon.)
+Satz (2) ist aber auch logisch äquivalent zu:
+(2b) b ist das einzige x, für das gilt (x = b und x ungleich a)
+(Platon ist der einzige Gegenstand, für den gilt: Er ist identisch mit Platon und er ist nicht identisch mit Aristoteles.)
+Satz (3) ist logisch äquivalent zu:
+(3a) b ist das einzige x, für das gilt: (x = b und Gx)
+(Platon ist der einzige Gegenstand, für den gilt: Er ist identisch mit Platon und er ist Grieche.)
+Da die Kennzeichnungen "das einzige x, für das gilt: (x = a und Fx)" und "das einzige x, für das gilt: (x = a und x ungleich b)" koreferentiell sind (beide bezeichnen Aristoteles), kann "das einzige x, für das gilt: (x = a und Fx)" in (2a) für "das einzige x, für das gilt: (x = a und x ungleich b)" eingesetzt werden.
+Mit (P1) folgt, dass sich die Korrespondenz von (2a) durch diese Ersetzung nicht ändert. Da damit (1a) in (2a) überführt wurde und sowohl (1) und (1a) als auch (2) und (2a) logisch äquivalent sind, folgt mit (P2): F1 = F2.
+Ebenso sind die Kennzeichnung "das einzige x, für das gilt: (x = b und x ungleich a)" und "das einzige x, für das gilt: (x = b und Gx)" koreferentiell (beide bezeichnen Platon), folglich können auch diese durcheinander ersetzt werden.
+Mit (P1) folgt, dass sich die Korrespondenz von (2b) durch diese Ersetzung nicht ändert. Da damit (2b) in (3a) überführt wurde und sowohl (2) und (2b) als auch (3) und (3a) logisch äquivalent sind, folgt mit (P2): F2 = F3.
+Mit der bereits hergeleiteten Gleichheit von F1 und F2 folgt also: F1 = F2 = F3. Folglich korrespondieren die Sätze (1) – (3) alle mit demselben Fakt.
+Zur Kritik an Davidsons Gebrauch des Arguments gegen die Korrespondenztheorie der Wahrheit s. Lorenz Krüger (1995).

@@ -1,0 +1,8 @@
+COSIMIR (Cell Oriented Simulation of Industrial Robots) ist ein 3-D-Simulationssystem und wurde in der Zeit von 1992 bis 2005 am Institut für Roboterforschung der Technischen Universität Dortmund entwickelt. Ein kompatibles Produkt mit dem Namen CIROS wird seit 2008 bei RIF e. V. – Institut für Forschung und Transfer in Dortmund entwickelt.
+COSIMIR wurde ursprünglich zur Offline-Programmierung und Simulation einfacher Roboterarbeitszellen eingesetzt und war das erste in Deutschland entwickelte 3-D-Simulationssystem. Durch die Fähigkeit zur Simulation von Sensoren, Transportprozessen, SPSen und anderen Steuerungen (Hardware-in-the-Loop) wurde der Einsatzbereich auf vollständige industrielle Fertigungsanlagen ausgedehnt. COSIMIR wird als Werkzeug im Rahmen der Digitalen Fabrik angewendet.
+COSIMIR wurde in diversen nationalen und internationalen Forschungsprojekten eingesetzt:
+
+FA-SiCo: Flexible Automation – Simulation and Control
+DEMON: Automatisierte Demontage von Fahrzeugteilen
+VITAL I – III: VR-Applikationen für die Weltraumrobotik
+CIROS: Steuerung intelligenter Roboter im Weltraum

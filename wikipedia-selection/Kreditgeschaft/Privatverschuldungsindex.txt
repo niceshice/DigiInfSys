@@ -1,0 +1,19 @@
+Der Privatverschuldungsindex (PVI) ist ein von der Schufa im Rahmen des Schuldenkompass ermittelter und jährlich veröffentlichter Index zur Erkennung der Überschuldung von Privatpersonen in Deutschland.Der Index wurde 2006 erstmals veröffentlicht und beschreibt den Grad der privaten Verschuldung in den verschiedenen Regionen Deutschlands. Auf der Grundlage der ermittelten Daten wurde erstmals Ende 2007 auch für 2008 vorab eine Prognose veröffentlicht. Der PVI wird tabellarisch und auch geografisch dargestellt veröffentlicht. Da die private Verschuldung (bzw. Überschuldung und Überschuldungsgefahr) in Deutschland je nach Region sehr unterschiedlich ist, werden Auswertungen nach Bundesländern, Kreisen und Großstädten veröffentlicht, dabei beziehen sich die ermittelten Indices auf dem als Referenz angenommenen PVI aus 2003, der mit einem Wert von 1000 als Bezugsgröße dient.Bei einem Vergleich der Bundesländer fällt ein starkes Nord-Süd-Gefälle auf. Berlin erhält als einziges Bundesland die Bewertung „Ausprägung hoch“. „Hoch“ bedeutet u. a., dass viele eidesstattliche Versicherungen abgegeben wurden, die Zahlen der Privatinsolvenzen und unbekannt verzogener Schuldner hoch ist.
+
+Ausprägung „gering“: Baden-Württemberg, Bayern
+Ausprägung „gering bis mittel“: Rheinland-Pfalz, Hessen, Thüringen, Sachsen, Brandenburg, Hamburg
+Ausprägung „mittel bis hoch“: Saarland, Nordrhein-Westfalen, Niedersachsen, Bremen, Schleswig-Holstein, Sachsen-Anhalt, Mecklenburg-Vorpommern
+Ausprägung „hoch“: BerlinWie aus den nachfolgenden Tabellen ersichtlich führen Landkreise die Tabelle mit den niedrigsten PVI an, umgekehrt finden sich am Ende der Liste ausschließlich kreisfreie Städte, wobei diese einen 3-4fach höheren PVI haben, und damit ein entsprechend höheren Grad an Anzeichen für eine private Überschuldungsgefahr. Weiterhin ist sichtbar, dass in der Prognose für 2008 zwar Veränderungen sichtbar sind, diese jedoch ein eher geringes Ausmaß haben und zu kaum nennenswerten Veränderungen führen, auch wenn sich der Verschuldungsindex insgesamt leicht "verbessern" wird.
+Top 5 mit dem geringsten PVI (in Klammern Platz und PVI der Prognose für 2008)
+
+Platz 1. Landkreis Ebersberg 522 (3, 537)
+Platz 2. Landkreis München 523 (1, 527)
+Platz 3. Landkreis Eichstätt 523 (2, 535)
+Platz 4. Landkreis Starnberg 525 (4, 541)
+Platz 5. Landkreis Erlangen-Höchstadt 579 (6, 579)Top 5 mit dem höchsten PVI (in Klammern Platz und PVI der Prognose für 2008)
+
+Platz 435. kreisfreie Stadt Bremerhaven 1647 (435, 1619)
+Platz 436. kreisfreie Stadt Flensburg 1676 (437, 1667)
+Platz 437. kreisfreie Stadt Mönchengladbach 1696 (436, 1666)
+Platz 438. kreisfreie Stadt Wilhelmshaven 1819 (438, 1846)
+Platz 439. kreisfreie Stadt Pirmasens 2029 (439, 2012)

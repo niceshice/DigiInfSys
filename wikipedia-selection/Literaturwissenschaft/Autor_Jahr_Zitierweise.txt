@@ -1,0 +1,16 @@
+Die Autor-Jahr-Zitierweise, auch Harvard-Zitation, Harvard-Zitierweise oder amerikanische Zitierweise genannt, ist eine Art des Zitierens in Texten. Bei ihr erfolgt der Verweis auf das Literaturverzeichnis mittels der Nennung von Autorennachname(n), Erscheinungsjahr und gegebenenfalls Seitenzahl der zitierten Publikation in einem Kurzbeleg.
+Diese Verkürzungen fungieren dabei nicht als vollständige Quellennachweise, sondern als systematische Verweise auf die eigentlichen Quellenangaben im Literaturverzeichnis. Das Verzeichnis und die im Text verwendeten Verweise müssen daher vollständig korrespondieren. Die Autor-Jahr-Zitierweise wird im Fließtext verwendet.
+Besonders verbreitet ist diese Zitierweise in den Natur- und Sozialwissenschaften.Um die Zitate im Text so kurz wie möglich zu halten, werden die Autoren ohne Vornamen zitiert. 
+Bei mehr als zwei Autoren kann die Angabe in manchen Zitierstilen auf den Erstautor verkürzt und das Vorhandensein weiterer Autoren mit et al. (seltener auch & al., et alii oder u. a.) angezeigt werden. Im APA-Style gibt es abweichende Regeln. 
+Gibt es mehrere Artikel vom selben Erstautor im selben Jahr, werden sowohl im Literaturverzeichnis als auch im Autor-Jahr-Zitat im Text die Artikel jeweils unterscheidende Kleinbuchstaben (a, b, …) an die Jahreszahl angehängt.
+
+BeispielIm Text wird aus einem Werk zitiert oder darauf verwiesen, welches im Literaturverzeichnis der Arbeit wie eines der folgenden Beispiele von Darstellungsformen aussehen könnte:
+
+Nordqvist, Sven (1984) Eine Geburtstagstorte für die Katze. Hamburg: Musterverlag. (Gebräuchlichste Form)
+Nordqvist, S. 1984. Eine Geburtstagstorte für die Katze, Musterverlag: Hamburg.
+Nordquist, S.: Eine Geburtstagstorte für die Katze, Hamburg 1984.
+Nordqvist, S.: Eine Geburtstagstorte für die Katze, Hamburg, 1984, S. 12–30.
+Nordqvist, S., Eine Geburtstagstorte für die Katze, Musterverlag, Hamburg, 1984.Bei der Autor-Jahr-Zitierweise entsprechen nun Angaben in Fließtext, Tabellen oder Graphiken wie Siehe Nordqvist (1984) oder Siehe Nordqvist (1984, S. 25) genau dem Eintrag im Literaturverzeichnis, der einen Autor namens Nordqvist und die  Jahresangabe 1984 enthält. Gehört das Zitat nicht zum Text selbst, sondern belegt diesen nur, wird es in runden oder eckigen Klammern nach dem zu belegenden Text genannt: (Nordqvist 1984, S. 25). Übliche Varianten sind die Einfügung eines Komma hinter dem Namen des Autors, also z. B. Nordqvist, 1984, S. 25 oder die Abtrennung einer Seitenzahl mit einem Doppelpunkt, also z. B. (Nordqvist 1984: 25).Harvard System of Referencing Guide. 15. September 2010, abgerufen am 23. Oktober 2010 (englisch). Anleitung zum korrekten Zitieren mit dem Harvard-System. 29. Mai 2011, abgerufen am 13. Dezember 2011. 
+
+
+== Einzelnachweise ==

@@ -1,0 +1,145 @@
+Chlorsulfonsäure oder Chloroschwefelsäure (HSO3Cl) ist ein unvollständiges Säurechlorid der Schwefelsäure, in dem nur eine Hydroxygruppe der Schwefelsäure durch Chlor ersetzt ist. Chlorsulfonsäure ist eine farblose, stechend riechende und an der Luft stark rauchende Flüssigkeit. Der Schmelzpunkt liegt bei −80 °C, der Siedepunkt bei 152 °C. Chlorsulfonsäure ist wie alle Säurechloride sehr reaktionsfähig, mit Wasser reagiert sie heftig unter Umsetzung zu Schwefelsäure und Salzsäure. 
+
+  
+    
+      
+        
+          H
+          S
+          
+            O
+            
+              3
+            
+          
+          C
+          l
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          →
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {HSO_{3}Cl+H_{2}O\ \rightarrow \ H_{2}SO_{4}+HCl} }
+  Ihre Wirkung als Nebelmittel beruht auf der Reaktion mit der Luftfeuchte, wobei sich ein Nebel aus Schwefelsäure und Salzsäure bildet. Dieser saure Nebel ist sehr aggressiv, er greift Metalle an und reizt zum Husten, ebenso werden organische Stoffe (Holz, Gewebe) angegriffen. Wird zusätzlich Schwefeltrioxid in Chlorsulfonsäure gelöst, erhält man die Nebelsäure, die noch dichtere Nebel als Chlorsulfonsäure bildet. Der Einsatz von Chlorsulfonsäure als Nebelmittel setzt eine ausreichend hohe Luftfeuchte voraus, daher wurde Chlorsulfonsäure vorrangig bei der Marine eingesetzt. Zum einen wegen der Feuchte, und zum anderen, weil das Schiff sich vom entstehenden Nebel entfernen kann und somit dessen aggressiver Wirkung weniger ausgesetzt ist.Chlorsulfonsäure kann durch Einwirken von Phosphorpentachlorid auf konzentrierte Schwefelsäure dargestellt werden:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          P
+          C
+          
+            l
+            
+              5
+            
+          
+           
+          →
+           
+          H
+          S
+          
+            O
+            
+              3
+            
+          
+          C
+          l
+          +
+          P
+          O
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SO_{4}+PCl_{5}\ \rightarrow \ HSO_{3}Cl+POCl_{3}+HCl} }
+  Technisch wird Chlorsulfonsäure dargestellt, indem man Chlorwasserstoffgas in flüssiges Schwefeltrioxid einleitet:
+
+  
+    
+      
+        
+          S
+          
+            O
+            
+              3
+            
+          
+          +
+          H
+          C
+          l
+           
+          →
+           
+          H
+          S
+          
+            O
+            
+              3
+            
+          
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {SO_{3}+HCl\ \rightarrow \ HSO_{3}Cl} }Chlorsulfonsäure wird in Nebelsäurefassgeräten verwendet, um Nebelsäure herzustellen.
+Chlorsulfonsäure wird außer als Nebelmittel bei der Herstellung von chemischen Zwischenprodukten (Einführung der HSO3-Gruppe in aromatische Verbindungen) verwendet. Dabei wird der Aromat zunächst mit einem Überschuss Chlorsulfonsäure chlorsulfoniert (Einführung der SO2Cl-Gruppe in aromatische Verbindungen) und kann später gezielt zur Sulfonsäure hydrolysiert werden. Die Sulfonsäurechloride sind im Gegensatz zu den Sulfonsäuren nicht wasserlöslich und für viele Umsetzungen besser geeignet.Des Weiteren wird Chlorsulfonsäure zur Herstellung von Ionenaustauschern und den Pflanzenschutzmitteln Asulam, Bentazon, Carbophenothion, Chlorfenson, Famphur, Flusulfamid, Hexachlorbenzol, Imazosulfuron, Prosulfuron und Tetradifon eingesetzt.
+
+
+== Einzelnachweise ==

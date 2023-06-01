@@ -1,0 +1,164 @@
+Thiophosphorsäure ist eine instabile chemische Verbindung aus der Gruppe der Phosphorverbindungen. Sie stellt ein Derivat der Phosphorsäure dar, bei der ein Sauerstoffatom durch ein Schwefelatom ausgetauscht ist (daher die Vorsilbe Thio-). Wird mehr als ein Sauerstoffatom ersetzt, entstehen entsprechend die Dithiophosphorsäure, Trithiophosphorsäure bzw. Tetrathiophosphorsäure.Thiophosphorsäure kann nach R. Klement durch Umsetzung von Bariumdithiophosphat mit Schwefelsäure und nachfolgende Hydrolyse der entstandenen Dithiophosphorsäure zu Monothiophosphorsäure gewonnen werden.
+
+  
+    
+      
+        
+          B
+          
+            a
+            
+              3
+            
+          
+          (
+          P
+          
+            O
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          +
+          3
+           
+          B
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ba_{3}(PO_{2}S_{2})_{2}+3\ H_{2}SO_{4}\longrightarrow 2\ H_{3}PO_{2}S_{2}+3\ BaSO_{4}} }
+  
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+          S
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}PO_{2}S_{2}+H_{2}O\longrightarrow H_{3}PO_{3}S+H_{2}S} }Thiophosphorsäure kann bei Temperaturen unter −2 °C als konzentrierte Säure (bis zu 83 % Konzentration) unter Luftabschluss gelagert werden und bleibt dabei klar. Bei Zutritt von Luft trübt sie sich durch ausfallenden Schwefel, der durch Oxidation des durch die allmähliche Hydrolyse der Monothiophosphorsäure gebildeten Schwefelwasserstoffs entsteht. Beim Erwärmen der konzentrierten Säure auf 40 °C entwickelt sich heftig Schwefelwasserstoff. Unterhalb von −60 °C erstarrt die Säure.Von großer Bedeutung sind einige von der Thiophosphorsäure abgeleitete Verbindungen, wie zum Beispiel deren Ester. Sie sind praktisch Derivate von (meist aromatischen) Phosphorsäureestern, bei denen ein (Thiophosphorsäureester) oder mehrere Sauerstoffatome (Dithiophosphorsäureester, Trithiophosphorsäureester und Tetrathiophosphorsäureester) durch Schwefel ersetzt sind. Viele davon sind hochgiftig, da wie bei anderen Phosphorsäureestern das Enzym Cholinesterase, das eine essentielle Funktion im zentralen Nervensystem hat, gehemmt wird. Sie werden häufig als Insektizide und Akarizide (z. B. Chlorpyrifos, Dimethoat, Parathion, Azamethiphos), als Zytostatika (z. B. Thiotepa), aber auch als Nervenkampfstoffe (z. B. VX) eingesetzt. Die ersten Thiophosphorsäureester-Insektizide wurden in den 1950er Jahren auf den Markt gebracht.
+ 
+Beispiele für Thiophosphorsäureester:
+
+Chlorthiophos C11H15Cl2O3PS2
+Cythioat C8H12NO5PS2
+Demephion C5H13O3PS2
+Diazinon C12H21N2O3PS
+Dioxathion C12H26O6P2S4
+Fensulfothion C11H17O4PS2
+Fenthion C10H15O3PS2
+Malathion C10H19O6PS2
+Parathion C10H14NO5PS
+Phorat C7H17O2PS3Neben den Thiophosphorsäureestern existieren auch noch Salze der Thiophosphorsäure, die als Thiophosphate (auch Phosphorothioate mit den Anionen PO3S3− bis PS43−) bezeichnet werden, wie zum Beispiel das Natriummonothiophosphat, das für chemische Synthesen verwendet wird.
+Beispiele für Thiophosphate:
+
+Natriummonothiophosphat Na3PO3S
+Natriumdithiophosphat Na3PO2S2
+Bariumdithiophosphat Ba3(PO2S2)2

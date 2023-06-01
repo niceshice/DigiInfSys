@@ -1,0 +1,404 @@
+Halogenide sind chemische Verbindungen zwischen Elementen der siebten Hauptgruppe (genauer der 17. Gruppe) des Periodensystems, den so genannten Halogenen, und Elementen anderer Gruppen. Die veraltete Bezeichnung ist Haloide. Darüber hinaus werden die einfach negativ geladenen Ionen der Halogene (F−, Cl−, Br−, I−, At−) als Halogenid-Ionen (kurz ebenfalls Halogenide) bezeichnet. Da chemische Eigenschaften des 2010 erstmals künstlich erzeugten Elements der siebten Hauptgruppe mit dem deutschen Namen Tenness noch unbekannt sind, sind auch von diesem Element abgeleitete Verbindungen, (Tennesside) noch unbekannt.
+Bei den Verbindungen unterscheidet man (abhängig von der Art der chemischen Bindung):
+
+salzartige Halogenide: Ionische Verbindungen (Salze), die aufgrund der großen Elektronegativitätsdifferenz zwischen den beteiligten Elementen aus Anionen und Kationen bestehen und durch elektrostatische Wechselwirkungen zusammengehalten werden. Beispiele sind Natriumchlorid (NaCl) und Kaliumbromid (KBr).kovalente Halogenide: Kovalent gebundene Verbindungen, bei denen die Elektronegativitätsunterschiede nicht so groß sind wie bei den  ionischen Verbindungen. Die kovalenten Bindungen weisen jedoch eine Ladungspolarität auf. Beispiele sind Halogenwasserstoffe wie z. B Chlorwasserstoff (HCl) und die große Gruppe der Interhalogenverbindungen. Auch Halogenkohlenwasserstoffe wie z. B Methylenchlorid (Dichlormethan, CH2Cl2) und andere organische Verbindungen, die Halogene enthalten, werden oft als Halogenide bezeichnet. Das aber entspricht meist nicht der aktuellen IUPAC-Nomenklatur.Komplexe Halogenide: Komplexe mit Halogenid-Ionen als Liganden, wie z. B Tetrachloridoplatinat-Ion [PtCl4]2−.Salzartige Halogenide können, gestaffelt nach der elektrochemischen Spannungsreihe, zum jeweiligen elementaren Halogen oxidiert werden.
+
+  
+    
+      
+        
+          
+            F
+            
+              2
+            
+          
+          +
+          2
+           
+          C
+          
+            l
+            
+              −
+            
+          
+          ⟶
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            F
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {F_{2}+2\ Cl^{-}\longrightarrow Cl_{2}+2\ F^{-}} }
+  
+Fluor oxidiert Chlorid zu Chlor.
+
+  
+    
+      
+        
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          2
+           
+          B
+          
+            r
+            
+              −
+            
+          
+          ⟶
+          B
+          
+            r
+            
+              2
+            
+          
+          +
+          2
+           
+          C
+          
+            l
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Cl_{2}+2\ Br^{-}\longrightarrow Br_{2}+2\ Cl^{-}} }
+  
+Chlor oxidiert Bromid zu Brom.
+
+  
+    
+      
+        
+          B
+          
+            r
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            I
+            
+              −
+            
+          
+          ⟶
+          
+            I
+            
+              2
+            
+          
+          +
+          2
+           
+          B
+          
+            r
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Br_{2}+2\ I^{-}\longrightarrow I_{2}+2\ Br^{-}} }
+  
+Brom oxidiert Iodid zu Iod.Salzartige Halogenide und halogenhaltige organische Verbindungen sind in der chemischen Industrie oft anzutreffen. So sind z. B. Chloroform und Dichlormethan gute organische Lösungsmittel. Durch ihren niedrigen Siedepunkt gelangen jedoch auch Anteile der Verbindungen in die Umwelt und die Atmosphäre. Bei Einwirkung von Sonnenlicht auf halogenhaltige organische Verbindungen können Halogenradikale gebildet werden, die ihrerseits die Ozonschicht angreifen (siehe hierzu: Ozonloch). Man ist deshalb bestrebt, den Einsatz von halogenhaltigen Lösungsmittel so gering wie möglich zu halten. Daher wurden FCKW-haltige Substanzen für Spraydosen und Kühlschränke in den 1980er- und 1990er-Jahren verboten.
+Das normale Kochsalz, das Natriumchlorid, spielt in der Lebensmittelchemie eine große Rolle z. B bei der Herstellung von Wurstwaren und Fertiggerichten. In einigen Ländern werden salzartige Halogenide wie etwa Natriumfluorid und Natriumiodid in geringen Mengen Lebensmitteln, Kochsalz, Zahnpflegeprodukten oder dem Trinkwasser zum Zweck der Kariesprophylaxe beigefügt. Allerdings sind diese Stoffe oft umweltgefährlich und ab bestimmten Konzentrationen gesundheitsschädlich.Chlorid, Bromid und Iodid lassen sich in einer Nachweisreaktion aus wässriger Lösung nach dem Ansäuern mit Salpetersäure mit Silbernitrat fällen.
+So beispielsweise bei einer Kochsalzlösung:
+
+  
+    
+      
+        
+          N
+          a
+          C
+          
+            l
+            
+               
+              (
+              a
+              q
+              )
+            
+          
+          +
+          A
+          g
+          N
+          
+            O
+            
+              3
+               
+              (
+              a
+              q
+              )
+            
+          
+          ⟶
+          N
+          
+            a
+            
+               
+              (
+              a
+              q
+              )
+            
+            
+              +
+            
+          
+          +
+          N
+          
+            O
+            
+               
+              3
+              (
+              a
+              q
+              )
+            
+            
+              −
+            
+          
+          +
+          A
+          g
+          C
+          
+            l
+            
+               
+              (
+              s
+              )
+            
+          
+          ↓
+        
+      
+    
+    {\displaystyle \mathrm {NaCl_{\ (aq)}+AgNO_{3\ (aq)}\longrightarrow Na_{\ (aq)}^{+}+NO_{\ 3(aq)}^{-}+AgCl_{\ (s)}\downarrow } }
+  Der Silberhalogenidniederschlag wird anschließend mit Ammoniakwasser näher untersucht:
+
+Silber(I)-fluorid (AgF) ist als einziges Silberhalogenid gut wasserlöslich.
+Silberchlorid (AgCl) bildet einen weißen, käsigen Niederschlag, der sich bei Zugabe von Ammoniak unter Bildung des farblosen Diamminsilber(I) in einer Komplexbildungsreaktion wieder auflöst:
+  
+    
+      
+        
+          A
+          
+            g
+            
+              +
+            
+          
+          +
+          2
+           
+          N
+          
+            H
+            
+              3
+            
+          
+          ⟶
+          [
+          A
+          g
+          (
+          N
+          
+            H
+            
+              3
+            
+          
+          
+            )
+            
+              2
+            
+          
+          
+            ]
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ag^{+}+2\ NH_{3}\longrightarrow [Ag(NH_{3})_{2}]^{+}} }
+  Silberbromid (AgBr) fällt als hellgelber, nur in konzentriertem Ammoniak löslicher, Niederschlag aus.
+Silberiodid (AgI) zeigt sich als ein gelb-grünlicher Niederschlag, der sich auch in konzentriertem Ammoniak nicht löst.Alle Silberhalogenide zersetzen sich unter Lichteinwirkung und lösen sich in konzentrierter Natriumthiosulfatlösung (Fixiersalz).Eine Unterscheidungsmöglichkeit für Bromide und Iodide ist die Zugabe von Chlorwasser oder Chloramin T mit Salzsäure: durch das Chlor wird Bromid zum Brom und Iodid zum Iod oxidiert.
+
+  
+    
+      
+        
+          2
+           
+          
+            I
+            
+              −
+            
+          
+          +
+          C
+          
+            l
+            
+              2
+            
+          
+          ⟶
+          
+            I
+            
+              2
+            
+          
+          +
+          2
+           
+          C
+          
+            l
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ I^{-}+Cl_{2}\longrightarrow I_{2}+2\ Cl^{-}} }
+  
+Iodid und Chlor reagieren zu violettem Iod und Chlorid
+
+  
+    
+      
+        
+          2
+           
+          B
+          
+            r
+            
+              −
+            
+          
+          +
+          C
+          
+            l
+            
+              2
+            
+          
+          ⟶
+          B
+          
+            r
+            
+              2
+            
+          
+          +
+          2
+           
+          C
+          
+            l
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Br^{-}+Cl_{2}\longrightarrow Br_{2}+2\ Cl^{-}} }
+  
+Bromid und Chlor reagieren zu braunem Brom und ChloridDurch Extraktion in einem organischen Lösungsmittel sind die Färbungen besonders gut sichtbar. In sauerstofffreien Lösungsmitteln wie Dichlormethan oder n-Hexan ist Iod rosaviolett, in sauerstoffhaltigen Lösungsmitteln wie Diethylether braun. Brom färbt die Lösung braun. Die Folgereaktion zu Bromchlorid färbt die Lösung weingelb.
+
+  
+    
+      
+        
+          B
+          
+            r
+            
+              2
+            
+          
+          +
+          C
+          
+            l
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          B
+          r
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {Br_{2}+Cl_{2}\longrightarrow 2\ BrCl} }
+  
+Brom und Chlor reagieren zu weingelbem BromchloridZum quantitativen Nachweis von Halogenidionen werden drei Titrationsverfahren eingesetzt, die ebenfalls auf der Schwerlöslichkeit der Silberhalogenide beruhen:
+
+Titration nach Mohr
+Titration nach Volhard
+Titration nach Fajans

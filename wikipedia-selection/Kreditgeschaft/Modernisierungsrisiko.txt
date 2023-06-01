@@ -1,0 +1,5 @@
+Als Modernisierungsrisiko werden bei der Ermittlung des Beleihungswertes von Immobilien die zu erwartenden Kosten für notwendige Anpassungsmaßnahmen bezeichnet, die zusätzlich zu den Instandhaltungskosten zur Aufrechterhaltung der Marktgängigkeit und der dauerhaften Sicherung des Mietausgangsniveaus notwendig sind.
+Das Modernisierungsrisiko ist ein Teil der Bewirtschaftungskosten nach § 11 Beleihungswertermittlungsverordnung (BelWertV) und wird vom jährlichen Rohertrag abgezogen. Das bei der Bewertung anzusetzende Modernisierungsrisiko ist in Anlage 1 BelWertV als Anteil an den Neubaukosten abhängig von der Art des Objekts angegeben.Ein Beispiel für die Modernisierung ist die Anpassung der technischen Infrastruktur eines Bürogebäudes (EDV-Verkabelung usw.) an den Stand der Technik in regelmäßigen Abständen. Es reicht nicht aus, die einmal installierten Kabel zu warten und betriebsbereit zu halten, sondern beim Aufkommen neuer Verkabelungstechnologien muss unter Umständen die gesamte Verkabelung erneuert werden. 
+
+
+== Einzelnachweise ==

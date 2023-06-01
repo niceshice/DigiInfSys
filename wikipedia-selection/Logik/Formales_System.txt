@@ -1,0 +1,185 @@
+Ein formales System ist ein System von Symbolketten und Regeln. Die Regeln sind Vorschriften für die Umwandlung einer Symbolkette in eine andere, also Produktionen einer formalen Grammatik. Die Anwendung der Regeln kann dabei ohne Kenntnis der Bedeutung der Symbole, also rein syntaktisch erfolgen. Formale Systeme werden in verschiedenen wissenschaftlichen Disziplinen wie der Logik, Mathematik, Informatik und Linguistik verwendet, insbesondere um neue Aussagen aus bereits bekanntem Wissen herzuleiten.
+Kalkül wird oft in derselben Bedeutung wie formales System verwendet; manchmal wird unter einem Kalkül jedoch ein formales System mit bestimmten Einschränkungen verstanden.Ein formales System lässt sich als Quadrupel 
+  
+    
+      
+        F
+        =
+        ⟨
+        A
+        ,
+        B
+        ,
+        A
+        U
+        ,
+        R
+        ⟩
+        
+      
+    
+    {\displaystyle F=\langle A,B,AU,R\rangle \quad }
+   auffassen, das heißt, es wird von folgenden Bestimmungsstücken konstituiert:
+
+  
+    
+      
+        A
+        
+      
+    
+    {\displaystyle A\quad }
+   ist ein Alphabet, das heißt eine Menge beliebiger Zeichen. Dies sind die Grundzeichen, aus denen sich die Symbolketten des formalen Systems zusammensetzen.
+
+  
+    
+      
+        B
+        
+      
+    
+    {\displaystyle B\quad }
+   ist eine Teilmenge aller Wörter, die sich über dem Alphabet 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   bilden lassen. Dies sind die „wohlgebildeten“ oder „wohlgeformten Formeln“ (englisch well-formed formulas, wff), also diejenigen unter den Symbolketten, die einen „Sinn“ ergeben. „Sinn ergeben“ bedeutet aber hier nichts anderes, als dass diese Zeichenreihen der Grammatik des formalen Systems entsprechen und deshalb für die weitere Untersuchung zugelassen werden sollen. 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   ist damit eine formale Sprache über dem Alphabet 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . In der Praxis wird die (meist unendliche) Satzmenge ihrerseits durch Formationsregeln festgelegt beziehungsweise induktiv definiert.
+
+  
+    
+      
+        A
+        U
+        
+      
+    
+    {\displaystyle AU\quad }
+   ist eine Menge von Axiomen. Axiome müssen wffs sein. Das heißt, 
+  
+    
+      
+        A
+        U
+      
+    
+    {\displaystyle AU}
+   muss eine Teilmenge von 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   sein. Im Übrigen ist auch dieser Begriff ganz formal zu verstehen: Axiome sind die – grundsätzlich willkürlich gewählten – Ausgangsformeln für die Ableitungsrelation des formalen Systems.
+
+  
+    
+      
+        R
+        
+      
+    
+    {\displaystyle R\quad }
+   ist eine Menge von mindestens zweistelligen Relationen über Wörtern aus 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  , durch die eine Ableitungsrelation definiert wird. 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   enthält die Regeln für das Ableiten. Stehen zwei (oder mehr) wffs in einer dieser Relationen zueinander, so ist die letzte aus der oder den vorhergehenden ableitbar. Ausgehend von den Axiomen – die vorab als „ableitbar“ definiert werden – ergibt sich damit eine Menge von – gemäß der Relation 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   – ableitbaren wffs.Im Hinblick auf die Leistungsfähigkeit formaler Systeme sind vor allem die Axiome und die zuletzt genannte Relation zu betrachten. Durch diese wird die Ableitungsrelation definiert. Sie wird häufig mit 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   symbolisiert. Die Schreibweise 
+  
+    
+      
+        a
+        ⊢
+        b
+      
+    
+    {\displaystyle a\vdash b}
+   für zwei Wörter a und b aus der Menge B bedeutet also, dass sich b aus a formal ableiten lässt. Es gibt also eine Folge von Relationen in R, die a und b (möglicherweise unter Verwendung anderer ableitbarer Formeln) miteinander in eine formale Ableitungsbeziehung setzen.
+Der Begriff „formales System“ ist sehr allgemein. Es kann gar keine oder auch unendlich viele Axiome geben. Mindestens eine Relation muss vorhanden sein, doch können auch dies unendlich viele sein. Immer gilt aber: Eine wff a gehört genau dann zu den (formal) ableitbaren Formeln, wenn sich eine „umgekehrt baumförmige“ Struktur von Ableitungsregeln angeben lässt, die von Axiomen ausgeht und deren „Stamm“ bei a endet. Hat das formale System keine Axiome, so stehen an den „Blattspitzen“ des Baumes lauter leere Zeichenreihen.
+Ein solcher Ableitungsbegriff wird als syntaktisch bezeichnet. Es wird grundsätzlich nicht darauf reflektiert, wofür die ableitbare Formel a steht, sie steht im Prinzip zu keiner denkbaren Welt in Beziehung, hat keine Bedeutung, keine Semantik.
+Interessant sind aber natürlich solche formalen Systeme, deren Ableitungsrelation einer semantischen Folgerungsrelation (möglicherweise insbesondere der menschlichen) möglichst nahekommt. D. h., man möchte möglichst alles, was man semantisch folgern kann, auch formal ableiten können. Damit wird jedoch der Rahmen formaler Systeme bereits überschritten. Nähere Informationen hierzu finden sich unter anderem im Artikel Wissensrepräsentation mit Logik.Gelegentlich findet man für Kalküle die Einschränkung vor, dass die Menge der Relationen in 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   endlich sein muss. Darüber hinaus werden an die Ableitungsrelation von Kalkülen häufig weitergehende Anforderungen gestellt, wie beispielsweise die Erfüllung der Hüllenaxiome und des Endlichkeitsaxioms. Ansonsten wird der Kalkülbegriff meist synonym zum Begriff des formalen Systems verwendet.Die Mathematik bedient sich von jeher formaler Systeme. Die elementare Algebra, wie man sie in der Schule lernt, ist ein solches System. Sie bedient sich der Zahlen, Rechenzeichen für Addition, Subtraktion, Multiplikation und Division sowie der Buchstaben für Unbekannte. Die Rechenregeln sind die Umformungsregeln, die mechanisch angewendet werden können, wenn man sie einmal eingesehen hat. Beispielsweise kann man die
+
+1. Algebraregel: 
+  
+    
+      
+        a
+        +
+        0
+        =
+        a
+      
+    
+    {\displaystyle a+0=a}
+  interpretieren als
+
+Jeder beliebige Ausdruck a kann um Null vermehrt werden, ohne das Ergebnis zu ändern.Eine mechanische Regel könnte dann lauten:
+
+Hat man einen Ausdruck „a“, so kann man die Symbolkette „+0“ (unter Beachtung der Klammerregeln) anfügen oder entfernen, ohne das Ergebnis zu ändern.Die Grundrechenarten der Arithmetik bilden das erste formale System, das in der Grundschule gelernt wird. Dort nimmt man Symbole für die Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 und ein Symbol für die Null, nämlich 0. Die Addition erhält das Symbol „+“. Man kann jetzt die Symbole aneinanderreihen und erhält Symbolketten, wie zum Beispiel:
+
+123+45
+7+0
+123456+666
+1607+
+23++56
+
+Die drei ersten entsprechen den (hier nicht im Einzelnen formulierten) Regeln für wohlgeformte Symbolketten. Die beiden letzten tun dies nicht und können der folgenden Regel nicht unterworfen werden.
+Additionsregel: Nimm die beiden am weitesten rechts stehenden Ziffern jeder Ziffernfolge und ersetze sie durch folgende Vorschrift: 0+1=1, 1+1=2, 1+2=3, ..., 5+5=0+Übertrag, ... 9+9=8+Übertrag. Schreibe die sich ergebende Ziffern an die rechte Stelle der neuen Ziffernkette und merke dir den Übertrag. Nimm jetzt die zweite Ziffer von rechts aus jeder Kette und ersetze sie durch dieselbe Vorschrift. Falls ein Übertrag im vorhergehenden Schritt vorhanden war, wende die Ersetzung auf die neue Ziffer und 1 an. Ersetze im Ergebnis die zweite Stelle von rechts durch das neue Symbol und merke dir wiederum den Übertrag. Setze das Verfahren von rechts nach links fort, bis keine Ziffern mehr vorhanden sind. Falls eine Kette kürzer als die andere ist, ersetze fehlende Ziffern durch '0'. Falls am Ende ein Übertrag vorhanden ist, schreibe im Ergebnis ganz links eine '1'.
+Die Kette "987+789" wird durch Anwendung dieser Additionsregel also durch die Kette 1776 ersetzt. Um dieses Vorgehen in die oben beschriebene Formalisierung zu übertragen, können wir sagen: "1776" wurde von "987+789" abgeleitet. Dabei müssen wir uns jedoch bewusst machen, dass die Ableitung allein auf Zeichenebene erfolgte. Ebenso wäre es möglich, mittels einer anderen Ableitungsregel aus "987+789" die Zeichenkette "198" abzuleiten (dies ist in diesem Fall die Differenz) oder die Zeichenkette "87+78" gemäß der Regel: "Lasse das erste und das letzte Zeichen weg". Summe und Differenz im Sinne unseres alltäglichen Sprachgebrauchs gehören der Semantik an und sind damit außer Reichweite der bisher kalkülisierten mathematischen Systeme.

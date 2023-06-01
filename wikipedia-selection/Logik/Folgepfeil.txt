@@ -1,0 +1,15 @@
+Der Folgepfeil ist ein doppelter Pfeil nach rechts, links oder auf beide Seiten. Er ist die mathematische Notation für einen logischen Schluss.Der Folgepfeil ist das mathematische Symbol für „daraus folgt“, die logische Schlussfolgerung. Er stellt eine logische Verknüpfung dar: Das Symbol wird eingesetzt, wenn aus etwas Richtigem ein richtiger, aus etwas Falschem ein falscher oder aus etwas Falschem ein richtiger Schluss gezogen wird. 
+Niemals darf er jedoch verwendet werden, um aus etwas Richtigem etwas Falsches zu folgern.
+
+x ist durch 4 teilbar ⇒ x ist durch 2 teilbar ⇒ x ist gerade
+(hier ein transitiver Schluss, daraus folgt auch direkt x ist durch 4 teilbar ⇒ x ist gerade)Natürlich kann man die Folgerungen jederzeit umstellen („folgt aus“), und verwendet dann ⇐ (Folgepfeil links). Außerdem kann man für wechselseitige Schlussfolgerungen (Äquivalenzrelationen) den Pfeil ⇔ setzen, und spricht „folgt wechselseitig“ oder „folgt äquivalent“:
+
+4 mal x ist 8 ⇔ 8 durch 4 ist x
+Beide Aussagen beschreiben denselben Sachverhalt, nur anders formuliert: Sie sind austauschbar.Folgt eine Aussage aus einer anderen nicht, verwendet man „daraus folgt nicht“ ⇏ durchgestrichen. Auch hier gibt es  ⇎ „daraus folgt nicht äquivalent“ – was aber keine Aussage trifft, ob nicht die Schlussfolgerung in einer Richtung korrekt ist:
+
+x ist durch 4 teilbar ⇎ x ist durch 2 teilbar
+mit dem ersten Beispiel, weil man aus x gerade nicht folgern kann, dass x durch 4 teilbar ist, sondern nur, dass es durch 2 teilbar ist: Die Aussagen „gerade“ und „durch 2 teilbar“ sind äquivalent.In den verschiedenen Teilgebieten und für präzisere Aussagen gibt es zahlreiche speziellere Abwandlungen dieser Pfeilsymbolik.Der Pfeil kann auch mit => (Gleichheitszeichen und Größerzeichen) dargestellt werden, und wird in einigen Editoren nach der Eingabe umgewandelt. 
+In Unicode befinden sich die mathematischen Folgepfeile im Unicodeblock Pfeile (Pfeile, 2190–21FF), und zwar an den Codepoints:
+
+Außerdem gibt es dieselben Pfeile nach oben und unten, was man in Flussdiagramm-artigem Satz verwenden kann (im selben Block), sowie in verlängerter Form, wenn das im Satz notwendig ist (im Unicodeblock Zusätzliche Pfeile-A 27F0–27FF) 
+In TeX werden sie als \Leftarrow  und \Rightarrow und \Leftrightarrow (mit dem Großbuchstaben in ausdrücklicher Unterscheidung zum einfachen Pfeil) beziehungsweise \nLeftarrow, \nRightarrow, \nLeftrightarrow (mit vorangestelltem kleinen „n“ für Negation) gesetzt. Auch hier gibt es etliche Varianten:

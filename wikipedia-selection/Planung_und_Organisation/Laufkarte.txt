@@ -1,0 +1,11 @@
+Die Laufkarte ist eine Produktionsunterlage, die im Rahmen der Produktionsprozesssteuerung erstellt wird und ein Werkstück beim Durchlauf durch mehrere oder eine Abteilung, Kosten- oder Hilfskostenstelle des Betriebes begleitet.Die Laufkarte kann die Form eines DIN A4-Blattes haben. Auf der Laufkarte sind oben folgende Merkmale enthalten:
+
+Lieferadresse
+Datum
+Sachbearbeiter
+Bestellnummer
+Versandart
+Kundennummer
+AuftragsnummerIn der weiteren Form folgt auf der Laufkarte die eigentliche Information, welche Vorprodukte bzw. Produkte bearbeitet, kommissioniert, bereitgestellt, verpackt und verschickt werden sollen:
+
+Am Ende der Laufkarte signiert der Bearbeiter der Laufkarte mit seinem Kurzzeichen. Die einzelnen Positionen der Laufkarte kennzeichnet der Laufkartenbearbeiter mit einem Häkchen. Die abgearbeitete Laufkarte löst den Ausdruck eines Lieferscheines und einer Rechnung an den Kunden aus.

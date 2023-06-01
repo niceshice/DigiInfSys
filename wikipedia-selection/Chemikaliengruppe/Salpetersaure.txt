@@ -1,0 +1,182 @@
+Salpetersäure (HNO3), genannt auch Scheidewasser, ist die bekannteste und stabilste Sauerstoffsäure des Stickstoffs. Die Säure wird seit 1908 großtechnisch im Ostwald-Verfahren durch katalytische Oxidation von Ammoniak hergestellt. Das Ammoniak wird zuvor mit dem Haber-Bosch-Verfahren aus Luftstickstoff und Wasserstoff hergestellt.
+Die Salze der Salpetersäure heißen Nitrate. Der Name Salpetersäure leitet sich von den Trivialnamen einiger Alkali- und Erdalkalisalze der Säure ab, die mit der Bezeichnung Salpeter enden wie z. B.: Natriumnitrat (Chilesalpeter), Kaliumnitrat (Kalisalpeter), Ammoniumnitrat (Ammonsalpeter), Calciumnitrat (Kalksalpeter oder Mauersalpeter), Bariumnitrat (Barytsalpeter). Bis 1908 wurde Salpetersäure aus den verschiedenen Salpetersorten  durch Zugabe einer starken, schwer flüchtigen Säure (Schwefelsäure) gewonnen.
+Der Name der Salze der Salpetersäure Nitrate wird sehr häufig auch benutzt, um einige organische Verbindungen der Salpetersäure – nämlich die Ester der Salpetersäure – zu benennen. So wird z. B. der Methylester der Salpetersäure als Metylnitrat bezeichnet (s. dazu auch Nitrate), obwohl in den Estern  völlig andere Bindungsverhältnisse vorliegen als in Salzen. Erschwerend und die Verwirrung noch erhöhend kommt hinzu, dass einige spezielle Ester der Salpetersäure in der Umgangssprache  weder richtig als Ester noch falsch als Nitrate bezeichnet werden, sondern als sog. Nitroverbindungen, wie z. B. Nitroglycerin (richtige Benennung: Trisalpetersäureglycerinester) oder Nitrocellulose oder Cellulosenitrat.
+Als starke anorganische Säure liegt die Salpetersäure in wässriger Lösung weitgehend dissoziiert vor und zählt zu den Mineralsäuren. Die reine Säure ist farblos und hat einen scharf stechenden Geruch. Sie wird unter anderem zur Herstellung von Düngemitteln, Farb- und Sprengstoffen verwendet.In der Schrift De inventione veritatis aus dem 12. Jahrhundert wird erwähnt, dass bereits im 9. Jahrhundert der arabische Alchimist Geber rohe Salpetersäure („Aqua dissolutiva“) durch trockenes Erhitzen von Salpeter (lat. sal petrae = Felsensalz; KNO3), Cyprischem Vitriol (CuSO4·5 H2O) und Alaun (KAl(SO4)2·12 H2O) gewonnen haben soll. Im 13. Jahrhundert soll Albertus Magnus die Salpetersäure benutzt haben, um Gold und Silber zu trennen (Scheidewasser, aqua fortis). Jedoch wurden viele Schriften Albertus Magnus nur zugeschrieben, um ihnen höheres Gewicht zu verleihen, wahrscheinlich auch die über die Verwendung der Salpetersäure. Später wurde Salpeter mit Eisenvitriol (FeSO4·7 H2O) erhitzt, was höhere Ausbeuten bei niedrigerer Temperatur lieferte.
+J. R. Glauber gewann Mitte des 17. Jahrhunderts reinen spiritus nitri durch Umsetzung und Destillation von Salpeter mit Schwefelsäure, einem bis heute gebräuchlichen Laborverfahren zur Herstellung der Salpetersäure, die im Mittelalter auch aqua fortis oder aqua valens und im englischen Sprachraum strong water genannt wurde. Als Bestandteile der Salpetersäure erkannte A. L. Lavoisier Mitte des 18. Jahrhunderts die chemischen Elemente Stickstoff und Sauerstoff. Die genaue Zusammensetzung wurde von Henry Cavendish bestimmt, dem auch die Synthese aus dem Stickstoff der Luft durch elektrische Entladung gelang.
+Eine rationelle Fabrikation begann erst Anfang des 19. Jahrhunderts, als billige Schwefelsäure und Chilesalpeter in ausreichenden Mengen verfügbar waren. Auch die Luftverbrennung in einem elektrischen Lichtbogen wurde zu einem großtechnischen Verfahren entwickelt (Birkeland-Eyde-Verfahren, nach Kristian Birkeland und Sam Eyde), das jedoch nur in Ländern mit billigem Strom konkurrenzfähig war. Die katalytische Oxidation von Ammoniak über Platin wurde von C. F. Kuhlmann (1838) entdeckt. Bis zur Erfindung der Ammoniaksynthese durch Haber und Bosch blieb jedoch Ammoniak zu teuer im Vergleich zu Chilesalpeter. Zu Beginn des 20. Jahrhunderts entwickelte Wilhelm Ostwald die Herstellung von Salpetersäure aus Ammoniak zur industriellen Reife. Die billige Ammoniak-Oxidation hat heute alle anderen großtechnischen Verfahren verdrängt.Salpetersäure wird technisch seit 1908 nach dem Ostwaldverfahren hergestellt. Es handelt sich dabei um die katalytische Oxidation von Ammoniak. Das Ammoniak-Luft-Gemisch wird rasch (1/1000 s Berührungszeit) durch heiße Platin-Rhodium-Netze (Katalysator) geleitet. Bei 800 °C entsteht Stickstoffmonoxid, das beim Abkühlen mit überschüssigem Sauerstoff zu Stickstoffdioxid und dann in Rieseltürmen mit Wasser zu etwa 60%iger Salpetersäure reagiert. Die 60%ige Salpetersäure kann durch Destillation bis 68 % konzentriert werden, was dem Azeotrop mit Siedepunktmaximum (122 °C) entspricht. Höhere Konzentrationen lassen sich durch Rektifikation (Entwässerung) mit Schwefelsäure (H2SO4) oder mit wässriger Magnesiumnitrat-Lösung (Mg(NO3)2) oder durch Behandlung von Distickstofftetroxid (N2O4) mit der stöchiometrisch nötigen Menge von Sauerstoff (bzw. Luft) und Wasser erreichen.
+Im Labormaßstab kann Salpetersäure durch Umsetzung konzentrierter Schwefelsäure mit Nitraten dargestellt werden. Vor 1908 wurde Salpetersäure durch dieses Verfahren unter Verwendung von Natriumnitrat (Chilesalpeter) gewonnen.
+
+  
+    
+      
+        
+           
+          N
+          a
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+           
+          N
+          a
+          H
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ NaNO_{3}+\ H_{2}SO_{4}\longrightarrow \ NaHSO_{4}+\ HNO_{3}} }
+  Oft auftretende Verunreinigungen der Säure mit Halogenen oder Halogenwasserstoffen lassen sich durch Zugabe von Silbernitrat und anschließende Destillation beseitigen. Wasserfreie Salpetersäure erhält man, von einer durch Destillation hochkonzentrierten Säure ausgehend, durch Durchleiten von Inertgas oder der Destillation über Phosphorpentoxid oder Oleum.Salpetersäure ist in reinem Zustand farblos. Konzentrierte Salpetersäure zersetzt sich jedoch leicht (besonders unter Lichteinwirkung) und hat aufgrund des in ihr gelösten Stickstoffdioxids (NO2) oft einen gelblichen oder rötlichen Farbton.
+
+  
+    
+      
+        
+          4
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ HNO_{3}\longrightarrow 4\ NO_{2}+2\ H_{2}O+O_{2}} }
+  Reine Salpetersäure, die freies Stickstoffdioxid enthält, wird rauchende Salpetersäure genannt. Sie enthält über 90 % HNO3, wirkt stark oxidierend und kann manche leicht brennbaren Stoffe entzünden; daher gilt Salpetersäure ab 70 % als brandfördernd. Salpetersäure, die durch gelöstes Stickstoffdioxid gelb gefärbt ist, kann durch eine kleine Menge Harnstoff oder besser Harnstoffnitrat entfärbt werden.
+Salpetersäure ist sowohl ein starkes Oxidationsmittel als auch eine starke Säure. Nichtmetallische Elemente wie Kohlenstoff, Iod, Phosphor und Schwefel werden durch konzentrierte Salpetersäure zu ihren Oxiden oder Oxosäuren unter Bildung von Stickstoffdioxid oxidiert, zum Beispiel
+
+  
+    
+      
+        
+          S
+          +
+          6
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          6
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {S+6\ HNO_{3}\longrightarrow H_{2}SO_{4}+6\ NO_{2}+2\ H_{2}O} }
+  Darüber hinaus werden viele Verbindungen durch Salpetersäure oxidiert. Salzsäure wird zu Chlor und Chlordioxid oxidiert.
+Nitrate, die Salze der Salpetersäure, entstehen, wenn Metalle oder deren Oxide, Hydroxide oder Carbonate mit Salpetersäure reagieren. Die meisten Nitrate sind wasserlöslich, und Salpetersäure wird hauptsächlich zur Herstellung löslicher Metallnitrate verwendet.
+Salpetersäure reagiert mit den meisten Metallen unter Bildung wasserlöslicher Nitrate. Ausnahmen sind die Edelmetalle Gold, Platin und Iridium. Auch Aluminium, Titan, Zirconium, Hafnium, Niob, Tantal und Wolfram widerstehen der Salpetersäure durch Passivierung. Weiter ist Eisen infolge Passivierung resistent gegenüber kalter, Chrom auch gegenüber heißer Salpetersäure. Dabei bildet sich auf dem Metall eine fest haftende, undurchlässige Oxidschicht. Da man somit Gold und Silber trennen konnte, wurde sie früher Scheidewasser genannt. Mischungen von Salpetersäure mit Salzsäure (Königswasser) oder Selensäure reagieren auch mit Gold und Platin.
+
+Salpetersäure färbt Proteine, die aromatische Aminosäuren wie L-Phenylalanin oder L-Tyrosin enthalten, unter Nitrierung des Benzolrings gelb. Diese Xanthoprotein-Reaktion kann zum Nachweis von aromatischen Aminosäuren und Proteinen benutzt werden.Salpetersäure ist einer der wichtigsten Grundstoffe der chemischen Industrie. Sie dient:
+
+zur Herstellung von Nitraten und Düngemitteln,
+als Scheidewasser zur Trennung (Quartation) von Gold und Silber (Silber reagiert unter Bildung von löslichem Silbernitrat),
+in Mischungen mit Salzsäure als Königswasser zum Lösen von Gold, sowie zum Vergolden und zum Nachweis von Gold,
+zum Beizen und Brennen von Metallen (grafische und galvanische Technik),
+zur Nitrierung von organischen Stoffen bei der Herstellung von Farbstoffen, Heilmitteln, Desinfektionsmitteln und Explosivstoffen wie Nitroglycerin oder Schießbaumwolle,
+zur Herstellung von Celluloid, Nitrolacken und Zaponlacken,
+zum Verändern von Fetten (Wasserlöslichkeit) zum Zwecke der Reinigung,
+zum Polieren von Metallen,
+in Raketentreibstoffen als Oxidationsmittel (WFNA und RFNA).Salpetersäure kann im Labor wie die Nitrate durch die Ringprobe und durch Lunges Reagenz nachgewiesen werden.Salpetersäure wirkt auf Haut, Atemwege und Schleimhäute ätzend. Das Einatmen der Dämpfe kann zu einem toxischen Lungenödem führen. Diese Gefahr besteht vor allem beim Erhitzen oder bei der konzentrierten Säure. In hoher Konzentration ist sie ein starkes Oxidationsmittel und wirkt brandfördernd. Salpetersäure reagiert mit den meisten Metallen unter Bildung von toxischem Stickstoffdioxid. Beim Arbeiten mit Salpetersäure sind eine Schutzbrille oder ein Gesichtsschild, geeignete Schutzhandschuhe und ein geschlossener Arbeitskittel zu tragen. Besteht die Gefahr, dass in einem Raum Salpetersäure-Dämpfe oder Stickoxide frei werden, muss ein Atemschutz-Gerät getragen werden. Salpetersäure eignet sich aus diesem Grund nicht für Reinigungs-Zwecke im Haushalt. Das Arbeiten im Labor erfolgt stets in einem Abzug. Für Flaschen mit konzentrierter Salpetersäure wird ein Teflonverschluss empfohlen.

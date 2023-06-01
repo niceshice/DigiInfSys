@@ -1,0 +1,186 @@
+In der Logik versteht man unter dem Bereich, der Reichweite oder dem Skopus (engl. scope „Bereich“, von lat. scopus „Ziel“) eines Quantors die kürzeste Formel, die diesem Quantor unmittelbar folgt.
+Der Begriff wird zum Beispiel dazu verwendet, die Begriffe der Freiheit und der Gebundenheit von Variablen zu definieren.
+Es gilt:
+
+Ein Vorkommen einer Variable ist frei in einer Formel B, wenn es nicht im Bereich eines Quantors vorkommt.
+Ein Vorkommen einer Variable wird durch ein Vorkommen eines Quantors gebunden, wenn die Variable im Bereich B des Quantors vorkommt und wenn die Variable in B frei ist.Als Beispiel betrachten wir die beiden Aussagen
+
+A: 
+  
+    
+      
+        ∀
+        x
+        (
+        ∃
+        x
+        G
+        (
+        x
+        )
+        ∧
+        (
+        F
+        (
+        x
+        )
+        ⊃
+        H
+        (
+        x
+        )
+        )
+        )
+      
+    
+    {\displaystyle \forall x(\exists xG(x)\wedge (F(x)\supset H(x)))}
+  und 
+
+B: 
+  
+    
+      
+        ∀
+        x
+        (
+        ∃
+        x
+        (
+        G
+        (
+        x
+        )
+        ∧
+        F
+        (
+        x
+        )
+        )
+        ⊃
+        H
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle \forall x(\exists x(G(x)\wedge F(x))\supset H(x))}
+  Der Skopus des Existenzquantors 
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+   besteht in Aussage A nur aus der Formel 
+  
+    
+      
+        G
+        (
+        x
+        )
+      
+    
+    {\displaystyle G(x)}
+  , in Aussage B aus 
+  
+    
+      
+        G
+        (
+        x
+        )
+        ∧
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle G(x)\wedge F(x)}
+  , der Skopus des Allquantors 
+  
+    
+      
+        ∀
+        x
+      
+    
+    {\displaystyle \forall x}
+   geht in beiden Fällen über die ganze Formel.
+Wir können nun zeigen, dass das x in 
+  
+    
+      
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle F(x)}
+   in A durch den Allquantor und in B durch den Existenzquantor gebunden wird. Im ersten Fall ist der Skopus des Allquantors die Formel:
+
+  
+    
+      
+        ∃
+        x
+        G
+        (
+        x
+        )
+        ∧
+        (
+        F
+        (
+        x
+        )
+        ⊃
+        H
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle \exists xG(x)\wedge (F(x)\supset H(x))}
+  Wie schon gesagt, steht das x von 
+  
+    
+      
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle F(x)}
+   hier nicht im Skopus des Existenzquantors. Das Vorkommen ist also frei. Ein freies Vorkommen einer Variable im Skopus eines Quantors wird durch diesen Quantor gebunden, die Variable wird also durch den Allquantor gebunden.
+In B ist der Skopus des Existenzquantors die Formel:
+
+  
+    
+      
+        G
+        (
+        x
+        )
+        ∧
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle G(x)\wedge F(x)}
+  In dieser Formel sind beide Variablen frei, sie werden also durch den Existenzquantor gebunden.
+Dem Skopus-Unterschied entspricht auch ein Unterschied in der Bedeutung der beiden Formeln:
+Um dies zu verdeutlichen, interpretieren wir G(x) als „x ist Gott“, F(x) „x ist gerecht“ und H(x) als „x ist glücklich“. Dann ist Aussage A zu lesen als 
+
+Es gibt einen Gott, und alle Gerechten sind glücklichAussage B dagegen als
+
+Wenn es einen Gott gibt, der gerecht ist, sind alle glücklich.

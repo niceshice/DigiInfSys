@@ -1,0 +1,204 @@
+Die Gewinnquote ist eine volkswirtschaftliche oder betriebswirtschaftliche Kennzahl, welche die Gewinne der Unternehmer dem Volkseinkommen oder den Umsatzerlösen gegenüberstellt.Bei der Gewinnquote unterscheiden sich Volkswirtschaftslehre und Betriebswirtschaftslehre durch die Verwendung unterschiedlicher Aggregate. Volkswirtschaftlich ist der Gewinn das gesamte Einkommen aus Unternehmertätigkeit in einem Staat, betriebswirtschaftlich der Jahresüberschuss eines einzelnen Unternehmens innerhalb eines Geschäftsjahres. Als Nenner dient volkswirtschaftlich das Volkseinkommen oder die Bruttowertschöpfung, betriebswirtschaftlich der Umsatzerlös eines Unternehmens.Die Gewinnquote ist das Einkommen aus Unternehmertätigkeit (Unternehmerlohn) und Vermögen (Kapitalertrag wie Zinserträge, Dividenden, Miet- und Pachteinnahmen), dividiert durch die Bruttowertschöpfung oder durch das Volkseinkommen. Da Kapital- und Mieterträge auch Privathaushalten zufließen, ist der Kapitalertrag um diesen Bestandteil zu bereinigen. Die Gewinnquote 
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+      
+    
+    {\displaystyle G_{q}}
+   ergibt sich dann durch Gegenüberstellung der bereinigten Kapitalerträge 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   mit dem Volkseinkommen oder der Bruttowertschöpfung 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  :
+
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+        =
+        
+          
+            K
+            Y
+          
+        
+      
+    
+    {\displaystyle G_{q}={\frac {K}{Y}}}
+  .Sie zeigt an, welcher Anteil der im Produktionsprozess entstandenen Wertschöpfung auf die Vergütung des Produktionsfaktors Kapital entfällt.
+Die funktionale Einkommensverteilung wird durch die Gewinnquote und die Lohnquote gemessen. Da die Lohnquote 
+  
+    
+      
+        
+          L
+          
+            q
+          
+        
+      
+    
+    {\displaystyle L_{q}}
+   die Einkünfte aus nichtselbständiger Arbeit erfasst, bildet sie die Restgröße des Volkseinkommens, so dass das Arbeitseinkommen 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   mit dem – auf Privathaushalte entfallenden – Gewinneinkommen 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   das Volkseinkommen 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   ergibt:
+
+  
+    
+      
+        L
+        +
+        G
+        =
+        Y
+      
+    
+    {\displaystyle L+G=Y}
+  .Mithin ist
+
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+        +
+        
+          L
+          
+            q
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle G_{q}+L_{q}=1}
+  .Steigen die Arbeitskosten, ist damit eine Verringerung der Gewinnquote verbunden und umgekehrt. Wollen die Unternehmer dies verhindern, müssen sie eine Überwälzung der Lohnsteigerung auf die Preise versuchen.Bei gegebener Sparquote ist die Gewinnquote eine Funktion der Investitionsquote. Nicholas Kaldor zufolge ist die Gewinnquote positiv korreliert mit der Investitionsquote, denn die Unternehmer können durch ihre Investitionen die Höhe ihrer Gewinnquoten bestimmen. Bei gleichbleibenden Sparquoten ist eine höhere Investitionsquote stets mit einer größeren Gewinnquote verbunden. Einer höheren Investitionsquote kann jedoch auch eine niedrigere Gewinnquote gegenüberstehen, allerdings nur, wenn die Sparneigungen der Privathaushalte entsprechend gestiegen sind. Eine steigende Kapitalproduktivität erfordert eine sinkende Gewinn- und Investitionsquote und eine wachsende Konsumquote.
+Die Höhe der Gewinnquote ist auch von der Entwicklung der Kapitalerträge, von deren Besteuerung durch Ertragsteuern und von der Veränderung des Volkseinkommens abhängig. Aber auch bereits strukturelle Veränderungen der Erwerbspersonen, etwa durch Zunahme der Arbeitnehmer und Abnahme der Selbständigen, vermindert die Gewinnquote und erhöht entsprechend die Lohnquote.
+StatistikGewinnquote der Bruttowertschöpfung nicht-finanzieller Kapitalgesellschaften:
+Die höchsten Gewinnquoten gab es 2017 in Irland und Malta, gleichzeitig auch Niedrigsteuerländer, die niedrigsten verzeichneten Luxemburg und Frankreich, die zu den Hochsteuerländern gehören. Der Zusammenhang zwischen Gewinnquote und Steuerniveau ergibt sich aus den gewinnabhängigen Ertragsteuern, welche die Höhe der Gewinnquoten beeinflussen.Die Gewinnquote der Unternehmen ist definiert als der Bruttobetriebsüberschuss dividiert durch die Bruttowertschöpfung. Bilanziell kann die betriebswirtschaftliche Gewinnquote 
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+      
+    
+    {\displaystyle G_{q}}
+   als Gegenüberstellung des Betriebsergebnisses 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   mit den Umsatzerlösen 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   dargestellt werden:
+
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+        =
+        
+          
+            B
+            U
+          
+        
+      
+    
+    {\displaystyle G_{q}={\frac {B}{U}}}
+  .Alternativ ist auch die EBIT-Marge als Gewinnquote anzusehen:
+
+  
+    
+      
+        
+          EBIT-Marge in Prozent
+        
+        =
+        
+          
+            EBIT
+            U
+          
+        
+        ⋅
+        100
+        
+        %
+      
+    
+    {\displaystyle {\text{EBIT-Marge in Prozent}}={\frac {\text{EBIT}}{\text{U}}}\cdot 100\,\%}
+  .Als Umsatzgewinnrate stellt sie den Jahresüberschuss oder Gewinn vor Steuern den Umsatzerlösen gegenüber und gibt Einblick in die Ertragslage eines Unternehmens. Ähnliche Kennzahlen sind die Bruttomarge und die Umsatzrendite.
+Eine Erhöhung der Gewinnquote ist einerseits durch Erhöhung der Verkaufspreise sowie des Absatzvolumens (bei konstanten Verkaufspreisen) und andererseits durch Kostensenkung möglich.
+StatistikenUmsatzrenditen im deutschen Mittelstand:
+Ausgewählte DAX-Unternehmen wiesen 2017 folgende Netto-Umsatzrenditen aus:
+Die höchste Umsatzrendite erzielte Vonovia (42,9 %), gefolgt von Bayer AG (23,1 %) und SAP (21,4 %). Eher renditeschwach präsentierten sich die Commerzbank und die Post, während die Deutsche Bank sogar Verluste verzeichnete.Die Gewinnquote darf nicht mit der Gewinnmarge verwechselt werden, letztere ist ein Teil der Preiskalkulation.

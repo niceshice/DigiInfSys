@@ -1,0 +1,11 @@
+In der Chemie bezeichnet man als Universalindikator einen pH-Indikator, der in einem sehr weiten Bereich pH-Werte durch ein breites Spektrum an Farbumschlägen erkennbar macht.Es handelt sich dabei meist nicht um eine einzelne Substanz, sondern eine Mischung von mehreren Indikatorsubstanzen je verschiedener Farbe und verschiedener Umschlagsbereiche, die so abgestimmt ist, dass das Produkt mit jeder pH-Einheit ihre Farbe ändert. Eine Möglichkeit ist eine Mischung unterschiedlicher Mengen von Thymolblau, Bromthymolblau, Methylrot und Phenolphthalein.
+
+Der Universalindikator ist deshalb nicht für Titrationen bestimmt, wo ein möglichst genau definierter Umschlagspunkt erwünscht ist – hier verwendet man Einzelsubstanzen wie Methylorange oder Phenolphthalein. Sie eignen sich vielmehr dazu, einen unbekannten pH-Wert im Bereich von 0 bis 14 grob zu bestimmen.
+
+Durch Imprägnieren von Filterpapieren mit Indikatorlösungen erhält man sogenannte Indikatorpapiere. Im Fall von Universalindikatoren spricht man von Universalindikatorpapier. Dieses ist im Handel häufig als Streifen in Rollen aber auch in anderen Zuschnitten erhältlich. Mit angefeuchtetem Universalindikatorpapier können auch Gase nachgewiesen werden, wie etwa Ammoniak bei der Kreuzprobe. Die folgende Tabelle zeigt exemplarisch für einen typischen Universalindikator die in Abhängigkeit vom pH-Wert auftretenden Farben:
+
+Eine Mischung aus gleichen Teilen Methylrot, Methylgelb, Thymolblau und Bromthymolblau verfärbt sich wie eine Ampel von rot über gelb nach grün.
+Ein natürlicher Universalindikator ist im Rotkohl und damit auch in zum Kochen von Rotkohl benutztem Wasser enthalten. Es handelt sich hierbei um den Farbstoff Cyanidin (im Rotkohl mit Zuckerresten verbunden als Anthocyanidine), der im Sauren rot (daher Rotkohl bei Zubereitung mit Essig), im schwach Basischen blau (Blaukohl in Zubereitung mit Natron) und grün, und gelb im stark Basischen gefärbt ist. In der Praxis eignet sich dieser Indikator allerdings nur zum groben Abschätzen des vorliegenden Milieus.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,357 @@
+Die Pränexform ist eine mögliche Normalform, in der Aussagen der Prädikatenlogik dargestellt werden können. Sie wird unter anderem als Vorstufe zur Skolemform benötigt.
+Eine Aussage in der Prädikatenlogik erster Stufe befindet sich in Pränexform, wenn alle Quantoren (Beschreibungen des Geltungsbereichs) außerhalb bzw. vor der eigentlichen Formel stehen. Enthält die Pränexform zusätzlich nur Konjunktion, Disjunktion und Negation (unmittelbar vor Atomen) als Junktoren, so wird sie auch als verneinungstechnische Normalform bezeichnet.
+In der klassischen Prädikatenlogik gibt es zu jeder Formel eine logisch äquivalente Formel in Pränexform. In der intuitionistischen Logik ist das nicht notwendig gegeben.
+Eine Formel in bereinigter Pränexform ist erfüllbar, wenn ihre Skolemform erfüllbar ist.Eine Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   der Prädikatenlogik befindet sich in Pränexform, wenn sie von der Form
+
+  
+    
+      
+        F
+        =
+        
+          Q
+          
+            1
+          
+        
+        
+          y
+          
+            1
+          
+        
+        
+          Q
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        …
+        
+          Q
+          
+            k
+          
+        
+        
+          y
+          
+            k
+          
+        
+        
+          
+            
+              F
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle F=Q_{1}y_{1}Q_{2}y_{2}\dots Q_{k}y_{k}{\hat {F}}}
+  
+ist, mit
+
+  
+    
+      
+        k
+        ≥
+        0
+      
+    
+    {\displaystyle k\geq 0}
+   und
+
+  
+    
+      
+        
+          Q
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          Q
+          
+            k
+          
+        
+        ∈
+        
+          {
+          
+            ∀
+            ,
+            ∃
+          
+          }
+        
+      
+    
+    {\displaystyle Q_{1},\dots ,Q_{k}\in \left\{\forall ,\exists \right\}}
+  .In 
+  
+    
+      
+        
+          
+            
+              F
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {F}}}
+   darf kein Quantor vorkommen.
+
+  
+    
+      
+        
+          Q
+          
+            1
+          
+        
+        
+          y
+          
+            1
+          
+        
+        
+          Q
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        …
+        
+          Q
+          
+            k
+          
+        
+        
+          y
+          
+            k
+          
+        
+      
+    
+    {\displaystyle Q_{1}y_{1}Q_{2}y_{2}\dots Q_{k}y_{k}}
+   heißt Präfix, 
+  
+    
+      
+        
+          
+            
+              F
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {F}}}
+   ist die Matrix.Die Pränexform ist nicht eindeutig. So hat die Formel
+
+  
+    
+      
+        ∀
+        x
+        p
+        (
+        x
+        )
+        →
+        ∀
+        y
+        q
+        (
+        y
+        )
+      
+    
+    {\displaystyle \forall xp(x)\rightarrow \forall yq(y)}
+  die beiden Pränexformen
+
+  
+    
+      
+        ∃
+        x
+        ∀
+        y
+        (
+        p
+        (
+        x
+        )
+        →
+        q
+        (
+        y
+        )
+        )
+      
+    
+    {\displaystyle \exists x\forall y(p(x)\rightarrow q(y))}
+  und
+
+  
+    
+      
+        ∀
+        y
+        ∃
+        x
+        (
+        p
+        (
+        x
+        )
+        →
+        q
+        (
+        y
+        )
+        )
+      
+    
+    {\displaystyle \forall y\exists x(p(x)\rightarrow q(y))}Die Ausgangsformel lautet: 
+
+  
+    
+      
+        ∀
+        x
+        .
+        P
+        (
+        x
+        )
+        ∧
+        ∀
+        y
+        .
+        Q
+        (
+        y
+        )
+        ∧
+        ∀
+        z
+        .
+        R
+        (
+        z
+        ,
+        y
+        )
+      
+    
+    {\displaystyle \forall x.P(x)\land \forall y.Q(y)\land \forall z.R(z,y)}
+  Es kommt die Variable y sowohl gebunden als auch frei vor. Dies darf in der Pränexform aber nicht sein. Deshalb wird eine neue Variable eingeführt: w. Nach der Anpassung sieht das nun so aus:
+
+  
+    
+      
+        ∀
+        x
+        .
+        P
+        (
+        x
+        )
+        ∧
+        ∀
+        w
+        .
+        Q
+        (
+        w
+        )
+        ∧
+        ∀
+        z
+        .
+        R
+        (
+        z
+        ,
+        y
+        )
+      
+    
+    {\displaystyle \forall x.P(x)\land \forall w.Q(w)\land \forall z.R(z,y)}
+  Nun kommt jede Variable entweder gebunden oder frei vor und somit können wir die Quantoren alle nach vorn „ziehen“, was dann folgendermaßen aussieht:
+
+  
+    
+      
+        ∀
+        x
+        .
+        ∀
+        w
+        .
+        ∀
+        z
+        .
+        (
+        P
+        (
+        x
+        )
+        ∧
+        Q
+        (
+        w
+        )
+        ∧
+        R
+        (
+        z
+        ,
+        y
+        )
+        )
+      
+    
+    {\displaystyle \forall x.\forall w.\forall z.(P(x)\land Q(w)\land R(z,y))}
+  
+
+
+== Einzelnachweise ==

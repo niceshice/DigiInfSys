@@ -1,0 +1,62 @@
+Eine normale Modallogik ist in der Logik eine Menge L von Modalformeln, so dass
+
+L folgendes enthält:
+alle propositionalen Tautologien,
+alle Instanzen des Kripke-Schemas: 
+  
+    
+      
+        ◻
+        (
+        A
+        →
+        B
+        )
+        →
+        (
+        ◻
+        A
+        →
+        ◻
+        B
+        )
+      
+    
+    {\displaystyle \Box (A\to B)\to (\Box A\to \Box B)}
+  
+und L geschlossen ist unter:
+dem Modus ponens: 
+  
+    
+      
+        A
+        →
+        B
+        ,
+        A
+        ⊢
+        B
+      
+    
+    {\displaystyle A\to B,A\vdash B}
+  ,
+der Notwendigkeits-Regel: 
+  
+    
+      
+        ⊢
+        A
+      
+    
+    {\displaystyle \vdash A}
+   impliziert 
+  
+    
+      
+        ⊢
+        ◻
+        A
+      
+    
+    {\displaystyle \vdash \Box A}
+  .Die kleinste Logik, die diese Bedingungen erfüllt, heißt K. Die heute am häufigsten benutzten Modallogiken, z. B. C. I. Lewis' S4 und S5, sind Erweiterungen von K. Jedoch sind einige Deontischen und Epistemische Logiken nicht-normal, oft weil sie das Kripke-Schema aufgeben.

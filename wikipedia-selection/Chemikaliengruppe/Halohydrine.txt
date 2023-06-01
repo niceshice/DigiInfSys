@@ -1,0 +1,4 @@
+Halohydrine sind eine Substanzklasse organischer Verbindungen, die als funktionelle Gruppe an ein Kohlenstoff-Atom ein Halogen als Substituenten und an einem benachbarten Kohlenstoff-Atom eine Hydroxygruppe tragen.
+Sie werden in der Regel aus Olefinen durch Halogenierung in Anwesenheit von Wasser hergestellt. Als Halogenquelle dient hier häufig N-Bromsuccinimid (NBS) oder N-Chlorsuccinimid (NCS). Ein weiteres Verfahren ist die Umsetzung von Epoxiden mit Halogenwasserstoff-Säuren.
+In Anwesenheit einer Base entsteht das Halohydrin nur als Zwischenstufe und es findet eine intramolekulare Cyclisierung zum Epoxid statt. Dies ist die Umkehrung der Reaktion zur Darstellung von Halohydrinen aus Epoxiden mit Halogenwasserstoffsäuren.
+Epoxidierungen in biologischen Systemen können durch Halohydrindehalogenasen katalysiert werden.

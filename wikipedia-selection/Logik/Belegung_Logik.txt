@@ -1,0 +1,285 @@
+Im Rahmen der Interpretation formaler Systeme ist eine Belegung
+
+in der Aussagenlogik eine Abbildung, die jeder Aussagenvariablen einen Wahrheitswert w bzw. f zuordnet;
+in der Prädikatenlogik (bei vorgegebener Struktur S) eine Abbildung, die jeder freien Variablen aus S ein Element des Universums A zuordnet.In der Aussagenlogik ist eine Belegung definiert als eine Abbildung der Menge der Aussagevariablen 
+  
+    
+      
+        
+          
+            AV
+          
+        
+      
+    
+    {\displaystyle {\textbf {AV}}}
+   auf die Menge 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \{0,1\}}
+  . Es wird also jeder Aussagevariable 
+  
+    
+      
+        p
+        ∈
+        
+          
+            AV
+          
+        
+      
+    
+    {\displaystyle p\in {\textbf {AV}}}
+   ein Wahrheitswert zugeordnet.
+
+  
+    
+      
+        ω
+        :
+        
+          
+            AV
+          
+        
+        →
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \omega \colon {\textbf {AV}}\to \{0,1\}}
+  Die Anwendung dieser Abbildung auf ganze Formeln ist durch die rekursive Definition von 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   auf der ganzen Formelmenge der booleschen Formeln 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+   möglich.
+
+  
+    
+      
+        ω
+        :
+        
+          
+            F
+          
+        
+        →
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \omega \colon {\mathcal {F}}\to \{0,1\}}
+  mit
+
+  
+    
+      
+        ω
+        (
+        α
+        ∧
+        β
+        )
+        =
+        ω
+        α
+        ∧
+        ω
+        β
+      
+    
+    {\displaystyle \omega (\alpha \land \beta )=\omega \alpha \land \omega \beta }
+  
+  
+    
+      
+        ω
+        (
+        α
+        ∨
+        β
+        )
+        =
+        ω
+        α
+        ∨
+        ω
+        β
+      
+    
+    {\displaystyle \omega (\alpha \lor \beta )=\omega \alpha \lor \omega \beta }
+  
+  
+    
+      
+        ω
+        ¬
+        α
+        =
+        ¬
+        ω
+        α
+      
+    
+    {\displaystyle \omega \neg \alpha =\neg \omega \alpha }
+  Diese Definition ist hier Beispielhaft für die logische Signatur 
+  
+    
+      
+        {
+        ∧
+        ,
+        ∨
+        ,
+        ¬
+        }
+      
+    
+    {\displaystyle \{\land ,\lor ,\neg \}}
+   aufgeführt. Wenn die Signatur noch andere Junktoren enthält, so muss die Definition erweitert werden.
+Damit ist gewährleistet, dass 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   eine ganze Formel 
+  
+    
+      
+        α
+        ∈
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle \alpha \in {\mathcal {F}}}
+   verarbeiten kann. Auf der untersten Ebene werden jedoch immer noch den einzelnen Aussagevariablen diskrete Werte zugewiesen. Belegt man nun eine solche Formel, so ist es möglich für sie eine zu der Belegung korrespondierenden gesamten Wahrheitswert für die ganze Formel zu ermitteln.
+Die Menge aller Belegungen einer Formel 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   wird meistens mit Hilfe einer Wertetabelle dargestellt.
+
+  
+    
+      
+        
+          ω
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \omega _{k}}
+  (
+  
+    
+      
+        1
+        ≤
+        k
+        ≤
+        n
+      
+    
+    {\displaystyle 1\leq k\leq n}
+  ) bezieht sich dabei auf die entsprechende Zeile, die die Belegung der einzelnen, in 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   vorkommenden, Variablen widerspiegelt. Auf Grundlage diese Belegung werden in der Logik noch weiterführend Begriffe wie die Tautologie aufgebaut.Die Variablen der Struktur seien 
+  
+    
+      
+        
+          v
+          
+            n
+          
+        
+        ,
+        n
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle v_{n},n\in \mathbb {N} }
+  . Eine Belegung wird z. B. durch die Funktion 
+  
+    
+      
+        β
+        (
+        
+          v
+          
+            n
+          
+        
+        )
+        =
+        2
+        n
+      
+    
+    {\displaystyle \beta (v_{n})=2n}
+   für 
+  
+    
+      
+        n
+        ≥
+        0
+      
+    
+    {\displaystyle n\geq 0}
+   gegeben.

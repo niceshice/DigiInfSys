@@ -1,0 +1,46 @@
+Ein Anwendungsfall (engl. use case) bündelt alle möglichen Szenarien, die eintreten können, wenn ein Akteur versucht, mit Hilfe des betrachteten Systems ein bestimmtes fachliches Ziel (engl. business goal) zu erreichen. Er beschreibt, was inhaltlich beim Versuch der Zielerreichung passieren kann und abstrahiert von konkreten technischen Lösungen. Das Ergebnis des Anwendungsfalls kann ein Erfolg oder Fehlschlag/Abbruch sein.Anwendungsfälle werden typischerweise so benannt, wie die Ziele aus Sicht der Akteure heißen: Mitglied anmelden, Geld abheben, Auto zurückgeben.
+Die Granularität von Anwendungsfällen kann sich stark unterscheiden: Auf sehr hohem Niveau beschreibt ein Anwendungsfall lediglich sehr grob und abstrakt, was passiert. Die Technik des Anwendungsfall-Schreibens kann jedoch bis auf Ebene von IT-Prozessen verfeinert werden, sodass das Verhalten einer Anwendung detailliert beschrieben wird. Dies widerspricht der ursprünglichen Intention von Use Cases, ist aber manchmal zweckmäßig.
+Anwendungsfall und Geschäftsprozess werden oft ungenau voneinander abgegrenzt. Der Bezug zur Systemtheorie zeigt jedoch, dass Anwendungsfälle und Geschäftsprozesse jeweils eine andere Sicht auf das zu modellierende System beschreiben:
+
+Anwendungsfälle beschreiben, was die Umwelt vom System erwartet.
+Ein Geschäftsprozess beschreibt eine Folge von Einzeltätigkeiten, die schrittweise ausgeführt werden, um ein geschäftliches oder betriebliches Ziel zu erreichen.Diese Abgrenzung gilt unabhängig von der Art des zu modellierenden Systems für Unternehmen und Software gleichermaßen. Sie ist auch nicht mit der Unterscheidung zwischen White-Box- und Black-Box-Modellierung gleichzusetzen.
+Die Begriffe Geschäftsanwendungsfall (engl. business use case) und Systemanwendungsfall (engl. system use case) hingegen beschreiben den inhaltlichen Umfang des betrachteten Systems:
+
+Bei einem Systemanwendungsfall ist der inhaltliche Umfang durch das zu entwickelnde System gesetzt.
+Bei einem Geschäftsanwendungsfall ist der inhaltliche Umfang durch eine organisatorische Einheit gesetzt, beispielsweise eine Firma oder Abteilung.Üblicherweise werden Geschäftsanwendungsfälle dafür genutzt, die Systemanwendungsfälle in einen gemeinsamen Kontext einzubetten und weitere Anforderungen aufzudecken.
+Anwendungsfälle wurden bereits vor Etablierung der UML eingesetzt. Zusammenhängende Anwendungsfälle können in einem Anwendungsfalldiagramm dargestellt werden. Häufig wird mit diesem auch ein Systemkontextdiagramm erstellt.Der inhaltliche Aufbau eines Anwendungsfalls folgt meistens mittels einer zu definierenden Vorlage, die abhängig vom Kontext der späteren Benutzung des Anwendungsfalls ausgearbeitet werden muss. Meist werden für verschiedene Analysephasen auch unterschiedlich stark formalisierte Vorlagen verwendet, von der rein prosaischen Kurzbeschreibung bis zu einem vollständigen, ausgearbeiteten Anwendungsfall.
+Exemplarisch soll hier eine Schablone nach Cockburn vorgestellt werden:
+
+Name und Identifikationsnummer
+Anwendungsfälle haben einen Namen und werden nach Sachgruppen geordnet durchnummeriert, z. B. UC 2.01.
+Beschreibung (description)
+Hier erfolgt eine kurze Beschreibung, was im Anwendungsfall passiert. Kurz bedeutet, dass es zwei oder drei Zeilen sind, selten mehr.
+Beteiligte Akteure (actors)
+Akteure sind beteiligte Personen oder Systeme außerhalb (!) des beschriebenen Systems. Z. B. Anwender, angemeldeter Anwender, Kunde, System, Abrechnungsprozess. Die Akteure werden zuvor in einem eigenen Abschnitt dargestellt. Jacobson unterscheidet zwei Arten von Akteuren: Primäre Akteure sind die eigentlichen Benutzer des Systems. Neben diesen gibt es noch sekundäre Akteure (auch: „unterstützende Akteure“), die das System überwachen, warten und den Primärakteur bei seiner Zielerreichung unterstützen.
+Status
+Der Status sagt aus, wie weit die Arbeit an dem Anwendungsfall gediehen ist. In Arbeit, bereit zum Review, im Review, abgelehnt und abgenommen sind Beispiele.
+Verwendete Anwendungsfälle (includes)
+Wenn der Anwendungsfall auf andere Anwendungsfälle zurückgreift, werden diese Fälle hier aufgezählt. Aufzuzählen sind Name und Identifikationsnummer.
+Auslöser (rationale oder trigger)
+Der fachliche Grund bzw. die Gründe dafür, dass dieser Anwendungsfall ausgeführt wird.
+Vorbedingungen (preconditions)
+Alle Bedingungen, die erfüllt sein müssen, damit dieser Anwendungsfall ausgeführt werden kann. Gibt es keine Vorbedingungen, so steht hier „keine“.
+Invarianten
+Alle Bedingungen, die innerhalb und durch den Anwendungsfall nicht verändert werden dürfen, also auch in einem Misserfolgs- oder Fehlerszenario immer noch gewährleistet werden müssen.
+Nachbedingung/Ergebnis (postconditions)
+Der Zustand, der nach einem erfolgreichen Durchlauf des Anwendungsfalls erwartet wird.
+Standardablauf (normal flow)
+Hier wird das typische Szenario dargestellt, das leicht zu verstehen oder der am häufigsten vorkommende Fall ist. An seinem Ende steht die Zielerreichung des Primärakteurs. Die Ablaufschritte werden nummeriert und meist in strukturierter Sprache beschrieben. Ablaufpläne können jedoch ebenfalls benutzt werden, wenn es angebracht erscheint. Mittels der UML können diese Ablaufschritte in Aktivitätsdiagrammen oder Anwendungsfall-orientierten Sequenzdiagrammen dargestellt werden.
+Alternative Ablaufschritte (alternative flow)
+Dies sind Szenarien, die sich außerhalb des Standardablaufs auch bei der (versuchten) Zielerreichung des Anwendungsfalls ereignen können. Sie werden meistens als konditionale Verzweigungen der normalen Ablaufschritte dargestellt. An ihrem Ende steht ein Misserfolg, die Zielerreichung des Primärakteurs oder eine Rückkehr zum Standardablauf.
+Hinweise
+Kurze Erklärungen zum besseren Verständnis, Hinweise zu Nebeneffekten, Mengengerüsten soweit erforderlich und alles andere, das nicht weiter oben dargestellt werden kann.
+Änderungsgeschichte (use case history)
+Versionierung, Name des Autors, DatumEin Anwendungsfall beschreibt die Interaktionen zwischen Nutzer und System, die notwendig sind, um ein fachliches Ziel des Nutzers zu verwirklichen. Dabei dürfen die beschriebenen Abläufe nicht zu komplex werden. Als Anhaltspunkt kann der von Alistair Cockburn beschriebene Kaffeepausen-Test dienen: Der Anwendungsfall ist zu komplex, wenn „der Nutzer während der Interaktionen eine Kaffeepause einlegen“ würde.In der agilen Softwareentwicklung, ursprünglich speziell im Extreme Programming (XP), werden Use Cases aufgrund der organisatorischen Besonderheiten in einer noch knapperen Form verfasst. Aufgrund dieser noch weiter verknappten Form der Darstellung tragen sie nicht die Bezeichnung Use Case, sondern werden als User Story bezeichnet. Eine User Story in XP ähnelt eher der Kurzbeschreibung eines klassischen Use Case.Im Dezember 2011 veröffentlichten Ivar Jacobson, Ian Spence und Kurt Bittner das Konzept Use Case 2.0. Es beschreibt eine skalierbare, agile Technik zur Entwicklung von Anforderungen, mit denen die inkrementelle Systementwicklung gesteuert werden kann. Die Prinzipien des neuen Konzeptes sind:
+
+Beschreibe Dinge einfach – mit Geschichten („stories“)
+Verstehe das „Big Picture“
+Stelle den Nutzen in den Mittelpunkt
+Baue das System scheibchenweise („in slices“)
+Liefere das System in Inkrementen
+Passe dich den Bedürfnissen des Teams anDie Problemlösung für agile Projektplanung mit Use Cases liefert die Technik des „Slicings“ – dem Aufschneiden eines Use Cases in kleinere Einheiten, die dann innerhalb eines Sprints realisiert werden können.Mit der Robustheitsanalyse können spezielle Eigenschaften der Use Cases untersucht werden.

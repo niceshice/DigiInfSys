@@ -1,0 +1,233 @@
+Unter Kontraposition (von lateinisch contra ‚gegen‘ und lat. positio ‚Position‘, ‚Stellung‘, ‚Lage‘) versteht man in der Logik den Umkehrschluss einer Implikation, d. h. den Schluss von „Wenn A, dann B“ auf „Wenn nicht B, dann nicht A“.
+Tatsächlich ist die Aussage „Aus A folgt B“ sogar äquivalent zu ihrer Kontraposition „Aus nicht B folgt nicht A“.
+Nicht zulässig ist dagegen der Schluss „Aus B folgt A“ oder „Aus nicht A folgt nicht B“.„Wenn es regnet, dann ist der Fußgängerweg nass.“ Diese Aussage („Aus A folgt B“) ist äquivalent zu ihrer Kontraposition („Aus nicht B folgt nicht A“): „Wenn der Fußgängerweg nicht nass ist, dann regnet es nicht.“
+„Aus B folgt A“ gilt allerdings nicht: „Wenn der Fußgängerweg nass ist“, muss es nicht zwangsläufig regnen. Es kann (immer noch) regnen; es kann schon wieder regnen; es regnet nicht; oder der Fußgängerweg ist aus völlig anderen Gründen nass (Straßenreinigung, spielende Kinder).Aussage:
+
+  
+    
+      
+        ∀
+        a
+        ∈
+        
+          Z
+        
+        :
+        
+        
+          (
+          
+            a
+            ≡
+            1
+            
+              mod
+              
+                3
+              
+            
+            ⇒
+            
+              a
+              
+                2
+              
+            
+            ≡
+            1
+            
+              mod
+              
+                3
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \forall a\in \mathbb {Z} \colon \quad \left(a\equiv 1{\bmod {3}}\Rightarrow a^{2}\equiv 1{\bmod {3}}\right)}
+  Es gilt die Kontraposition:
+
+  
+    
+      
+        ∀
+        a
+        ∈
+        
+          Z
+        
+        :
+        
+        
+          (
+          
+            
+              a
+              
+                2
+              
+            
+            ≢
+            1
+            
+              mod
+              
+                3
+              
+            
+            ⇒
+            a
+            ≢
+            1
+            
+              mod
+              
+                3
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \forall a\in \mathbb {Z} \colon \quad \left(a^{2}\not \equiv 1{\bmod {3}}\Rightarrow a\not \equiv 1{\bmod {3}}\right)}
+  Falsch wäre jedoch:
+
+  
+    
+      
+        ∀
+        a
+        ∈
+        
+          Z
+        
+        :
+        
+        
+          (
+          
+            
+              a
+              
+                2
+              
+            
+            ≡
+            1
+            
+              mod
+              
+                3
+              
+            
+            ⇒
+            a
+            ≡
+            1
+            
+              mod
+              
+                3
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \forall a\in \mathbb {Z} \colon \quad \left(a^{2}\equiv 1{\bmod {3}}\Rightarrow a\equiv 1{\bmod {3}}\right)}
+  Denn 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        ≡
+        1
+        
+          mod
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a^{2}\equiv 1{\bmod {3}}}
+   ist zwar notwendig, aber nicht hinreichend für 
+  
+    
+      
+        a
+        ≡
+        1
+        
+          mod
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a\equiv 1{\bmod {3}}}
+  :
+Wenn 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        ≡
+        1
+        
+          mod
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a^{2}\equiv 1{\bmod {3}}}
+   gilt, kann neben 
+  
+    
+      
+        a
+        ≡
+        1
+        
+          mod
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a\equiv 1{\bmod {3}}}
+   auch 
+  
+    
+      
+        a
+        ≡
+        2
+        
+          mod
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a\equiv 2{\bmod {3}}}
+   gelten.

@@ -1,0 +1,17 @@
+Dimethylglyoxim, auch Diacetyldioxim, ist ein Dioxim und wird als Nachweisreagenz (Tschugajew-Reagenz) für verschiedene Schwermetallionen verwendet.Der Komplexbildner wurde erstmals 1905 von Lew Alexandrowitsch Tschugajew beschrieben.Dimethylglyoxim wird in einer mehrstufigen Reaktion gewonnen. Butanon (Methylethylketon) wird durch Nitrosierung mit Ethylnitrit in das Diacetylmonoxim überführt. Ohne vorherige Isolierung reagiert dieses mit Natrium-hydroxylamin-O-sulfonat zu Dimethylglyoxim.
+
+Syntheseverlauf von Dimethyldioxim, ausgehend von Butanon und Ethylnitrit.Dimethylglyoxim ist ein Komplexbildner, der mit Schwermetallionen wie Ni2+, Fe2+, Co2+, Cu2+, Pt2+, Pd2+ und Re7+ farbige Chelatkomplexe bildet. Als qualitativer Nachweis lassen sich die Komplexe unter den jeweils geeigneten Bedingungen (pH und Temperatur) fällen. Komplexe von Co, Fe, Ni, Pd und Re sind zur quantitativen, photometrischen Bestimmung geeignet.Die Komplexe haben folgende Färbungen:
+Nickel(II)-Komplex: himbeerrot
+Kupfer(II)-Komplex: violett
+Eisen(II)-Komplex: rot
+Cobalt(II)-Komplex: braunrot
+Palladium(II)-Komplex: gelb-gelblich
+Platin(II)-Komplex: braun und blau
+Blei(II)-Komplex: weiß
+Bismut(III)-Komplex: intensiv gelbDie mittels DSC bestimmte Zersetzungswärme beträgt −230 kJ·mol−1 bzw. −1980 kJ·kg−1.Besonders das rosarote bis himbeerrote, sehr schwer lösliche Bis(dimethylglyoximato)nickel(II) (Nickel-Dimethylglyoxim-Komplex; [Ni(dmg)2]) in ammoniakalischer Lösung dient als qualitativer Nickel(II)-Nachweis (siehe auch Nickeltest) und wird zur quantitativen Bestimmung, sowohl über fotometrische, als auch gravimetrische Methoden für Nickelsalze genutzt. Die Chelatverbindung ist quadratisch-planar gebaut.
+
+Die N-Ni-Bindungen sind somit koordinativer Natur.
+Die Färbung kann noch bei 0,015 µg Nickel / ml nachgewiesen werden. (Grenzkonzentration von 1 : 4·105)Im Festzustand formen sich die Komplexe zu Molekülstapeln, dessen Ni–Ni-Abstände jeweils 325 pm betragen.1%ige alkoholische Lösung von Dimethyldioxim
+
+
+== Einzelnachweise ==

@@ -1,0 +1,85 @@
+Der Psi-Operator ist eine 3-stellige Schaltfunktion. Seine besondere Bedeutung liegt darin, dass sich jede Schaltfunktion durch den Psi-Operator darstellen lässt.Der Psi-Operator ist durch die folgende Wertetafel definiert:
+
+Dies entspricht 
+  
+    
+      
+        (
+        ¬
+        a
+        ∧
+        b
+        )
+        ∨
+        (
+        a
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle (\lnot a\land b)\lor (a\land c)}
+  .Satz
+
+Jede beliebige Schaltfunktion kann durch den Psi-Operator dargestellt werden.
+Beweis (Skizze)
+
+Es genügt zu zeigen, dass die drei Funktionen Logische Verneinung, Logisches Und und Logisches Oder dargestellt werden können. Dies lässt sich durch geeignete Eingaben für den Psi-Operator erreichen.
+
+  
+    
+      
+        ¬
+        x
+        =
+        Ψ
+        (
+        x
+        ,
+        1
+        ,
+        0
+        )
+      
+    
+    {\displaystyle \lnot x=\Psi (x,1,0)}
+  
+
+  
+    
+      
+        x
+        ∧
+        y
+        =
+        Ψ
+        (
+        x
+        ,
+        0
+        ,
+        y
+        )
+      
+    
+    {\displaystyle x\land y=\Psi (x,0,y)}
+  
+
+  
+    
+      
+        x
+        ∨
+        y
+        =
+        Ψ
+        (
+        x
+        ,
+        y
+        ,
+        1
+        )
+      
+    
+    {\displaystyle x\lor y=\Psi (x,y,1)}

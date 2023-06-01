@@ -1,0 +1,27 @@
+International Karate Plus (Originaltitel: Chop N' Drop, auch IK+ oder IK plus genannt) ist ein  Fighting Game der Firma System 3, welches sich um ein Duell von drei Karatekas dreht. Es ist der Nachfolger von International Karate.Das Spiel ist grundsätzlich in zwei Teile aufgeteilt, die immer abwechselnd durchlaufen werden.
+
+Kampfrunden
+Zwischenrunden in zwei Varianten
+Bälle abwehren
+Bomben entfernenGespielt werden kann das Spiel von bis zu zwei menschlichen Spielern. Fehlende Menschen werden vom Computer übernommen. 2001 hat die Hackergruppe "The Dreams" eine gepatchte C64-Version veröffentlicht, womit man das Spiel mittels eines 4-Spieler-Adapters auch zu dritt spielen kann.In einer Kampfrunde, dem eigentlichen Hauptbestandteil, duellieren sich 3 Karatekämpfer vor einem asiatischen Hintergrundbild. Ziel einer Runde ist es, 3 frontale Treffer zu landen. Trifft man einen Gegner von hinten, so ist das einen halben frontalen Treffer wert. Die Zeit dafür beträgt 30 Sekunden. Findet sich innerhalb der normalen Zeit kein Sieger, so gewinnt derjenige mit den meisten Niederschlägen die Runde. Der letzte der Runde scheidet aus. Haben die beiden Nichtgewinner die gleiche Punktzahl, so scheidet niemand aus.
+Zusätzlich zu den Trefferwertungen werden für die verschiedenen Techniken Punkte wie in anderen Spielen vergeben. Erreicht man eine bestimmte Punktzahl, bekommt die Spielfigur des Spielers einen neuen Gürtel in einer anderen Farbe.
+Hier eine Liste der möglichen Techniken:
+
+tiefer Fußtritt/ Fußfeger
+mittelhoher Fußtritt
+hoher Fußtritt
+hoher Fußtritt aus der Drehung
+Sprungtritt
+beidseitiger Sprungtritt
+hoher Faustschlag
+mittelhoher Faustschlag
+gehockter tiefer Fußtritt
+Kopfstoß
+Überschlag rückwärts (reine Defensivtechnik)Zwischenrunden dienen nur dem Verdienen von Punkten für die Gürtelwertung und haben keinen Einfluss auf das Weiterkommen im Spiel.
+Im Zwischenrundenspiel Bälle abwehren befindet sich der Spieler in der Mitte der Spielfläche mit einer Art Schild in der Hand. Von links und rechts kommen Metallbälle in verschiedenen Höhen angesprungen, die der Spieler entweder mit dem Schild abwehrt, oder bei sehr hohen Bällen sich unter ihnen durchduckt. Jeder abgewehrte oder ausgewichene Ball gibt Punkte, sowie das Überstehen einer bestimmten Anzahl ergibt noch einen zusätzlichen Bonus.
+Im Zwischenrundenspiel Bomb Kick, zu deutsch Bomben treten erscheinen Bomben mit brennender Zündschnur zufällig auf der Spielfläche und müssen vom Spieler mit einem Fußtritt vom Spielfeld getreten werden. Schafft es der Spieler nicht, den Sprengsatz vor Abbrennen der Zündschnur zu entfernen, so explodiert dieser und verschießt Splitter, die den Spieler treffen können. Bei einem Splittertreffer endet die Runde. Jede entfernte Bombe und das Überstehen einer bestimmten Anzahl wird mit Punkten belohnt.1987: Amstrad CPC, Commodore C64/128
+1988: Amiga 500/600 (OCS/ECS), Atari ST
+1994: Amiga CD³² (ECS/AGA)
+2001: Nintendo Game Boy Advance
+2003: PlayStation
+2008: Nintendo Wii C64 Virtual ConsoleInternational Karate Plus erhielt größtenteils positive Bewertungen. Das deutschsprachige Amiga-Magazin lobte das kurzweilige Gameplay, die Grafik und die Animationen des Spiels sowie die Vertonung. Kritisiert wurde eine fehlende Option für das Spiel zu dritt, wobei das Magazin einräumte, dass diese ohne Hardwareerweiterung nicht realisierbar wäre.

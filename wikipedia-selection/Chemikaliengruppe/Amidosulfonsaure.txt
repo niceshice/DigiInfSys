@@ -1,0 +1,213 @@
+Amidosulfonsäure ist eine farblose kristalline Substanz, die in Analogie zum Sulfamid – dem Diamid der Schwefelsäure – als das Monoamid der Schwefelsäure aufgefasst werden kann. Die Salze der Amidosulfonsäure werden Amidosulfonate oder Sulfamate genannt.Die Herstellung von Amidosulfonsäure erfolgt aus Harnstoff, Schwefelsäure und Dischwefelsäure:
+
+  
+    
+      
+        
+          C
+          O
+          (
+          N
+          
+            H
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          ⟶
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          N
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CO(NH_{2})_{2}+H_{2}S_{2}O_{7}\longrightarrow 2\ H_{2}NSO_{3}H+CO_{2}} }Amidosulfonsäure bildet farblose bis weißlich gelbe Kristalle, die bei 205 °C unter beginnender Zersetzung und heftiger Rauchentwicklung schmelzen und sich gut in Wasser lösen. Die Lösung reagiert sauer. Aufgrund der Säureeigenschaften wirkt sie bei Direktkontakt reizend und ätzend auf Augen und Haut. Amidosulfonsäure ist nicht hygroskopisch und daher als Urtitersubstanz einsetzbar.
+
+Die Struktur der Amidosulfonsäure kann durch die Formel +H3N-SO3− beschrieben werden. Sie liegt somit als Zwitterion vor. Die tautomere Form H2N-SO2(OH) existiert im Festkörper nicht.Amidosulfonsäure in Konzentrationen von 10–15 %, oft 14 %, ist (meist neben Phosphorsäure oder Citronensäure) ein Bestandteil von Entkalkern und Sanitärreinigern, im Labor wird sie als Urtitersubstanz und zum Zerstören von Nitrit verwendet:
+
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+            
+              −
+            
+          
+          +
+          N
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+          ⟶
+          
+            N
+            
+              2
+            
+          
+          ↑
+          +
+          S
+          
+            O
+            
+              4
+            
+            
+              2
+            
+          
+          
+            
+              
+              
+                −
+              
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}^{-}+NH_{2}SO_{3}H\longrightarrow N_{2}\uparrow +SO_{4}^{2}{^{-}}+H_{3}O^{+}} }
+  In der Galvanotechnik dient Amidosulfonsäure zum Einstellen des pH-Wertes von Nickelsulfamatbädern auf pH 3,9 bis 4,2. Auch wird eine Lösung aus Amidosulfonsäure mit Natriumlaurylsulfat bei 35 bis 40 °C zum Aktivieren einer Nickelschicht benutzt.
+Durch Reaktion von Amidosulfonsäure mit Cyclohexylamin wird Natriumcyclamat, ein künstlicher Süßstoff, hergestellt.
+Das Ammoniumsulfamat ist ein wichtiges Flammschutzmittel.Der Gehalt einer wässrigen Amidosulfonsäurelösung kann mittels Titrationsanalyse bestimmt werden. Die Reaktionsgleichung dieser Säure-Base-Titration lautet:
+
+  
+    
+      
+        
+          (
+          
+            H
+            
+              2
+            
+          
+          N
+          )
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+          +
+          N
+          a
+          O
+          H
+          ⟶
+          (
+          
+            H
+            
+              2
+            
+          
+          N
+          )
+          S
+          
+            O
+            
+              3
+            
+          
+          N
+          a
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {(H_{2}N)SO_{3}H+NaOH\longrightarrow (H_{2}N)SO_{3}Na+H_{2}O} }
+  
+
+
+== Einzelnachweise ==

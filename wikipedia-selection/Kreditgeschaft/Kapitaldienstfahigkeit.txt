@@ -1,0 +1,60 @@
+Die Kapitaldienstfähigkeit ist die Fähigkeit eines Kreditnehmers oder einer vorgesehenen Projektfinanzierung, zukünftig ausreichend Cashflow zu generieren, um den Kapitaldienst aller Verbindlichkeiten aus operativer Liquidität vollständig und fristgerecht zu bestreiten.Kreditgeber haben ein Interesse daran, ihr Kreditrisiko beim Schuldner zu messen. Dafür steht ihnen eine Vielzahl von Schuldenkennzahlen zur Verfügung. Diese sind wichtige Steuerungs- und Entscheidungsgrößen für die Fremdkapitalbereitstellung bzw. -belassung. Während die Zinslastquote lediglich den Zinsaufwand eines Kreditnehmers berücksichtigt, umfasst der Schuldendienstdeckungsgrad zusätzlich auch die zu leistenden Tilgungen. Die Art der Einnahmen hängt davon ab, ob der Schuldner ein Unternehmen, der Staat (oder dessen Gebietskörperschaften) oder eine natürliche Person ist.
+Die Kapitaldienstfähigkeit ist eine der wichtigsten betriebswirtschaftlichen Kennzahlen im Bankwesen, denn sie sagt aus, ob ein Schuldner imstande ist, aus seinem Liquiditätsüberschuss seine Schulden künftig ordnungsgemäß zu bedienen.Die Kapitaldienstfähigkeit gehört zum Kern der Kreditwürdigkeitsprüfung eines Kreditnehmers nach § 18 und § 18a Kreditwesengesetz (KWG) und ist erstmals bei Kreditgewährung und danach während der Kreditlaufzeit von Kreditinstituten permanent zu ermitteln. Sie gehört zum Kern des Ratings. Nach Art. 178 Abs. 1 Kapitaladäquanzverordnung (englische Abkürzung CRR) wird ein Kreditausfall (englisch default) unwiderlegbar vermutet, wenn die Rückzahlung eines Kredits unwahrscheinlich wird oder eine wesentliche Verbindlichkeit des Schuldners mehr als 90 Tage überfällig ist. Die Prognose des Kreditinstituts muss ergeben, dass die Erfüllbarkeit unwahrscheinlich geworden ist. Ohne den Begriff Kapitaldienstfähigkeit ausdrücklich zu erwähnen, geht diese bankaufsichtsrechtliche Vorschrift implizit auch von der Ermittlung der Kapitaldienstfähigkeit aus, denn bei unwahrscheinlicher Rückzahlung ist die Kapitaldienstfähigkeit gestört. Die Mindestanforderungen an das Risikomanagement (MaRisk) verlangen hingegen konkret die Prüfung der Kapitaldienstfähigkeit durch Kreditinstitute im Vorfeld der Kreditgewährung, wobei „die für die Beurteilung des Risikos wichtigen Faktoren unter besonderer Berücksichtigung der Kapitaldienstfähigkeit des Kreditnehmers beziehungsweise des Objektes/Projektes zu analysieren und zu beurteilen“ sind.Die Ermittlung der Kennzahl hängt von der Art des Kreditnehmers ab. Es ist danach zu unterscheiden, ob es sich um ein Unternehmen, den Staat oder dessen Gebietskörperschaften, Immobilienfinanzierungen oder natürliche Personen handelt. Der Kapitaldienst ist die Summe aller Zinsaufwendungen und Tilgungszahlungen und beinhaltet auch Tilgungssurrogate. Der Zinsaufwand setzt sich aus allen Schuldzinsen zusammen und Zinsnebenkosten wie Disagio, Kreditvermittlungsprovisionen oder Emissionskosten bei Anleihen.
+Die Kapitaldienstfähigkeitsprüfung ist zukunftsbezogen und prognoseorientiert. Nach den MAK müssen in Krisenfällen so genannte Stresstests (z. B. 10 % Umsatzeinbruch, 5 % Kostensteigerung, 2 % Zinssteigerung) bei Kreditnehmern durchgeführt werden. Eine Ermittlung der Kapitaldienstgrenze sollte mit einem ordnungsmäßigen integrierten Erfolgs-, Bilanz- und Finanzplanungssystem über 3–5 Jahre erfolgen. Die Kreditwirtschaft begnügt sich in ihren Formularen mit einer einfachen 1–2-Jahresprognose (ohne Bilanzfortschreibung und ohne eine Prognose der Kapitalflussrechnung). Die von Bantleon und Schorr im Jahre 2004 und 2012 festgestellte und kritisierte fehlende Methodik zur Ermittlung der Kapitaldienstgrenze wird seit 2008 in der Praxis teilweise beseitigt. In einigen am Markt erhältlichen Finanzplanungssystemen ist die Kapitaldienstgrenzenermittlung programmiert. Wesentlichen Einfluss auf die Kapitaldienstfähigkeit und deren Grenze haben zudem Abschreibungsmöglichkeiten, Besteuerung, Zinssätze und die vereinbarten Tilgungsmodalitäten, also die Laufzeit. Die DATEV verfügt seit langem über eine BWA-Form Kapitaldienstgrenze, die in jüngster Zeit durch Knief durch eine neue „BWA Kapitaldienstgrenze NEU“ verbessert wurde.Die Kapitaldienstfähigkeit (engl. Debt service cover ratio) errechnet sich für Unternehmen wie folgt:
+    EBITDA
+    ./. Gewinnausschüttung / Entnahmen
+    ./. Ertragsteuern
+    = Kapitaldienstgrenze
+    ./. Zinsaufwand
+    = Liquidität für Reinvestitionen
+    ./. Tilgung vorhandener Verbindlichkeiten
+    = Kapitaldienstfähigkeit
+
+Dieses Endresultat der Kapitaldienstfähigkeit ist die nicht ausgeschöpfte Kapitaldienstfähigkeit, die für die Bedienung zusätzlicher Kreditgewährungen zur Verfügung steht. Sie zeigt die Einhaltung bestimmter Liquiditätsanforderungen an und eignet sich deshalb als Covenants in Kreditverträgen und Anleihebedingungen. Ein Unternehmen ist kapitaldienstfähig, sofern die Differenz zwischen der Kapitaldienstgrenze und dem Kapitaldienst gegenwärtig und zukünftig größer als Null ist:
+
+  
+    
+      
+        
+          
+            Kapitaldienstgrenze
+          
+        
+        −
+        
+          
+            Zinsaufwand - Tilgung
+          
+        
+        >
+        
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mbox{Kapitaldienstgrenze}}-{\mbox{Zinsaufwand - Tilgung}}>{\mbox{0}}}Hier zeigt die Kapitaldienstfähigkeit an, bis zu welcher Höhe die Nettomieteinnahmen aus einem Beleihungsobjekt (abzüglich Bewirtschaftungskosten) den Kapitaldienst decken können. Es gilt
+
+  
+    
+      
+        
+          
+            Kapitaldienstfähigkeit
+          
+        
+        =
+        
+          
+            
+              Nettomieteinnahmen - Bewirtschaftungskosten
+            
+            
+              gesamte Verbindlichkeiten
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{Kapitaldienstfähigkeit}}={\frac {\mbox{Nettomieteinnahmen - Bewirtschaftungskosten}}{\mbox{gesamte Verbindlichkeiten}}}}Bei Privatpersonen gehören zu den Einnahmen sämtliche Arbeitseinkommen und Einkommen aus Pensionen nach Steuern, dauerhaft gesetzlich oder vertraglich zustehende Einkünfte sowie Zins- und sonstige Erträge. Sie werden um die fixen Ausgaben eines Haushaltes gekürzt. Dieser Nettobetrag steht für den Kapitaldienst zur Verfügung. Zum Kapitaldienst gehören wiederum Kreditzinsen und Zinsnebenkosten sowie Tilgungen und Tilgungssurrogate wie etwa die Ansparleistungen von Kapitallebensversicherungen, Rentenversicherungen oder Bausparverträgen, die zur Tilgung hinzugerechnet werden müssen.Die Kapitaldienstfähigkeit beeinflusst das künftige Investitionsverhalten eines Unternehmens, wenn Investitionen ganz oder teilweise fremdfinanziert werden sollen. Ist die Kapitaldienstfähigkeit gering, wird die Investitionsneigung entsprechend gering sein. Bei mangelnder Kapitaldienstfähigkeit drohen Kreditausfälle. Für Immobilienfinanzierungen wird in EU-Staaten eine Kapitaldienstfähigkeit zwischen 9 und 11 % als übliche Größenordnung angesehen.Ein zu niedriger Wert der Kapitaldienstfähigkeit signalisiert, dass bei geringen negativen Veränderungen (etwa Gewinnrückgang, Rückgang der Mieteinnahmen oder geringeres Arbeitseinkommen infolge Arbeitslosigkeit) die Kredite nicht mehr vollständig oder zeitgerecht aus laufenden Einnahmen bedient werden können. Dann muss der Kreditnehmer Teile seines Vermögens veräußern oder sein Eigenkapital oder Fremdkapital erhöhen, um den Kapitaldienst sicherzustellen. Dies sind jedoch Indizien einer sich abzeichnenden Verschuldungs- oder Unternehmenskrise.

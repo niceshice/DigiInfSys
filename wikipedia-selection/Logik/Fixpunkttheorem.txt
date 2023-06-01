@@ -1,0 +1,127 @@
+Das Fixpunkttheorem (auch Fixpunktsatz oder Diagonalisierungslemma) ist ein Satz in der mathematischen Logik zur Beschreibung selbstreferenzieller Aussagen in formalen Theorien. Es wurde von Kurt Gödel 1931 zur Konstruktion seines Beweises der Unvollständigkeit logischer Systeme, die so ausdrucksstark sind, dass man damit die natürlichen Zahlen axiomatisieren kann, verwendet und damit implizit bewiesen, allerdings nicht explizit unter diesem Namen erwähnt. Das Theorem leitet sich von dem Diagonalisierungslemma ab, das so in Anlehnung an das Diagonalisierungsargument von Georg Cantor genannt wird.Die formalisierte Objektsprache ist hierbei die Prädikatenlogik erster Stufe mit den Peano-Axiomen.
+Das Fixpunkttheorem besagt, dass es für jedes (einstellige) Prädikat eine Aussage gibt, die sich selbst dieses Prädikat zuschreibt. Diese Form der Selbstreferenz für das von ihm konstruierte Beweisbarkeitsprädikat Bew(x) ist – neben der objektsprachlichen Darstellung der Metasprache durch Gödelisierung – die Grundlage seines Beweises, indem gezeigt wird, dass der Satz „Dieser Satz ist nicht beweisbar“ bewiesen werden kann, was zum Widerspruch führt (Details s. dort).Sei 
+  
+    
+      
+        φ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \varphi (x)}
+   eine prädikatenlogische Formel mit der freien Variablen 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  . Dann existiert der prädikatenlogische Satz 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   mit
+
+Damit ist es möglich, in der Prädikatenlogik den Satz 
+  
+    
+      
+        φ
+        (
+        ⌜
+        ψ
+        ⌝
+        )
+      
+    
+    {\displaystyle \varphi (\ulcorner \psi \urcorner )}
+   zu bilden, der etwas über einen prädikatenlogischen Satz 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   in seiner numerischen Repräsentation ausdrückt, d. h. metasprachliche Beziehungen können in der Objektsprache formuliert werden. Die Objektsprache sagt also etwas über sich selbst aus.Alfred Tarski veröffentlichte 1936 sein Undefiniertheitstheorem, welches besagt, dass es in bestimmten formalen Systemen nicht möglich ist, ein Wahrheitsprädikat zu definieren. Die Beweisführung ist dabei ähnlich über die sog. Tarski-Sätze, selbstreferenzielle Sätze der Form: „ich bin ein Element von M“ für eine Menge M.
+Wählt man für M die Menge aller falschen Sätze eines Systems, führt die Konstruktion eines Tarski-Satzes zu einem Widerspruch bei der Definition dieser Menge. Daraus lässt sich folgern, dass die Menge aller wahren Sätze eines Systems nicht innerhalb dieses Systems definierbar ist.In der Modallogik wird das Beweisbarkeitsprädikat von Gödel als Notwendigkeitszeichen 
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+   (sprich Box) aufgefasst. Damit ergibt sich folgender Beweis des Fixpunkttheorems:
+Ist 
+  
+    
+      
+        A
+        (
+        p
+        )
+      
+    
+    {\displaystyle A(p)}
+   eine Formel, in der 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   nur im Skopus einer Box vorkommt, dann gibt es eine Formel
+
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  , in der 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   nicht vorkommt und keine Aussagenvariablen vorkommen, die nicht schon in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   vorkommen, so dass gilt:
+
+Dabei heißt 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   Fixpunkt von 
+  
+    
+      
+        A
+        (
+        p
+        )
+      
+    
+    {\displaystyle A(p)}
+  , GL steht für Gödel-Löb, eine Modallogik, die um den Satz von Löb als Axiom erweitert ist.

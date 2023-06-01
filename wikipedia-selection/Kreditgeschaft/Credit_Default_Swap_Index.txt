@@ -1,0 +1,3 @@
+Ein Credit Default Swap Index oder kurz auch CDS-Index ist eine Kennzahl für die Entwicklung der Kosten des Schutzes gegen Kreditausfall von ausgewählten Schuldnern. Er soll die Entwicklung des Kreditderivatemarktes repräsentativ dokumentieren.
+CDS Indizes werden in Basispunkten des Nennwerts notiert. Dieses gibt die jährlichen Kosten in Abhängigkeit vom versicherten Nennwert für eine anteilige Absicherung der im Index vertretenen Schuldner.
+Ein Credit Default Swap auf einen CDS-Index wird Index CDS genannt.Die zwei bedeutendsten CDS-Index-Familien sind CDX für Schuldner aus Nordamerika und aus Schwellenländern sowie iTraxx für den europäischen und asiatischen Raum. Beide Familien werden vom Dienstleister MarkIt betreut.

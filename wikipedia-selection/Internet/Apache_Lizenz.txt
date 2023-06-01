@@ -1,0 +1,33 @@
+Die Apache-Lizenz ist eine durch die Free Software Foundation anerkannte Freie-Software-Lizenz der Apache Software Foundation, jedoch keine Copyleft-Lizenz.Die aktuelle Version 2.0 wurde im Januar 2004 veröffentlicht. Sie wurde gegenüber der vorherigen Version 1.1 stark erweitert. Weil er sehr lang ist, wird in den Quelltexten der einzelnen Apache-Projekte nicht mehr der gesamte Text, sondern lediglich ein Verweis auf die Originallizenz eingefügt. Die Apache-Lizenz wird von der Free Software Foundation als Lizenz für freie Software anerkannt und ist zu der GNU General Public License Version 3, nicht jedoch zur Version 2, kompatibel.Prinzipiell beinhaltet sie:
+
+Man darf Software unter dieser Lizenz frei in jedem Umfeld verwenden, modifizieren und verteilen.
+Eine Kopie der Lizenz muss dem Paket beiliegen.
+Änderungen am Quellcode der unter der Apache-Lizenz stehenden Software müssen nicht zum Lizenzgeber zurückgeschickt werden.
+Eigene Software, die unter Apache-Lizenz stehende Software verwendet, muss nicht unter der Apache-Lizenz stehen.
+Die eigene Software darf nur dann Apache heißen, wenn eine schriftliche Genehmigung der Apache Foundation vorliegt.Für Version 1.1 gilt zusätzlich:
+
+Wenn man sie verteilt, muss eindeutig darauf hingewiesen werden, welche Software unter der Apache-Lizenz verwendet wurde und dass diese vom Lizenzgeber (name of copyright owner) stammt.Eigene Werke, die auf einem unter der Apache-Lizenz Version 2.0 stehenden Originalwerk basieren, müssen:
+
+eine Kopie der Apache-Lizenz beinhalten
+bei modifizierten Dateien an auffälliger Stelle angeben, dass sie modifiziert sind
+in der Quellform alle Original-Urheberrechtsvermerke beibehalten
+falls das Originalwerk eine Textdatei namens „NOTICE“ enthält, die dort enthaltenen Urhebervermerke der verwendeten Dateien auf eine in der Lizenz genauer vorgeschriebene Art und Weise enthalten.Die Apache Software Foundation und die Free Software Foundation (FSF) bestätigen, dass die Apache License 2.0 eine Lizenz für freie Software ist, die mit der Version 3 der GNU General Public License (GPL) kompatibel ist.Die Free Software Foundation betrachtet aber alle Versionen der Apache License (Stand: 2007) als inkompatibel mit den vorherigen GPL-Versionen 1 und 2.
+Es existiert Kompatibilität zwischen der Apache Version 2 und GPL Version 3 Lizenz in der Form, dass Apache-2-lizenzierter Code in einem GPL-3-lizenzierten Projekt benutzt werden darf, sofern man das gesamte Projekt dann unter die GPL Version 3 stellt. Dies ist laut der Apache Foundation möglich, da die in der Apache Version 2 Lizenz beschriebenen Eigenschaften eine Untermenge der in der GPL Version 3 beschriebenen sind.Zu den wichtigsten Produkten, die unter der Apache Software License veröffentlicht wurden, gehören:
+
+Android – Plattform für Mobiltelefone
+Apache Ant, Apache Maven
+Apache HTTP Server, Jetty, Apache Tomcat
+Apache MyFaces, Google Web Toolkit, Vaadin, Struts, Apache Wicket
+.NET Micro Framework
+Spring Framework
+Apache Subversion
+Apache Velocity
+Xerces
+Apache OpenOffice
+Apache Hadoop
+Docker
+OpenStack
+Material Design
+Swift
+Apache Netbeans
+TensorFlow

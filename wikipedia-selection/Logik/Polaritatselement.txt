@@ -1,0 +1,48 @@
+In der Linguistik bezeichnet ein Polaritätselement einen Ausdruck, der nur in einer bestimmten Umgebung, einem „lizenzierenden“ (oder „anti-lizenzierenden“) Kontext, auftreten darf. Polaritätselemente werden bereits in den Werken von Otto Jespersen und Edward Klima behandelt (siehe Literaturangaben unten und den externen Link).
+Die bekanntesten Polaritätselemente sind diejenigen, die empfindlich für negative (und ähnliche) Kontexte sind.
+Diese Polaritätselemente werden unterteilt in diejenigen, die in einem „irgendwie negativen“ Kontext auftreten müssen (negatives Polaritätselement, „negative polarity item“, NPI) und diejenigen, die das gerade nicht dürfen (positives Polaritätselement, „positive polarity item“, PPI).  
+Ein Beispiel eines NPIs ist das englische Wort any.  Es ist ungrammatisch, wenn es außerhalb eines „negativen“ Kontexts auftritt.
+(Ein Stern „*“ am Satzanfang bedeutet, dass der Satz ungrammatisch oder nicht wohlgeformt ist.):
+
+John doesn’t have any potatoes.
+*John has any potatoes.Den Umstand, dass das Auftreten eines NPIs wie any durch Negation zulässig wird, bezeichnet man als Lizenzierung; man sagt, dass die Negation das NPI lizenziert. NPIs sind normalerweise auch in Fragen lizenziert, so wie in:
+
+Does John have any potatoes?Im Deutschen sind beispielsweise jemals, sonderlich oder umhinkönnen NPIs.
+Ein Beispiel für ein PPI ist durchaus. Wenn ihm eine Negation vorangeht (v. a. in der semantischen Repräsentation, der Logischen Form), ist der Satz ungrammatisch.
+
+Hans war durchaus zufrieden.
+*Hans war nicht durchaus zufrieden.Man sagt, ein PPI ist durch Negation „anti-lizenziert“. Weitere Beispiele für PPIs sind ziemlich, geradezu und bekräftigen.
+Generell sind PPIs durch Fragen ebenfalls anti-lizenziert:
+
+*War Hans durchaus zufrieden?Um die Frage, welche Kontexte als „negativ“ und damit als lizenzierend gelten, geht es im Großteil der Forschungsarbeiten zu Polaritätselementen. In den späten 1970er Jahren hat William Ladusaw (auf Arbeiten von Gilles Fauconnier aufbauend) die Generalisierung vorgenommen, dass die meisten NPIs in abwärtsmonotonen Kontexten lizenziert sind. Dies ist als Fauconnier-Ladusaw-Hypothese bekannt.
+Es gibt allerdings Fälle, in denen auch gewisse nicht-monotone Kontexte NPIs lizenzieren. So kann jemals unter dem Ausdruck genau N erscheinen, wenn durch diesen Ausdruck gesagt werden soll, dass es sich um wenige Fälle handelt:
+
+*Einige Astronauten waren jemals auf dem Mond.
+Genau drei Astronauten waren jemals auf dem Mond.
+??Genau dreißigtausend Astronauten waren jemals auf dem Mond.Typischerweise sind NPIs im Deutschen in folgenden Kontexten lizenziert:
+
+unter Satznegation (z. B. mit nicht),
+unter negativen Indefinita (z. B. niemand, nichts),
+im Antezedens (Protasis) von Bedingungssätzen,
+in Fragen und Interrogativsätzen,
+im Restriktor von Allquantoren und negativen Quantoren,
+im Restriktor vom Superlativen,
+im Vergleichselement von Komparativen,
+in mit ohne eingeleiteten Infinitivsätzen,
+in Komplementsätzen kontrafaktiver Prädikate (z. B. sich weigern),
+unter Ausdrücken, die ein geringes Ausmaß bezeichnen (z. B. wenige, selten),
+unterhalb von nur/erst + Fokus,
+in Temporalsätzen, die mit bevor eingeleitet sind,
+in Komplementsätzen adversativer Prädikate (z. B. überrascht sein, bedauern),Es ist jedoch vom einzelnen Polaritätselement abhängig, welche Kontexte genau als (Anti-)Lizenzierer gelten. Während beispielsweise das NPI „Menschenseele“ durch das abwärtsmonotone „kaum“ lizenziert ist, kann „Aas“ im Sinne von „irgendjemand“ in diesem Kontext nicht auftreten:
+
+Kaum eine Menschenseele war dort anzutreffen.
+*Kaum ein Aas interessierte sich für seine Bilder.Ebenso kommt es auch vor, dass ein Ausdruck, der sich ansonsten wie ein NPI verhält, in ganz bestimmten weiteren Kontexten erscheinen kann.
+Von dieser Beobachtung ausgehend gibt es Vorschläge, Unterklassen von NPIs zu bilden, die stärkeren oder schwächeren Lizenzierungsbedingungen genügen müssen. Teilweise scheint es sich aber auch um Idiosynkrasien zu handeln.Otto Jespersen: Negation in English and Other Languages. Hoest, København 1917. 
+E. Klima: Negation in English. In: J.A. Fodor, J.J. Katz (Hrsg.): The Structure of Language. Prentice-Hall, New York 1964, S. 246–323. 
+Gilles Fauconnier: Polarity and the scale principle. In: Chicago Linguistic Society. Band 11, 1975, S. 188–199. 
+William A. Ladusaw: Polarity Sensitivity as Inherent Scope Relations, Ph.D. Dissertation, University of Texas, Austin 1979.
+Anke von Bergen, Karl von Bergen: Negative Polarität im Englischen. Gunter Narr, Tübingen 1993. 
+Ton van der Wouden: Negative Contexts. University of Groningen, 1994 (rug.nl [PDF] Dissertation). 
+Ton van der Wouden:  Polarity and 'Illogical Negation'. In:  Makoto Kanazawa and Christopher J. Piñón (eds.) (Hrsg.): Dynamics, Polarity, and Quantification. CSLI Publications, Stanford, CA 1994, S. 17–45.
+Frans Zwarts: Three Types of Polarity. In: Fritz Hamm, Erhard W. Hinrichs (Hrsg.): Plurality and Quantification. Kluwer, Dordrecht 1997, S. 177–238. 
+Anastasia Giannakidou: The Meaning of Free Choice. In: Linguistics and Philosophy. Band 24, 2001, S. 659–735.

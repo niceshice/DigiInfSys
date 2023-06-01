@@ -1,0 +1,23 @@
+Der Begriff Boden-pH ist eine Zusammensetzung aus Boden und pH-Wert. Er ist ein Maß für die Aktivität von 
+  
+    
+      
+        (
+        
+          H
+          
+            +
+          
+        
+        )
+      
+    
+    {\displaystyle (H^{+})}
+  -Protonen im Bodenwasser und wird durch natürliche Pufferung, besonders durch die tote organische Substanz des Bodens, beeinflusst.Der Boden-pH-Wert wird in einer Suspension von Boden in pH-neutraler Pufferlösung von Calciumchlorid oder Kaliumchlorid mit dem pH-Meter gemessen. Da hierbei die an den Austauschern sorbierten H+-Ionen von den KCl oder CaCl2-Ionen verdrängt werden, liegt der so gemessene pH-Wert etwa 0,3–1,0 Einheit unter dem pH-Wert, der in wässrigen Suspensionen gemessen wird, jedoch sind nicht alle Angaben in der Literatur entsprechend korrigiert.Die Tabelle zeigt die Bereiche hoher Löslichkeit verschiedener Mineralstoffe im Bodenwasser in Abhängigkeit vom Boden-pH. Diese Bereiche sind anfällig für die (giftige) Auswaschung der gelösten Mineralien durch Regen oder Bewässerung ins Grundwasser, siehe Nitratbelastung des Grundwassers, Überdüngung und Kationenaustauschkapazität.
+
+Bodenerosion auf ungeschützten Bodenoberflächen und bei fehlendem Bewuchs, z. B. wenn Äcker in guter fachlicher Praxis gepflügt werden oder zu lange bloßliegen, führt zu Humusverlust und Sedimentabtrag, d. h. zu stark schädigenden Auswirkungen. Durch Wind und fließendes Wasser (Niederschläge) wird fruchtbarer Boden abgelöst und vom Acker getragen, dadurch sinken die Puffer- und Feldkapazität (Wasserspeicherfähigkeit) der Böden. Bodendegradation ist die Folge, Dürre und Regenmangel wirken sich so negativ verstärkend und ertragsmindernd aus. Folgende pH-Werte werden für typische gesunde Kulturböden registriert:
+5,0 bis 5,5 bei < 4 % organischer Substanz und < 5 % Tonanteil
+5,4 bis 6,0 bei 5 bis 12 % Tonanteil
+6,0 bis 6,5 bei > 13 % TonanteilDie Mehrheit der Feldfrüchte gedeiht auf neutralen oder leicht sauren Böden. Einige Pflanzen gedeihen auf saureren Böden, zum Beispiel Kartoffeln und Erdbeeren. Kohl und andere Pflanzen gedeihen auf alkalischen Böden. Saurer Bodeneintrag durch Niederschläge oder Emissionen kann teilweise durch Pufferfunktionen des Bodens, besonders durch Humus, gedämpft werden. Zu sauer reagierender Boden kann durch Kalkung und Zugabe von Humus oder Kompost neutralisiert werden. Zu alkalische Böden können durch Eintrag von huminsäurereichem Torf, Ammonium (z. B. in Gülle enthalten) sowie Streu von Nadelbäumen auf einen neutralen pH-Wert gebracht werden. Als besonders kritisch ist ein stark saures Boden-Milieu anzusehen, da dann hohe Konzentrationen von Aluminium gelöst sein können. Sehr basische Böden können unter Mangel an frei gelöstem Mangan leiden. Im Allgemeinen führt eine basische pH-Wert-Erhöhung zur Gefügeverbesserung.Die rechte Tabelle zeigt pH-Bereiche verschiedener Anbaukulturen,
+
+links zeigt eine tabellarische Listung von Böden nach pH-Bereichen.

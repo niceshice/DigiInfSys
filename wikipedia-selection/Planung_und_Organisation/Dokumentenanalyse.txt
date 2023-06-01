@@ -1,0 +1,21 @@
+Die Dokumentenanalyse ist eine Datenerhebungstechnik, um Daten zu erheben, die bereits als Dokumente vorliegen. Bei der Dokumentenanalyse handelt es sich bei den Informationsquellen ausschließlich um Dokumente, im Gegensatz zu z. B. einer Befragung eines Augenzeugen, bei der es sich bei der Informationsquelle um einen Menschen handeln würde.
+Im weitesten Sinne können Dokumente auch Filmaufnahmen oder Fotos darstellen.Die Dokumentenanalyse fällt in den Rahmen der Erhebungstechniken. Wie bei allen Erhebungstechniken hängt die Wahl einer geeigneten Technik von der jeweiligen Situation und diversen sonstigen Gegebenheiten ab.
+Bei der Dokumentenanalyse werden schriftliche Informationsquellen zur Beschaffung von Informationen herangezogen. Dies können sämtliche Arten von Unterlagen sein. 
+Häufig steht die Dokumentenanalyse am Anfang einer Untersuchung, um sich in ein Themenfeld einzuarbeiten. Ein Beispiel wäre eine Diplomarbeit, bei der ein erster Weg in die Bibliothek führt.Vorteile:
+
+geringer Aufwand bei der Datenerhebung
+keine Notwendigkeit für weitere Dokumentationen wie z. B. bei einem Interview
+Untersuchungsanlass verfälscht die Daten nicht
+Betriebsablauf bleibt ungestörtNachteile:	
+
+Möglicherweise geringe Aktualität
+Daten lassen Spielraum für Interpretationen
+Unterlagen sind möglicherweise nicht vollständig oder für die Untersuchung passendAnwendung:
+
+zur Einarbeitung in einen Bereich
+zur Kontrolle anderer Informationen
+zur Ergänzung anderer InformationenIn der Dokumentenanalyse soll die Beschaffenheit von Dokumenten untersucht werden. Sieht man ein Dokument als Teil eines verarbeitenden Prozesses, so ändert sich je nach Bearbeitungsstand der Zustand eines Dokuments. Diese Form der Analyse kann als dokumentenorientierte Prozessanalyse aufgefasst werden. 
+Besonders vor der Einführung eines Dokumentenmanagementsystems sollte der Dokumentenbestand einer genauen Analyse unterzogen werden. 
+Dokumente haben statische Eigenschaften, die sich in der Regel nicht verändern. Dazu gehören Format (A4, .doc, .tiff), Darlegungsform (elektronisch, Papierform), Ersteller und so weiter.
+Es kann auch wichtig sein, Mengen oder Dokumentenflüsse zu erfassen.
+Erst nach der Analyse kann festgestellt werden, ob ein Dokumentenmanagement-System (DMS) überhaupt sinnvoll und effizient einzusetzen ist.

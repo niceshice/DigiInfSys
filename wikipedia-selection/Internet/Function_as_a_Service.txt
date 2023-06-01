@@ -1,0 +1,20 @@
+Function as a Service (FaaS) ist eine Kategorie des Cloud Computing und zwischen Backend as a Service (BaaS) und Software as a Service (SaaS) und im Rahmen von “Serverless Computing” einzuordnen.Bei Function as a Service wird alles unterhalb der Geschäftslogik als gegeben betrachtet. Dazu gehören Server, Netzwerk, Storage, ggf. Virtualisierungsebenen, Betriebssystem, Laufzeitumgebung, Daten und die Anwendung selbst.
+
+Nur die Geschäftslogik mit den Funktionen wird selbst implementiert. Daher sind mit FaaS implementierte Anwendungen zustandslos.
+Für die Persistierung von Daten muss daher ein externer Datenbankserver oder ein Netzwerkdateisystem angebunden werden.
+FaaS ermöglicht eine besonders einfache Skalierbarkeit, da die zustandslosen Funktionen trivial horizontal skaliert werden können.
+Durch eine Bezahlung pro Funktionsaufruf können gerade bei stark schwankender Last große Kapazitäten vorgehalten werden, die nur bei der tatsächlichen Verwendung zu bezahlen sind. Wenn gerade niemand die Funktion aufruft, entstehen auch keine Kosten.
+In sich abgeschlossene Funktionen lassen sich gut warten und aktualisieren.
+Eventgesteuert und reaktiv: Bei FaaS gibt es keinen laufenden Serverprozess. Stattdessen gibt es einen Funktionsaufruf sobald ein Triggerevent ausgelöst wurde, zum Beispiel ein HTTP-Aufruf.Bei Function as a Service wird ausschließlich die Geschäftslogik selbst verwaltet, während diese bei Software as a Service vom SaaS-Anbieter gemanagt wird. Als Abgrenzung zu Backend as a Service werden bei FaaS nur einzelne Funktionen, nicht ganze Anwendungen selbst implementiert.Alexa Skills
+Verbindung mehrerer SaaS-Systeme (Glue Code)
+Single-Page Applications
+Rechenintensive Komponenten, die zustandlos sind
+Zeitlich gesteuerte AufgabenAWS Lambda (Amazon)
+Google Cloud Functions (Google)
+Azure Functions (Microsoft)
+Cloudflare Worker (Cloudflare)
+Open Whisk (freies Projekt der Apache Software Foundation).
+IBM Cloud Functions (IBM, basiert auf OpenWhisk)
+Oracle Cloud Fn (Oracle)
+Webtask.io
+Hook.io

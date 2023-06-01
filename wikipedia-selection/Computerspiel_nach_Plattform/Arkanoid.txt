@@ -1,0 +1,13 @@
+Arkanoid ist ein Computerspiel des Unternehmens Taito aus dem Jahr 1986. Das Spiel ist ein Breakout-Klon, der zuerst als Arcade-Automat erschienen ist. Der Spieler muss einen Ball mit einem Paddle gezielt abprallen lassen, um farbige Steine aus einem Block zu schlagen. Dabei darf man den Ball nicht verfehlen, sonst hat man verloren. Es gibt zahlreiche Verbesserungen gegenüber Breakout, zum Beispiel Power-ups, gegnerische Raumschiffe und Laserkanonen. Außerdem kann sich die Breite des Schlägers verändern und die Anzahl der Bälle. Das Spiel verfügt über 32 Level und einen Abschlusslevel. Es löste einen neuen Boom für Breakout-Klone aus.
+Die Umsetzung erfolgte durch die Firma Imagine, unter anderem für C64 und Amiga von Commodore, MSX, Atari 800XL, Atari ST, Schneider/Amstrad CPC, TRS-80 und Sinclair ZX Spectrum. Die Musik schrieb Martin Galway. Die 1988 erschienene Version von IBM wurde von David Seeholzer für PC (DOS) entworfen.
+Taito selbst entwickelte auch noch weitere Arkanoid-Spiele:
+
+Arkanoid 2: Revenge of Doh (1988)
+Arkanoid: Doh It Again (1997, SNES)
+Arkanoid Returns (1997, Arcade)Arkanoid DS, Nintendo DS (2008)
+Arkanoid Live!, Xbox Live Arcade (2009)
+Arkanoid Plus!, WiiWare (2009, Konvertierung der Xbox-Version)
+Arkanoid, iPhone/iPad/iPod (2009, Konvertierung der Nintendo-DS-Version)Arthur Noid für C16/C116/Commodore Plus/4
+Aquanoid für PC
+LBreakout2 für Windows (Freeware)
+Arukanoido für VC-20

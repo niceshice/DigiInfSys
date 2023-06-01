@@ -1,0 +1,99 @@
+Der Finanzierungsbedarf bezeichnet das Ergebnis der Finanzierungsbedarfsrechnung im Rahmen der Kreditaufnahme oder den gesamtwirtschaftlichen Finanzierungsbedarf der Unternehmen innerhalb einer Volkswirtschaft.In einer geschlossenen Volkswirtschaft resultiert die Höhe des Finanzierungsbedarfs der Unternehmen (gesamt) aus der Höhe des Sparens (im Sinne von Ausgabenverzicht) der privaten Haushalte. Der Finanzierungsbedarf erhöht sich selbstverständlich für den komplementären Teil der Unternehmen, wenn ein anderer Teil der Unternehmen seine Einnahmen nicht unmittelbar wieder in voller Höhe investiert. Die Höhe des Investitionsbedarfs (I) der Unternehmen (u), abhängig vom Sparen an den Ausgaben innerhalb des Unternehmenssektors sowie dem Sparen (S) der privaten Haushalte (h), ergibt sich wie folgt: 
+
+  
+    
+      
+        
+          I
+          
+            u
+          
+        
+        =
+        
+          S
+          
+            u
+          
+        
+        +
+        
+          S
+          
+            h
+          
+        
+      
+    
+    {\displaystyle I^{u}=S^{u}+S^{h}}
+  
+Die Notwendigkeit der Höhe der Investitionen der Unternehmen resultiert nach vorheriger Gleichung also aus der Summe Sparen der privaten Haushalte (Konsumenten) + Sparen der Komplementärgruppe der Unternehmen. Dies gilt so jedoch nur bei ausgeglichenem Haushaltssaldo des Staates und bei neutralem Leistungsbilanzsaldo.
+Gibt der Staat mehr aus, als er einnimmt, verringert sich um den Ausgabenüberschuss (Defizit) des Staates der Finanzierungsbedarf der Unternehmen (bei unveränderter Höhe des Sparens der privaten Haushalte). Umgekehrt gilt, wenn der Staat Einnahmeüberschüsse bildet, also mehr (aus den Abgaben inländischer Sektoren) einnimmt, als er ausgibt, dass sich um genau diesen Einnahmeüberschuss (Sparen) des Staates der Finanzierungsbedarf der Unternehmen per Saldo erhöht:
+  
+    
+      
+        
+          I
+          
+            u
+          
+        
+        =
+        
+          S
+          
+            h
+          
+        
+        +
+        
+          S
+          
+            S
+          
+        
+      
+    
+    {\displaystyle I^{u}=S^{h}+S^{S}}
+  
+In einer offenen Volkswirtschaft erhöht ein (eigenes) Leistungsbilanzdefizit in gleicher Höhe den Finanzierungsbedarf der inländischen Unternehmen, ein Nettoexport (NX) verringert in gleicher Höhe den Finanzierungsbedarf der Unternehmen (unter sonst gleichen Bedingungen), denn  es gilt:
+
+  
+    
+      
+        
+          I
+          
+            u
+          
+        
+        =
+        
+          S
+          
+            h
+          
+        
+        +
+        
+          S
+          
+            S
+          
+        
+        −
+        N
+        X
+      
+    
+    {\displaystyle I^{u}=S^{h}+S^{S}-NX}
+  
+Verringert ein Staat also sein Defizit (Ausgabenüberschuss), muss bei ausgeglichener Leistungsbilanz entweder der Unternehmenssektor seinen Ausgabenüberschuss (Verschuldung) erhöhen oder der Sektor der privaten Haushalte sein Geldsparbemühungen verringern. Erhöhen die Unternehmen ihre Investitionen nicht um die Höhe der (gewohnten) gesunkenen Staatsausgaben, sondern reduzieren diese ihre Investitionen sogar, sinken die Einnahmen in der Ökonomie nicht nur um die Höhe der reduzierten Ausgaben der Staatsausgaben und Unternehmensinvestitionen, da das gesamtwirtschaftliche Einkommen zu sinken beginnt und tendenziell Kaufzurückhaltung und die Bildung monetärer Reserven initiiert wird.Die Finanzierungsbedarfsrechnung beantwortet die Frage, welche Fremd- und Eigenmittel im Rahmen eines Investitionsvorhabens für welchen Zeitraum zur Verfügung stehen müssen. Im Rahmen eines Kreditantrags wird eine Finanzierungsbedarfsrechnung durch die Bank vorgenommen.
+Der Gesamtfinanzierungsbedarf ist zunächst einmal die Summe aller Ausgaben, die im Rahmen eines Investitionsvorhabens anfallen. 
+Bei einer Baufinanzierung sind dies beispielsweise: Kaufpreis, Bau- oder Sanierungskosten, Grunderwerbssteuer und Notargebühren. Wichtig ist die Berücksichtigung von Bauzeitzinsen und einem Puffer für Unvorhergesehenes. 
+Zieht man vom Gesamtfinanzierungsbedarf das vorhandene Eigenkapital sowie die vorgesehene Eigenleistung ab, so ergibt sich der Fremdfinanzierungsbedarf. In der Höhe dieses Fremdfinanzierungsbedarfs müssen Kredite bei Banken oder anderen Kreditgebern aufgenommen werden.
+Das bestehende Eigenkapital ist teilweise nicht sofort verfügbar, sondern erst nach der Fälligkeit von Geldanlagen, der Zuteilung von Bausparverträgen oder dem Eingang des Verkaufserlöses bisheriger Immobilien. In diesen Fällen ist eine Zwischenfinanzierung im Rahmen der Finanzierungsbedarfsrechnung vorzusehen.
+Die Finanzierungsbedarfsrechnung ist eine ex ante-Kalkulation. Ergibt sich im Laufe des Investitionsvorhabens, dass die Kosten höher sind als geplant, so ist eine  Nachfinanzierung notwendig. Diese ist typischerweise mit höheren Kosten verbunden. Ob eine Nachfinanzierung möglich ist, hängt von der Bonität des Kreditnehmers ab.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,19 @@
+In der Logik bezeichnet man eine Aussage A als unverträglich mit einer Aussage B, wenn aus A und B ein Widerspruch folgt. Sind A und B nicht unverträglich, so nennt man sie verträglich oder vereinbar.
+Beispiel:
+Wir betrachten die beiden Sätze:
+
+A: Skolem war Norweger.
+B: Skolem war Italiener.Aus A und B folgt zunächst „Skolem war Norweger“ (trivialerweise, da dieser Satz bereits in den Prämissen enthalten ist). Außerdem folgt „Skolem war kein Norweger“. (Wir gehen dabei davon aus, dass niemand zwei Nationalitäten haben kann, aus „Skolem war Italiener“ folgt also, dass er kein Norweger ist.) Aus A und B folgt also ein bestimmter Satz und seine Negation, d. h. ein Widerspruch. A und B sind damit unverträglich.Ist A mit B unverträglich, so auch B mit A.Dies ist klar, da aus beiden zusammen ein Widerspruch folgen muss. Unverträglichkeit ist also eine symmetrische Relation.
+
+Sind zwei Aussagen unverträglich, muss mindestens eine von ihnen falsch sein. Es können jedoch auch beide falsch sein.Es gilt, dass alles, was aus wahren Prämissen folgt, ebenfalls wahr ist. Wären also zwei unverträgliche Aussagen beide wahr, dann wäre ein Widerspruch wahr (da aus ihnen ein Widerspruch folgt). Widersprüche können aber niemals wahr sein, mindestens eine der Aussagen muss also falsch sein. Es können jedoch auch beide falsch sein, wie man an folgendem Beispiel sieht: „Skolem war Schwede“ und „Skolem war Italiener“ sind unverträglich und doch beide falsch.
+
+A ist mit B genau dann unverträglich, wenn aus A nicht-B folgtIst A mit B unverträglich, so folgt aus der Annahme, dass A wahr ist, dass B falsch ist (dies wurde gerade oben gezeigt). A impliziert dann also nicht-B. Umgekehrt: Wenn aus A nicht-B folgt, dann folgt aus A und B immer noch nicht-B, gleichzeitig aber auch trivialerweise B, also der Widerspruch B und nicht-B.
+Dass „Skolem ist Norweger“ und „Skolem ist Italiener“ unverträglich sind, bedeutet also das Gleiche, wie dass „Skolem ist kein Italiener“ aus „Skolem ist Norweger“ folgt. Diesen Zusammenhang kann man daher auch zur Definition des Begriffs der Unverträglichkeit verwenden.
+
+Ist A mit B unverträglich und folgt A aus C, dann ist auch C mit B unverträglich.Ist A mit B unverträglich, so folgt (wie wir gesehen haben) aus A nicht-B. Wenn aber gilt: Aus C folgt A und: Aus A folgt nicht-B, dann gilt auch: Aus C folgt nicht-B. Damit sind aber C und B unverträglich. Da „Skolem ist Norweger“ und „Skolem ist Italiener“ unverträglich sind, ist auch ein Satz der „Skolem ist Norweger“ impliziert, z. B. „Skolem wurde in Sandsvaer (einem Dorf in Norwegen) geboren“ mit „Skolem ist Italiener“ unverträglich.
+
+Ist A mit B unverträglich und folgt C aus A, dann ist C nicht in jedem Fall mit B unverträglich.Aus „Skolem ist Norweger“ folgt beispielsweise „Skolem ist Europäer“ Dieser Satz ist aber offenbar nicht mit „Skolem ist Italiener“ unverträglich.
+
+Ist A mit B unverträglich und B mit C, dann ist A nicht in jedem Fall mit C unverträglich.Anders ausgedrückt: Die Relation der Unverträglichkeit ist nicht transitiv. Beispiel: B, „Skolem ist Italiener“ ist sowohl mit A „Skolem ist Norweger“ als auch mit C „Skolem ist Skandinavier“ unverträglich, dennoch sind A und C nicht unverträglich.
+
+Ist eine Aussage inkonsistent, dann ist sie mit jeder Aussage unverträglich und umgekehrt.Eine inkonsistente Aussage A ist ja eine, aus der allein schon ein Widerspruch folgt. D.h. egal, welche weitere Prämisse B wir noch hinzunehmen, es wird immer noch ein Widerspruch folgen, A und B sind also inkonsistent. Umgekehrt: Ist eine Aussage A mit jeder anderen Aussage unverträglich, dann insbesondere auch mit sich selbst. Damit folgt aber bereits aus der Prämissenmenge, die allein aus A besteht, ein Widerspruch, was nichts anderes heißt als, dass A inkonsistent ist. Die inkonsistente Aussage „Skolem ist ein norwegischer Schwede“ wäre damit mit jeder Aussage unverträglich.

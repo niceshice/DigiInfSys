@@ -1,0 +1,80 @@
+Das Nettonationaleinkommen (NNE, bis zur Einführung des Europäischen Systems volkswirtschaftlicher Gesamtrechnungen im Jahr 1995 Nettosozialprodukt (NSP) genannt) ist eine statistische Größe und volkswirtschaftliche Kennzahl der Volkswirtschaftlichen Gesamtrechnung, die die wirtschaftliche Leistung einer Volkswirtschaft in einer bestimmten Rechnungsperiode (meist ein Jahr) charakterisieren soll und vor allem als Einkommensindikator dient.Das Nettonationaleinkommen ist eine Unterform des Nationaleinkommens. Man unterscheidet dabei (ähnlich wie beim Inlandsprodukt) zwischen dem Nettonationaleinkommen zu Marktpreisen (Primäreinkommen) und dem Nettonationaleinkommen zu Faktorkosten (Volkseinkommen). Ist nur vom „Nettonationaleinkommen“ ohne entsprechenden spezifizierenden Zusatz die Rede, ist in aller Regel dasjenige zu Marktpreisen, also das Primäreinkommen gemeint.Das Primäreinkommen (= Nettonationaleinkommen zu Marktpreisen) ergibt sich aus dem ebenfalls mit Marktpreisen bewerteten Bruttonationaleinkommen durch Abzug der Abschreibungen oder aus dem Nettoinlandsprodukt zu Marktpreisen durch Addition des Saldos der Erwerbs- und Vermögenseinkommen, die an das Ausland gezahlt bzw. aus dem Ausland bezogen werden:
+
+  
+    
+      
+        N
+        N
+        
+          E
+          
+            m
+          
+        
+        =
+        B
+        N
+        E
+        −
+        A
+        =
+        N
+        I
+        
+          P
+          
+            m
+          
+        
+        +
+        F
+      
+    
+    {\displaystyle NNE_{m}=BNE-A=NIP_{m}+F}Das Volkseinkommen (= Nettonationaleinkommen zu Faktorkosten) errechnet sich aus dem Nettonationaleinkommen zu Marktpreisen durch Subtraktion der Gütersteuern (Produktions- und Importabgaben) und Addition der Subventionen oder aus dem Nettoinlandsprodukt zu Faktorkosten wieder durch Addition des Saldos der Erwerbs- und Vermögenseinkommen:
+
+  
+    
+      
+        N
+        N
+        
+          E
+          
+            f
+          
+        
+        =
+        N
+        N
+        
+          E
+          
+            m
+          
+        
+        −
+        
+          T
+          
+            g
+          
+        
+        +
+        S
+        u
+        b
+        =
+        N
+        I
+        
+          P
+          
+            f
+          
+        
+        +
+        F
+      
+    
+    {\displaystyle NNE_{f}=NNE_{m}-T_{g}+Sub=NIP_{f}+F}Erhöht man schließlich das Nettonationaleinkommen zu Marktpreisen (Primäreinkommen) um die Transfers (Übertragungen) aus der übrigen Welt und vermindert es um die Transfers an die übrige Welt, erhält man das verfügbare Einkommen der Volkswirtschaft. 
+In der Abbildung ist das Bruttonationaleinkommen gleich 100 % gesetzt. Ohne die Abschreibungen (oberste Größe, pink) ergibt sich das Nettonationaleinkommen zu Marktpreisen (Primäreinkommen). Das Nettonationaleinkommen zu Marktpreisen ohne den Saldo aus Gütersteuern und Gütersubventionen (zweitoberste Größe, grau-weiß gekachelt) ergibt das Nettonationaleinkommen zu Faktorkosten (Volkseinkommen).

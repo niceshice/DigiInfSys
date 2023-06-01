@@ -1,0 +1,23 @@
+Als falsche Prämisse (englisch false premise) wird es bezeichnet, wenn eine Schlussfolgerung aufgrund einer falschen oder unbekannten Aussage (der Prämisse) gezogen wird. Falsche Prämissen kommen vor allem in rhetorischen Argumenten zum Einsatz, um Scheinbeweise durchzuführen. 
+Das Gegenstück zu falschen Prämissen ist non sequitur, bei dem zwar die Prämisse richtig ist, jedoch die Schlussfolgerung falsch durchgeführt wurde. Hierbei gilt zu beachten, dass ein Argument sowohl eine falsche Prämisse, als auch eine fehlerhafte Schlussfolgerung enthalten kann. Eine falsche Prämisse und ein non sequitur schließen sich also nicht gegenseitig aus.Beispiel 1Die Aussage
+
+„Wenn die Straße nass ist, muss es vorher geregnet haben. Die Straße ist nass. Deshalb hat es vorher geregnet.“weist zwar eine korrekte Schlussfolgerung auf, es ist jedoch unbekannt ob der Schluss „deshalb hat es vorher geregnet“ richtig ist, da die Prämisse falsch ist. Dies lässt sich dadurch zeigen, da es noch andere Gründe gibt, durch welche die Straße nass werden kann, etwa indem diese mittels eines Wassereimers befeuchtet wurde. 
+
+Beispiel 2Die Aussage 
+
+„Alle Männer wollen eine Frau kirchlich heiraten. Damit alle Männer eine Frau kirchlich heiraten können, muss die Kirche die Ehe zwischen Mann und Frau festlegen.“stellt gleich in mehrerer Hinsicht eine falsche Prämisse dar: 
+
+Manche Männer wollen nicht heiraten.
+Manche Männer wollen einen Mann heiraten.
+Manche Männer wollen zwar standesamtlich und nicht kirchlich heiraten.
+Manche Männer wollen mehrere Partner heiraten und nicht nur einen.Die Schlussfolgerung ist in diesem Fall zwar richtig, der gezogene Schluss stimmt allerdings nur deshalb, da sie auch aus der richtigen Prämisse „Manche Männer wollen eine Frau kirchlich heiraten.“ folgt. Zur falschen Prämisse kommt es in diesem Fall durch die Ignoranz der Person, welche die Aussage tätigt, gegenüber anderen Formen des Zusammenlebens, weshalb es sich auch um ein Ignoranzargument handelt. 
+
+Beispiel 3Die Schlussfolgerung in
+
+„Die Klimaerwärmung gibt es nicht. Deshalb kann der Mensch nicht an der Klimaerwärmung Schuld sein.“ist zwar richtig, jedoch ist sowohl die Prämisse (da die Klimaerwärmung existiert) als auch das Ergebnis der Schlussfolgerung (der Mensch ist tatsächlich für die Klimaerwärmung maßgeblich verantwortlich) falsch. Zur falschen Prämisse kommt es in diesem Fall durch die Ignoranz der Person gegenüber der Klimaerwärmung und dessen Ursachen. Auch hier folgt die Prämisse aus der Ignoranz der Person, welche die Aussage tätigt. 
+
+Beispiel 4Ein weiteres Beispiel für eine falsche Prämisse ist der ontologische Gottesbeweis, bei dem die Schlussfolgerung zwar mathematisch bewiesen wurde, die Prämissen jedoch nicht. Die Prämissen wurden hier vielmehr axiomatisch als wahr angenommen. 
+Da kein bislang geführter Gottesbeweis einer genaueren Betrachtung stand hält, stellen alle Argumente, die auf der Existenz einer oder mehrerer Götter basieren, eine falsche Prämisse dar. Argumente, welche die Existenz eines oder mehrerer Götter voraussetzen, kommen aufgrund von Wunschdenken und Ignoranz zustande, jedoch nicht aufgrund der richtigen Beweisführung und Vernunft.
+
+
+== Quellen ==

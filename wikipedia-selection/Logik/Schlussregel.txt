@@ -1,0 +1,154 @@
+Eine Schlussregel (oder Inferenzregel) bezeichnet eine Transformationsregel (Umformungsregel) in einem Kalkül der formalen Logik, d. h. eine syntaktische Regel, nach der es erlaubt ist, von bestehenden Ausdrücken einer formalen Sprache zu neuen Ausdrücken überzugehen. Dieser regelgeleitete Übergang stellt eine Schlussfolgerung dar.Eine gültige Schlussregel soll nur den Übergang zu solchen Ausdrücken erlauben, deren Aussagen auch semantisch aus der Aussage der bestehenden Ausdrücke folgt (siehe logische Ableitung).
+Die genaue Beschaffenheit der Schlussregeln hängt davon ab, für welches logische System der Kalkül aufgestellt wird. Für die traditionelle und die klassische Logik, die dem Prinzip der Zweiwertigkeit genügen, müssen Schlussfolgerungen wahrheitserhaltend sein („aus Wahrem folgt nur Wahres“).
+Aufgrund dieser Eigenschaft verstehen sich moderne Aussagenkalküle und prädikatenlogische Systeme als Beweiskalküle, obwohl Schlussregeln per se noch keine Beweisregeln sind. Schlussregeln unterscheiden sich innerhalb der klassischen Logik von Axiomen oder Axiomenschemata, insofern sie keine konkreten semantischen Voraussetzungen an das Diskursuniversum stellen.
+Moderne Logikkalküle verwenden insbesondere den Modus ponens, sowie Einführungs- und Eliminationsregeln für bestimmte logische Junktoren.Die folgenden fünf Regeln stammen aus der traditionellen Aussagenlogik, deren Tradition spätestens in der Stoa (megarische Aussagenlogik) beginnt. Über dem Querstrich stehen jeweils eine oder zwei Aussagen, aus denen die Aussage unter dem Querstrich folgt.
+1) Modus ponendo ponens (lat. das zu Setzende setzend, auch Abtrennungsregel) gilt als Grundform des direkten Beweises:
+
+  
+    
+      
+        
+          p
+          →
+          q
+          
+          p
+        
+        q
+      
+    
+    {\displaystyle p\rightarrow q\qquad p \over q}
+  
+In Worten: Wenn p eine hinreichende Bedingung für q ist und p wahr ist, dann ist auch q wahr. (semantisch)Wird p behauptet, kann auch q behauptet werden. Nun wird p behauptet, also: q. (syntaktisch)
+2) Modus tollendo tollens (lat. das Aufzuhebende aufhebend): der indirekte Beweis
+
+  
+    
+      
+        
+          p
+          →
+          q
+          
+          ¬
+          q
+        
+        
+          ¬
+          p
+        
+      
+    
+    {\displaystyle p\rightarrow q\qquad \neg q \over \neg p}
+  
+In Worten: Wenn p eine hinreichende Bedingung für q ist und q nicht wahr ist, dann ist auch p nicht wahr.3) Kettenschluss (gelegentlich – eigentlich falsch, weil nach einer anderen Bedeutung des Wortes „Kettenschluss“ – Modus Barbara genannt)
+
+  
+    
+      
+        
+          p
+          →
+          q
+          
+          q
+          →
+          r
+        
+        
+          p
+          →
+          r
+        
+      
+    
+    {\displaystyle p\rightarrow q\qquad q\rightarrow r \over p\rightarrow r}
+  
+In Worten: Wenn p eine hinreichende Bedingung für q ist und q eine hinreichende Bedingung für r ist, dann ist p eine hinreichende Bedingung für r.4) Modus tollendo ponens (gelegentlich falsch Disjunktiver Syllogismus genannt)
+
+  
+    
+      
+        
+          p
+          ∨
+          q
+          
+          ¬
+          p
+        
+        q
+      
+    
+    {\displaystyle p\lor q\qquad \neg p \over q}
+  
+In Worten: Wenn p oder q gilt und p nicht wahr ist, dann ist q wahr.5) Indirekter Beweis durch reductio ad absurdum
+
+  
+    
+      
+        
+          ¬
+          p
+          →
+          (
+          q
+          ∧
+          ¬
+          q
+          )
+        
+        p
+      
+    
+    {\displaystyle \neg p\rightarrow (q\land \neg q) \over p}
+  
+In Worten: Wenn nicht-p eine hinreichende Bedingung dafür ist, dass ein Widerspruch (q und nicht-q) wahr wird, dann ist nicht-p falsch (denn ein Widerspruch kann ja nicht wahr sein, also darf auch seine hinreichende Bedingung nicht wahr sein), also ist p wahr.Andere bekannte Schlussregeln sind u. a.
+
+Modus ponendo tollens
+  
+    
+      
+        
+          ¬
+          (
+          p
+          ∧
+          q
+          )
+          
+          p
+        
+        
+          ¬
+          q
+        
+      
+    
+    {\displaystyle \neg (p\land q)\qquad p \over \neg q}
+  
+In Worten: Wenn nicht p und q wahr sind, aber p wahr ist, dann ist q nicht wahr.Kontraposition
+  
+    
+      
+        
+          p
+          →
+          q
+        
+        
+          ¬
+          q
+          →
+          ¬
+          p
+        
+      
+    
+    {\displaystyle p\rightarrow q \over \neg q\rightarrow \neg p}
+  
+In Worten: Wenn p eine hinreichende Bedingung für q ist, dann ist nicht q eine hinreichende Bedingung für nicht p.Einsetzungsregel
+ErsetzungsregelKalküle des natürlichen Schließens umfassen üblicherweise eine größere Zahl von Schlussregeln; für weitere Beispiele üblicher Schlussregeln siehe daher den Artikel Systeme natürlichen Schließens.
+Logische Aussagen lassen sich auch durch Resolutionsregeln umformulieren. Auf diese Weise lassen sich bestimmte Typen von Schlussfolgerungen als Widerspruchsbeweise automatisieren.
+Keine gültige Schlussregel ist die Abduktion. Sie wird dennoch in der Künstlichen Intelligenz und Wissensrepräsentation eingesetzt, um „gesunden Menschenverstand“ zu simulieren.
+Ein regelgerechter Schluss, der nur eine seiner Prämissen als Folgerung hat, ist ein Zirkelschluss und stellt zwar eine Schlussfolgerung, aber keinen Beweis oder kein Argument für die Folgerung dar (siehe auch petitio principii).

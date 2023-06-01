@@ -1,0 +1,53 @@
+Das Arbeitspaket (AP) (engl.: work package; abgekürzt: WP) ist ein plan- und kontrollierbares Element in einem Projekt, das nicht weiter untergliedert wird. Arbeitspakete werden innerhalb eines Projektstrukturplans erstellt. 
+
+„Ein Arbeitspaket ist eine in sich geschlossene Aufgabenstellung, die bis zu einem festgelegten Zeitpunkt mit definiertem Ergebnis und Aufwand vollbracht werden kann[.]“Arbeitspakete spielen in der Projektplanung eine wichtige Rolle. Sie beinhalten Ergebnisziele und beschreiben Leistungen und Lieferungen, die unter vorgegebenen Bedingungen zu erreichen bzw. zu erbringen sind. Sie sind die Basis für die später durchzuführende Termin- und Ablaufplanung, Ressourceneinplanung und Kostenplanung, ebenso fließen die Erkenntnisse aus Arbeitspaketen in die Risikoplanung ein. Die inhaltliche Summe aller Arbeitspakete aus der Projektstrukturplanung muss mit dem Inhalt des Projektes identisch sein.Die Arbeitspaketbeschreibung ist das Dokument, das alle Informationen, Inhalte und Bedingungen des Arbeitspaketes beschreibt. In der Regel wird dieses Dokument in tabellarischer Form erstellt.
+
+Identifikatoren
+Informationen, die in der Lage sind, das Arbeitspaket genau zu identifizieren, wie ein PSP-Code, eine GUID und auch der Name oder die Bezeichnung des Arbeitspaketes.
+Projektinformationen
+Zu welchem Projekt gehört das Arbeitspaket, wer ist Projektleiter und wer ist Projektkunde.
+Beschreibung
+Ein Text, der das Arbeitspaket und die zu erbringenden Leistungen so beschreibt, dass Zweck und Inhalt  für alle Beteiligten nachvollziehbar sind.
+Ziele
+Die zu erbringenden Ergebnisziele des Arbeitspaketes, ggflls. auch an das Arbeitspaket geknüpfte sekundäre Ziele, wie z. Bsp. Sozialziele.
+Erläuterungen
+Zusätzliche Hinweise, die die Beschreibung oder die Ziele ergänzen oder verdeutlichen.
+Verantwortlichkeiten
+Nennung des Arbeitspaketverantwortlichen und Beschreibung, wer unter welchen Bedingungen die Freigabe und bzw. oder die Abnahme erteilen darf. In frühen Planungsstadien werden diese Verantwortlichkeiten u. U. generisch (wenn die Position, Stellung oder Qualifikation ohne konkreten Namen genannt wird) zugewiesen.
+Referenzen
+Für die Bearbeitung notwendigerweise zu beachtenden Gesetze, Normen oder Vorschriften.
+Risiken
+Technische, operative und andere Risiken, die mit dem Arbeitspaket verknüpft sind und in das Risikoregister überführt werden sollten.
+Ablaufinformationen
+Informationen über Vorgänger und Nachfolger des betrachteten Arbeitspaketes und dazugehörige zusätzliche Informationen, die später für die Netzplanberechnung oder vergleichbare Methoden von Bedeutung sind.
+Termininformationen
+Informationen zu Terminen, besonders Zwangsterminen, Vorgangsdauern, Soll- oder Sperrintervallen.
+Benötigte Ressourcen
+Informationen zu benötigten Mitarbeitern und deren Qualifikation sowie der von ihnen zu leistenden Arbeit in einer Zeiteinheit, zu notwendigen Equipments, zu vorhandenem oder zuzukaufendem Material oder zu bereitzustellenden internen oder externen Dienstleistungen.
+Kosteninformationen
+Hinweis auf geschätzte Kosten, möglicherweise in Form von Kostenvoranschlägen oder Kalkulationen.
+Eingangsdokumente
+Dokumente (Pläne, Zeichnungen, Anweisungen usw.), die für die Bearbeitung des Arbeitspaketes bereitgestellt werden müssen.
+Ausgangsdokumente
+Dokumente, die innerhalb des Arbeitspaketes erstellt werden und an nachfolgende Arbeitspakete übergeben werden.
+Anlagen
+Dokumente, die der Arbeitspaketbeschreibung zur Erläuterung oder einem anderen Zweck beigefügt sind.
+Signaturen
+Informationen zu Ersteller, Erstelldatum, Version und Gültigkeitsbereich der Arbeitspaketbeschreibung.In der Praxis werden für Arbeitspaketbeschreibungen Vorlagen verwendet, die als Maximallösung ausgelegt gleichzeitig die Funktion von Checklisten übernehmen können.Für die Erstellung von Arbeitspaketen sollten folgende Regeln beachtet werden.
+Verantwortlichkeit
+Für jedes Arbeitspaket muss es einen Verantwortlichen geben. Der Arbeitspaketverantwortliche ist neben der fachlichen Verantwortung für die Informationsbereitstellung für das Arbeitspaket, den Informationsfluss innerhalb des Arbeitspaketes und für die Informationsweitergabe an nachfolgende Stellen zuständig. Je nach Form der Projektorganisation obliegt ihm nicht zwingend die disziplinarische Verantwortung.
+Zuordnung
+Ein Arbeitspaket sollte eindeutig einer Projektphase zuzuordnen sein. Ausgenommen sind hierbei Querschnittsaufgaben oder Projektbegleitvorgänge, wie z.Bsp. Projektcontrolling oder Qualitätsmanagement.
+Fremdleistungen
+Aufgaben, die in Form von Fremdleistung an Nach- oder Subunternehmer nach außen vergeben werden, sind als eigenständige Arbeitspakete zu definieren. (Hier sollten auch nicht mehrere Nachunternehmer innerhalb eines Arbeitspakets tätig sein.)
+Spezifikation
+Für jedes Arbeitspaket sollte eine klare Formulierung der Spezifikation möglich sein. Die Leistung innerhalb eines Arbeitspaketes muss von der Leistung in anderen Arbeitspaketen klar abgrenzbar sein.
+Angemessene Dauer
+Im Vergleich zur gesamten Projektdauer darf die Dauer des Arbeitspaketes nicht zu groß sein, um Terminverzüge rechtzeitig erkennen zu können.
+Angemessene Kosten
+Im Vergleich zu den gesamten Projektkosten soll der Kostenplanwert nicht zu klein sein, um für die Projektüberwachung ein vernünftiges Kosten-Nutzenverhältnis zu erreichen.
+Detaillierungsgrad
+Alle Arbeitspakete eines Projektes sollten einen in etwa gleichen Detaillierungsgrad aufweisen.
+
+
+== Einzelnachweise ==

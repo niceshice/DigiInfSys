@@ -1,0 +1,20 @@
+Ein Mortgage Pass Through (MPT) Security ist ein Typ spezieller Anleihen. Es handelt sich dabei um einen Pool für mehrere Darlehen, die alle mit der Möglichkeit eines Prepayment  ausgestattet sind. Prepayment bezeichnet ein individuelles Schuldenkündigungsrecht. Eine Kündigung erfolgt entweder zinsinduziert oder aus privaten Gründen (z. B. Umzug oder Scheidung). 
+Es kann jedoch auch der Fall eintreten, dass keine Kündigung erfolgt, obwohl dies durch die Zinsen induziert wird. Als Konsequenz daraus finden nur Teilrückzahlungen der MPT Securities statt, die abhängig vom individuellen Kündigungsverhalten sind.
+Eine "Mortgage Pass Through"-Anleihe verbrieft Darlehensforderungen gegen Hausbesitzer und macht diese somit handelbar (siehe: Kredithandel). 
+Einzelne Darlehen können vom Mortgage Originator an die Federal National Mortgage Association (Fannie Mae) verkauft werden. Diese bündelt die Darlehen und verkauft sie so an die Investoren weiter. 
+Dabei werden Zinsen, Tilgung und Prepayment der Darlehensnehmer an die Investoren weitergeleitet.Bei einer kündbaren Anleihe können der Emittent oder der Investor ein Kündigungsrecht haben. Bei einem Mortgage Pass Through liegt das Prepayment-Risiko beim Investor. 
+Damit sind für den Investor die zukünftigen Zins- und Tilgungszahlungen ungewiss und können beliebige Werte annehmen. Bei einer Kündigungsanleihe findet entweder eine vollständige Rückzahlung bei Kündigung statt oder die Anleihe existiert vollständig weiter. Damit ist die kündbare Anleihe ein Spezialfall des Prepayments. Bei Kündigung mit 100 % Prepayment Rate und ohne Kündigung 0 % Prepayment Rate.Problematisch bei Mortage-Pass-Through Securities ist, dass die Zins- und Tilgungszahlungen ungewiss sind. Dies ergibt sich aus der Ungewissheit der Prepayment-Zahlungen.Hausbesitzer
+ Darlehen                      |  |            Zinsen, Tilgung, Prepayment
+                       Mortgage Originator
+ Verkauf der Mortgage          |  |            Zinsen, Tilgung, Prepayment
+                            Fannie Mae    
+ Mortgage Pass Through         |  |            Zinsen, Tilgung, Prepayment
+                            InvestorenEs bieten sich folgende Lösungsansätze an:
+
+feste durchschnittliche Laufzeiten
+konstante Prepayment-Raten
+historisch statistische Prepayment-Rate
+Ein einzelner Kreditnehmer des Pools zahlt eine feste Hypothekenrate, was der Sichtweise des Annuitätendarlehens entspricht.Zeitreihenbetrachtung mit Prepayment:
+
+Die Prepaymentrate startet auf niedrigem Niveau und pendelt sich bei einem Wert ein.Cash Flow einer KuponanleiheKonstante Prepaymentrate.
+Siehe auch: Kündbare Anleihe

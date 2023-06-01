@@ -1,0 +1,252 @@
+Die Bilanzanalyse (auch Jahresabschlussanalyse) befasst sich mit der Untersuchung von bilanzierenden Unternehmen hinsichtlich ihrer derzeitigen und zukünftigen wirtschaftlichen Lage anhand des Jahresabschlusses, welcher sich aus der Bilanz, der Gewinn- und Verlustrechnung sowie dem Anhang zusammensetzt und ggf. um den Lagebericht ergänzt wird. Sie kann intern vom Unternehmen selbst oder extern von Analysten durchgeführt werden.Alle Tätigkeiten, die darauf gerichtet sind, aus den vorliegenden Informationen Aufschluss über die wirtschaftliche Lage eines bilanzierenden Unternehmens zu erhalten, werden Bilanzanalyse genannt. Im Rahmen der Bilanzanalyse werden aus dem veröffentlichten Jahresabschluss verschiedene betriebswirtschaftliche Kennzahlen und Kennzahlensysteme des bilanzierenden Unternehmens ermittelt, die über Möglichkeiten zur Erfüllung externer Forderungen (finanzwirtschaftliche Analyse) sowie zur Erzielung von zukünftigen Gewinnen und Unternehmenswachstum (erfolgswirtschaftliche und strategische Analyse) Auskunft geben sollen. Die Bilanzanalyse erstreckt sich formell auf die Ordnungsmäßigkeit des Jahresabschlusses und materiell auf die wirtschaftliche Lage des zu analysierenden Unternehmens.
+Der Jahresabschluss nebst Bestandteilen wurde vom bilanzierenden Unternehmen aufgrund nationaler oder internationaler Gesetze erstellt. Diese Gesetze verlangen nicht nur die Aufstellung eines Jahresabschlusses, sondern schreiben mehr oder weniger detailliert vor, wie er formell und materiell zu gestalten ist. Die für die Bilanzanalyse zentrale Vorschrift im deutschen Recht ist § 264 Abs. 2 HGB: 
+
+„Der Jahresabschluss der Kapitalgesellschaft hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft zu vermitteln.“
+Obwohl diese Gesetze die Transparenz für Außenstehende erhöhen sollen, so können sie doch nicht verhindern, dass dem bilanzierenden Unternehmen große Spielräume in der Darstellung seiner wirtschaftlichen Lage zur Verfügung stehen. Die vorhandenen Spielräume eröffnen dem bilanzierenden Unternehmen erst die Möglichkeit der Bilanzpolitik. Ein besonderes Feld stellt hierbei die Bilanzkosmetik dar. Es handelt sich um den klassischen bilanzpolitischen Spielraum, den bilanzierende Unternehmen in der Regel im Rahmen der gesetzlichen Möglichkeiten nutzen, um sich mit ihrem Jahresabschluss in der Öffentlichkeit positiv zu präsentieren. Bei der externen Bilanzanalyse kann daher davon ausgegangen werden, dass der Analyst die wahren wirtschaftlichen Verhältnisse nicht ermitteln können wird.Verschiedene Interessensgruppen möchten sich über die aktuelle und zukünftige Lage eines Unternehmens informieren und führen zu diesem Zweck eine – mehr oder weniger ausführliche – Bilanzanalyse durch. Zu den wichtigsten Interessenten der Bilanzanalyse gehören:
+
+Gläubiger (Kreditinstitute, Lieferanten)
+Eigenkapitalgeber (Gesellschafter, Aktionäre, erfolgsbeteiligte Manager)
+Kreditversicherungen
+Ratingagenturen
+Auskunfteien
+Unternehmensführung (Geschäftsführung, Vorstand)
+Mitarbeiter
+Kunden
+Finanzamt
+Konkurrenten
+Öffentlichkeit (Gemeinde- oder Stadtrat, Presse, Bevölkerung)Die Gründe für eine Analyse sind je nach durchführender Interessensgruppe unterschiedlich. Externe Interessenten wie Gläubiger oder Konkurrenten sind an der gegenwärtigen Lage (Ertragslage) und zukünftigen Entwicklung (Ertragskraft) interessiert. Sie können aufgrund der fehlenden internen Daten allerdings nur einen groben Überblick gewinnen. Führt das Unternehmen selbst eine Bilanzanalyse durch (interne Bilanzanalyse), geschieht dies meist als Vorstufe für ein internes Controlling (Erfolgsspaltung). Es können Zeitvergleiche, Soll-Ist-Vergleiche oder Benchmarks durchgeführt werden. Auch zur Vorbereitung auf eine Unternehmensbewertung ist die Bilanzanalyse geeignet. Externe Stakeholder treffen aufgrund der im Rahmen der Bilanzanalyse ermittelten Kennzahlen Entscheidungen.Die Jahresabschlussanalyse beginnt mit der Sammlung relevanter Informationen. Es gibt keine standardisierten Regeln der Bilanzanalyse, lediglich der Analysezweck bestimmt Umfang, Art und Ausgestaltung der vorzunehmenden Analyseschritte. Die regelmäßig mit Bilanzanalyse befassten Interessenten (Kreditinstitute, Versicherungen oder Ratingagenturen) können Bilanzanalysesysteme nutzen.Aufgabe der qualitativen Bilanzanalyse ist es, durch die verstärkte Auswertung des Anhangs und des Lageberichtes die mathematisch abstrakte Natur der Bilanz und Erfolgsrechnung zu überwinden und damit einen besseren Einblick in die Vermögens-, Finanz- und Ertragslage zu ermöglichen.Es wird untersucht, ob sich die Bilanzierung des Unternehmens im Vergleich zum Vorjahr verändert hat oder ob es Unterschiede zur so genannten üblichen bzw. Normbilanzierung gegeben hat (progressive Bilanzierung). Im Anschluss wird analysiert, ob der Gewinn oder andere Bilanzposten bzw. Posten der Gewinn- und Verlustrechnung durch die Veränderung der Bilanzierung beeinflusst worden sind (z. B. durch Bilanzierungswahlrechte/Ermessensspielräume bei Ansatz und Bewertung).Publiziert das Unternehmen neben den gesetzlich geforderten Daten noch weitere freiwillige Informationen (z. B. Auftragsentwicklung), so ist dies positiv zu bewerten. Vorsicht ist bei sog. Pro-Forma-Kennzahlen des Unternehmens geboten, da diese oftmals von den gewöhnlichen Definitionen abweichen.Im Rahmen der syntaktischen Analyse wird untersucht, welche präferierte Wortwahl vorherrscht und wie präzise die Formulierungen im Jahresabschluss sind. Eher unpräzise Formulierungen (z. B. gute Umsatzentwicklung statt Umsatzsteigerung von 30 Mio. auf 40 Mio.) können ein Anzeichen für eine Unternehmenskrise bzw. Verschleierung sein.Es werden die Häufigkeiten von negativen Begriffen wie Stagnation, Verschlechterung etc. und positiven Formulierungen wie Stärkung, Maximierung etc. gezählt.Durch die Aufbereitungsmaßnahmen werden die so genannte Strukturbilanz und Struktur-GuV gebildet. Diese bilden die Grundlage für die quantitative Analyse. Durch Saldierung, Umgliederung und Neusortierung von einzelnen Positionen des Jahresabschlusses wird die betriebswirtschaftliche Lage des Unternehmens realitätsnäher dargestellt als durch die rechtlichen Vorschriften. Diese Maßnahmen helfen so beispielsweise, die Schuldendienstdeckungsfähigkeit oder die nachhaltige Ertragskraft des Unternehmens besser darzustellen. Des Weiteren wird die Vergleichbarkeit mit anderen Unternehmen der gleichen Branche erhöht. Insbesondere sollen durch die Aufbereitungsmaßnahmen Einflüsse durch bilanzpolitische Spielräume, Sondereinflüsse oder steuerliche Verzerrungen eliminiert werden.Die Quantitative Analyse befasst sich primär mit der Bildung von Kennzahlen. Es existiert jedoch eine Fülle von unterschiedlichsten Kennzahlen mit teilweise verschiedenen Definitionen und Mindestgrenzen. Je nach Zweck ist dabei nur ein Teil relevant. Daher müssen vor einer Bilanzanalyse deren Ziele eindeutig festgelegt werden. Mit diesen können nun geeignete Kennzahlen identifiziert werden. Die Anzahl sollte dabei angemessen sein. Zu wenig Kennzahlen könnten einen falschen Eindruck erwecken, zu viele den Überblick gefährden. Bei vielen Kennzahlen besteht zusätzlich häufig das Problem, dass für die Errechnung weitere Daten aus dem internen Rechnungswesen notwendig sind. Die folgend aufgeführten Kennzahlen können direkt aus dem Jahresabschluss ermittelt werden.Eigenkapitalrentabilität
+Cashflow-Rentabilität
+  
+    
+      
+        
+          Cashflow-Rentabilität
+        
+        =
+        
+          
+            
+              
+                Jahresüberschuss
+              
+              +
+              
+                Abschreibungen
+              
+            
+            Gesamtkapital
+          
+        
+      
+    
+    {\displaystyle {\text{Cashflow-Rentabilität}}={\frac {{\text{Jahresüberschuss}}+{\text{Abschreibungen}}}{\text{Gesamtkapital}}}}
+  Gesamtkapitalrentabilität vor Steuern
+Gesamtkapitalrentabilität nach Steuern
+Umsatzrentabilität
+Kapitalumschlagshäufigkeit
+RONA/ROCEBeim RONA (return on net assets) wird der Nenner von der Aktivseite her als Anlagevermögen zuzüglich Working Capital definiert, während beim ROCE (return on capital employed) der Nenner sich aus der Passivseite zusammensetzt (Gesamtkapital). Dadurch kennzeichnet der RONA die Rendite des eingesetzten Vermögens, der ROCE die Rendite des eingesetzten Kapitals:
+
+  
+    
+      
+        
+          RONA/ROCE
+        
+        =
+        
+          
+            
+              E
+              B
+              I
+              T
+            
+            Gebundenes Vermögen bzw. gebundenes Kapital
+          
+        
+      
+    
+    {\displaystyle {\text{RONA/ROCE}}={\frac {\mathrm {EBIT} }{\text{Gebundenes Vermögen bzw. gebundenes Kapital}}}}Deckungsgrad A
+Deckungsgrad B
+Liquidität 1.Grades
+Liquidität 2.Grades
+Liquidität 3.Grades
+CashflowVermögensintensität
+  
+    
+      
+        
+          Vermögensintensität
+        
+        =
+        
+          
+            Anlagevermögen
+            Umlaufvermögen
+          
+        
+      
+    
+    {\displaystyle {\text{Vermögensintensität}}={\frac {\text{Anlagevermögen}}{\text{Umlaufvermögen}}}}
+  Anlagenintensität
+Umlaufintensität
+  
+    
+      
+        
+          Umlaufintensität
+        
+        =
+        
+          
+            Umlaufvermögen
+            Gesamtvermögen
+          
+        
+      
+    
+    {\displaystyle {\text{Umlaufintensität}}={\frac {\text{Umlaufvermögen}}{\text{Gesamtvermögen}}}}
+  Vorratsintensität
+Sachanlagenbindung
+  
+    
+      
+        
+          Sachanlagenbindung
+        
+        =
+        
+          
+            Anlagevermögen
+            Umsatzerlöse
+          
+        
+      
+    
+    {\displaystyle {\text{Sachanlagenbindung}}={\frac {\text{Anlagevermögen}}{\text{Umsatzerlöse}}}}
+  Forderungsbindung
+  
+    
+      
+        
+          Forderungsbindung
+        
+        =
+        
+          
+            Forderungen aus Lieferungen und Leistungen
+            Umsatzerlöse
+          
+        
+      
+    
+    {\displaystyle {\text{Forderungsbindung}}={\frac {\text{Forderungen aus Lieferungen und Leistungen}}{\text{Umsatzerlöse}}}}
+  Debitorenziel
+KreditorenzielEigenkapitalquote
+Statischer Verschuldungsgrad I
+Selbstfinanzierungsgrad
+  
+    
+      
+        
+          Selbstfinanzierungsgrad
+        
+        =
+        
+          
+            Gewinnrücklagen
+            Eigenkapital
+          
+        
+      
+    
+    {\displaystyle {\text{Selbstfinanzierungsgrad}}={\frac {\text{Gewinnrücklagen}}{\text{Eigenkapital}}}}Personalintensität
+Umsatz pro Mitarbeiter
+  
+    
+      
+        
+          Umsatz pro Mitarbeiter
+        
+        =
+        
+          
+            Umsatzerlöse
+            Mitarbeiterzahl
+          
+        
+      
+    
+    {\displaystyle {\text{Umsatz pro Mitarbeiter}}={\frac {\text{Umsatzerlöse}}{\text{Mitarbeiterzahl}}}}
+  Gewinn pro Mitarbeiter
+  
+    
+      
+        
+          Gewinn pro Mitarbeiter
+        
+        =
+        
+          
+            Betriebsergebnis
+            Mitarbeiterzahl
+          
+        
+      
+    
+    {\displaystyle {\text{Gewinn pro Mitarbeiter}}={\frac {\text{Betriebsergebnis}}{\text{Mitarbeiterzahl}}}}
+  Lohnniveau
+  
+    
+      
+        
+          Lohnniveau
+        
+        =
+        
+          
+            Personalaufwand
+            Mitarbeiterzahl
+          
+        
+      
+    
+    {\displaystyle {\text{Lohnniveau}}={\frac {\text{Personalaufwand}}{\text{Mitarbeiterzahl}}}}
+  Materialintensität
+Herstellungsintensität
+  
+    
+      
+        
+          Herstellungsintensität
+        
+        =
+        
+          
+            
+              
+                Materialaufwand
+              
+              +
+              
+                Personalaufwand
+              
+            
+            Umsatzerlöse
+          
+        
+      
+    
+    {\displaystyle {\text{Herstellungsintensität}}={\frac {{\text{Materialaufwand}}+{\text{Personalaufwand}}}{\text{Umsatzerlöse}}}}
+  Forschungsintensität
+InvestitionsdeckungNeben einzelnen Kennzahlen können umfangreiche Kennzahlensysteme eingesetzt werden.
+Beispiele sind:
+
+Du-Pont-Schema
+ZVEI-Kennzahlensystem
+RL-KennzahlensystemAufbauend auf den bisherigen Ergebnisses können nun noch weitere Kennzahlen berechnet werden, welche ermitteln, ob das Unternehmen wert-schaffend ist. Zu den bekanntesten zählt der Economic Value Added, welcher überprüft, ob das Nettoergebnis nach Steuern größer als die Kapitalkosten ist.Kennzahlen alleine haben nur eine sehr begrenzte Aussagekraft. Nur durch einen Vergleich kann eine Aussage bezüglich der Ergebnisse getroffen werden. 
+Dabei können (u. a.) folgende Betrachtungsweisen gewählt werden:
+
+Zeitvergleich: Dynamisierung der statischen Bilanzzahlen zur Trenderkennung und Abschätzung künftiger Entwicklungen.
+Betriebsvergleich: Hier stellt sich das Problem ein vergleichbares Unternehmen zu finden, denn auch innerhalb einer Branche kann es große Unterschiede geben. So ist beispielsweise bei einem diversifizierten Unternehmen mit verschiedenen Geschäftsfeldern die Branchenzugehörigkeit nicht eindeutig. Außerdem sind noch Unterschiede in der Rechtsform, Rechnungslegung und Besteuerung zu beachten
+Plan/Soll/Ist Vergleich: Vergleich der Planzahlen mit tatsächlichen Zahlen.Außerhalb der Kennzahlen sind noch Zusatzinformationen wie Markttrends und eventuell kommende Produkterschwernisse (z. B. neue Steuerpläne, Verbote usw.) mit zu berücksichtigen. Die eigentliche Auswertung und Analyse beinhaltet Bewertungen (gute oder schlechte wirtschaftliche Verhältnisse) und endet mit der Ermittlung eines Ratings.Im Rahmen der Bilanzanalyse gibt es zahlreiche Nachteile, welche bei der Beurteilung eines Unternehmens beachtet werden müssen. Die Bilanzanalyse baut auf den gesetzlichen Vorgaben zur Bilanzierung im Rahmen des Bilanzrechts auf. Dadurch bleiben dem Analysten wesentliche Hintergrundinformationen aus dem Rechnungswesen verborgen. Ferner handelt es sich bei den Informationen des Jahresabschlusses um vergangenheitsbezogene Daten, die nicht die aktuelle wirtschaftliche Situation eines Unternehmens repräsentieren. Bei kleineren Unternehmen liegt in der Regel bereits zwischen der Erstellung und der Veröffentlichung des Jahresabschlusses ein größerer Zeitraum. Bei Großunternehmen überbrücken Quartalsberichte die Aktualitätslücke. Außerdem sind die Daten aus Bilanz und GuV meist grob aggregiert, so dass wichtige Detailinformationen fehlen. Zudem ist zu bedenken, dass durch Bilanzpolitik (insbesondere Bewertungswahlrechte und Ermessensspielräume im Rahmen des Grundsatzes der vernünftigen kaufmännischen Beurteilung bei Ansatz und Bewertung) die einzelnen Bilanzpositionen und GuV stark beeinflusst werden können. Es muss daher auch stets untersucht werden, ob und inwieweit eine konservative oder progressive Bilanzpolitik durch das Unternehmen ausgeübt wurde.

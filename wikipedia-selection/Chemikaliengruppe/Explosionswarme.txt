@@ -1,0 +1,7 @@
+Die Explosionswärme ist eine sicherheitstechnische Kenngröße von Explosivstoffen sowie von Sprengstoffen, sprengkräftigen Zubereitungen und Treibmitteln. Sie entspricht der Wärmemenge, die beim explosiven Zerfall eines Stoffes frei wird. Der Wert hängt vom Aggregatzustand der Zerfallsprodukte ab, weshalb für kalorimetrische Vergleiche die angegebenen Werte meist auf flüssiges Wasser bezogen sind.
+Die Explosionswärme kann theoretisch über die Differenz der Bildungsenthalpien der Zerfallsprodukte und der Ausgangsstoffe entsprechend dem Satz von Hess abgeschätzt werden. Dabei gelten für eine sinnvolle Vergleichbarkeit einheitliche Ansätze bezogen auf den Ausgangszustand des Explosivstoffes als Feststoff oder Flüssigkeit sowie auf Normalbedingungen abgekühlte Zerfallsprodukte. Die Abschätzungen können wegen der notwendigen Berücksichtigung von Gleichgewichten wie Wassergas- oder Boudouard-Gleichgewicht recht komplex sein.
+Eine experimentelle Bestimmung der Explosionswärme erfolgt in einer kalorimetischen Bombe. 
+Die bei einer Detonation eines Sprengstoffes realisierte Detonationswärme kann sich von der Explosionswärme unterscheiden.
+
+
+== Einzelnachweise ==

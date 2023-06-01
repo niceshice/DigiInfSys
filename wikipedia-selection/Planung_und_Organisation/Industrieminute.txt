@@ -1,0 +1,27 @@
+In Zeiterfassungssystemen der Industrie können geleistete Arbeitsstunden dezimal dargestellt werden, also als 8,75 h statt 8 Stunden und 45 Minuten. Diese Form der Dezimalzeit soll vor allem die Datenverwaltung von Arbeitszeiten erleichtern. In diesem Zusammenhang wird gelegentlich (auch im BGB) der Begriff Industrieminute verwendet, der eine hundertstel Stunde bezeichnet, eine Industrieminute entspricht somit 36 Sekunden. Ein Hundertstel einer Industrieminute wird als Industriesekunde bezeichnet. Die Darstellung von Stunden im Dezimalformat führt zur Industriestunde. Die normale Zeitdarstellung (Minute:Sekunde) wird in diesen Systemen zur Abgrenzung oft als Echtminute, Normalminute oder Zeitminute bezeichnet. Industrieminuten dürfen nicht mit der Zeiteinheit Hundertstelminute (HM) im Arbeitsstudium verwechselt werden.
+Es gilt:
+
+1 Stunde = 1,00 h = 100 Industrieminuten
+8 Stunden 45 Minuten = 8,75 h = 875 Industrieminuten = 87500 IndustriesekundenArbeitszeiten werden üblicherweise auf die Industrieminute gerundet, so dass das Abspeichern als ganzzahlige Industrieminuten erfolgen kann.
+Möchte man eine Uhrzeit bzw. Zeitspanne in normaler Darstellung in die Industriedarstellung umrechnen, gilt:
+
+Ih = Std + Min/60 + Sek/3600Die Umrechnung von 8 Stunden und 45 Minuten oder 8:45 führt mit dieser Formel
+
+  
+    
+      
+        I
+        h
+        =
+        8
+        +
+        
+          
+            45
+            60
+          
+        
+      
+    
+    {\displaystyle Ih=8+{\frac {45}{60}}}
+  zu einem Wert von 8,75 Industriestunden.

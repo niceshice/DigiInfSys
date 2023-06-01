@@ -1,0 +1,5 @@
+Catenet ist ein Begriff aus den Anfangstagen des Internets, der ein paketvermitteltes Netzwerk als Zusammenschluss kleinerer Netzwerke bezeichnet. Das Internet in seiner heutigen Form ist das bislang größte existierende Catenet.
+Eine genauere Definition kann man in Vinton Cerfs Fachbericht „The Catenet Model for Internetworking“ von 1978 nachlesen, indem es im Großen und Ganzen als ein Zusammenschluss kooperierender Netzwerke („confederation of co-operating networks“) mit vordefinierten Regeln zur Zusammenschaltung erklärt wird.Der Begriff Catenet wird zum Beispiel noch in RFC 777 und RFC 792 (Internet Control Message Protocol von Jon Postel) erwähnt.
+
+
+== Einzelnachweise ==

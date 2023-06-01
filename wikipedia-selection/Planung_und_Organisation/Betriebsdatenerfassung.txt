@@ -1,0 +1,12 @@
+Betriebsdatenerfassung (BDE) ist ein Sammelbegriff für die Erfassung von Istdaten über Zustände und Prozesse in Betrieben.
+Diese Daten können in Plant Information Management Systeme, Manufacturing Execution Systems bzw. SCADA-Systeme eingebunden sein.Bei der Betriebsdatenerfassung können verschiedene Arten von Betriebsdaten unterschieden werden.Die Datenerfassung erfolgt zentral über Bildschirmarbeitsplätze an zentralen PPS-Systemen, dezentral z. B. über Bildschirmarbeitsplätze an dezentralen BDE-Systemen oder Leitständen, über  Datenerfassungsterminals oder durch direkte Maschinendatenerfassung. Häufig erfolgt die Identifizierung des "BDE-Objekts", z. B. eines Arbeitsvorgangs, für den eine BDE-Meldung erfasst werden soll, mit Barcode-Unterstützung. Neben diesen modernen Methoden besteht auch ein Papieransatz, der mithilfe von Schreibgegenständen Schriftzeichen oder auch primitive Symbole (beispielsweise Zählstriche) auf das Papier überträgt.
+Die Betriebsdatenerfassung gehört zum Manufacturing Execution System. Die BDE umfasst die Maschinendatenerfassung, die Betriebs-, Personal- und Auftragsdaten. Anhand von diesen Informationen können Sie die Planabweichungen verfolgen, die Ausfallzeit reduzieren und die Kosten optimieren. Die Datenanalyse lässt die Leistung der Produktionsprozesse verbessern. Die Datenanalyse über große Zeiträume ermöglicht auch versteckte Korrelationen zu verfolgen, die zum Mehraufwand führen. Die Genauigkeit der Analyse wird durch die Qualität der Datenaufzeichnung beeinflusst. Eines der möglichen Probleme ist die Verwendung der Mittelwerte während der Messungen sowie die Anwendung verschiedener Erfassungsmethoden in einem System.Die BDE ist hierarchisch aufgebaut. Sie besteht aus BDE-Maschinen-, BDE-Bereichsterminals, BDE-Gruppenrechnern, die durch BDE-Interfaces an einen Leitrechner angebunden sind.
+
+BDE-Leitrechner
+BDE-Interface (Konzentrator)
+BDE-Gruppenrechner
+BDE-Bereichsterminal
+BDE-Maschinenterminal
+
+
+== Einzelnachweise ==

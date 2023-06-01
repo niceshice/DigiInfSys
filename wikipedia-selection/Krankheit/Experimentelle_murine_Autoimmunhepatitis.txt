@@ -1,0 +1,11 @@
+Experimentelle murine Autoimmunhepatitis (emAIH) ist ein Mausmodell, das die wichtigsten Eigenschaften der Autoimmunhepatitis (AIH) beim Menschen aufweist.Die wichtigsten Gemeinsamkeiten zwischen der AIH beim Menschen und der emAIH sind:
+
+ein chronischer Krankheitsverlauf und die Entstehung von Fibrose
+die Abhängigkeit von genetischer Prädisposition, d. h. die Tiere haben Veranlagung für Autoimmunität
+die Notwendigkeit eines starken externen Stimulus (Umweltfaktor), wie z. B. einer Virusinfektion, damit die Erkrankung ausbricht
+die starke Infiltration der Portalfelder der Leber durch Lymphozyten
+eine Autoimmunantwort durch CD4+ T-Zellen gegen Selbstantigene der Leber
+eine wirksame therapeutische Behandlung durch Corticosteroide wie Prednisolon oder BudesonidDie emAIH ist keine spontane Erkrankung in Tieren, deshalb wird die emAIH durch einmalige Gabe von Adenoviren in NOD-Mäuse induziert. Die Adenoviren dienen dabei sowohl als Umweltfaktor, der eine Immunreaktion auslöst, als auch als viraler Vektor, um das humane Leberprotein Formiminotransferase-Cyclodeaminase (FTCD) in der Mausleber zu exprimieren. Durch das fremde Antigen in der Leber und die Infektion startet eine Autoimmunreaktion, die einen chronischen Verlauf nimmt, stärker wird und die Leberzellen (Hepatozyten) tötet.
+
+
+== Einzelnachweise ==

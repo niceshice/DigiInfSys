@@ -1,0 +1,188 @@
+Peroxomonoschwefelsäure (auch Peroxoschwefelsäure, Peroxy-Monoschwefelsäure oder Carosche Säure) ist eine Oxosäure des Schwefels. Ihre Salze heißen Peroxomonosulfate, z. B. Kaliumperoxomonosulfat (KHSO5). Die farblosen wässrigen Lösungen der Peroxomonoschwefelsäure werden im Praxisjargon von Chemielaboren auch Knabberwasser, Piranhasäure oder Piranha-Lösung genannt. Der Chemiker Heinrich Caro beschrieb sie erstmals 1898.Eine Synthese kann durch Umsetzung von Chlorsulfonsäure (ClSO3H) mit Wasserstoffperoxid erfolgen:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          C
+          l
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+          ⟶
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              5
+            
+          
+           
+          +
+           
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}O_{2}\ +\ ClSO_{3}H\longrightarrow \ H_{2}SO_{5}\ +\ HCl} }
+  Bei weiterer Umsetzung mit Chlorsulfonsäure bildet sich Peroxodischwefelsäure (H2S2O8).
+Peroxomonoschwefelsäure als wässrige Lösung ist unter Normalbedingungen instabil und wird daher zur Verwendung stets neu hergestellt. Hierfür wird konzentrierte Schwefelsäure zu Wasserstoffperoxid gegeben. (Vorsicht: Hitzeentwicklung):
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              5
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SO_{4}\ +\ H_{2}O_{2}\longrightarrow \ H_{2}SO_{5}\ +\ H_{2}O} }
+  Dabei entsteht neben Peroxomonoschwefelsäure auch Wasser als Reaktionsprodukt.Peroxomonoschwefelsäure ist ein farbloser, äußerst hygroskopischer, feinkristalliner Feststoff, der nach Ozon riecht. In reinem Zustand ist er mehrere Wochen unter nur geringem Verlust von aktivem Sauerstoff haltbar, in unreiner Form ist er wesentlich unbeständiger. Er ist unzersetzt löslich in Ethanol und wenig löslich in Ether. Beim Lösen in Wasser wird in einer Gleichgewichtsreaktion Wasserstoffperoxid (H2O2) freigesetzt:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              5
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SO_{5}\ +\ H_{2}O\ \rightleftharpoons \ H_{2}SO_{4}\ +\ H_{2}O_{2}} }
+  Peroxomonoschwefelsäure wirkt stark oxidierend.Peroxomonoschwefelsäure wird als Reinigungs- und Bleichmittel verwendet. Sie wird  zum Beispiel zur Reinigung von Glasfritten verwendet. Dabei dürfen unter keinen Umständen organische Lösungsmittel wie z. B. Aceton zugesetzt werden, da dies zu Explosionen führen kann.Reine Peroxomonoschwefelsäure ist hochexplosiv. Wie alle starken Oxidationsmittel bildet Peroxomonoschwefelsäure in Kontakt mit organischen Verbindungen, wie z. B. Ethern, Ketonen oder organischen Lösungsmitteln sehr instabile Moleküle, wie z. B. Acetonperoxid.
+
+
+== Einzelnachweise ==

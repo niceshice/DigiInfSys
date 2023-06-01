@@ -1,0 +1,41 @@
+Head On ist ein Computerspiel, das 1979 von der Firma Gremlin als Arcade-Spiel hergestellt wurde. Es gab auch von Sega und Irem Arcade-Versionen. Kurz darauf wurde es auch für mehrere Homecomputer, z. B. den VC 20 und Commodore 64 portiert.
+Das Spiel ist ein Labyrinthspiel wie Pac-Man, allerdings steuert der Spieler ein Auto.
+Im Kinofilm von 1982 "Die schrillen Vier auf Achse" – im englischen "National Lampoons Vacation" mit Chevy Chase und Beverly D’Angelo hatte das Spiel einen kleinen Gastauftritt.Es gibt ein Labyrinth von 5 rechteckigen Fahrspuren (bei Portierungen auch 3 oder 4). Die erste befindet sich außen am Bildschirmrand, die anderen verjüngen sich nach innen.
+Jeweils in der Mitte von allen Himmelsrichtungen gibt es Öffnungen, bei denen die Spur gewechselt werden kann.
+
+ _________________       _________________
+|    _____________       _____________    |
+|   |    _________       _________    |   |
+|   |   |    _____       _____    |   |   |
+|   |   |   |                 |   |   |   |
+
+                   SCORE
+|   |   |   |                 |   |   |   |
+|   |   |   |_____       _____|   |   |   |
+|   |   |_________       _________|   |   |
+|   |_____________       _____________|   |
+|_________________       _________________|Wie bei Pac-Man ist es Ziel des Spiels, alle auf der Spur liegenden Punkte aufzusammeln. Dann kommt ein neuer Level. Das Auto des Spielers darf dabei nicht mit einem vom Computer gesteuerten Auto zusammenstoßen. Es kann nicht abgebremst oder angehalten, lediglich durch Knopfdruck beschleunigt werden. In späteren Levels gibt es mehrere Computer-Autos. Es gibt auch Versionen, bei denen zwei reale Spieler gegeneinander antreten können.Arcade-Versionen
+
+Gremlin 1979 (1- und 2-Spieler-Versionen)
+Irem, ca. 1979
+als Invinco / Head On Sega 1979 (mit Space Invaders Klon)
+Head On N, Nintendo 1979
+Head On 2 Sega 1979Homecomputer (Auswahl)
+
+VC 20
+C64 (1982)
+Amiga als Car Wars
+Sega Saturn (1997, Kompilation)
+Game Boy
+Apple II
+Spectravideo als "Killer Car"
+ZX Spectrum als Car Chase (3 Fahrspuren)
+Texas Instruments TI-99/4A als Car Wars
+VTech Laser-VZ als Crash
+HandyspielÄhnliche Spiele
+
+Dodge ’Em (1979, vermutlich nach Head On, gleiche Optik)
+Crash (Exidy, 07/1979)
+Space Chaser (Taito, 1979) mit Raketen
+Rally-X (Namco, 10/1980) mit Bildschirmscrolling
+Puckman /Pac-Man (Namco, 1980)

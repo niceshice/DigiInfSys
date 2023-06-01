@@ -1,0 +1,6 @@
+Diphenylcarbazon ist eine chemische Verbindung aus der Gruppe der Carbazone (Stickstoffverbindungen mit der Grundstruktur HN=N-CO-NH-NH2).Diphenylcarbazon ist ein oranger Feststoff, der sich gut in Ethanol und nicht in Wasser löst. Es bildet mit Hg(II)-Ionen eine violette Komplexverbindung. Ebenso bilden andere Metallionen, wie z. B. Cr(III)-Ionen, farbige Komplexe. Diphenylcarbazon lässt sich über Oxidation aus Diphenylcarbazid herstellen. Bestimmte handelsübliche Produkte von Diphenylcarbazon sind ein Gemisch mit Diphenylcarbazid, das ebenfalls farbige Komplexverbindungen mit bestimmten Metallionen bildet.Diphenylcarbazon wird als Indikator zur Endpunktbestimmung in der Mercurimetrie eingesetzt:
+Titriert man eine Natriumchloridlösung mit Quecksilber(II)-nitratlösung, so bildet sich undissoziiertes Quecksilber(II)-chlorid. Bei Überschreiten des Endpunktes bildet sich dann mit Diphenylcarbazon der Farbkomplex. Diese Methode wird in der Wasseranalyse zur Chlorid-Bestimmung angewendet.
+Gibt man eine bestimmte Menge Quecksilber(II)-nitratlösung im Überschuss zu einer Chlorid-Lösung, so kann man die Farbintensität des Komplexes fotometrisch bestimmen und damit auf den Chlorid-Gehalt schließen.Diphenylcarbazid
+
+
+== Einzelnachweise ==

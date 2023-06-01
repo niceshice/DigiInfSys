@@ -1,0 +1,71 @@
+log4j ist ein Framework zum Loggen von Anwendungsmeldungen in Java.
+Innerhalb vieler Open-Source- und kommerzieller Softwareprodukte hat es sich über die Jahre zu einem De-facto-Standard entwickelt.
+log4j gilt als Vorreiter für andere Logging-Frameworks, auch in anderen Programmiersprachen.Das Projekt wurde von Ceki Gülcü 1996 während seiner Arbeit am IBM-Entwicklungslabor in Zürich gegründet. Heute ist es ein Teil des Logging-Projekts der Apache Software Foundation und steht unter der Apache-Lizenz 2.0. Es entstand zu einer Zeit, als es in den Java-Standardbibliotheken noch keine Logging-Mechanismen gab. Heutzutage ist es durch seine Ausgereiftheit und Konfigurierbarkeit für viele Softwareentwickler das Log-System der ersten Wahl.
+Die Ausstrahlung der log4j-Konzepte auf andere Programmiersprachen bzw. Plattformen ist so groß, dass es mittlerweile etliche Adaptionen gibt. Einige werden vom Apache Logging Projekt selbst gepflegt. Zum Beispiel:
+
+log4cxx für C++ mit zu Log4J kompatiblen Konfigurationsdateien
+log4Net für .Net
+log4php für PHPViele Varianten werden jedoch außerhalb von Apache Logging entwickelt:
+
+log4C für C
+log4cplus für C++
+log4cpp für C++
+Log4Qt für Qt
+Log4js für JavaScript
+log4perl für Perl
+log4D für Delphi
+log4sh für Unix-Shells
+log4plsql für Oracle PL/SQL
+log4sas für SAS Institute
+AndroidLoggingLog4J
+Modul logging für PythonSeit Juli 2014 ist log4j 2 als Nachfolger des log4j 1.x verfügbar.Das Apache-Logging-Projekt versucht log4j-ähnliche Systeme für diverse Programmiersprachen zusammenzuführen. Bisher sind das log4j, log4cxx, log4net, log4php und Chainsaw (ein Logdatei-Betrachter und -Analysewerkzeug).Außerdem werden sogenannte Companions entwickelt, die zusätzliche Funktionalität für Apache log4j bereitstellen.Anstatt auftretende Fehler und Infomeldungen auf der Standardausgabe auszugeben, dient log4j dazu, die Meldungen über sogenannte Logger an das gewählte Loggingsystem weiterzuleiten („Appender“). Neben der Auswahl des Loggingsystems wird gleichzeitig aufgrund der Wichtigkeit („Log-Level“) der Meldung entschieden, ob diese überhaupt weitergeleitet wird. Der Programmierer muss sich beim Erstellen des Programms nur um die Wichtigkeit der Meldungen Gedanken machen. Die Filterung und Art der Ausgabe kann zur Laufzeit konfiguriert werden.
+Log4j ist auf möglichst hohe Geschwindigkeit ausgelegt, damit das Loggen die Systemleistung nicht negativ beeinflusst. So dauert die Entscheidung, ob eine Meldung ausgegeben werden muss, auch auf einem veralteten System (AMD Duron mit 800 MHz, JDK 1.3.1) nur 5 Nanosekunden, die Ausgabe selbst – je nachdem welches Layout verwendet wird – zwischen 21 und 37 Mikrosekunden.In der Konfigurationsdatei kann die Ausgabe je nach Wichtigkeit der Nachrichten gefiltert werden. Der Ausgabe-Umfang steigt mit der zugewiesenen Wichtigkeitsstufe und umfasst alle Nachrichten der Stufe selbst, sowie aller noch dringenderen Stufen. Die Reihenfolge stellt sich dabei wie folgt dar: ALL → TRACE → DEBUG → INFO → WARN → ERROR → FATAL → OFF.
+Für die Einstufung der Wichtigkeit gelten folgende Richtwerte:
+
+ALL
+Alle Meldungen werden ungefiltert ausgegeben
+TRACE
+ausführlicheres Debugging (ab Version 1.2.12), Kommentare
+DEBUG
+allgemeines Debugging (Auffinden von Fehlern)
+INFO
+allgemeine Informationen (Programm gestartet, Programm beendet, Verbindung zu Host Foo aufgebaut, Verarbeitung dauerte SoUndSoviel Sekunden …)
+WARN
+Auftreten einer unerwarteten Situation
+ERROR
+Fehler (Ausnahme wurde abgefangen. Bearbeitung wurde alternativ fortgesetzt)
+FATAL
+Kritischer Fehler, Programmabbruch
+OFF
+Logging ist deaktiviertMittels Appender kann das Ausgabeziel/können die Ausgabeziele der erzeugten Loggingausgaben festgelegt werden.
+Nachfolgend die wichtigsten Appender-Arten:
+
+ConsoleAppender
+Gibt auf Standardausgabe aus
+FileAppender
+Schreibt in eine Datei
+RollingFileAppender
+Beginnt eine neue Datei ab einer gewissen Größe
+DailyRollingFileAppender
+Beginnt zu gewissen Zeiten mit einer neuen Datei
+SyslogAppender
+Loggt mittels Syslog-Dienst
+JDBCAppender
+Schreibt in eine Datenbank
+NTEventLogAppender
+Schreibt ins Ereignisprotokoll des Windows-Systems
+SMTPAppender
+Schickt bei gewissen Meldungen eine Mail.
+SocketAppender
+Sendet die Log-Nachricht an einen konfigurierten Socket-Listener.
+LogCatAppender
+Loggt in den Android LogCatWeitere Appender können jederzeit hinzugefügt werden.Es gibt drei Arten, log4j zu konfigurieren: mittels einer Properties- oder einer XML-Datei oder im Programmcode. Es wird empfohlen, eine Properties- oder XML-Datei zu verwenden, damit ist die Konfiguration vom Code getrennt, was es ermöglicht, ohne Modifikation oder Neustart der Applikation das Loggen umzukonfigurieren. Somit kann beispielsweise eine Applikation so lange nur mit Log-Level FATAL betrieben werden, bis ein Fehler auftritt. Ab dann wird das Level WARN gesetzt, ohne die Applikation anzuhalten.
+Die Konfigurationsdateien definieren mittels der folgenden Komponenten das Verhalten von log4j:
+
+Appender
+Diese bestimmen mittels Konfiguration der entsprechenden Appender-Klasse, wohin die Log-Ausgaben geschrieben werden sollen, und mittels Konfiguration des Layouts, wie dorthin geschrieben werden soll. Neben der reinen Nachricht können mittels Muster zusätzlich Wichtigkeit, Datum, Loggername, Klassenname und Methodenname bis hin zur genauen Codezeile ausgegeben werden.
+Logger
+Ein Logger ist ein Objekt, welches die Logging-Aufgaben einer Klasse übernimmt. Es wird über seinen Namen identifiziert. Üblicherweise wird der Klassenname als Name für den Logger verwendet. Es ist allerdings auch möglich, einen Fantasie-Namen zu verwenden, der von mehreren Klassen benutzt wird. Ein typisches Beispiel könnte so aussehen: Logger log = Logger.getLogger(org.wikipedia.MyClass). Damit kann das Logging-Verhalten einer Klasse gesteuert werden. Da der Logger auch die Paket-Informationen erhält, ist es auch möglich Logging für ganze (Super)-Pakete zu konfigurieren. Die Konfigurationsdatei kann dann eben den Logger-Namen – also z. B. "org.wikipedia.MyClass" – und auch das gewünscht Log-Level enthalten. Es ist wie bereits erwähnt möglich, eine Konfiguration für ein Paket wie "org.wikipedia" festzulegen. Darüber hinaus können entweder allgemein oder auch zu jedem Logger spezifisch ein oder mehrere Appender definiert werden. Somit ist es beispielsweise möglich, fatale Fehler nicht nur in eine Datei zu schreiben, sondern auch gleichzeitig per E-Mail an einen Administrator zu schicken.log4j 2.0 bietet neben diesen klassischen Konfigurationen auch modernere Möglichkeiten an in das Logging-Verhalten einzugreifen. Beispielsweise werden sogenannte Marker unterstützt.Ein weiteres nützliches Merkmal ist der Mapped Diagnostic Context. Dabei wird einer Kontextvariablen ein Wert zugewiesen und in der Konfigurationsdatei kann darauf referenziert werden. Dabei hat jeder Thread seinen eigenen Kontext und kann zusätzliche Informationen wie z. B. die Adresse des Clients bei einer Serveranwendung protokollieren.Die folgende XML Konfiguration konfiguriert eine Applikation so, dass FATAL-Fehler von Fremdbibliotheken auf die Konsole geloggt werden, ERROR-Fehler der eigenen Applikation zusätzlich auch per E-Mail geschickt werden, bei einer spezifischen Komponente darüber hinaus auch noch INFO-Meldungen geloggt werden und bei einer bestimmten Klasse sogar noch DEBUG-Meldungen.Version 2 wurde von Grund auf neu geschrieben, auch wenn Teile von log4j 1.x übernommen wurden. Die neue Version verfügt über eine moderne Schnittstelle, wie sie auch von logback bekannt ist. Außerdem unterstützt sie slf4j native. Zugleich wurden Schwächen von logback analysiert und versucht zu verbessern. Somit verliert log4j 2 beispielsweise keine Logging-Events, wenn sich das System neu konfiguriert. Außerdem wurde eine Plugin-Architektur bereitgestellt und die Konfiguration mittels JSON ermöglicht.Das Projekt plant derzeit gelegentliche Wartungsreleases der Serie 1.x, wird sich aber mehr und mehr auf die 2.x Serie fokussieren.
+Auf der Website von Apache werden einige Unterschiede zwischen log4j1 und log4j2 aufgelistet.Java Logging – seit Java 1.4 Bestandteil der Java-Klassenbibliothek; ähnlich wie log4j, weniger Appender, kein PatternLayout
+Apache Commons Logging – Schnittstelle für beliebig austauschbare Logging-Frameworks, unter anderem log4j
+tinylog – schlankes Logging-Framework mit einem statischen Logger

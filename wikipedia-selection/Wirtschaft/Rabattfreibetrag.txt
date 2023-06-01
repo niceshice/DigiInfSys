@@ -1,0 +1,29 @@
+Ein Rabattfreibetrag ist
+
+eine Steuervergünstigung,
+ein Betrag, bis zu dessen Höhe Sachbezüge eines Arbeitnehmers steuerfrei bleiben (§ 8 Abs. 3 EStG).Der Rabattfreibetrag beträgt 1.080 € pro Jahr.
+Als Wert eines Sachbezugs wird der übliche Verkaufspreis abzgl. eines steuerfreien Rabatts i.H.v. 4 % angesetzt, abzgl. vom Arbeitnehmer geleisteter Entgelte. Übersteigt die Summe der Sachbezüge in einem Kalenderjahr den Freibetrag, ist der übersteigende Betrag steuerpflichtiger Arbeitslohn.
+Voraussetzung für die Anwendung des Freibetrags:
+
+Vorteilsgewährung durch den Arbeitgeber in Form von Waren oder Dienstleistungen
+Waren oder Dienstleistungen müssen vom Arbeitgeber hergestellt oder vertrieben werden
+Waren bzw. Dienstleistungen dürfen nicht überwiegend für die Arbeitnehmer des Betriebs hergestellt, vertrieben oder erbracht werden.Der Rabattfreibetrag hat Vorrang vor der Bewertung von Sachbezügen nach § 8 Abs. 2 EStG. Er wird nicht gezwölftelt, dies gilt selbst dann, wenn der Arbeitnehmer nicht im ganzen Jahr für den Vorteil gewährenden Arbeitgeber tätig gewesen ist. Bei mehreren Dienstverhältnissen, die nacheinander im Jahr bzw. nebeneinander bestehen, ist eine mehrfache Gewährung des Rabattfreibetrags möglich. Dies ergibt sich aus dem Wortlaut des Gesetzes: „aufgrund seines Dienstverhältnisses“.
+
+Beispiel:
+Ein Arbeitnehmer eines Automobilherstellers erhält bei Kauf eines Neuwagens einen Rabatt i.H.v. 20 %.
+
+Der Wagen hat einen Listenpreis von  40.000 € (Endpreis am Abgabeort)
+- Abschlag von 4 %                    1.600 €
+= berichtigter Abgabepreis           38.400 €
+- vom AN gezahlter Preis             32.000 € (Gesamtnachlass 20 % v. 40.000 €)
+=   geldwerter Vorteil            6.400 €
+./. Rabattfreibetrag            1.080 €
+=   steuerpflichtiger Arbeitslohn     5.320 €
+
+Mit diesem Kauf wäre der Jahresfreibetrag des Arbeitnehmers verbraucht. 
+Bei einem weiteren Autokauf im gleichen Jahr in gleicher Höhe wären demnach 6.400 € der Einkommensteuer (und den Sozialabgaben) zu unterwerfen.
+
+An diesem Beispiel ist ersichtlich, dass oftmals der am freien Markt erzielbare Rabatt von bspw. 15 % für einen Neuwagen bei einer ganzheitlichen Betrachtung die bessere Option gegenüber dem Arbeitgeberrabatt darstellen kann, da derlei Verhandlungsgewinne keinerlei Besteuerung unterliegen.
+
+
+== Einzelnachweise ==

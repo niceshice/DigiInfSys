@@ -1,0 +1,9 @@
+Apache MyFaces Trinidad ist ein JSF-Webframework, das neben einer großen Komponenten-Bibliothek mit Funktionen wie Barrierefreiheit und Rechts-nach-links-Sprachen auch eine Reihe von anderen Framework-Funktionen enthält, einschließlich:
+
+Partial-Page-Rendering-Unterstützung für die gesamte Komponenten – nur Teile einer Webseite werden neu übertragen
+integrierte Client-Validierung
+ein Dialog-Framework
+pageFlowScope, für die Kommunikation zwischen den SeitenTrinidad ist ein Teilprojekt des Projekts Apache MyFaces und wurde von Oracle gespendet, wo es als ADF Faces bekannt war. Nach einem langen Abstimmungsprozess wurde es umbenannt zu Apache MyFaces Trinidad. Trinidad ist mehr als nur eine Komponenten-Bibliothek, weil es auch nützliche Funktionen bereitstellt, die Lösungen häufiger Programmierprobleme bieten.Trinidad wird als freie Software unter Version 2.0 der Apache-Lizenz verbreitet.
+
+
+== Einzelnachweise ==

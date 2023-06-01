@@ -1,0 +1,98 @@
+Perrheniumsäure ist eine anorganische chemische Verbindung aus der Gruppe der Säuren. Sie liegt nur in wässriger Lösung vor. Als feste Perrheniumsäure wird Dirheniumdihydratoheptoxid Re2O7(OH2)2 bezeichnet.Eine wässrige Perrheniumsäure-Lösung kann durch Reaktion von Rhenium mit Wasserstoffperoxid gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          R
+          e
+          +
+          7
+           
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          H
+          R
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          6
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Re+7\ H_{2}O_{2}\longrightarrow 2\ HReO_{4}+6\ H_{2}O} }
+  Ebenfalls möglich ist die Darstellung durch Auflösung von Rhenium(VII)-oxid in Wasser.
+
+  
+    
+      
+        
+          R
+          
+            e
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          H
+          R
+          e
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Re_{2}O_{7}+H_{2}O\longrightarrow 2\ HReO_{4}} }
+  Die Lösungen können nur bis zu einer Konzentration von max. 70 Gewichtsprozent HReO4 eingedampft werden, darüber verflüchtigt sich HReO4.Feste Perrheniumsäure kann aus einer wässrigen möglichst konzentrierten Perrheniumsäure-Lösung gewonnen werden, indem im Exsikkator mittels Phosphorpentoxid oder Magnesiumperchlorat diese vom Wasserüberschuss befreit wird.Perrheniumsäure ist als Reinstoff nicht darstellbar und nur als farblose bis schwach gelbliche Lösung existent. Dirheniumdihydratoheptoxid ist ein schwach gelblicher, äußerst hygroskopischer Feststoff. Er ist löslich in Nitromethan und zersetzt sich bei 65 °C unter Verflüchtigung von HReO4. Er besitzt eine monokline Kristallstruktur mit der Raumgruppe P21/m (Raumgruppen-Nr. 11)Vorlage:Raumgruppe/11 und den Gitterparametern a = 882 pm, b = 889 pm, c = 503 pm und β = 112,0°, mit O3Re-O-ReO3(OH2)2-Molekülen.Perrheniumsäure dient zur Darstellung gut leitender und supraleitender synthetischer Metalle.
+
+
+== Einzelnachweise ==

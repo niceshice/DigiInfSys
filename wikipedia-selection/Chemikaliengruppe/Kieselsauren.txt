@@ -1,0 +1,504 @@
+Als Kieselsäuren werden die Sauerstoffsäuren des Siliciums bezeichnet. Die einfachste Kieselsäure ist Monokieselsäure (Orthokieselsäure) Si(OH)4 oder auch H4SiO4. Sie ist eine schwache Säure (pKs1 = 9,51; pKs2 = 11,74) und neigt zur (Poly-)Kondensation. Wasserabspaltungen führen zu Verbindungen wie Dikieselsäure (Pyrokieselsäure) (HO)3Si–O–Si(OH)3 und Trikieselsäure (HO)3Si–O–Si(OH)2–O–Si(OH)3. Cyclische (ringförmige) Kieselsäuren sind z. B. Cyclotrikieselsäure und Cyclotetrakieselsäure mit der allgemeinen Summenformel [Si(OH)2–O–]n. Polymere werden gelegentlich als Metakieselsäure (H2SiO3, [–Si(OH)2–O–]n) bezeichnet. Kondensieren diese niedermolekularen Kieselsäuren weiter, bilden sich amorphe Kolloide (Kieselsol). Allgemeine Summenformel aller Kieselsäuren ist H2n+2SinO3n+1. Als Summenformel wird häufig SiO2 · n H2O angegeben; das Wasser ist bei Kieselsäuren jedoch kein Kristallwasser, sondern kann nur durch eine chemische Reaktion abgespalten werden und bildet sich aus konstitutionell gebundenen Hydroxygruppen.
+Allgemein werden die wasserärmeren Produkte der Orthokieselsäure unter dem Begriff Polykieselsäuren zusammengefasst. Formales Endprodukt der Wasserabspaltung ist Siliciumdioxid, das Anhydrid der Kieselsäure. Die Salze der Säuren nennt man Silicate. Technisch verwendete bzw. hergestellte Alkalisalze werden oft Wassergläser genannt. Die Ester der Kieselsäuren werden Kieselsäureester genannt.
+Technisch gewonnene Kolloide (pyrogene Kieselsäuren), fossile Sedimente (Kieselgur), die natürlichen Panzer der Kieselalgen, sowie bestimmte Gläser (Kieselglas) lassen sich alle durch die allgemeine Summenformel SiO2 beschreiben, sind also Siliciumdioxide und können formal als Produkt einer chemischen Reaktion aus Monokieselsäure aufgefasst werden. Aus diesem Grund wird im deutschen Sprachraum amorphes Siliciumdioxid (= Kieselsäureanhydrid) historisch bedingt oft und fälschlicherweise als Kieselsäure bezeichnet, z. B. pyrogene Kieselsäure statt pyrogenes Siliciumdioxid.Monokieselsäure kommt in allen Gewässern, auch im Trinkwasser, sowie in allen tierischen und pflanzlichen Körperflüssigkeiten vor. Mengenmäßig nutzen hauptsächlich Kieselalgen Kieselsäuren zum Aufbau ihrer Panzer. Der Verbrauch der Kieselsäure durch biologische Prozesse wird durch Regen- oder Sickerwasser ausgeglichen, die durch Bodenschichten rinnen und aus den Silicaten der Bodenminerale Kieselsäure lösen (vgl. Silikatverwitterung). Kieselsäure (oft vulkanischen Ursprungs) kann zur Bildung von Fossilien durch Verkieselung führen, wie z. B. zur Bildung von versteinerten Wäldern (siehe auch Quarz und Fossilisierung).Monokieselsäure bildet sich durch Hydrolyse von Siliciumhalogeniden wie Siliciumtetrafluorid und Siliciumtetrachlorid und Hydrolyse von Tetraalkoxysilanen wie Tetramethoxysilan.
+
+  
+    
+      
+        
+          S
+          i
+          
+            F
+            
+              4
+            
+          
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          +
+          4
+           
+          H
+          F
+        
+      
+    
+    {\displaystyle \mathrm {SiF_{4}+4\ H_{2}O\longrightarrow Si(OH)_{4}+4\ HF} }
+  In wässrigen Suspensionen von amorphem, dispersen SiO2 bildet sich langsam Monokieselsäure. Bei 25 °C lösen sich etwa 120 mg SiO2 pro Liter:
+
+  
+    
+      
+        
+          S
+          i
+          
+            O
+            
+              2
+               
+              (
+              s
+              )
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              4
+               
+              (
+              a
+              q
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SiO_{2\ (s)}+2\ H_{2}O\ \rightleftharpoons \ Si(OH)_{4\ (aq)}} }
+  Kieselsäure bildet sich bei der Umsetzung von Wasserglas-Lösungen mit Mineralsäuren. Bei technischen Verfahren werden statt Mineralsäuren Kationenaustauscher eingesetzt.
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              4
+            
+          
+          S
+          i
+          
+            O
+            
+              4
+               
+              (
+              a
+              q
+              )
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+               
+              (
+              a
+              q
+              )
+            
+          
+           
+          ⇌
+           
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              4
+               
+              (
+              a
+              q
+              )
+            
+          
+          +
+          2
+           
+          N
+          
+            a
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+               
+              (
+              a
+              q
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Na_{4}SiO_{4\ (aq)}+2\ H_{2}SO_{4\ (aq)}\ \rightleftharpoons \ Si(OH)_{4\ (aq)}+2\ Na_{2}SO_{4\ (aq)}} }Unter sauren oder basischen Bedingungen unterliegt Monokieselsäure einer exothermen, intermolekularen Kondensationsreaktion zu Dikieselsäure (1), Trikieselsäure und in Folge zu Polykieselsäuren. Die Wasserabspaltung wird bei pH > 2 durch Deprotonierung (2) und bei pH < 2 durch Protonierung (3) katalytisch eingeleitet. Bei pH = 8 bis 9 ist die Reaktion schnell und die Kondensation erfolgt in Minuten bis Sekunden.
+
+  
+    
+      
+        
+          1
+          )
+           
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          
+            −
+          
+          O
+          H
+          +
+          H
+          O
+          
+            −
+          
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          
+            −
+          
+          O
+          
+            −
+          
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {1)\ (HO)_{3}Si{-}OH+HO{-}Si(OH)_{3}\longrightarrow (HO)_{3}Si{-}O{-}Si(OH)_{3}+H_{2}O} }
+  
+  
+    
+      
+        
+          2
+          )
+           
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          
+            O
+            
+              −
+            
+          
+          +
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          ⟶
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          
+            −
+          
+          O
+          
+            −
+          
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          +
+          O
+          
+            H
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2)\ (HO)_{3}SiO^{-}+Si(OH)_{4}\longrightarrow (HO)_{3}Si{-}O{-}Si(OH)_{3}+OH^{-}} }
+  
+  
+    
+      
+        
+          3
+          )
+           
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          O
+          H
+          +
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          (
+          O
+          
+            H
+            
+              2
+            
+          
+          
+            )
+            
+              +
+            
+          
+          ⟶
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          
+            −
+          
+          O
+          (
+          H
+          
+            )
+            
+              +
+            
+          
+          −
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3)\ (HO)_{3}SiOH+(HO)_{3}Si(OH_{2})^{+}\longrightarrow (HO)_{3}Si{-}O(H)^{+}-Si(OH)_{3}+H_{2}O} }
+   
+  
+    
+      
+        
+          ⟶
+          (
+          H
+          O
+          
+            )
+            
+              3
+            
+          
+          S
+          i
+          
+            −
+          
+          O
+          
+            −
+          
+          S
+          i
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\longrightarrow (HO)_{3}Si{-}O{-}Si(OH)_{3}+H_{3}O^{+}} }
+  Jede Si–OH-Gruppe neigt dazu, eine Si–O–Si-Bindung zu bilden. Neben ringbildenden und kettenverzweigenden Kondensationen führen dreibindige und vierbindige Si-Einheiten zu einer Vernetzung der Ketten. Die Kondensationsreaktionen erfolgen ungeordnet. Es bilden sich kugelförmige, nicht kristalline (amorphe) Polykieselsäuren. Diese Teilchen liegen nicht mehr als Lösung vor, sondern bilden in der wässrigen Phase ein Kolloid mit Teilchendurchmesser zwischen 5 und 150 nm. Sind die Polykieselsäureteilchen ausreichend groß, wird die Suspension milchig trüb. Bestimmte technische Verfahren erlauben die Stabilisierung dieser Teilchen vor einer weiteren Vernetzung. Das Produkt wird Kieselsol genannt. Ohne Stabilisierung neigen die Polykieselsäureteilchen zum ungeordneten Aneinanderhaften; die Teilchen bilden poröse Aggregate mit (wassergefüllten) Hohlräumen. In einem Alterungsprozess „verschmelzen“ die Polykieselsäureteilchen durch neue Si–O–Si-Bindungen ineinander. Solche stabilen Strukturen werden Kieselgele genannt, von denen das Silicagel ein technisch perfektioniertes Produkt dieser Struktur darstellt. Allgemein werden die Produkte Fällungskieselsäuren oder gefällte Kieselsäuren genannt. Die Aggregate sind pulverförmig, haben eine geringe Schüttdichte und eine hohe spezifische Oberfläche. Wird für diese Aggregate ein Wassergehalt angegeben, handelt es sich – im Gegensatz zu Kieselsäuren – um physikalisch (durch Adsorption) gebundenes Wasser.
+In Wasser sind Kieselsäuren sehr schlecht und nur langsam löslich. Bei einem pH-Wert von 7 und einer Temperatur von 25 °C lösen sich maximal 0,12 g (berechnet als Siliciumdioxid) Kieselsäuren in einem Liter Wasser. Dies entspricht einem Wert von 120 ppm. Mit zunehmender Temperatur und zunehmendem pH-Wert steigt die Löslichkeit an. So lösen sich bei 75 °C 330 ppm Siliciumdioxid in Wasser.
+
+
+== Einzelnachweise ==

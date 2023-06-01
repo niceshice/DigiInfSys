@@ -1,0 +1,8 @@
+Germnews war ab der Frühzeit des Internets in Deutschland von 1994 bis 2008 ein kostenloser täglicher Newsletter, der in einer deutschen und einer englischsprachigen Version Nachrichten über Deutschland im Umfang von etwa vier bis sechs DIN A4-Seiten als E-Mail enthielt.
+Basis der Nachrichten waren vor allem transkribierte deutsche Radionachrichten, die dann jeweils auch ins Englische übersetzt wurden. Angeboten wurde der Dienst ehrenamtlich von Mitarbeitern der Gesellschaft für Mathematik und Datenverarbeitung mbH, später umgeformt zum GMD-Forschungszentrum Informationstechnik.
+Technisch war es eine LISTSERV-Liste, die über den IBM-Computer der GMD mit der Adresse GERMNEWS@vm.gmd.de versandt wurde. Organisiert wurde der Dienst von Rainer Mallon.Der Dienst wurde 2008 nach fast 15 Jahren eingestellt, wegen des inzwischen sehr umfangreichen Angebots an sehr aktuellen und ausführlichen Nachrichten kommerzieller Anbieter im Internet und wegen personeller Engpässe und Arbeitsüberlastung der freiwilligen Mitarbeiter, die die Nachrichten unentgeltlich in ihrer Freizeit zusammengestellt bzw. übersetzt hatten.
+Die Nachrichten waren zuletzt auch über die Webseite www.germnews.de greifbar, über die auch ein Archivzugriff möglich war.
+Die Seite existiert nicht mehr, die Forschungseinrichtung ist mit der Fraunhofer-Gesellschaft fusioniert worden.
+
+
+== Einzelnachweise ==

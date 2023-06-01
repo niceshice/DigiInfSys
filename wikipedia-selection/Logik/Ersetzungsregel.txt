@@ -1,0 +1,145 @@
+Die Ersetzungsregel  ist eine Schlussregel vieler logischer Kalküle.
+Aus den Prämissen
+
+P[A]  (was bedeutet, dass die Aussage A in der Aussage P enthalten ist)
+
+  
+    
+      
+        A
+        ↔
+        B
+      
+    
+    {\displaystyle A\leftrightarrow B}
+  folgt die Konklusion
+
+P[B]Es wird also – inhaltlich gesprochen – ein Teil einer Aussage durch einen gleichwertigen ersetzt.
+Beispiel:
+Gegeben sei die Prämisse 
+  
+    
+      
+        (
+        p
+        →
+        q
+        )
+        ∧
+        p
+      
+    
+    {\displaystyle (p\rightarrow q)\wedge p}
+  .
+Wegen der Allgemeingültigkeit von 
+  
+    
+      
+        (
+        p
+        →
+        q
+        )
+        ↔
+        (
+        ¬
+        p
+        ∨
+        q
+        )
+      
+    
+    {\displaystyle (p\rightarrow q)\leftrightarrow (\neg p\vee q)}
+   kann man in der Prämisse den Ausdruck 
+  
+    
+      
+        (
+        p
+        →
+        q
+        )
+      
+    
+    {\displaystyle (p\rightarrow q)}
+   durch  
+  
+    
+      
+        (
+        ¬
+        p
+        ∨
+        q
+        )
+      
+    
+    {\displaystyle (\neg p\vee q)}
+   ersetzen.
+Aus der Aussage 
+  
+    
+      
+        (
+        p
+        →
+        q
+        )
+        ∧
+        p
+      
+    
+    {\displaystyle (p\rightarrow q)\wedge p}
+  
+
+folgt also 
+  
+    
+      
+        (
+        ¬
+        p
+        ∨
+        q
+        )
+        ∧
+        p
+        ,
+      
+    
+    {\displaystyle (\neg p\vee q)\wedge p,}
+  
+also 
+  
+    
+      
+        (
+        ¬
+        p
+        ∧
+        p
+        )
+        ∨
+        (
+        q
+        ∧
+        p
+        )
+        ,
+      
+    
+    {\displaystyle (\neg p\wedge p)\vee (q\wedge p),}
+  
+also 
+  
+    
+      
+        (
+        q
+        ∧
+        p
+        )
+        .
+      
+    
+    {\displaystyle (q\wedge p).}

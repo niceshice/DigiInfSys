@@ -1,0 +1,38 @@
+Ein Gegenbeispiel ist in der Mathematik und in der Philosophie, insbesondere in der Logik ein empirischer oder konstruierter  Sachverhalt, der eine bestimmte Hypothese widerlegt. Seit Karl Poppers Forderung nach Falsifizierbarkeit gelten heute nur solche Aussagen als wissenschaftlich, zu denen Gegenbeispiele prinzipiell möglich sind.
+In der Mathematik beweist man Sätze der Form "Wenn A, dann B". Der Beweis schließt die Existenz von Gegenbeispielen prinzipiell aus, so dass der Begriff der Falsifizierbarkeit hier nicht sinnvoll ist. Für das Nichtbestehen einer solchen Implikation "Wenn A, dann B" genügt es, ein Beispiel anzugeben, dass A erfüllt, aber nicht B. Ein solches Beispiel nennt man ein Gegenbeispiel. Ferner spricht man bei der Einführung von mathematischen Eigenschaften von Gegenbeispielen, wenn man ein Beispiel für etwas angibt, das diese Eigenschaft nicht hat. Typische Anwendungen des Begriffs Gegenbeispiel sind daher:
+
+Es gilt "Wenn A, dann B". Die Umkehrung "Wenn B, dann A" gilt nicht, wie das Gegenbeispiel x zeigt.
+Einführung einer Eigenschaft E. Beispiele für E sind x und y. z ist ein Gegenbeispiel (d. h. ein Beispiel, das nicht E hat).Gettiers Gegenbeispiele zur Behauptung, Wissen sei „gerechtfertigter wahrer Glaube“.
+Aussage: Alle Primzahlen sind ungerade. Diese Aussage ist falsch, wie das Gegenbeispiel 2 zeigt. (Es genügt für die Falschheit die Existenz eines einzigen Gegenbeispiels.)
+Eine Gruppe heißt abelsch, wenn die Verknüpfung kommutativ ist. Beispiele sind 
+  
+    
+      
+        (
+        
+          Z
+        
+        ,
+        +
+        )
+      
+    
+    {\displaystyle (\mathbb {Z} ,+)}
+   oder 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /n\mathbb {Z} }
+  . Das Gegenbeispiel S3 zeigt, dass nicht alle Gruppen abelsch sind.

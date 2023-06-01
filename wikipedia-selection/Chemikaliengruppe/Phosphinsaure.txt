@@ -1,0 +1,186 @@
+Phosphinsäure, veraltet auch Hypophosphorige Säure genannt, ist eine der Säuren des Phosphors und hat die Summenformel H3PO2. Ihre Salze werden Phosphinate oder (veraltet) Hypophosphite genannt; mit Alkoholen kann Phosphinsäure formal Phosphinsäureester bilden. Der Phosphor hat in diesen Verbindungen die Oxidationsstufe +I.Erzeugt werden kann Phosphinsäure durch Disproportionierung von weißem Phosphor (P4) in einem alkalischen Medium:
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          +
+          6
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          P
+          
+            H
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}+6\ H_{2}O\longrightarrow PH_{3}+3\ H_{3}PO_{2}} }
+  Ebenfalls möglich ist die Darstellung durch Zersetzung von Bariumhypophosphit mit Schwefelsäure.
+
+  
+    
+      
+        
+          B
+          a
+          (
+          
+            H
+            
+              2
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          ⋅
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          +
+          B
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Ba(H_{2}PO_{2})_{2}\cdot H_{2}O+H_{2}SO_{4}\longrightarrow 2\ H_{3}PO_{2}+BaSO_{4}+H_{2}O} }Wasserfreie Hypophosphorige Säure kristallisiert in farblosen Blättchen, die sich in Wasser sehr leicht lösen. Beim Erhitzen auf 130–140 °C tritt Disproportionierung zu Monophosphan und Phosphonsäure ein.
+
+  
+    
+      
+        
+          3
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          ⇌
+          2
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+          +
+          P
+          
+            H
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {3\,H_{3}PO_{2}\rightleftharpoons 2\,H_{3}PO_{3}+PH_{3}} }Hypophosphorige Säure kann in wässriger Lösung als Reagenz zur Reduktion von Diazoniumgruppen eingesetzt werden (Dediazonierung). Als Reaktionsprodukte entstehen elementarer Stickstoff und phosphorige Säure.

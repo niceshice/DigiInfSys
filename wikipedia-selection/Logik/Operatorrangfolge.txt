@@ -1,0 +1,426 @@
+Als Operatorrangfolge, -wertigkeit, -priorität oder -präzedenz bezeichnet man in Mathematik, Logik und Informatik eine definierte Halbordnung, in der die Operatoren eines in Infix-Schreibweise vorliegenden Ausdrucks auszuwerten sind.
+Die Operatorrangfolge ist keine Totalordnung, sondern eine Halbordnung, weil es keine strikte Reihenfolge zwischen allen Operatoren geben muss. Es können auch mehrere Operatoren auf demselben Rang stehen. Zum Beispiel ist in der Arithmetik der Rang von Multiplikation und Division gleich, aber höher als der Rang von Addition und Subtraktion („Punktrechnung vor Strichrechnung“).
+Eine Klammerung bietet die Möglichkeit der Bevorrangung eines Teilstücks einer Formel: Der eingeklammerte, also von einem Klammerpaar „( ... )“ eingeschlossene Bereich ist rechnerisch zuerst auszuführen und durch das entsprechende Teilergebnis zu ersetzen. Die Klammerung muss die Operatoren samt ihren nötigen Operanden enthalten. Wird also 
+  
+    
+      
+        a
+        ⋅
+        (
+        b
+        +
+        c
+        )
+      
+    
+    {\displaystyle a\cdot (b+c)}
+   notiert, ist zuerst der Klammerausdruck zu berechnen, also die Summe 
+  
+    
+      
+        (
+        b
+        +
+        c
+        )
+      
+    
+    {\displaystyle (b+c)}
+   zu bilden, bevor 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   mit dieser Summe multipliziert wird.
+Durch die Rangfolge kann man explizite Klammerungen sparen. So ist in der Arithmetik 
+  
+    
+      
+        a
+        +
+        b
+        ⋅
+        c
+      
+    
+    {\displaystyle a+b\cdot c}
+   gleichbedeutend mit 
+  
+    
+      
+        a
+        +
+        (
+        b
+        ⋅
+        c
+        )
+      
+    
+    {\displaystyle a+(b\cdot c)}
+  , weil der Multiplikationsoperator einen höheren Rang hat. Für andere Anwendungen dieser Operatorsymbole können jedoch andere Rangordnungen definiert sein.
+Bei nicht kommutativen Operatoren bedarf es noch zusätzlicher Konvention darüber, ob gleichrangige Teilausdrücke von links nach rechts oder rechts nach links auszuwerten sind, um die Rechenreihenfolge eindeutig festzulegen.Für die Standard-Rechenoperationen der Mathematik ist (in absteigender Priorität) folgende Rangfolge üblich:
+Potenzierung
+Multiplikation und Division („Punktrechnung“)
+Addition und Subtraktion („Strichrechnung“)In Programmiersprachen und Computerprogrammen zur Formelauswertung (z. B. dem Unix-Dienstprogramm bc) gibt es zusätzliche Kategorien. Eine davon ist das Vorzeichen, das in der Regel eine noch höhere Priorität vor der Potenzierung genießt. So wird in mathematischen Formeln der Ausdruck 
+  
+    
+      
+        −
+        
+          a
+          
+            b
+          
+        
+      
+    
+    {\displaystyle -a^{b}}
+   zwar als 
+  
+    
+      
+        −
+        (
+        
+          a
+          
+            b
+          
+        
+        )
+      
+    
+    {\displaystyle -(a^{b})}
+   gelesen, in den Ausdrücken solcher Auswertungsprogramme aber oft als 
+  
+    
+      
+        (
+        −
+        a
+        
+          )
+          
+            b
+          
+        
+      
+    
+    {\displaystyle (-a)^{b}}
+  .
+In der Logik ist es nicht immer üblich, eine Operatorrangfolge zu definieren. Wo das geschieht, wird meistens (in absteigender Priorität) folgende gewählt:
+
+Negation
+Konjunktion
+Disjunktion
+Konditional
+BikonditionalAuch in vielen Programmiersprachen wird für Boolesche Operatoren diese Rangfolge gewählt.
+Nach Anwendung der genannten Operatorrangfolgen wird z. B. der arithmetische Ausdruck 
+  
+    
+      
+        3
+        +
+        4
+        ⋅
+        
+          5
+          
+            −
+            6
+          
+        
+      
+    
+    {\displaystyle 3+4\cdot 5^{-6}}
+   ausgewertet als 
+  
+    
+      
+        3
+        +
+        (
+        4
+        ⋅
+        (
+        
+          5
+          
+            (
+            −
+            6
+            )
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle 3+(4\cdot (5^{(-6)}))}
+  , der logische Ausdruck 
+  
+    
+      
+        P
+        ↔
+        Q
+        →
+        R
+        ∨
+        S
+        ∧
+        ¬
+        T
+      
+    
+    {\displaystyle P\leftrightarrow Q\rightarrow R\lor S\land \neg T}
+   als 
+  
+    
+      
+        P
+        ↔
+        (
+        Q
+        →
+        (
+        R
+        ∨
+        (
+        S
+        ∧
+        (
+        ¬
+        T
+        )
+        )
+        )
+        )
+      
+    
+    {\displaystyle P\leftrightarrow (Q\rightarrow (R\lor (S\land (\neg T))))}
+  .Zusätzlich kann für Operationen eine Assoziativität festgelegt werden, mit der bestimmt wird, in welcher Reihenfolge nebeneinander stehende, gleichwertige Operatoren auszuwerten sind. Ein Operator heißt linksassoziativ, wenn A op B op C op D ausgewertet wird als ((A op B) op C) op D; ein Operator heißt rechtsassoziativ, wenn A op B op C op D ausgewertet wird als A op (B op (C op D)). Von den genannten arithmetischen Operatoren wird die Potenzierung als rechtsassoziativ definiert, d. h.:
+
+  
+    
+      
+        
+          a
+          
+            
+              b
+              
+                
+                  c
+                  
+                    d
+                  
+                
+              
+            
+          
+        
+         
+        =
+         
+        
+          a
+          
+            
+              (
+              
+                b
+                
+                  
+                    (
+                    
+                      c
+                      
+                        d
+                      
+                    
+                    )
+                  
+                
+              
+              )
+            
+          
+        
+         
+        ≠
+         
+        
+          
+            (
+            
+              
+                (
+                
+                  a
+                  
+                    b
+                  
+                
+                )
+              
+              
+                c
+              
+            
+            )
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle a^{b^{c^{d}}}\ =\ a^{\left(b^{\left(c^{d}\right)}\right)}\ \neq \ \left(\left(a^{b}\right)^{c}\right)^{d}}
+  .Ebenso der Pfeiloperator:
+
+  
+    
+      
+        a
+        ↑↑
+        b
+        ↑↑
+        c
+        =
+        a
+        ↑↑
+        
+          (
+          
+            b
+            ↑↑
+            c
+          
+          )
+        
+        ≠
+        
+          (
+          
+            a
+            ↑↑
+            b
+          
+          )
+        
+        ↑↑
+        c
+      
+    
+    {\displaystyle a\uparrow \uparrow b\uparrow \uparrow c=a\uparrow \uparrow \left(b\uparrow \uparrow c\right)\neq \left(a\uparrow \uparrow b\right)\uparrow \uparrow c}
+  Die übrigen zweistelligen Operatoren werden als linksassoziativ definiert, d. h. zum Beispiel 
+  
+    
+      
+        A
+        −
+        B
+        −
+        C
+        −
+        D
+        =
+        (
+        (
+        A
+        −
+        B
+        )
+        −
+        C
+        )
+        −
+        D
+      
+    
+    {\displaystyle A-B-C-D=((A-B)-C)-D}
+  .
+In der Logik werden Junktoren meistens linksassoziativ definiert, es gibt aber durchaus auch Autoren, die zumindest das Konditional rechtsassoziativ verwenden.
+Es gibt auch Programmiersprachen, wie z. B. Occam, die alle Operatoren auf den gleichen Rang setzen und von links nach rechts auswerten.Um innerhalb eines Ausdrucks die definierte Operatorrangfolge zu verändern und um bei fehlender Definition einer Rangfolge Ausdrücke eindeutig zu gestalten, werden unterschiedliche Formen von Gliederungszeichen verwendet. In der Mathematik und auch in der modernen Logik sind das Klammern.
+In der Geschichte der Logik wurden vor allem zu Beginn häufig Punktierungen verwendet, um die Mehrdeutigkeit von Ausdrücken zu verhindern bzw. eine allenfalls definierte Operatorrangfolge zu verändern. Ein Punktierungssystem, das durch das Grundlagenwerk Principia Mathematica eine gewisse Verbreitung erlangte, war bis in die 1970er Jahre in unterschiedlich abgewandelter Form auch in einführenden Logikbüchern häufiger anzutreffen. Bei diesem System wird statt der gedachten schließenden Klammer vor einem Junktor bzw. statt der gedachten öffnenden Klammer nach einem Junktor ein Punkt gesetzt. Zum Beispiel würde statt
+
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+        ∧
+        (
+        C
+        ∨
+        D
+        )
+      
+    
+    {\displaystyle (A\lor B)\land (C\lor D)}
+  der folgende Ausdruck geschrieben:
+
+  
+    
+      
+        A
+        ∨
+        B
+        .
+        ∧
+        .
+        C
+        ∨
+        D
+      
+    
+    {\displaystyle A\lor B.\land .C\lor D}
+  Treffen mehrere gedachte Klammern aufeinander, dann werden statt eines einzigen Punktes zwei oder mehrere Punkte gesetzt, sodass zum Beispiel anstelle von
+
+  
+    
+      
+        (
+        (
+        A
+        →
+        B
+        )
+        ∨
+        C
+        )
+        ∧
+        D
+      
+    
+    {\displaystyle ((A\rightarrow B)\lor C)\land D}
+  der folgende Ausdruck geschrieben würde:
+
+  
+    
+      
+        A
+        →
+        B
+        .
+        ∨
+        C
+        :
+        ∧
+        D
+      
+    
+    {\displaystyle A\rightarrow B.\lor C:\land D}
+  Ein anderes System  gewichtet die in einem Ausdruck vorkommenden Junktoren mit Punkten. Je mehr Punkte über einem Operator stehen, desto schwächer ist seine Bindungsstärke, das heißt desto niedriger ist seine Priorität. Nach diesem System würde zum Beispiel eine Konjunktion mit zwei Punkten schwächer binden als eine Konjunktion mit einem Punkt, diese wiederum schwächer als eine Konjunktion ohne Punkte.In Programmiersprachen wird meist eine Wertigkeit und Assoziativität für alle Operatoren festgelegt, damit die Struktur aller Ausdrücke auch dann eindeutig ist, wenn keine Klammern verwendet werden. Damit ergibt die Auswertung eines Ausdrucks ohne Seiteneffekte stets denselben Wert.
+Die Operatorrangfolge ist normalerweise nur bei Ausdrücken in Infix-Notation von Bedeutung. Schreibweisen wie die polnische Notation oder die umgekehrte polnische Notation wurden entwickelt, damit die Ausdrücke ohne Rangfolge und klammerfrei eindeutig sind. Auch bei der ersten prädikatenlogischen Schreibweise, der Begriffsschriftnotation, und bei graphischen Schreibweisen wie den Existential Graphs ist die Lesart eines Ausdrucks eindeutig bestimmt und bedarf keiner Gliederungszeichen oder -konventionen.
+In Programmiersprachen, die Nebenwirkungen ("side effects") in Ausdrücken erlauben, ist die Reihenfolge, in der diese ausgeführt oder wirksam werden, von Bedeutung. Einige Programmiersprachen legen diese Auswertungsreihenfolge strikt fest, andere (wie z. B. C oder C++) lassen die Auswertungsreihenfolge bei den meisten Infix-Operanden undefiniert. Beispiel:
+
+Es ist nicht definiert, ob zuerst f1 oder f2 ausgeführt wird (und damit "side effects" auftreten). Dagegen ist festgeschrieben, dass f3 erst aufgerufen wird, nachdem f1 und f2 (mit ihren "side effects") beendet sind.

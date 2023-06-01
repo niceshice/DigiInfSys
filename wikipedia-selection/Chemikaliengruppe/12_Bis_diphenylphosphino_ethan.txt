@@ -1,0 +1,108 @@
+Bis(diphenylphosphino)ethan ist eine organische Verbindung. Sie wird als Ligand für katalytisch aktive Komplexe eingesetzt.Dppe kann aus der Reaktion zwischen Chlordiphenylphosphan, 1,2-Dibromethan und metallischem Natrium hergestellt werden. Hierbei wird zunächst Chlordiphenylphosphin durch Natrium metalliert. Die gebildete Spezies greift dann nukleophil am Bromalkan an. Als Nebenprodukte entstehen Natriumbromid und Natriumchlorid.
+
+  
+    
+      
+        
+          2
+           
+          P
+          
+            h
+            
+              2
+            
+          
+          P
+          C
+          l
+          +
+          C
+          
+            H
+            
+              2
+            
+          
+          B
+          r
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          B
+          r
+          +
+          4
+           
+          N
+          a
+          ⟶
+        
+      
+    
+    {\displaystyle \mathrm {2\ Ph_{2}PCl+CH_{2}Br{-}CH_{2}Br+4\ Na\longrightarrow } }
+   
+  
+    
+      
+        
+          P
+          
+            h
+            
+              2
+            
+          
+          P
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          P
+          P
+          
+            h
+            
+              2
+            
+          
+          +
+          2
+           
+          N
+          a
+          B
+          r
+          +
+          2
+           
+          N
+          a
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {Ph_{2}PCH_{2}{-}CH_{2}PPh_{2}+2\ NaBr+2\ NaCl} }
+  
+Synthese von dppe. Ph = PhenylDppe wird als zweizähniger Chelatligand in der homogenen Übergangsmetallkatalyse eingesetzt, wobei die beiden Phosphoratome am eingesetzten Metall koordinieren.

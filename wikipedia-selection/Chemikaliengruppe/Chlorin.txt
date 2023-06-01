@@ -1,0 +1,6 @@
+Chlorin (7,8-Dihydroporphyrin) ist eine heterocyclische, aromatische chemische Verbindung, die aus drei Pyrrolringen und einem Pyrrolinring aufgebaut ist. Es handelt sich um einen Makrocyclus, der strukturell eng mit Porphin, der Grundverbindung der Porphyrine verwandt ist. Chlorin bildet die Grundstruktur der Chlorine, einer Stoffgruppe, die als makrocyclische Liganden in biologischen Systemen auftreten.Derivate des Chlorins kommen in komplexierter Form mit Magnesiumkationen natürlich in bestimmten Chlorophyllen vor (Chlorophyll a, b und d).Chlorin kann aus der Reaktion zwischen 2-(N, N-Dimethylamino)methylpyrrol und Ethylmagnesiumbromid hergestellt werden.Physikalische Eigenschaften
+Chlorin ist eine farbige Verbindung deren Absorptionsmaximum in Benzol bei 388 nm liegt (Soret-Bande). Eine weitere intensive Absorptionsbande tritt bei 637,5 nm auf. Durch Komplexierung verschieben sich die Absorptionsmaxima. So liegt die Soret-Bande des Magnesiumkomplexes bei 402 nm, die des Kupferkomplexes bei 396 nm.Chemische Eigenschaften
+Chlorin besitzt zwei acide Protonen, die an Stickstoffatomen gebunden sind. In deprotonierter Form ist es ein sehr guter Komplexbildner und vermag mit zweiwertigen Kationen thermodynamisch stabile, aber substitutionslabile Komplexe zu bilden.
+
+
+== Einzelnachweise ==

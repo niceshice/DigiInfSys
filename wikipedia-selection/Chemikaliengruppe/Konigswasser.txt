@@ -1,0 +1,220 @@
+Königswasser, selten auch Königssäure genannt, ist ein Gemisch aus konzentrierter (37%iger) Salzsäure und konzentrierter (65%iger) Salpetersäure im Verhältnis 3 zu 1. Es war dem persischen Autor Ali Geber schon im 8. Jahrhundert bekannt.Der Name Königswasser (lat. aqua regis oder aqua regia ‚königliches Wasser‘) leitet sich von der Fähigkeit dieser Mischung ab, die „königlichen“ Edelmetalle Gold und Platin zu lösen. Aus Gold entsteht dabei Tetrachlorogold(III)-säure, aus Platin Platin(IV)-chlorid aus der entstehenden Hexachloroplatinsäure.Das Vermögen des Königswassers, Gold aufzulösen, kann auf verschiedene Art erklärt werden. Gerade die ältere Literatur macht für die Aggressivität von Königswasser nicht die Säuren an sich verantwortlich, sondern Reaktionsprodukte, die entstehen, wenn beide Säuren vermischt werden.
+
+  
+    
+      
+        
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          H
+          C
+          l
+          ⟶
+          N
+          O
+          C
+          l
+          +
+          2
+           
+          C
+          
+            l
+            
+              n
+              a
+              s
+              c
+              .
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {HNO_{3}+3\ HCl\longrightarrow NOCl+2\ Cl_{nasc.}+2\ H_{2}O} }
+  Es entstehen naszierendes Chlor und Nitrosylchlorid (NOCl), welche Gold und andere Edelmetalle wie Platin und Palladium zu oxidieren vermögen.
+
+  
+    
+      
+        
+          2
+           
+          A
+          u
+          +
+          2
+           
+          N
+          O
+          C
+          l
+          +
+          3
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          →
+        
+      
+    
+    {\displaystyle \mathrm {2\ Au+2\ NOCl+3\ Cl_{2}+2\ HNO_{3}\rightarrow } }
+   
+  
+    
+      
+        
+          2
+           
+          H
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+          
+          +
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ HAuCl_{4}+4\ NO_{2}} }
+  Ein alternativer Erklärungsansatz ist die Komplexierung des durch Salpetersäure oxidierten Metalls. Durch die Anwesenheit von Chlorid wird das Normalpotential (Au/Au3+ + 3 e−, E0 = 1,52 V) verringert: 
+
+Au + 4 Cl− 
+  
+    
+      
+        
+          ⇌
+        
+      
+    
+    {\displaystyle \mathrm {\rightleftharpoons } }
+   [AuCl4]− + 3 e−, E0 = 0,93 V. Die Oxidationskraft der Salpetersäure reicht dann aus:
+NO3– + 4 H+ + 3 e– 
+  
+    
+      
+        
+          ⇌
+        
+      
+    
+    {\displaystyle \mathrm {\rightleftharpoons } }
+   NO(g) + 2 H2O, E0 = 0,96 V. 
+
+  
+    
+      
+        
+          A
+          u
+          +
+          4
+           
+          H
+          C
+          l
+          +
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          →
+        
+      
+    
+    {\displaystyle \mathrm {Au+4\ HCl+HNO_{3}\rightarrow } }
+   
+  
+    
+      
+        
+          H
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+          
+          +
+          N
+          O
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {HAuCl_{4}+NO+2\ H_{2}O} }
+  .Der gleiche Effekt tritt auch auf, wenn zu Salpetersäure Natriumchlorid oder ein anderes Chlorid zugesetzt wird.
+Die hohe Konzentration von Chloridionen steigert die Löslichkeit der Edelmetalle, diese werden in Form von anionischen Chlorido-Komplexen gelöst. Zirconium, Hafnium, Niob, Tantal, Titan, Ruthenium und Wolfram widerstehen aufgrund von Passivierung dem Angriff von Königswasser bei Raumtemperatur. Kompaktes Silber wird nicht aufgelöst, da dieses durch die Bildung einer unlöslichen Silberchloridschicht vor weiterem Angriff passiviert ist.
+Königswasser zerfällt von selbst, wobei Chlor, Nitrosylchlorid und nitrose Gase frei werden. Es wird daher üblicherweise unmittelbar vor Gebrauch aus den beiden Säuren frisch hergestellt.
+Königswasser als Gemisch von Salpetersäure und Salzsäure hat im Gefahrgutrecht die UN-Nummer 1798. Seine Beförderung auf europäischen Straßen ist gemäß dem Europäischen Übereinkommen über die Beförderung gefährlicher Güter auf der Straße verboten.Mit Hilfe von Königswasser werden u. a. Edelmetallpräparate für die Porzellan- und Glasmalerei hergestellt.
+In der analytischen Chemie findet Königswasser Anwendung beim Aufschluss schwerlöslicher Stoffproben. (siehe auch Königswasseraufschluss)
+In der Metallografie wird Königswasser bei einigen Legierungen verwendet, um die kristalline Struktur einer Oberfläche sichtbar zu machen.
+In verschiedenen Konzentrationen dient es heutzutage noch dazu, die Karätigkeit (ein alter Begriff für Feingehalt) von Gold zu überprüfen. Dabei wird die Löslichkeit einer Abriebprobe in den verschiedenen Lösungen geprüft.Früher wurde Königswasser (in starker Verdünnung) äußerlich angewandt:Als deutsche Truppen am 9. April 1940 während des Zweiten Weltkriegs die dänische Hauptstadt Kopenhagen besetzten, löste der im Labor von Niels Bohr arbeitende ungarische Chemiker George de Hevesy die goldenen Nobelpreis-Medaillen der deutschen Physiker Max von Laue und James Franck in Königswasser auf, damit sie nicht in die Hände deutscher Soldaten fielen. Von Laue und Franck waren in Opposition zum Nationalsozialismus in Deutschland und hatten deshalb ihre Medaillen Niels Bohr anvertraut, um so eine Konfiszierung in Deutschland zu verhindern; das NS-Regime verbot allen Deutschen das Annehmen oder Tragen des Nobelpreises, nachdem der Nazigegner Carl von Ossietzky im Jahr 1935 den Friedensnobelpreis erhalten hatte. Nach Kriegsende extrahierte de Hevesy das im Königswasser „versteckte“ Gold und übergab es der Königlichen Schwedischen Akademie der Wissenschaften, die daraus neue Medaillen für von Laue und Franck herstellen ließ.
+
+
+== Einzelnachweise ==

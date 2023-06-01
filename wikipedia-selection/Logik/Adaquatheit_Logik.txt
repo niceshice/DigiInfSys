@@ -1,0 +1,44 @@
+Adäquatheit bezeichnet in der Logik die Eigenschaft eines Kalküls, vollständig und korrekt zu sein. Adäquatheit ist eine Beziehung zwischen einem semantisch definierten Folgerungsoperator 
+  
+    
+      
+        ⊨
+      
+    
+    {\displaystyle \models }
+   und einem syntaktisch definierten Herleitungs- oder Ableitbarkeitsoperator 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+  , die besagt, dass alles, was syntaktisch hergeleitet werden kann, auch semantisch gefolgert werden kann, und umgekehrt:
+
+  
+    
+      
+        Γ
+        ⊨
+        G
+        
+      
+    
+    {\displaystyle \Gamma \models G\quad }
+    genau dann, wenn   
+  
+    
+      
+        
+        Γ
+        ⊢
+        G
+      
+    
+    {\displaystyle \quad \Gamma \vdash G}
+  
+Das bedeutet, dass „sich die Begriffe der Beweisbarkeit und der Ableitbarkeit im Kalkül mit den jeweiligen Begriffen der Allgemeingültigkeit und der logischen Folgerung decken“. Jede Tautologie ist dann also auch ein Theorem, und umgekehrt.
+
+
+== Einzelnachweise ==

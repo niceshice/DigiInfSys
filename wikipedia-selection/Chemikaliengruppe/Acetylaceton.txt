@@ -1,0 +1,26 @@
+Acetylaceton (IUPAC-Name: Pentan-2,4-dion) ist eine farblose, angenehm riechende, entzündliche Flüssigkeit, die leicht löslich in Wasser ist. Die Flüssigkeit ist wenig flüchtig, jedoch bilden sich bei erhöhter Umgebungstemperatur Dämpfe, die schwerer als Luft sind. Diese Dämpfe können mit Luft bei Temperaturen über 34 °C (Flammpunkt) explosionsfähige Gemische bilden.
+Acetylaceton ist als zweizähniger Ligand ein Komplexbildner (Acetylacetonat, acac). Zudem dient es als Synthesebaustein für heterocyclische Verbindungen, z. B. Arzneimittel wie das bei Bakterien folsäuresynthesehemmende Sulfamethazin oder Nicarbazin. Acetylaceton findet auch Anwendung in der Herstellung von Rostumwandlern und Korrosionsschutzmitteln. Es wird darüber hinaus als Reagenz beim Acetylaceton-Verfahren, einem standardisierten Verfahren zur quantitativen Bestimmung von Formaldehyd, verwendet.Die Mischbarkeit mit Wasser ist begrenzt. Mit steigender Temperatur steigt die Löslichkeit von Acetylaceton in Wasser bzw. steigt die Löslichkeit von Wasser in Acetylaceton.Acetylaceton bildet leicht entzündliche Dampf-Luft-Gemische. Die Verbindung hat einen Flammpunkt von 34 °C. Die unteren Explosionsgrenze (UEG) liegt bei ca. 1,7 Vol.‑% (71 g/m3). Die Grenzspaltweite wurde mit 0,92 mm (50 °C) bestimmt. Es resultiert damit eine Zuordnung in die Explosionsgruppe IIA. Die Zündtemperatur beträgt 340 °C. Der Stoff fällt somit in die Temperaturklasse T2.Die relativ hohe Säurestärke lässt sich durch den von beiden Carbonylgruppen ausgehenden induktiven Effekt
+und mesomeren Effekt (negative Ladung des Anions über 5-atomiges π-System delokalisiert) erklären. Die Anordnung der Carbonylgruppen begünstigt auch die Enolisierung, da die Doppelbindung des Enols mit der benachbarten Carbonylgruppe konjugiert ist und die OH-Gruppe eine Wasserstoffbrücke zur Carbonylgruppe ausbildet: 
+
+Daher liegt Acetylaceton im flüssigen Zustand zu 80 % als Enol vor.Der Einsatz der früher als Aromastoff verwendeten Substanz ist seit 2005 innerhalb der EU in Lebensmitteln verboten, da Hinweise auf Genotoxizität bestehen.Acetylaceton besitzt einen pKs-Wert von 8,99 ± 0,06 (25 °C, I=0), d. h., es reagiert beim Mischen mit Wasser leicht sauer. 
+Acetylacetonat findet häufig Anwendung als Ligand für Übergangsmetalle. Diese Metallacetylacetonate werden häufig als Katalysator eingesetzt. In der Summenformel eines Komplexes wird Acetylacetonat mit acac abgekürzt, z. B. Rh(CO)2acac.
+Beispiele für gebräuchliche Metallacetylacetonate sind:
+
+Aluminiumacetylacetonat Al(acac)3
+Bariumacetylacetonat Ba(acac)2
+Calciumacetylacetonat Ca(acac)2
+Chrom(III)-acetylacetonat Cr(acac)3
+Cobalt(II)-acetylacetonat Co(acac)2
+Eisen(III)-acetylacetonat Fe(acac)3
+Galliumacetylacetonat Ga(acac)3
+Iridium(III)-acetylacetonat Ir(acac)3
+Kupfer(I)-acetylacetonat Cu(acac)
+Kupfer(II)-acetylacetonat Cu(acac)2
+Mangan(III)-acetylacetonat Mn(acac)3
+Magnesiumacetylacetonat Mg(acac)2
+Nickel(II)-acetylacetonat Ni(acac)2
+Vanadylacetylacetonat V(O)(acac)2
+Zink(II)-acetylacetonat Zn(acac)2Durch asymmetrische Hydrierung kann 2,4-Pentandiol gewonnen werden.
+
+
+== Einzelnachweise ==

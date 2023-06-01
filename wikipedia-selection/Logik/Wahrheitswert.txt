@@ -1,0 +1,81 @@
+Ein Wahrheitswert ist in Logik und Mathematik ein logischer Wert, den eine Aussage in Bezug auf Wahrheit annehmen kann.
+In der zweiwertigen klassischen Logik kann eine Aussage nur entweder wahr oder falsch sein, die Menge der Wahrheitswerte {W, F} hat so zwei Elemente. In mehrwertigen Logiken enthält die Wahrheitswertemenge mehr als zwei Elemente, z. B. in einer dreiwertigen Logik oder einer Fuzzy-Logik, die damit zu den nichtklassischen Logiken zählen. Hier wird dann auch neben Wahrheitswerten von Quasiwahrheitswerten, Pseudowahrheitswerten oder Geltungswerten gesprochen.
+Die Abbildung der Menge von Aussagen einer (meist formalen) Sprache auf die Wahrheitswertemenge wird Wahrheitswertzuordnung genannt und ist eine aussagenlogisch spezifische Bewertungsfunktion. In der klassischen Logik kann auch explizit die Klasse aller wahren Aussagen beziehungsweise die Klasse aller falschen Aussagen definiert werden.
+Die Abbildung von Wahrheitswerten der (atomaren) Teilaussagen einer zusammengesetzten Aussage auf die Wahrheitswertemenge heißt Wahrheitswertefunktion oder Wahrheitsfunktion. Die Wertetabelle dieser Funktion im mathematischen Sinn wird auch als Wahrheitstafel bezeichnet und häufig dazu verwendet, die Bedeutung wahrheitsfunktionaler Junktoren anzugeben.Eingeführt wurde der Begriff „Wahrheitswert“ von Gottlob Frege als undefinierter Grundbegriff, unter den die beiden Gegenstände fallen, die nach seiner Sicht als Werte von Wahrheitswertefunktion auftreten können – das Wahre und das Falsche: „Ich verstehe unter dem Wahrheitswerthe eines Satzes den Umstand, daß er wahr oder daß er falsch ist.“ Auf der Basis der Unterscheidung zwischen Extension und Intension wird im Gefolge von Frege vielfach angenommen, dass der Wahrheitswert die Extension (das Designat, die Referenz, in Freges Terminologie die „Bedeutung“) einer Aussage ist.
+Nach dem gängigen Verständnis haben nur Aussagesätze Wahrheitswerte, nicht aber zum Beispiel Fragesätze oder einzelne Wörter. Der Begriff des Wahrheitswertes ist nicht an eine bestimmte Wahrheitstheorie gebunden.In der zweiwertigen klassischen Logik kommt jedem Satz einer von genau zwei Wahrheitswerten zu. Seine Aussage ist entweder wahr oder falsch, was auch das Prinzip der Zweiwertigkeit genannt wird.
+In mehrwertigen Logiken gibt es mehr als zwei Wahrheitswerte, das heißt, das Prinzip der Zweiwertigkeit gilt hier nicht. Der Satz vom ausgeschlossenen Dritten wird dadurch allerdings nicht zugleich auch ungültig – vielmehr gibt es mehrwertige Logiken, in denen der Satz vom ausgeschlossenen Dritten gilt, und solche, in denen er nicht gilt.
+Es gibt Logiken mit endlich vielen Wahrheitswerten, so zum Beispiel das als erste mehrwertige Logik 1920 von Jan Łukasiewicz formalisierte System Ł3, eine dreiwertige Logik. Und es gibt auch Logiken mit unendlich vielen Wahrheitswerten, zum Beispiel solche der Fuzzylogik.In extensionalen Logiken ist der Wahrheitswert eines zusammengesetzten Satzes eindeutig durch die Wahrheitswerte seiner Teilsätze bestimmt (Prinzip der Wahrheitsfunktionalität, allgemeiner auch Extensionalitätsprinzip oder Kompositionalitätsprinzip). Aus diesen und den für die Komposition jeweils verwendeten logischen Verknüpfungen (Konnektiven) lässt sich daher im Rahmen eines logischen Kalküls der Wahrheitswert eines zusammengesetzten Ausdrucks berechnen. Dabei repräsentieren die verschiedenen Belegungen
+von n Aussagevariablen durch Wahrheitswerte jeweils eine n-stellige Wahrheitswertefunktion; man nennt derart interpretierbare Konnektive oder Junktoren auch wahrheitsfunktional. Die klassische Logik verwendet ausschließlich wahrheitsfunktionale Konnektive, sie ist extensional. Zur Angabe des Wahrheitswerteverlaufs für ein extensionales (wahrheitsfunktionales) Konnektiv werden in endlichwertigen Logiken bevorzugt Wahrheitstabellen verwendet.
+In intensionalen Logiken – das heißt in solchen, die außerdem oder auch nur Konnektive benutzen, die nicht wahrheitsfunktional definiert sind – ist es erheblich aufwendiger Formalismen anzugeben, mit denen man den Wahrheitswert eines komplexen Satzes berechnen kann. Für manche intensionale Logiken, vor allem für Modallogik, hat sich die Kripke-Semantik zur Bewertung von Sätzen bewährt.Die Wahrheitswerte werden unterschiedlich symbolisiert; gebräuchlich sind folgende Zeichen:
+
+wahr
+„W“ (wahr), „t“ (englisch true), „
+  
+    
+      
+        ⊤
+      
+    
+    {\displaystyle \top }
+  “, „v“ (lateinisch verum), „1“ oder „+“.
+falsch
+„F“ (falsch), „f“ (englisch false; bzw. lateinisch falsum), „
+  
+    
+      
+        ⊥
+      
+    
+    {\displaystyle \bot }
+  “, „0“ oder „−“.In einer mehrwertigen Logik kann man auf Zahlen zurückgreifen, um einen abgestuften Wahrheitsgrad zu beschreiben, z. B. auf 
+  
+    
+      
+        
+          0
+          ;
+          
+            
+              
+                1
+                2
+              
+            
+          
+          ;
+          1
+        
+      
+    
+    {\displaystyle {0;{\tfrac {1}{2}};1}}
+   in einer dreiwertigen Logik oder auf 
+  
+    
+      
+        
+          0
+          ;
+          
+            
+              
+                1
+                3
+              
+            
+          
+          ;
+          
+            
+              
+                2
+                3
+              
+            
+          
+          ;
+          1
+        
+      
+    
+    {\displaystyle {0;{\tfrac {1}{3}};{\tfrac {2}{3}};1}}
+   in einer vierwertigen Logik oder auch auf alle reellen Zahlen zwischen 0 und 1 (vergleiche Fuzzylogik). Andererseits sind auch Wahrheitswerte wie „undefiniert“, „indifferent“ oder „hochohmig“ gebräuchlich.

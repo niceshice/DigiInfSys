@@ -1,0 +1,6 @@
+Cloudevo ist eine Software, die verschiedene Cloud-Dienste vereint. Der Speicher wird als eigenes Laufwerk auf dem PC angezeigt.
+Die Dateien werden verschlüsselt, so dass die Anbieter der einzelnen Clouds nicht mehr auf die Dateien zugreifen können.Durch das Verbinden mehrerer Cloud-Anbieter kann eine kostenlose Cloud mit viel Speicherplatz geschaffen werden. Es können auch mehrere Konten eines Anbieters zusammen verwendet werden. Eine optionale Spiegelung der Daten sorgt dafür, dass auch bei Ausfall eines Anbieters noch alle Daten verfügbar sind. Um Speicherplatz zu sparen, werden die Daten automatisch komprimiert.
+Neben einer kostenlosen Version die maximal 10.000 Objekte auf drei Geräten synchronisieren kann, werden kostenpflichtige Varianten mit erhöhten Limits angeboten.
+
+
+== Einzelnachweise ==

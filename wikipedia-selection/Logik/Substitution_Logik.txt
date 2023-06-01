@@ -1,0 +1,853 @@
+Als Substitution bezeichnet man in der Logik allgemein die Ersetzung eines Ausdrucks durch einen anderen.
+Genauer müssen hier vier verschiedene Ausdrücke voneinander unterschieden werden:
+
+das Substituendum (lat.: „das zu Ersetzende“): der Ausdruck, der ersetzt wird
+das Substituens (lat.: „das Ersetzende“): der Ausdruck, der ersetzt
+die Substitutions-Basis: der Ausdruck, in dem ersetzt wird
+das Substitutionsresultat: das Ergebnis der Ersetzung.Beispiel:
+Ersetzen wir in dem Ausdruck
+
+  
+    
+      
+        a
+        ⇒
+        (
+        b
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle a\Rightarrow (b\wedge c)}
+  (lies: „wenn 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , dann 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   und 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  “) den Ausdruck 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   durch
+
+  
+    
+      
+        c
+        ∨
+        d
+      
+    
+    {\displaystyle c\vee d}
+  (lies: „
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   oder 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  “), so erhalten wir:
+
+  
+    
+      
+        a
+        ⇒
+        (
+        (
+        c
+        ∨
+        d
+        )
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle a\Rightarrow ((c\vee d)\wedge c)}
+  .Dabei ist 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   Substituendum, 
+  
+    
+      
+        c
+        ∨
+        d
+      
+    
+    {\displaystyle c\vee d}
+   Substituens, 
+  
+    
+      
+        a
+        ⇒
+        (
+        b
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle a\Rightarrow (b\wedge c)}
+   Substitutionsbasis und 
+  
+    
+      
+        a
+        ⇒
+        (
+        (
+        c
+        ∨
+        d
+        )
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle a\Rightarrow ((c\vee d)\wedge c)}
+   Substitutionsresultat.
+Man unterscheidet zwischen universeller und einfacher Substitution, außerdem ist in der Quantorenlogik auch der Begriff „frei zur Substitution“ von Bedeutung.Bei der universellen Substitution müssen alle Vorkommnisse des Substituendums ersetzt werden, bei der einfachen Substitution brauchen nicht alle Vorkommnisse ersetzt zu werden. Der Unterschied zwischen den beiden Substitutions-Arten wird also erst relevant, wenn es mindestens zwei Vorkommnisse des Substituendums in der Substitutions-Basis gibt. Bei der universellen Substitution kommt das Substituendum im Substitutions-Resultat nicht mehr vor, bei der einfachen Substitution kann es immer noch vorkommen.
+Beispiel:
+Ersetzen wir in dem Ausdruck
+
+  
+    
+      
+        b
+        ⇒
+        (
+        b
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle b\Rightarrow (b\wedge c)}
+  den Ausdruck 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   durch
+
+  
+    
+      
+        c
+        ∨
+        d
+      
+    
+    {\displaystyle c\vee d}
+  ,so erhalten wir bei universeller Substitution:
+
+  
+    
+      
+        (
+        c
+        ∨
+        d
+        )
+        ⇒
+        (
+        (
+        c
+        ∨
+        d
+        )
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle (c\vee d)\Rightarrow ((c\vee d)\wedge c)}
+  .Bei einfacher Substitution könnten wir auch folgendes erhalten:
+
+  
+    
+      
+        (
+        c
+        ∨
+        d
+        )
+        ⇒
+        (
+        b
+        ∧
+        c
+        )
+      
+    
+    {\displaystyle (c\vee d)\Rightarrow (b\wedge c)}
+  Universelle und einfache Substitution spielen in unterschiedlichen Gesetzen eine Rolle:Ist eine Aussage 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   ein Theorem und ist 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   das Resultat der universellen Substitution von 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   durch 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  , so ist 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   wiederum ein Theorem. Wichtig ist hier, dass universell substituiert wird; bei bloß einfacher Substitution ist nicht gewährleistet, dass 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   ein Theorem ist. Eine weitere Voraussetzung ist, dass es sich bei dem Substituendum 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   um einen „Satzparameter“ handelt, d. h. um eine nicht-komplexe Formel, die überdies in keinem Axiom vorkommt. Für das Substituens 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   gibt es keine entsprechende Beschränkung.
+Beispiel:
+In dem Theorem
+
+  
+    
+      
+        b
+        ⇒
+        b
+      
+    
+    {\displaystyle b\Rightarrow b}
+  können wir den Ausdruck 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   universell ersetzen durch
+
+  
+    
+      
+        c
+        ∨
+        d
+      
+    
+    {\displaystyle c\vee d}
+  und erhalten wiederum ein Theorem, nämlich:
+
+  
+    
+      
+        (
+        c
+        ∨
+        d
+        )
+        ⇒
+        (
+        c
+        ∨
+        d
+        )
+      
+    
+    {\displaystyle (c\vee d)\Rightarrow (c\vee d)}
+  Bei einfacher Substitution könnten wir auch folgendes erhalten:
+
+  
+    
+      
+        (
+        c
+        ∨
+        d
+        )
+        ⇒
+        b
+        ,
+      
+    
+    {\displaystyle (c\vee d)\Rightarrow b,}
+  was kein Theorem ist.
+Wenn wir die Forderung fallenließen, dass das Substituendum ein Satzparameter ist, so könnten wir den ganzen Ausdruck 
+  
+    
+      
+        b
+        ⇒
+        b
+      
+    
+    {\displaystyle b\Rightarrow b}
+   durch eine Formel, etwa 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  , ersetzen und erhielten:
+
+  
+    
+      
+        c
+        ,
+      
+    
+    {\displaystyle c,}
+  was natürlich ebenfalls kein Theorem ist.
+Die Eigenschaft, dass universelle Substitution die Theorem-Eigenschaft erhält, wird in manchen Kalkülen ausgenutzt, indem dies als Schlussregel formuliert wird. Die Regel der universellen Substitution besagt, dass man in jeder Formel, die man mit einem Beweis gewonnen hat, jeden Satzparameter durch eine beliebige Aussage universell ersetzen kann.Sind zwei Aussagen 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   und 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   äquivalent und ist 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   ein Resultat der einfachen Substitution von 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   durch 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , dann sind 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   und 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   ebenfalls äquivalent.
+Beispiel:
+Zwei äquivalente Aussagen sind beispielsweise:
+
+  
+    
+      
+        B
+        :
+        b
+        ∧
+        c
+      
+    
+    {\displaystyle B:b\wedge c}
+  
+und
+
+  
+    
+      
+        C
+        :
+        c
+        ∧
+        b
+      
+    
+    {\displaystyle C:c\wedge b}
+  ,
+Wenn wir nun in der Aussage
+
+  
+    
+      
+        A
+        :
+        (
+        b
+        ∧
+        c
+        )
+        ⇒
+        (
+        (
+        b
+        ∧
+        c
+        )
+        ∧
+        d
+        )
+      
+    
+    {\displaystyle A:(b\wedge c)\Rightarrow ((b\wedge c)\wedge d)}
+  
+
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   durch 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   einfach substituieren, können wir folgendes erhalten:
+
+  
+    
+      
+        
+          A
+          ′
+        
+        :
+        (
+        c
+        ∧
+        b
+        )
+        ⇒
+        (
+        (
+        b
+        ∧
+        c
+        )
+        ∧
+        d
+        )
+      
+    
+    {\displaystyle A':(c\wedge b)\Rightarrow ((b\wedge c)\wedge d)}
+  
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   und 
+  
+    
+      
+        
+          A
+          ′
+        
+      
+    
+    {\displaystyle A'}
+   sind nun wiederum äquivalent.Ein Term 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   ist zur Substitution durch eine Variable 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in einer Formel 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   frei, wenn 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   nicht im Skopus eines Quantors 
+  
+    
+      
+        ∀
+        x
+      
+    
+    {\displaystyle \forall x}
+   oder 
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+   steht.
+Der Hintergrund dieser Definition ist folgender: Man will in der Quantorenlogik davon sprechen, dass eine Aussage eine All- oder Existenz-Generalisierung einer anderen darstellt. Zum Beispiel ist
+
+Jemand raucht,formal:
+
+  
+    
+      
+        ∃
+        x
+        R
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists xR(x)}
+  eine Existenz-Generalisierung von
+
+Frank raucht,formal:
+
+  
+    
+      
+        R
+        (
+        f
+        )
+      
+    
+    {\displaystyle R(f)}
+  Es scheint nun so, als erhielte man eine Generalisierung, wenn man die Vorkommnisse des zu generalisierenden Terms (im Beispiel „Frank“ bzw. 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  ) universell durch 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   ersetzt und einen Quantor 
+  
+    
+      
+        ∀
+        x
+      
+    
+    {\displaystyle \forall x}
+   oder 
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+   vor die Aussage setzt. Man erhält eine Generalisierung aber nur unter der zusätzlichen Voraussetzung, dass der zu generalisierende Term zur Ersetzung durch 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   frei ist.
+Beispiel
+Man betrachte die Aussage
+
+Wenn jemand Frank liebt, ist Frank glücklich,formal
+
+  
+    
+      
+        A
+        :
+        ∃
+        x
+        L
+        (
+        x
+        ,
+        f
+        )
+        ⇒
+        G
+        (
+        f
+        )
+      
+    
+    {\displaystyle A:\exists xL(x,f)\Rightarrow G(f)}
+  
+Man beachte, dass hier 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   nicht zur Substitution durch 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   frei ist, da es im Skopus des Existenzquantors 
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+   vorkommt. Daher ist auch folgende Aussage keine All-Generalisierung von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  :
+
+  
+    
+      
+        ∀
+        x
+        (
+        ∃
+        x
+        L
+        (
+        x
+        ,
+        x
+        )
+        ⇒
+        G
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle \forall x(\exists xL(x,x)\Rightarrow G(x))}
+  denn diese Aussage bedeutet:
+
+„Wenn jemand sich selbst liebt, sind alle glücklich“und dies geht vollkommen an der Bedeutung der ursprünglichen Aussage vorbei.
+Man kann aber in einem solchen Fall immer eine Generalisierung mit einer anderen Variable vornehmen. Beispielsweise ist 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   zur Substitution mit 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   frei, daher kann man folgende All-Generalisierung bilden:
+
+  
+    
+      
+        ∀
+        y
+        (
+        ∃
+        x
+        L
+        (
+        x
+        ,
+        y
+        )
+        ⇒
+        G
+        (
+        y
+        )
+        )
+      
+    
+    {\displaystyle \forall y(\exists xL(x,y)\Rightarrow G(y))}
+  und diese Aussage hat dann die gewünschte Bedeutung, nämlich:
+
+„Alle, die jemand liebt, sind glücklich“.

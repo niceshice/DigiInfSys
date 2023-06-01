@@ -1,0 +1,354 @@
+Unifikation ist eine Methode zur Vereinheitlichung prädikatenlogischer Ausdrücke. Zwei Ausdrücke werden unifiziert, indem ihre Variablen so durch geeignete Terme ersetzt werden, dass die resultierenden Ausdrücke gleich sind. Die Unifikation hat insbesondere in der Computerlogik und Computerlinguistik eine größere Bedeutung erlangt. So nutzt etwa die Inferenzmaschine des Prolog-Interpreters Unifikation. In der Computerlinguistik gibt es sogenannte Unifikationsgrammatiken, die sich auf dieses Konzept stützen. Auch beim Theorembeweisen spielt Unifikation eine große Rolle.
+Als Basisoperation liegt der Unifikation die Substitution zu Grunde. Im Rahmen der Prädikatenlogik bedeutet eine Substitution σ innerhalb eines gegebenen Ausdrucks die Ersetzung einer Variablen durch einen Term, in dem diese Variable nicht vorkommen darf. Die Variable wird gewissermaßen durch den Term „instanziiert“.
+Wird eine Menge von Ausdrücken 
+  
+    
+      
+        {
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          A
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{A_{1},A_{2},\ldots ,A_{n}\}}
+   durch eine Substitution σ zu einem äquivalenten Ausdruck substituiert, d. h. 
+  
+    
+      
+        σ
+        (
+        
+          A
+          
+            1
+          
+        
+        )
+        ≡
+        σ
+        (
+        
+          A
+          
+            2
+          
+        
+        )
+        ≡
+        ⋯
+        ≡
+        σ
+        (
+        
+          A
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma (A_{1})\equiv \sigma (A_{2})\equiv \cdots \equiv \sigma (A_{n})}
+  , so bezeichnet man σ als Unifikator dieser Ausdrucksmenge. Die Anwendung eines Unifikators auf diese Menge bezeichnet man als Unifikation. Nicht alle Ausdrucksmengen können unifiziert werden.Gegeben seien die Ausdrücke
+
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        =
+        
+          (
+          
+            X
+            ,
+            Y
+            ,
+            f
+            (
+            b
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle A_{1}=\left(X,Y,f(b)\right)}
+   und
+
+  
+    
+      
+        
+          A
+          
+            2
+          
+        
+        =
+        
+          (
+          
+            a
+            ,
+            b
+            ,
+            Z
+          
+          )
+        
+      
+    
+    {\displaystyle A_{2}=\left(a,b,Z\right)}
+  . Großbuchstaben stehen dabei für Variablen und Kleinbuchstaben für atomare Ausdrücke.
+Ersetzt man in 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+      
+    
+    {\displaystyle A_{1}}
+   nun 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   durch 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   durch 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   und in 
+  
+    
+      
+        
+          A
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A_{2}}
+   
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   durch 
+  
+    
+      
+        f
+        
+          (
+          b
+          )
+        
+      
+    
+    {\displaystyle f\left(b\right)}
+  , so sind sie gleich oder unifiziert. Man erhält 
+
+  
+    
+      
+        σ
+        (
+        
+          A
+          
+            1
+          
+        
+        )
+        =
+        
+          (
+          
+            a
+            ,
+            b
+            ,
+            f
+            (
+            b
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle \sigma (A_{1})=\left(a,b,f(b)\right)}
+   
+
+  
+    
+      
+        σ
+        (
+        
+          A
+          
+            2
+          
+        
+        )
+        =
+        
+          (
+          
+            a
+            ,
+            b
+            ,
+            f
+            (
+            b
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle \sigma (A_{2})=\left(a,b,f(b)\right)}
+   mit
+
+  
+    
+      
+        σ
+        =
+        {
+        X
+        ↦
+        a
+        ,
+        Y
+        ↦
+        b
+        ,
+        Z
+        ↦
+        f
+        (
+        b
+        )
+        }
+      
+    
+    {\displaystyle \sigma =\{X\mapsto a,Y\mapsto b,Z\mapsto f(b)\}}
+  .Zu einer Menge von Ausdrücken existieren gewöhnlich mehrere Unifikatoren. Man nennt einen Unifikator 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   kleinster gemeinsamer Unifikator oder allgemeinster Unifikator, wenn es für jeden anderen Unifikator 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   eine Substitution 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   gibt mit 
+  
+    
+      
+        σ
+        =
+        τ
+        ∘
+        μ
+      
+    
+    {\displaystyle \sigma =\tau \circ \mu }
+  . Dieser ist natürlich nicht notwendigerweise eindeutig.
+Mittels des Algorithmus von Robinson nach John Alan Robinson kann man zu unifizierbaren Ausdrücken einen kleinsten gemeinsamen Unifikator finden.Es folgt eine Darstellung des Unifikationsalgorithmus in Pseudocode:
+
+Eingabe: Menge von Ausdrücken A
+Ausgabe: allgemeinster Unifikator sub
+
+sub := ∅
+while |sub(A)| > 1 do begin
+  Durchsuche die Ausdrücke sub(A) von links nach rechts,
+  bis die erste Position gefunden ist, wo sich zwei Ausdrücke
+  in einem Zeichen unterscheiden.
+  if keines der beiden Zeichen ist eine Variable then
+    Gib "nicht unifizierbar" aus. STOP
+  else begin
+    Sei X die Variable und t der im anderen Ausdruck beginnende Term
+    (kann auch Variable sein)
+    if X kommt in t vor then
+      Gib "nicht unifizierbar" aus. STOP
+    else sub := sub[X/t] (sub und [X/t] werden hintereinander ausgeführt)
+  end
+end
+Gib sub aus.

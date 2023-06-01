@@ -1,0 +1,177 @@
+Erfüllbarkeit ist in der Logik und Mathematik ein metasprachliches Prädikat für die Eigenschaft von logischen Aussagen und Aussageformen. Eine Aussage ist erfüllbar, wenn es eine Belegung (Interpretation, Bewertung) der Variablen gibt, für die der Wahrheitswert des gesamten Ausdrucks wahr ist.In der Mathematik ist die Erfüllbarkeit vor allem von (Un-)Gleichungen und (Un-)Gleichungssystemen interessant. Die allgemeine Definition kann dann umformuliert werden zu: „Es gibt (mindestens) eine Lösung.“
+Beispiele: In der Theorie der reellen Zahlen (also dem üblichen Zahlensystem) ist die Gleichung 
+  
+    
+      
+        2
+        x
+        +
+        1
+        =
+        3
+        x
+      
+    
+    {\displaystyle 2x+1=3x}
+   lösbar, also diese Aussage erfüllbar.
+Das Gleichungssystem 
+  
+    
+      
+        x
+        <
+        0
+        ,
+        
+          x
+          
+            2
+          
+        
+        ≤
+        0
+      
+    
+    {\displaystyle x<0,x^{2}\leq 0}
+   ist dagegen nicht lösbar, denn die einzige Lösung für 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        ≤
+        0
+      
+    
+    {\displaystyle x^{2}\leq 0}
+   wäre 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+  , aber diese Lösung erfüllt nicht 
+  
+    
+      
+        x
+        <
+        0
+      
+    
+    {\displaystyle x<0}
+  . Diese Aussage ist also nicht erfüllbar.In der Aussagenlogik kann man Aussagen auf Grund ihrer Erfüllbarkeit klassifizieren, wobei die auftretenden Variablen als Aussagen Wahrheitswerte annehmen. Eine Aussageform heißt…
+
+erfüllbar, wenn mindestens eine Belegung der Variablen eine wahre Aussage erzeugt.
+eine Tautologie, wenn jede (!) Belegung der Variablen eine wahre Aussage erzeugt.
+eine Kontradiktion, wenn sie nicht erfüllbar ist. Die Negation einer Kontradiktion ist immer eine Tautologie. Das Gegenteil des Begriffs "Kontradiktion" ist jedoch nicht "Tautologie", sondern "Erfüllbarkeit".
+eine Kontingenz oder Neutralität, wenn sie weder eine Tautologie, noch eine Kontradiktion ist.
+falsifizierbar, wenn mindestens eine Belegung kein Modell darstellt, also eine falsche Aussage erzeugt.Das Problem zu entscheiden, ob eine aussagenlogische Formel erfüllbar ist, nennt man das Erfüllbarkeitsproblem der Aussagenlogik. Dieses Problem ist unter anderem wichtig in der Komplexitätstheorie.Eine (ansonsten nicht vorkommende) Aussagenvariable 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   ist für sich erfüllbar, sogar eine Kontingenz. Es ist ja die Eigenschaft einer Aussagenvariablen, dass ihr Wahrheitswert entweder wahr oder falsch ist.
+Die Aussage 
+  
+    
+      
+        A
+        ∨
+        ¬
+        A
+      
+    
+    {\displaystyle A\vee \neg A}
+   (sprich: 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   oder nicht 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  ) ist eine Tautologie, also auch erfüllbar, denn jede Belegung von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   mit wahr oder falsch liefert eine wahre Aussage. Folglich ist die Aussage 
+  
+    
+      
+        ¬
+        (
+        A
+        ∨
+        ¬
+        A
+        )
+      
+    
+    {\displaystyle \neg (A\vee \neg A)}
+   (die Negierung des vorigen Beispiels) eine Kontradiktion, also nicht erfüllbar.Analog zur Aussagenlogik wird der Begriff der Erfüllbarkeit auch in der Prädikatenlogik verwendet: Eine prädikatenlogische Formel ist erfüllbar, wenn es eine Interpretation der Prädikate und eine Belegung der Variablen gibt, für die die Formel den Wahrheitswert wahr annimmt (Erfüllbarkeitsäquivalenz).∀
+        x
+        (
+        x
+        =
+        x
+        )
+      
+    
+    {\displaystyle \forall x(x=x)}
+   "für jedes x gilt: x ist x" ist eine Tautologie, da x immer mit sich selbst ident ist.
+
+  
+    
+      
+        ∀
+        x
+        ∃
+        y
+        (
+        x
+        ≠
+        y
+        )
+      
+    
+    {\displaystyle \forall x\exists y(x\neq y)}
+   "für jedes x existiert ein y, für das gilt: x ist ungleich y" ist eine Kontingenz, da sie nur erfüllbar ist, wenn es in der Menge der Objekte, aus der x und y gewählt werden, mehr als ein Objekt gibt.
+
+  
+    
+      
+        ∃
+        x
+        (
+        x
+        ≠
+        x
+        )
+      
+    
+    {\displaystyle \exists x(x\neq x)}
+   "für jedes x gilt: x ist nicht gleich x" ist eine Kontradiktion, die Aussage ist für jedes Objekt falsch.

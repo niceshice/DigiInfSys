@@ -1,0 +1,37 @@
+In einer formalen Logik oder einem Kalkül bezeichnet man eine Formel als allgemeingültig oder gültig, wenn sie von jeder beliebigen Interpretation erfüllt wird. Die Allgemeingültigkeit ist also ein spezieller Fall der Erfüllbarkeit einer Formel. Während die bloße Erfüllbarkeit bereits gegeben ist, wenn sich nur eine einzige erfüllende Interpretation – ein sogenanntes Modell – findet, so sind im Falle einer allgemeingültigen Formel alle Interpretationen Modelle.
+Der für diese Erläuterung zentrale Begriff der Interpretation lässt sich intuitiv als eine Verallgemeinerung der Variablenbelegung in der Aussagenlogik verstehen: Erst durch die Belegung der Aussagenvariablen einer aussagenlogischen Formel lässt sich der Formel insgesamt ein Wahrheitswert zuschreiben. In komplexeren Logiken müssen ebenfalls Zuordnungen zu den formalen Bestandteilen einer Formel erfolgen, welche den Wahrheitswert der Gesamtformel bestimmen. In der Prädikatenlogik erfolgt beispielsweise die Definition eines Universums und eine Zuordnung von Prädikatensymbolen zu Prädikaten (auf diesem Universum) und von Funktionssymbolen zu Funktionen (auf diesem Universum). Erst durch diesen Bezug auf eine Menge von Objekten in einer betrachteten Welt kann festgestellt werden, ob eine Formel erfüllbar ist und ob sie womöglich immer erfüllt, also allgemeingültig ist.
+Die folgende Tabelle führt einige eng verwandte Begriffe und Synonyme auf. Die Spalten 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   und 
+  
+    
+      
+        ¬
+        F
+      
+    
+    {\displaystyle \neg F}
+   stehen in einer Äquivalenzbeziehung, z. B. ist 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   genau dann allgemeingültig, wenn 
+  
+    
+      
+        ¬
+        F
+      
+    
+    {\displaystyle \neg F}
+   unerfüllbar ist.

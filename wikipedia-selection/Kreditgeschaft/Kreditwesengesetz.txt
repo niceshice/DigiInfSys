@@ -1,0 +1,69 @@
+Das Kreditwesengesetz (KWG) ist ein Gesetz in Deutschland, dessen Gesetzeszweck in der Marktregulierung und Marktordnung des Kreditwesens besteht.
+Das KWG gilt für Kreditinstitute und Finanzdienstleistungsinstitute (vgl. § 1 Abs. 1 S. 1, Abs. 1a S. 1, Abs. 1b).Hauptzwecke des KWG sind:
+
+die Sicherung und Erhaltung der Funktionsfähigkeit der Kreditwirtschaft
+der Schutz der Gläubiger von Kreditinstituten vor Verlust ihrer Einlagen.Dies zeigt sich insbesondere in § 6 KWG, der die Aufgaben der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) normiert. Demnach hat die BaFin nach § 6 Abs. 1 zum einen die sogenannte Institutsaufsicht, also die Aufsicht über die Kredit- und Finanzdienstleistungsinstitute, auszuüben und andererseits im Rahmen einer allgemeinen Missstandsaufsicht im Kredit- und Finanzdienstleistungswesen die ordnungsgemäße Durchführung der Bankgeschäfte und der Finanzdienstleistungen zu gewährleisten und das Auftreten von durch diese bedingten erheblichen Nachteilen für die Gesamtwirtschaft zu verhindern. Diese Aufsicht erfolgt allerdings gerade nicht zum Schutz des einzelnen Gläubigers oder Verbrauchers, sondern dient dem Schutz der Gläubiger in ihrer Allgemeinheit und dem öffentlichen Vertrauen in die Funktionsfähigkeit der Kredit- und Finanzdienstleistungsinstitute. Das KWG wurde 1934 als Reaktion auf die Deutsche Bankenkrise beschlossen und ist 1935 in seiner ersten Form in Kraft getreten.Das KWG und ergänzende Verordnungen (Solvabilitätsverordnung (als deutsche Umsetzungen von Basel II), Liquiditätsverordnung, GroMiKV) legen Kreditinstituten Restriktionen auf, welche die Möglichkeit der Banken, Risiken eingehen zu können, begrenzen. Die Vorschriften lassen sich anhand der zu begrenzenden Risikoart kategorisieren:
+
+Ausfallrisiko
+§ 10: Unterlegung von Adressausfallrisiken durch Eigenmittel (konkretisiert durch die Solvabilitätsverordnung)
+§§ 13, 14: Großkredite und Millionenkredite
+Marktrisiko
+§ 10: Unterlegung von Marktpreisrisiken durch Eigenmittel (konkretisiert durch die Solvabilitätsverordnung)
+Liquiditätsrisiko
+§ 11 (konkretisiert durch die Liquiditätsverordnung)
+Operationelles Risiko
+§ 10: Unterlegung von operationellen Risiken durch Eigenmittel (konkretisiert durch die Solvabilitätsverordnung)
+§ 13 Abs. 2: Großkredit
+§§ 15, 17: Organkredit
+§ 18: Prüfung wirtschaftlicher Verhältnisse
+§ 25a: Organisatorische Pflichten (insbesondere zur Verhütung der Geldwäsche: §§ 25b bis 25i)
+MaRisk als Konkretisierung des § 25a
+§ 32 Abs. 1: Erlaubnis
+Informationsrisiko
+§ 23: Werbeverbot
+§ 23a: Einlagensicherung
+§§ 39, 40: Bezeichnungen Sparkasse, Bank, Bankier, VolksbankDas KWG liefert die Rechtsgrundlage, anhand derer die Bundesbank und die BaFin Informationen von Banken beziehen sowie direkt Einfluss auf Kreditinstitute ausüben kann. Aus dem KWG leiten sich Anzeigepflichten der beaufsichtigten Institute ab:§ 44:  Auskünfte und Prüfungen von Instituten: Es besteht eine generelle Auskunftspflicht der Banken auch ohne besonderen Anlass über alle Geschäftsangelegenheiten.§ 10 in Verbindung mit Solvabilitätsverordnung: betrifft die angemessene Eigenmittelausstattung der Kreditinstitute, wobei eine monatliche Gesamtkennziffer erstellt werden muss. Außerdem ist eine Genehmigung und Überprüfung bankeigener Modelle erforderlich.
+Ehemals Grundsatz 1 und Grundsatz Ia.§ 11 in Verbindung mit Liquiditätsverordnung: Liquiditätslage der Kreditinstitute wird durch die Erstellung einer monatlichen Liquiditätskennzahl abgebildet.
+Ehemals Grundsatz 2.§§ 13, 13a, 13b: Großkredite: Die Banken sind vierteljährlich zu Meldungen ihrer Großkredite verpflichtet. Eine Überschreitung der Großkrediteinzelobergrenze ist nur mit Zustimmung der BaFin zulässig. Der die Großkreditobergrenze überschreitende Betrag ist mit zusätzlichen Eigenmitteln zu unterlegen. Nähere Bestimmungen zum Großkreditwesen sind in der Groß- und Millionenkreditverordnung GroMiKV geregelt.§ 25: Monatsausweise (monatliche Bilanzstatistiken) an die Deutsche Bundesbank, durch BaFin wahrnehmbar
+§ 26: Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten§ 12a: Begründung von Unternehmensbeziehungen
+§ 14: Millionenkredite: Dies sind Kredite, die ein Volumen von 1.000.000 Euro oder mehr haben. 
+§ 24 umfasst mehrere besondere Ereignisse: 
+
+Bestellung und Ausscheiden eines Geschäftsleiters
+Übernahme und Aufgabe einer Beteiligung
+Änderung der Rechtsform
+Verlust ≥ 25 % des haftenden Eigenkapitals
+Verlegung der Niederlassung oder des Sitzes
+Errichtung, Verlegung, Schließung einer Zweigstelle in einem Drittstaat
+Einstellung des Geschäftsbetriebes
+Aufnahme und Beendigung von Nichtbankgeschäften§ 12: Begrenzung qualifizierter Beteiligungen
+§ 13: Begrenzung von Großkrediten
+§ 23: Untersagung von Missständen bei der Werbung von Kreditinstituten
+§ 15: Begrenzungsmöglichkeit von Organkrediten§ 32: Erlaubnis zum Betreiben von Bankgeschäften
+
+Siehe auch: Banklizenz#Deutschland§§ 33, 35: Versagen bzw. Aufhebung/Erlöschung der Erlaubnis:
+
+Falls nicht ausreichendes Eigenkapital vorhanden ist
+Wenn der Geschäftsleiter nicht die zur Leitung erforderliche fachliche Eignung hat§ 36: Abberufung von Geschäftsleitern, Übertragung von Organbefugnissen auf Sonderbeauftragte, Abberufung von Mitgliedern des Verwaltungs- und Aufsichtsorgans
+§ 37: Einschreiten gegen ungesetzliche Geschäfte
+§ 45: Maßnahmen bei unzureichenden Eigenmitteln oder Liquidität: Nach Ablauf einer angemessene Frist ist es der BaFin möglich Entnahmen, Gewinnausschüttungen und Kreditgewährungen zu untersagen.§ 46: Maßnahmen zur Abwendung drohender Gefahren
+
+Anweisung für die Geschäftsführer durch BaFin
+Verbot der Annahme von Einlagen§ 46a: Maßnahmen bei Insolvenzgefahr
+§ 47: Abwehr schwerwiegende Gefahren für die Gesamtwirtschaft
+
+Regelung der Systemrelevanz (englisch too big to fail)Das KWG macht eine Reihe von Vorgaben bezüglich der Ablauf- und der Aufbauorganisation:
+Ablauforganisation
+
+§§ 13 Abs. 2 bzw. 13a Abs. 2: Es ist ein einstimmiger Beschluss aller Geschäftsleiter notwendig, wenn ein Großkredit gewährt wird.
+§ 18: Kreditinstitute müssen sich die wirtschaftlichen Verhältnisse von Kreditnehmern, deren Kredite 750.000 Euro übersteigen, offenlegen lassen.
+§ 33: Es gilt das Vieraugenprinzip auf Geschäftsleitungsebene, d. h., es sind mindestens zwei Geschäftsleiter erforderlich.Aufbauorganisation 
+
+§ 25a: Ein Kreditinstitut ist verpflichtet, ein geeignetes System zur Risikosteuerung und Risikoüberwachung einzurichten. Die Konkretisierungen zu § 25a finden sich in den MaRisk.Für die Umsetzung der neuen Eigenkapitalvorschriften nach Basel II in deutsches Recht ist die Anpassung des Kreditwesengesetzes notwendig (siehe Umsetzung von Basel II). Dies erfolgt über das Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie, welches am 29. Juni 2006 vom Deutschen Bundestag und am 22. September 2006 vom Bundesrat angenommen wurde; somit wurde das parlamentarische Gesetzgebungsverfahren abgeschlossen. Geändert haben sich unter anderem:
+
+Regelungen zur Behandlung von Institutsgruppen (u. a. in § 10a (Ermittlung der Eigenmittelausstattung von Institutsgruppen und Finanzholding-Gruppen), § 10c (Nullgewichtung von Intragruppenforderungen) sowie § 2a (Ausnahmen für gruppenangehörige Institute));
+Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen und Finanzholding-Gruppen (§ 10);
+der Begriff des Kredits im Sinne der §§ 13 bis 13b und 14 des Kreditnehmers: z. B. Aufnahme von Kreditderivaten in die Begriffsbestimmung des Kredites (§ 19);
+die Ausweitung der anzeige- und anrechnungsentlastenden Sicherungsinstrumente (§ 20b);
+Offenlegungspflichten durch die Kreditinstitute (§ 26a);
+Bestimmung von Prüfungsinhalten (§ 30).Darüber hinaus ist das Bundesministerium der Finanzen ermächtigt worden, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die angemessene Eigenmittelausstattung (Solvabilität, Solvabilitätsverordnung) zu erlassen.

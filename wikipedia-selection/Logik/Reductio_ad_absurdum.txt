@@ -1,0 +1,302 @@
+Die Reductio ad absurdum (von lat. für Zurückführung auf das widrig Klingende, Ungereimte, Unpassende, Sinnlose) ist eine Schlussfigur und Beweistechnik in der Logik. Bei der Reductio ad absurdum wird eine Aussage widerlegt, indem gezeigt wird, dass aus ihr ein logischer Widerspruch oder ein Widerspruch zu einer bereits anerkannten These folgt.
+Als Beweistechnik ist die reductio ad absurdum unter der Bezeichnung „indirekter Beweis“ oder „Widerspruchsbeweis“, „Beweis durch Widerspruch“ bekannt. Dieser indirekte Beweis ist dadurch gekennzeichnet, dass man die zu beweisende Aussage nicht direkt herleitet, sondern dass man ihr kontradiktorisches Gegenteil (d. h. die Annahme, dass die Aussage nicht zutreffe) widerlegt. In der klassischen, zweiwertigen Logik, in der jede Aussage entweder wahr oder falsch ist, ist mit diesem Widerlegen des Gegenteils einer Aussage gezeigt, dass die betroffene Aussage korrekt ist.Ein einfaches Beispiel: Um zu zeigen, dass nicht alle Menschen Griechen sind, wird zunächst angenommen, dass alle Menschen Griechen seien. Aus dieser Annahme folgt zum Beispiel, dass Cicero ein Grieche war. Es ist aber bekannt, dass Cicero kein Grieche war (sondern Römer). Dass Cicero aber zugleich sowohl ein Grieche als auch kein Grieche war, ist ein Widerspruch. Damit wurde die Aussage, dass alle Menschen Griechen sind, auf einen Widerspruch zurückgeführt (reductio ad absurdum) und so gezeigt, dass nicht alle Menschen Griechen sind.
+Ein weniger schlichtes Beispiel für eine Reductio ad absurdum – und vielleicht neben dem Beweis der Irrationalität der Wurzel aus 2 bei Euklid das bekannteste Beispiel überhaupt für eine solche – ist der Beweis zum Satz von Euklid, bei dem gezeigt wird, dass es keine größte Primzahl geben kann (dass es also zu jeder Primzahl eine größere gibt), indem die Annahme, es gebe eine größte, widerlegt wird. Widerspruchsbeweise wurden häufig von Euklid benutzt und finden sich schon beim Beweis des Satz des Dinostratos, überliefert von Pappos.Der indirekte Beweis lässt sich wie folgt intuitiv rechtfertigen: Wenn sich aus einer Annahme ein Widerspruch herleiten lässt, gilt: Wenn die Annahme wahr ist, ist auch der Widerspruch wahr. Ein Widerspruch kann aber niemals wahr sein. Die Annahme kann daher nicht wahr sein, muss also falsch sein.Formal lässt sich der Widerspruchsbeweis wie folgt darstellen:
+Gilt 
+  
+    
+      
+        Γ
+        ∪
+        {
+        
+          A
+        
+        }
+        ⊢
+        
+          B
+        
+      
+    
+    {\displaystyle \Gamma \cup \{\mathrm {A} \}\vdash \mathrm {B} }
+   und 
+  
+    
+      
+        Γ
+        ∪
+        {
+        
+          A
+        
+        }
+        ⊢
+        ¬
+        
+          B
+        
+      
+    
+    {\displaystyle \Gamma \cup \{\mathrm {A} \}\vdash \neg \mathrm {B} }
+  , dann gilt: 
+  
+    
+      
+        Γ
+        ⊢
+        ¬
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \vdash \neg \mathrm {A} }
+  .
+Lies: Gilt, dass aus der Aussagenmenge 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   zusammen mit der Aussage 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathrm {A} }
+   sowohl die Aussage 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathrm {B} }
+   als auch die Aussage nicht-
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathrm {B} }
+   folgt, so folgt aus 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   nicht-
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathrm {A} }
+  .
+Dieser Zusammenhang ist im Kalkül des natürlichen Schließens auch als Negationseinführung bekannt.Von der reductio ad absurdum gibt es noch eine zweite Form, die in der Auseinandersetzung zwischen klassischer und intuitionistischer Logik wichtig ist:
+Gilt 
+  
+    
+      
+        Γ
+        ∪
+        {
+        ¬
+        
+          A
+        
+        }
+        ⊢
+        
+          B
+        
+      
+    
+    {\displaystyle \Gamma \cup \{\neg \mathrm {A} \}\vdash \mathrm {B} }
+   und 
+  
+    
+      
+        Γ
+        ∪
+        {
+        ¬
+        
+          A
+        
+        }
+        ⊢
+        ¬
+        
+          B
+        
+      
+    
+    {\displaystyle \Gamma \cup \{\neg \mathrm {A} \}\vdash \neg \mathrm {B} }
+  , dann gilt: 
+  
+    
+      
+        Γ
+        ⊢
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \vdash \mathrm {A} }
+  .
+Lies: Gilt, dass aus der Aussagenmenge 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   zusammen mit der Aussage nicht-
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathrm {A} }
+   sowohl die Aussage 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathrm {B} }
+   als auch die Aussage nicht-
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathrm {B} }
+   folgt, so folgt aus 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathrm {A} }
+  .
+Der Unterschied zwischen den beiden Formen ist, dass in der ersten aus einer Aussage und einem Widerspruch auf die Negation der Aussage geschlossen wird, während in der zweiten aus der Negation und einem Widerspruch auf die Aussage selbst geschlossen wird. Die zweite Form lässt sich auf die kurze Formel bringen: Eine Behauptung gilt als bewiesen, wenn aus ihrer Negation ein Widerspruch hergeleitet werden kann.
+Die erste Form lässt sich mittels der klassischen Negationsbeseitigung in die zweite überführen:
+Gilt 
+  
+    
+      
+        Γ
+        ⊢
+        ¬
+        ¬
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \vdash \neg \neg \mathrm {A} }
+  , so gilt auch: 
+  
+    
+      
+        Γ
+        ⊢
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \vdash \mathrm {A} }
+  .
+Da dieses Gesetz aber eben nur klassisch, nicht intuitionistisch gültig ist, ist auch die zweite Form intuitionistisch nicht allgemein gültig.
+Wahlweise kann die zweite Form auch mit dem Satz vom ausgeschlossenen Dritten von der ersten abgeleitet werden. Auch dieser Satz ist aber intuitionistisch nicht gültig.
+Die Ablehnung der zweiten Form des Widerspruchsbeweises hat zur Folge, dass in der intuitionistischen Mathematik die Existenz gewisser Objekte der klassischen Mathematik nicht anerkannt wird (siehe auch Konstruktivismus).Ein relativ bekanntes Beispiel für einen indirekten Beweis in der Mathematik ist der Nachweis, dass 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   keine rationale Zahl ist, weil die Aussage 
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        
+          
+            
+              p
+              q
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}={\tfrac {p}{q}}}
+   für beliebige 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   und 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   zum Widerspruch führt.

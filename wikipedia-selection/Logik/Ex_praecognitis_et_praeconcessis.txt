@@ -1,0 +1,12 @@
+Ex praecognitis et praeconcessis (lat., wörtlich etwa „aus dem bereits Bekannten und Bestätigten“) bezeichnet in der scholastischen Logik das Schließen aus Prämissen, die als allgemein anerkannt gelten.Der britische Philosoph John Locke kritisiert in seinem 1690 erschienenen Essay concerning Humane Understanding die Ansicht, alles Schließen müsse „ex praecognitis et praeconcessis“ vollzogen werden. Ihm zufolge wird diese Vorstellung irrtümlich aus der durchaus gegebenen Notwendigkeit abgeleitet, alle Erkenntnis auf intuitives Wissens zu stützen. Intuitives Wissen meint dabei Überzeugungen, die direkt, unmittelbar und zweifelsfrei von jedem einzusehen sind, zum Beispiel "Jedes Ding ist mit sich selbst identisch" oder "Ein Haus ist ein Haus". Locke kritisiert nicht das Konzept von intuitivem Wissen als solchem, das er in seinem Essay selbst vertritt, sondern die unzutreffende Folgerung aus diesem Konzept, dass jegliche Argumentation als ein Schluss „ex praecognitis et praeconcessis“ durchzuführen sei.
+
+The necessity of this intuitive knowledge, in each step of scientifical or demonstrative reasoning, gave occasion, I imagine, to that mistaken axiom that all reasoning was ex praecognitis et praeconcessis.
+
+Zu deutsch in etwa:
+
+Die Notwendigkeit dieses intuitiven Wissens in jedem Schritt wissenschaftlichen oder beweisenden Denkens gab Anlass, so stelle ich mir vor, zu diesem irrigen Axiom, dass alles Denken [oder vielleicht besser übersetzt: Schließen] ex pracognitis et praeconcessis rühre.
+
+Locke kritisiert diese Ansicht, weil sie fälschlich annehme, dass nur Grundsätze und oberste Prämissen Gewissheit haben und damit intuitives Wissen darstellen können. Dem hält Locke entgegen, dass auch Überzeugungen gewiss sein können, die keine Grundsätze und logisch aus Prämissen abgeleitet sind. Die Gewissheit dieser abgeleiteten Sätze kommt diesen aber nicht erst durch ihr Ableitungsverhältnis, sondern schon an sich und aus sich selbst heraus (="intuitiv") zu. Der Satz "Ein Haus ist ein Haus" ist nach Locke schon aus sich selbst heraus vollkommen einsichtig, und nicht erst deswegen, weil er aus dem Satz "Jedes Ding ist mit sich selbst identisch" abgeleitet werden kann.
+
+
+== Einzelnachweise ==

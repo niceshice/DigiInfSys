@@ -1,0 +1,4 @@
+Apache Forrest ist ein XML-Publishing-Framework der Apache Software Foundation. 
+Es entstand aus dem Bedürfnis heraus, Softwareprojekte zu dokumentieren, ist aber mittlerweile auch für die Erstellung anderer Webseiten geeignet. Die zu publizierenden Inhalte werden normalerweise als XML-Daten abgelegt, die Forrest dann mithilfe von XSLT in das entsprechende Ausgabeformat – HTML oder PDF – umwandeln kann. Da es auf Apache Cocoon aufbaut, sind noch zahlreiche weitere Ein- oder Ausgabeformate möglich.
+Die aktuelle Version ist 0.9 vom 7. Februar 2011; auf der Projekt-Homepage werden Events aus dem Jahr 2009 als zukünftig angegeben. (Stand: Dezember 2017).
+Im Dezember 2019 hat das Apache Forrest PMC (Project Management Committee) einer Verrentung zugestimmt. Das ASF Board hat dies in der Februar 2020 Sitzung beschlossen (Minutes werden nach der Zustimmung im nächsten Meeting veröffentlicht).

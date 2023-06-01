@@ -1,0 +1,5 @@
+Die Fayolsche Brücke, seltener auch Passerelle, verbindet in Hierarchien nicht direkt unterstellte Stellen einer Kommunikationsstruktur, indem Informationen seitlich unter Duldung der Vorgesetzten ausgetauscht werden. Sie ist benannt nach dem französischen Begründer der Verwaltungslehre, Henri Fayol.
+Fayols fünftes Managementprinzip der Einheit der Leitung führt zur Etablierung einer Hierarchie von unter- und übergeordneten Stellen in einer Linienorganisation. Lange Dienstwege sind die Folge. Auf dem langen Weg durch die Hierarchie gehen Informationen verloren oder es treten Informationsverluste mit sich verringernder Informationsqualität auf (stille Post).
+Fayol beschreibt die direkte Verbindung, die sogenannte Fayolsche Brücke, im Rahmen seines neunten Managementprinzips:
+
+Das Organisationsmittel der Fayolschen Brücke schafft die Voraussetzung für Querinformationen.

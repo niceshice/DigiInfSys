@@ -1,0 +1,6 @@
+Tygem (kor. 타이젬바둑) ist ein Go-Server, der von dem südkoreanischen Unternehmen TongYang Online betrieben wird. Besonders beliebt ist der Server bei Spielern aus Asien. Nach eigenen Angaben nutzen rund 500 professionelle Go-Spieler den Server zu Trainingszwecken und offiziellen Turnieren bzw. Spielen.Tygem wurde im Jahr 2000 von Cho Hun-hyun als ICBL gegründet und im Jahr 2001, nach der Übernahme durch die Tongyang Group und JoongAng Ilbo, umbenannt.Bei allen Spielen wird nach japanischer Zählung mit 6,5 Punkten Komi gespielt
+Es wird Byōyomi verwendetUnter anderen spielen folgende professionelle Go-Spieler auf Tygem:
+
+Paek Hongseok als BaiHongX
+Lee Sedol als LeeShiShi
+Park Yung Hwan als ParkJungS

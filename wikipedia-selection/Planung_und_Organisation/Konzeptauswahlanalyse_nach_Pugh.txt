@@ -1,0 +1,15 @@
+Die Konzeptauswahl nach Pugh (synonym: Konzeptselektion, Konzeptauswahl, Konzeptanalyse, Konzeptauswahlanalyse) ist ein relativ einfacher, systematischer Vergleich nach gewichteten Kriterien. Das Verfahren wurde Ende der 1980er Jahre von Stuart Pugh entwickelt. Sie wird auch im Zusammenhang mit Six Sigma verwendet.Die Konzeptauswahl wird meist als Tabelle ausgeführt mit folgenden Spalten: 
+Kriterien nach denen das Konzept ausgewählt werden soll
+Gewichtung der Kriterien (meist 1–5)
+Benchmark oder Vergleichskonzept (fiktives Konzept oder derzeitige Lösung)
+Konzept 1…nDer Prozess der Bewertung läuft nach folgenden Schritten: 
+Sammeln der Bewertungskriterien
+Gewichtung nach Wichtigkeit für die Lösung
+Bestimmung des Vergleiches/Benchmarks
+Aufstellen der Alternativkonzepte
+Bewertung der Alternativen im Vergleich zum Benchmark (Siehe Bewertung und Auswertung)
+Analyse der Bewertung und Versuch, aus den besten Bewertungen ein Hybridkonzept zu erarbeiten.Die Bewertung wird mittels Zahlen oder Symbolen durchgeführt. Gängig sind +, s , − oder +1, 0, −1. Diese bedeuten besser, gleich oder schlechter.
+Als weitere Differenzierung wird in besser und viel besser z. B. mit + und ++ bewertet. Dies gilt analog für die negative Bewertung. Die Auswertung erfolgt zum einen über ein reines Zählen der Bewertungen und durch das gewichtete Zählen.
+
+
+== Einzelnachweise ==

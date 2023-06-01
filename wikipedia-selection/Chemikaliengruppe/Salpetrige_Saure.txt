@@ -1,0 +1,290 @@
+Salpetrige Säure (nach der Nomenklatur der IUPAC Hydrogennitrit genannt) ist eine nur in kalter und verdünnter wässriger Lösung beständige, mittelstarke Säure.Stickstoffdioxid NO2 disproportioniert beim Einleiten in Wasser, z. B. im Rahmen des Ostwald-Verfahrens, in Salpetersäure und Salpetrige Säure:
+
+  
+    
+      
+        
+          2
+          
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          →
+           
+          H
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\,NO_{2}+H_{2}O\ \rightarrow \ HNO_{2}+HNO_{3}} }
+  Daher kann NO2 formal als gemischtes Anhydrid von HNO2 und HNO3 betrachtet werden. In ähnlicher Weise lassen sich die Salze der Salpetrigen Säure, die Nitrite mit dem Anion NO2−, durch Disproportionierung von Stickstoffmonoxid NO in konzentrierten Laugen bei hohen Temperaturen herstellen:
+
+  
+    
+      
+        
+          4
+          
+          N
+          O
+          +
+          2
+          
+          O
+          
+            H
+            
+              −
+            
+          
+           
+          →
+           
+          
+            N
+            
+              2
+            
+          
+          O
+          +
+          2
+          
+          N
+          
+            O
+            
+              2
+            
+            
+              −
+            
+          
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {4\,NO+2\,OH^{-}\ \rightarrow \ N_{2}O+2\,NO_{2}^{-}+\ H_{2}O} }
+  Als Zwischenprodukt entsteht hierbei Hyponitrit N2O22−, das bei den Reaktionsbedingungen instabil ist und unter Freisetzung von Distickstoffmonoxid zerfällt. Im Labormaßstab lässt sich Salpetrige Säure aus der Reaktion von verdünnter Schwefelsäure mit Bariumnitritlösung synthetisieren.Salpetrige Säure ist sehr viel instabiler als Salpetersäure und lässt sich nicht als Reinstoff isolieren, da sie bei Erwärmung in einer Disproportionierungsreaktion zu Salpetersäure und Stickstoffmonoxid zerfällt:
+Salpetrige Säure gehört mit einem pKs-Wert von 3,35 zu den schwächeren Säuren und ist damit ähnlich stark wie die Ameisensäure.
+
+  
+    
+      
+        
+          3
+           
+          H
+          N
+          
+            O
+            
+              2
+            
+          
+           
+          ⟶
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          N
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ HNO_{2}\ \longrightarrow \ HNO_{3}+2\ NO+H_{2}O} }
+  Neutralisiert man Salpetrige Säure mit alkalischen Lösungen, bilden sich die stabilen Salze der Säure, die  Nitrite. So entsteht bei der Reaktion von Salpetriger Säure mit verdünnter Natronlauge Natriumnitrit:
+
+  
+    
+      
+        
+          H
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          N
+          a
+          O
+          H
+           
+          ⟶
+           
+          N
+          a
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {HNO_{2}+NaOH\ \longrightarrow \ NaNO_{2}+H_{2}O} }
+  Das Stickstoffatom in der Salpetrigen Säure hat die Oxidationsstufe +III. Deshalb kann Salpetrige Säure durch Oxidationsmittel zu Salpetersäure (Oxidationsstufe +V) oxidiert werden. So gelingt eine Oxidation der Salpetrigen Säure mit Kaliumpermanganat in saurer Lösung:
+
+  
+    
+      
+        
+          2
+           
+          
+            
+              M
+              n
+              
+                O
+                
+                  4
+                
+              
+            
+            
+              −
+            
+          
+          +
+          5
+           
+          
+            
+              N
+              
+                O
+                
+                  2
+                
+              
+            
+            
+              −
+            
+          
+          +
+          6
+           
+          
+            H
+            
+              +
+            
+          
+           
+          ⟶
+           
+          2
+           
+          M
+          
+            n
+            
+              2
+              +
+            
+          
+          +
+          5
+           
+          
+            
+              N
+              
+                O
+                
+                  3
+                
+              
+            
+            
+              −
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ {MnO_{4}}^{-}+5\ {NO_{2}}^{-}+6\ H^{+}\ \longrightarrow \ 2\ Mn^{2+}+5\ {NO_{3}}^{-}+3\ H_{2}O} }
+  Im sauren Milieu ist Salpetrige Säure ein starkes Oxidationsmittel.Gasförmige Salpetrige Säure besteht aus planaren Molekülen von cis- und trans-HNO2, wobei das trans-Isomer um 2 kJ mol−1 stabiler ist.Eine einfache, aber nicht spezifische Nachweismethode ist die Oxidation von Iodid zu Iod durch Salpetrige Säure in saurer Lösung. Man bedient sich hierbei der Iod-Stärke-Reaktion, die schon sehr geringe Konzentrationen (wenige ppm) Salpetriger Säure durch den entstandenen Polyiodid-Stärke-Komplex mittels Blaufärbung anzeigt. Hierzu wird das sogenannte Kaliumiodidstärkepapier benutzt.
+Spezifisch können Salpetrige Säure bzw. Nitrite mit Lunges Reagenz nachgewiesen werden, wobei sich ein roter Azofarbstoff bildet.
+Gasförmiges Hydrogennitrit ist zudem über seine Absorption im nahen UV nachweisbar. Dies erlaubt die Messung von atmosphärischen Konzentrationen von salpetriger Säure, welche im urbanen Umfeld mit Konzentrationen von wenigen ppt bis einigen ppb auftritt.Salpetrige Säure wird vor allem in der chemischen Industrie zur Herstellung von Diazoniumsalzen verwendet.Salpetrige Säure ist ein Mutagen und hat eine negative Wirkung auf Organismen. Die Säure kann Cytosin in Uracil umwandeln. Uracil paart aber im Gegensatz zu Cytosin mit Adenin, weswegen sich das Basenpaar C-G nach zwei Replikationen zu T-A umwandelt (eine Punktmutation). Da Uracil jedoch in der DNA nicht vorkommt, werden solche Fehler relativ leicht erkannt und korrigiert.Ester der Salpetrigen Säure lassen sich mittels der Chrétien-Longi-Reaktion herstellen.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,94 @@
+Aktuelle beziehungsweise aktuale Unendlichkeit (spätlateinisch actualis, „tätig“, „wirksam“) und potenzielle beziehungsweise potentielle Unendlichkeit (spätlateinisch potentialis, „der Möglichkeit bzw. dem Vermögen nach“) bezeichnen zwei Modalitäten, wie Unendliches existieren oder vorgestellt werden kann. Es geht dabei um die Frage, ob erstens überhaupt ein Gegenstandsbereich unendlicher Mächtigkeit in allen seinen Teilen wirklich zu einem gegebenen Zeitpunkt existieren kann (Realismus bezüglich aktualer Unendlichkeit), oder ob nur jeweils bestimmte Elemente existieren oder vorgestellt bzw. konstruiert werden können (Antirealismus bezüglich aktualer Unendlichkeit, zum Beispiel als Konstruktivismus), so dass nur potentielle Unendlichkeit real existieren kann. Zweitens geht es, akzeptiert man die prinzipielle Möglichkeit aktualer Unendlichkeit, um die Frage, welche Objekte aktual unendlich sind. Im Bereich der Philosophie der Mathematik kommt dafür insbesondere die Frage einer realen Existenz unendlich mächtiger Mengen in Betracht, darunter zum Beispiel die Klasse der natürlichen Zahlen (was hier eine Position voraussetzt, die man auch „Platonismus“ bezüglich mathematischer Objekte nennt). Die antirealistische (hier meist: konstruktivistische) Position könnte man formulieren als „Es gibt zwar keine größte natürliche Zahl, aber eine fertige Gesamtheit der natürlichen Zahlen existiert nicht“ (potentiell unendlich).In der Philosophiegeschichte und der gegenwärtigen Ontologie werden als weitere Kandidaten für aktual unendliche Gegenstände unter anderem diskutiert: eine unendliche Menge an Substanzen (etwa Atomen) oder an räumlichen und zeitlichen Einheiten (insbesondere als Kontinuum), eine unendliche Reihe von Ursachen (deren Unmöglichkeit ist eine Voraussetzung vieler klassischer Gottesbeweise), sowie Gott.Anaximander führt den Begriff eines Unbegrenzten (a-peiros) ein. Unendlichkeit ist gleichermaßen grenzenlos wie unbestimmt.
+Platons Darlegungen lässt sich die Idee einer aktualen Unendlichkeit entnehmen. Sie ist das bestimmte Formprinzip, das Eine, welches die materielle Mannigfaltigkeit der Materie durch Eingrenzung strukturiert.
+In der Ontologie des Aristoteles ist der Gegensatz von Potentialität und Aktualität grundlegend und wird auch auf Mengen von Objekten angewendet. Eine Menge, welcher prinzipiell unendlich viele Objekte hinzufügbar sind, nennt Aristoteles „potentiell“ unendlich. Davon unterscheidet er den Begriff einer Menge, welche wirklich bereits unendlich viele Objekte enthält. Dies ist nach Aristoteles unmöglich. Damit wendet sich Aristoteles auch davon ab, dass ein bestimmtes, unendliches Prinzip die Einheit der endlichen Realität umfassend erklärt. „Unendlich“ bezieht sich ihm zufolge nur auf „dasjenige, außerhalb dessen immer noch etwas ist“.Dieser Ausschluss einer aktualen Unendlichkeit wird in der antiken und mittelalterlichen Religionsphilosophie oftmals für Beweise der Existenz Gottes verwendet. Denn damit ist ein Fortschreiten, das prinzipiell unendlich viele Schritte vollziehen kann, niemals abschließbar. Darum hält man eine Erklärbarkeit der Realität für undurchführbar, welche bei bestimmten Objekten startet, deren Ursachen anführt, und so jeweils fortschreitet. Stattdessen wird Gott als Erstursache angenommen, die selbst nicht Element einer solchen Ursachenreihe ist. So etwa bei Thomas von Aquin.Augustinus identifiziert, dem Platonismus folgend, Gott direkt mit dem aktualen Unendlichen.Die antiken und mittelalterlichen ontologischen und religionsphilosophischen Diskussion beziehen sich vielfach auf diese Grundlagen.
+Am Übergang zu Renaissance bzw. früher Neuzeit kombiniert Nikolaus von Kues diese Traditionen mit mathematischen Problemen. In zahlreichen arithmetischen und geometrischen Analogien versucht er zu verdeutlichen, dass es dem endlichen, unterscheidenden Verstand unmöglich ist, die aktuale Einheit des Unendlichen zu erfassen. Ein Beispiel dafür ist die Unmöglichkeit, durch fortschreitende Einbeschreibung von Polygonen mit zunehmender Kantenzahl in einen Kreis gerade und krumme Linie aktual zur Deckung zu bringen. Dieses Problem der Kreisquadratur hatte bereits zahlreiche Behandlungen gefunden, u. a. bei Thomas Bradwardine. In der jüngeren Forschung werden vielfach die Überlegungen des Cusanus mit Problemen der Philosophie der Mathematik verglichen, wie sie sich seit den frühen Vertretern eines mathematischen Konstruktivismus stellen, sowie mit den Überlegungen Georg Cantors.Cantor war der Meinung, dass das potentiell Unendliche das aktual Unendliche voraussetzt und damit ein klarer Gegner von Johann Friedrich Herbart, der den Begriff des Unendlichen wiederum als wandelbare Grenze ansah, die sich in jedem Augenblick weiter verschieben kann bzw. muss.Die Rede von unendlichen „Mengen“, die sich auf der Seite der Aktualisten durchgesetzt hat und in Form der axiomatischen Mengenlehre zur wichtigsten Grundlage der Mathematik geworden ist, wird von den Potentialisten kritisiert bzw. abgelehnt. Um die Strittigkeit des Mengenbegriffs deutlich zu machen, wird er im Folgenden gelegentlich mit Anführungszeichen versehen.
+Einfachstes Beispiel für eine unendliche Menge ist die Menge 
+  
+    
+      
+        
+          N
+        
+        =
+        {
+        1
+        ,
+        2
+        ,
+        …
+        }
+      
+    
+    {\displaystyle \mathbb {N} =\{1,2,\dots \}}
+   der natürlichen Zahlen: Zu jeder natürlichen Zahl kann man einen Nachfolger angeben, es gibt also kein Ende. Jede einzelne dieser Zahlen (und sei sie auch noch so groß) lässt sich vollständig angeben, die Menge 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   mit jedem ihrer Elemente dagegen nicht.
+Vom Standpunkt der Finitisten ist deshalb 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  , wie jeder andere unendliche Bereich, nicht als Menge existent. Eine endliche Menge aber existiert, denn sie kann durch Angabe all ihrer Elemente, wie zum Beispiel 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        4
+        ,
+        5
+        }
+      
+    
+    {\displaystyle \{1,2,3,4,5\}}
+  , ausdrücklich angegeben werden. Die „Menge“ 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   ist in diesem Sinne nur potentiell unendlich, da ihr zwar immer neue Elemente hinzugefügt werden können, sie aber niemals fertig vorliegt, da nicht alle ihre Elemente aufgeschrieben werden können.
+Ultrafinitisten erheben hier den Einwand, dass auch endliche Mengen wie 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+        }
+      
+    
+    {\displaystyle \{1,2,\dots ,n\}}
+   (n ist eine beliebige natürliche Zahl) nicht vollständig aufgeschrieben werden können, wenn n so groß ist, dass praktische Gründe dies verhindern – zur Verfügung stehendes Papier, Lebensdauer des Schreibers oder Zahl der Elementarteilchen, die im beobachtbaren Teil des Universums sicher unter 10100 liegt.
+Für den gemäßigteren Konstruktivisten hingegen ist eine Menge bereits dann gegeben, wenn es einen Algorithmus/Verfahren gibt, mit dem jedes Element dieser Menge in endlich vielen Schritten konstruiert, also angegeben werden kann. Die Menge der natürlichen Zahlen ist in diesem Sinne aktual unendlich, weil sie in Form eines Algorithmus existiert, mit dem man jede natürliche Zahl in endlich vielen Schritten erzeugen kann. „Fertig vorliegend“ ist hier allerdings nicht die Menge als Zusammenfassung ihrer Elemente, sondern nur der Algorithmus, die Operationsvorschrift, nach der sie nach und nach erzeugt wird. Viele Konstruktivisten meiden daher den Begriff „aktual unendlich“ und bezeichnen Mengen wie die der natürlichen Zahlen lieber als „operativ abgeschlossen“, was einfach heißen soll, dass der zugehörige Algorithmus jedes Element der Menge früher oder später erzeugt.
+Der Bereich der reellen Zahlen ist der klassische Fall einer nicht operativ abgeschlossenen Menge. Ein Algorithmus kann nur Zahlen produzieren, die mit endlich vielen Zeichen darstellbar sind, und so ist es zwar möglich, endliche oder abzählbare Mengen von reellen Zahlen (für Konstruktivisten sind das regelmäßige Folgen rationaler Zahlen) zu konstruieren (indem man z. B. einfach jeder einen anderen Namen gibt), aber es ist nicht möglich, einen Algorithmus anzugeben, der jede reelle Zahl erzeugen kann. Denn der müsste diese in abzählbar vielen Schritten produzieren können, was aber nicht möglich ist, weil die Menge der reellen Zahlen überabzählbar ist (Cantors zweites Diagonalargument). Die „Menge“ der reellen Zahlen kann also nicht durch einen Algorithmus (oder endlich viele) angegeben werden, sondern man würde unendlich viele Algorithmen benötigen, um alle reellen Zahlen zu erzeugen, und diese unendlich vielen Algorithmen lassen sich ihrerseits nicht durch einen höherstufigen Algorithmus erzeugen (denn auch daraus würde folgen, dass die reellen Zahlen abzählbar sein müssten). Die Algorithmen zur Erzeugung aller reellen Zahlen bilden demnach keinen operativ abgeschlossenen Bereich, sind also schwerlich als „fertig vorliegend“ zu bezeichnen und bilden daher eher eine potentielle Unendlichkeit.
+Bemerkenswerterweise ist trotz dieser Schwierigkeiten, die Menge der reellen Zahlen zu erzeugen, auch auf konstruktivistischer Seite vereinzelt die aktuale Auffassung bezüglich der Unendlichkeit der reellen Zahlen anzutreffen: Der Intuitionist Luitzen Egbertus Jan Brouwer sieht das Kontinuum als eine Urintuition an, also als etwas dem menschlichen Geist fertig Gegebenes und in diesem Sinne aktual Unendliches. Allerdings sei das Kontinuum "etwas Fertiges [...] nur als Matrix, nicht als Menge". Was Brouwer hier unter "Matrix" versteht, erläutert er freilich nicht weiter.
+Es gibt somit in der Philosophie der Mathematik neben der Ablehnung aller Unendlichkeitsbegriffe (Ultrafinitismus) die ausschließliche Akzeptanz des potentiell Unendlichen (Finitismus), darüber hinausgehend die Akzeptanz des aktual Unendlichen nur für operativ abgeschlossene Mengen wie die der natürlichen Zahlen (Konstruktivismus), sowie die Akzeptanz des aktual Unendlichen nur für das Kontinuum (Intuitionismus), während der Platonismus das aktual Unendliche durchgehend akzeptiert.
+Die klassische Mathematik und gleichzeitig die überwiegende Mehrheit der heutigen Mathematiker akzeptiert das aktual Unendliche für alle Mengen, die sich auf der Grundlage der Axiome der Zermelo-Fraenkel-Mengenlehre definieren lassen: Das Unendlichkeitsaxiom liefert die Existenz der Menge der natürlichen Zahlen, das Potenzmengenaxiom die der reellen Zahlen. Auf dieser axiomatischen Grundlage ergibt sich eine unendliche Vielzahl von Stufen der aktualen Unendlichkeit, die durch unterschiedliche Kardinalzahlen gekennzeichnet sind. Für die Kardinalzahlen lässt sich, ähnlich wie für die reellen Zahlen, kein allgemeiner Entstehungsprozess angeben, der alle erzeugen könnte. Ob die „Gesamtheit aller Kardinalzahlen“ ein sinnvoller Begriff ist, ob man sie als aktuale Unendlichkeit auffassen kann, ist auch unter Mathematikern umstritten. Diese Gesamtheit als Menge im Sinne der axiomatischen Mengenlehre aufzufassen, führt nämlich zu einem logischen Widerspruch (erste Cantorsche Antinomie).

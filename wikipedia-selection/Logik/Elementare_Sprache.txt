@@ -1,0 +1,783 @@
+Eine elementare Sprache 
+  
+    
+      
+        
+          L
+          
+            S
+          
+        
+      
+    
+    {\displaystyle L^{S}}
+   (auch: Sprache erster Stufe mit der Symbolmenge S) ist eine im Rahmen der Prädikatenlogik erster Stufe definierte formale Sprache. Mit diesen Sprachen lassen sich mathematische Theorien formallogisch behandeln; so z. B. die Mengenlehre usw. Die Erfahrung zeigt sogar, dass sich alle mathematischen Aussagen in einer geeigneten Sprache erster Stufe formalisieren lassen, und dass sich alle beweisbaren Aussagen innerhalb einer Sprache erster Stufe mit Hilfe des Sequenzenkalküls ableiten lassen.Das Alphabet einer Sprache erster Stufe umfasst folgende Zeichen:
+
+ 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        ,
+        
+          v
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle v_{0},v_{1},v_{2},\ldots }
+    Symbole für Variablen;
+ 
+  
+    
+      
+        ¬
+        ,
+        ∧
+        ,
+        ∨
+        ,
+        →
+        ,
+        ↔
+      
+    
+    {\displaystyle \neg ,\wedge ,\vee ,\rightarrow ,\leftrightarrow }
+     Junktoren: nicht, und, oder, wenn - so, genau dann wenn;
+ 
+  
+    
+      
+        ∀
+        ,
+        ∃
+      
+    
+    {\displaystyle \forall ,\exists }
+    Quantoren: für alle, es gibt;
+ 
+  
+    
+      
+        ≡
+      
+    
+    {\displaystyle \equiv }
+    Gleichheitszeichen;
+ 
+  
+    
+      
+        )
+        ,
+        (
+      
+    
+    {\displaystyle ),(}
+    technische Zeichen: Klammersymbole;
+ sowiea)  für jedes 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+   eine (eventuell leere) Menge von 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelligen Relationssymbolen, alle zusammen: 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+        ,
+        
+          R
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle R_{1},R_{2},\ldots }
+  ;
+b)  für jedes 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+   eine (eventuell leere) Menge von 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelligen Funktionssymbolen, alle zusammen: 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        ,
+        
+          f
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle f_{1},f_{2},\ldots }
+  ;
+c)  eine (eventuell leere) Menge von Symbolen für Konstanten 
+  
+    
+      
+        
+          c
+          
+            1
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle c_{1},c_{2},\ldots }
+   (siehe Anmerkung unten zu 0-stelligen Funktionen).Die Menge der Zeichen unter Punkt 1 bis 5 sind die logischen Zeichen; sie sind für alle Sprachen erster Ordnung dieselben; sie werden mit A bezeichnet.
+Die Menge der Zeichen unter Punkt 6 bezeichnet man als Symbolmenge (auch Signatur) 
+  
+    
+      
+        S
+        =
+        {
+        
+          R
+          
+            1
+          
+        
+        ,
+        
+          R
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            1
+          
+        
+        ,
+        
+          f
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          c
+          
+            1
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+        
+        ,
+        …
+        }
+      
+    
+    {\displaystyle S=\{R_{1},R_{2},\ldots ,f_{1},f_{2},\ldots ,c_{1},c_{2},\ldots \}}
+  ; durch sie wird die spezielle Sprache erster Stufe bestimmt.In Alphabeten sind bei sonst identischer Definition die Konstanten aus (f)(3)  nicht aufgeführt; dafür sind in (f)(1) nullstellige Relationen und Funktionen erlaubt (
+  
+    
+      
+        n
+        =
+        0
+      
+    
+    {\displaystyle n=0}
+  ), letztere entsprechen den Konstanten aus der obigen Definition (siehe auch Nullstellige Verknüpfungen).
+Die einstelligen Relationen definieren Zusammenfassungen wie sie Mengen oder allgemeiner Klassen entsprechen.Um den Begriff der Gruppe und die definierenden Axiome zu formalisieren, geht man wie folgt vor:
+
+Die Variablen 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+        ,
+        …
+      
+    
+    {\displaystyle x,y,z,\ldots }
+   stehen für Elemente der Gruppe; außerdem gibt es eine Konstante 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  .
+Es wird ein Symbol 
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+   eingeführt; dieses steht für die zweistellige Verknüpfung zweier Elemente.
+Assoziativgesetz: 
+  
+    
+      
+        ∀
+        x
+        ∀
+        y
+        ∀
+        z
+        (
+        x
+        ∘
+        y
+        )
+        ∘
+        z
+        ≡
+        x
+        ∘
+        (
+        y
+        ∘
+        z
+        )
+      
+    
+    {\displaystyle \forall x\forall y\forall z(x\circ y)\circ z\equiv x\circ (y\circ z)}
+  
+Neutrales Element: 
+  
+    
+      
+        ∀
+        x
+        (
+        x
+        ∘
+        e
+        ≡
+        x
+        )
+      
+    
+    {\displaystyle \forall x(x\circ e\equiv x)}
+  
+Inverse Elemente: 
+  
+    
+      
+        ∀
+        x
+        ∃
+        y
+        (
+        x
+        ∘
+        y
+        ≡
+        e
+        )
+      
+    
+    {\displaystyle \forall x\exists y(x\circ y\equiv e)}
+  In diesem Fall gibt es also ein zweistelliges Funktionssymbol 
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+   sowie eine einzige Konstante 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  .Die Definition der Terme 
+  
+    
+      
+        
+          T
+          
+            S
+          
+        
+      
+    
+    {\displaystyle T^{S}}
+   einer elementaren Sprache erfolgt rekursiv. Ein Term der elementaren Sprache wird durch endlich viele Anwendungen der folgenden Regeln erhalten
+
+Variablensymbole sind Terme.
+Konstantensymbole sind Terme.
+Wenn 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   ein 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelliges Funktionssymbol und 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+      
+    
+    {\displaystyle t_{1},\ldots ,t_{n}}
+   Terme sind, dann  ist auch 
+  
+    
+      
+        f
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(t_{1},\ldots ,t_{n})}
+   ein Term.AnmerkungenEs gibt auch klammerfreie Notationen wie etwa die polnische Notation;  in der Regel sind diese aber nicht so leicht zu lesen. Die dritte obige Definitionszeile lautet in dieser Notation (vergleiche: Prädikatenlogik erster Stufe §Terme):o  Wenn 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   ein n-stelliges Funktionssymbol ist und 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+      
+    
+    {\displaystyle t_{1},\dotsc ,t_{n}}
+   Terme sind, so ist auch 
+  
+    
+      
+        f
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+      
+    
+    {\displaystyle ft_{1},\dotsc ,t_{n}}
+   ein Term.Gelegentlich werden die Konstanten als nullstellige Funktionen subsumiert, was sich besonders natürlich in der klammerfreien Notation darstellt.→ Siehe auch: Logische Formeln;  Term §Ausdrücke;  Prädikatenlogik erster Stufe §Ausdrücke.
+Die Formeln der Sprache 
+  
+    
+      
+        
+          L
+          
+            S
+          
+        
+      
+    
+    {\displaystyle L^{S}}
+   werden durch endlich viele Anwendungen der folgenden Regeln erhalten:Wenn 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   und 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+   Terme sind, dann ist 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        =
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{1}=t_{2}}
+   eine Formel.
+Wenn 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   ein 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelliges Relationssymbol und 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+      
+    
+    {\displaystyle t_{1},\ldots ,t_{n}}
+   Terme sind, dann ist 
+  
+    
+      
+        R
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle R(t_{1},\ldots ,t_{n})}
+   eine Formel.Wenn 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   eine Formel ist, dann auch 
+  
+    
+      
+        ¬
+        ψ
+      
+    
+    {\displaystyle \neg \psi }
+  .
+Wenn 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   und 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   Formeln sind, dann auch
+
+  
+    
+      
+        ψ
+        ∧
+        θ
+      
+    
+    {\displaystyle \psi \wedge \theta }
+  
+
+  
+    
+      
+        ψ
+        ∨
+        θ
+      
+    
+    {\displaystyle \psi \vee \theta }
+  
+
+  
+    
+      
+        ψ
+        →
+        θ
+      
+    
+    {\displaystyle \psi \rightarrow \theta }
+  
+
+  
+    
+      
+        ψ
+        ↔
+        θ
+      
+    
+    {\displaystyle \psi \leftrightarrow \theta }Wenn 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   eine Formel und 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   ein beliebiges Variablensymbol ist, dann sind auch
+
+  
+    
+      
+        ∃
+        x
+        ψ
+      
+    
+    {\displaystyle \exists x\psi }
+   und
+
+  
+    
+      
+        ∀
+        x
+        ψ
+      
+    
+    {\displaystyle \forall x\psi }
+  Formeln.
+Die elementare Sprache 
+  
+    
+      
+        
+          L
+          
+            S
+          
+        
+      
+    
+    {\displaystyle L^{S}}
+   zur Symbolmenge (Signatur) 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   besteht nun aus allen nach den obigen Regeln gebildeten Formeln.Die Regeln für Terme entsprechen einer kontextfreien Sprache.
+Die Regeln für Formeln entsprechen ebenfalls einer kontextfreien Sprache: Elementare Sprachen sind also kontextfreie Sprachen und damit eine spezielle Klasse von formalen Sprachen.
+Die Regeln für Beweise entsprechen einer kontextsensitiven Sprache. Durch eine kontextsensitive Analyse kann entschieden werden, ob ein gegebener Beweis für eine Formel vorliegt.
+Die Regeln für das Ableiten einer Formel aus einem Axiomensystem entspricht einer semi-entscheibaren Sprache. Es gibt im Allgemeinen keinen Algorithmus, um einen Beweis zu erhalten, der eine Formel aus einer anderen Aussagenmenge ableitet.H.D. Ebbinghaus, J. Flum, W. Thomas: Einführung in die mathematische Logik. BI-Wiss. Verlag, Mannheim / Leipzig / Wien / Zürich 1992, ISBN 3-411-15603-1.
+Hans-Peter Tuschik, Helmut Wolter: Mathematische Logik - kurzgefasst. Grundlagen, Modelltheorie, Entscheidbarkeit, Mengenlehre. BI-Wiss. Verlag, Mannheim / Leipzig / Wien / Zürich 1994, ISBN 3-411-16731-9.
+
+
+== Einzelnachweise ==

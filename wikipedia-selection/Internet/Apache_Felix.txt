@@ -1,0 +1,34 @@
+Apache Felix ist ein Open-Source-Framework für die Referenz-Implementierung der OSGi-Spezifikation. Die Codebasis wurde gespendet von OW2 aus dem Oscar Projekt.Im Juli 2005 wurde der Wunsch geäußert, dass auf der Codebasis von Oscar ein neues Apache Projekt gestartet werden soll. Der Code wurde von Richard Hall gespendet. Oscar wurde 2004 zum ersten Mal veröffentlicht und war mit der OSGi Spezifikation Version 3 kompatibel. Am 16. Juli 2007 wurde Version 1.0 veröffentlicht und das Projekt verließ die Inkubationsphase bei Apache.Felix ist in Projekte unterteilt, welche auf die einzelnen Aspekte der OSGi Spezifikation eingehen:
+Config Admin - Eine Implementierung der OSGi Configuration Admin-Dienstspezifikation zum Verwalten der Eigenschaften der Bundle-Konfiguration
+Dependency Manager - Ein API-basiertes Komponentenmodell zur Vereinfachung der OSGi-basierten Entwicklung
+Event Admin - Eine Implementierung der OSGi Event Admin-Dienstspezifikation für die ereignisbasierte Kommunikation
+File Install - Ein einfacher, verzeichnisbasierter Verwaltungsagent zum Verwalten der Bundle-Bereitstellung
+Framework - Eine Implementierung des OSGi R6-Kernframeworks
+Gogo - Eine erweiterte Shell für die Interaktion mit OSGi-Frameworks
+Health Checks - Ein erweiterbares Framework zur Überwachung des Status des OSGi-Containers zur Laufzeit
+HTTP-Dienst - Eine Implementierung der OSGi-Spezifikation für HTTP-Whiteboards und HTTP-Dienste
+Inventory Printer - Ein einfaches und erweiterbares Framework zum Abrufen von Inventardaten zu Anwendungen, die in einem OSGi Framework ausgeführt werden
+iPOJO - Ein ausgeklügeltes serviceorientiertes Komponentenmodell zur Vereinfachung der OSGi-basierten Entwicklung
+Protokoll - Eine einfache, speicherbasierte Implementierung der OSGi-Protokolldienstspezifikation
+Felix Logback - Apache Felix Logback ist eine kleine Integration des Logback-Backends mit OSGi
+Maven Bundle Plugin - Ein Maven-Plugin zur Vereinfachung der Erstellung von Bundles
+Maven SCR-Plugin - Ein Maven-Plugin zur Vereinfachung der Verwendung deklarativer Dienste
+Metatype - Eine Implementierung des OSGi-Metatype-Dienstes zur Beschreibung von Typen, die von Bundles benötigt werden
+OSGi-Bundle-Repository - Ein Bundle-Repository-Service, der das Erkennen und Bereitstellen von Bundles und deren Abhängigkeiten vereinfacht
+Preferences - - Eine Implementierung der OSGi-Voreinstellungsdienstspezifikation zum Speichern von Einstellungen und Voreinstellungen
+Remote Shell - Eine textbasierte Remote-Schnittstelle zur Apache Felix Shell
+Service Component Runtime - Eine Implementierung der OSGi Declarative Services-Spezifikation, die ein serviceorientiertes Komponentenmodell zur Vereinfachung der OSGi-basierten Entwicklung bereitstellt
+Shell - Ein sehr einfacher Shell-Service, der als Bundle für die Interaktion mit einer OSGi-Framework-Instanz implementiert ist
+Shell TUI - Eine einfache, textbasierte Schnittstelle zur Apache Felix Shell
+UPnP - Eine Implementierung der OSGi UPnP-Gerätedienstspezifikation für die UPnP-Geräteintegration
+Webkonsole - Ein einfaches Tool zum Überprüfen und Verwalten von OSGi-Framework-Instanzen mit Ihrem bevorzugten Webbrowser.OSGi war ursprünglich für embedded Geräte bzw. IoT geplant. Aber die Modularisierung von Java und deren Umsetzung bzw. Spezifikation mit OSGi hat den Einsatzbereich erweitert, da so die Software-Entwicklung mehr Funktionalität in die Java-/Webanwendung bringen konnte. Um Abhängigkeiten über JAR-Archive und Modularität zu erhalten bzw. aufzulösen kann Felix in IDE's eingebunden werden.Projekte die Apache Felix einsetzen:
+Apache Karaf
+Apache ServiceMix
+Apache Sling
+Ascert VersaTest
+DySoWeb
+GlassFish
+OW2 JOnAS
+iDempiere hat es eingesetzt, ist aber gewechselt zu Eclipse Equinox
+Eclipse Jetty
+Um mit Felix zu arbeiten wird ein eine aktuelle Programmversion benötigt. Nach dem auspacken des Archives, kann durch einen Aufruf aus der Befehlszeile, mit folgendem Befehl, dass Framework gestartet werden

@@ -1,0 +1,112 @@
+In der theoretischen Informatik (insbesondere in der Komplexitätstheorie) ist das Erfüllbarkeitsproblem für Schaltkreise (englisch Circuit Satisfiability Problem, CircuitSAT, CSAT) das Entscheidungsproblem, ob es für eine gegebene boolesche Schaltung eine Eingabe gibt, die den Ausgang wahr macht.Betrachtet wird ein boolescher Schaltkreis, der aus binären Und-Gattern, binären Oder-Gattern, unären Nicht-Gattern, Input-Gattern und einem Output-Gatter besteht.
+Zu entscheiden ist, ob eine Eingabe (d. h. eine Zuordnung von Wahrheitswerten zu den Input-Gattern) existiert, für die das Output-Gatter wahr wird.
+Die Auswahl der erlaubten Gatter im booleschen Schaltkreis variiert in der Literatur. Die Wahl von Und-, Oder- und Nicht-Gattern erlaubt es, alle Booleschen Funktionen mit Schaltkreisen zu bilden.
+Andere Varianten erlauben zum Beispiel zusätzlich Gatter für die beiden Wahrheitswerte oder verwenden NAND-Gatter anstatt der Und-, Oder- und Nicht-Gatter.Das Erfüllbarkeitsproblem für Schaltkreise ist NP-vollständig. Es gilt als prototypisches NP-vollständiges Problem und wird in manchen Lehrbüchern als erstes NP-vollständiges Problem eingeführt. Es kann verwendet werden, um die NP-Schwere anderer Probleme mittels Reduktion zu beweisen. Insbesondere gibt es eine relativ einfache Reduktion auf das Erfüllbarkeitsproblem der Aussagenlogik (SAT), und CircuitSAT kann daher benutzt werden, um die NP-Schwere von SAT zu zeigen (Satz von Cook).
+Die Größe 
+  
+    
+      
+        s
+        i
+        z
+        e
+        (
+        C
+        )
+      
+    
+    {\displaystyle size(C)}
+   eines Schaltkreises 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   ist die Anzahl der Gatter des Schaltkreises, wobei Input-Gatter nicht mitgezählt werden.
+Für einen Schaltkreis 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   mit 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Input-Gattern kann CircuitSAT in 
+  
+    
+      
+        O
+        (
+        
+          2
+          
+            n
+          
+        
+        ⋅
+        p
+        o
+        l
+        y
+        (
+        s
+        i
+        z
+        e
+        (
+        C
+        )
+        )
+        )
+      
+    
+    {\displaystyle O(2^{n}\cdot poly(size(C)))}
+   entschieden werden. Hierzu kann man für jede der 
+  
+    
+      
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 2^{n}}
+   möglichen Eingaben in Polynomialzeit testen, ob das Output-Gatter wahr wird (siehe Circuit Value Problem).
+In Abhängigkeit von der Schaltkreisgröße kann das Problem in 
+  
+    
+      
+        O
+        (
+        
+          2
+          
+            0.4058
+            ⋅
+            s
+            i
+            z
+            e
+            (
+            C
+            )
+          
+        
+        )
+      
+    
+    {\displaystyle O(2^{0.4058\cdot size(C)})}
+   entschieden werden. Diese Schranke hält für Schaltkreise mit beliebigen binären Gattern.

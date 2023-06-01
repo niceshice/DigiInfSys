@@ -1,0 +1,5 @@
+Das CSNET (Computer Science Network) war ein 1981 gegründetes Computernetzwerk. Es wurde von der National Science Foundation initiiert. Es gilt als Vorläufer des National Science Foundation Network (NSFNET) und des heutigen Internets.
+Bis zu seinem Ende 1986 waren über 165 Universitäten, Industrie- und Regierungsgruppen im CSNET angeschlossen. Die Kosten für eine Mitgliedschaft betrugen 2000 US-Dollar für kleine Computereinrichtungen bis hin zu 30.000 US-Dollar für große Firmen. Dafür gab es kostenlosen Support.Über das CSNET wurde die erste E-Mail nach Deutschland verschickt. Sie wurde am 2. August 1984 in Cambridge (Massachusetts) abgeschickt und erreichte das Rechenzentrum der Universität Karlsruhe am 3. August 1984.
+
+
+== Einzelnachweise ==

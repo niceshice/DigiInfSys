@@ -1,0 +1,6 @@
+Ein Redoxindikator ist ein reversibles (d. h. beliebig oft umkehrbares) Redoxsystem, dessen reduzierte und oxidierte Formen verschiedenfarbig sind. Man unterscheidet dabei zwischen zweifarbigen Indikatoren wie Ferroin (Farbumschlag blau – rot) und einfarbigen Indikatoren wie Methylenblau (Umschlag blau – farblos) oder Phenosafranin (Umschlag rot – farblos).
+Ein Redoxindikator kommt nur bei bestimmten Redoxtitrationen zum Einsatz um den Gehalt an einem bestimmten Oxidations- oder Reduktionsmittel zu ermitteln.  Bei der Redoxtitration mit dem stark violett gefärbten Kaliumpermanganat in der Manganometrie wird ein solcher Indikator nicht benötigt.
+Sonderfälle sind:
+
+Diphenylamin (Farbumschlag farblos – violett), da ein Schritt der Farbstoffbildung, die Benzidin-Umlagerung, irreversibel ist
+Resazurin (blau) welches bei Reduktion ebenfalls irreversibel zum rosafarbenen, fluoreszierenden Resorufin umgewandelt wird.

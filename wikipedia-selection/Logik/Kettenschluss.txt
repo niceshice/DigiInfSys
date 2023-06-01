@@ -1,0 +1,26 @@
+Als Kettenschluss werden in der traditionellen und in der modernen Logik zwei unterschiedliche, aber optisch ähnliche Schlussfiguren (Implikationsserien) bezeichnet.In der modernen Logik wird unter Kettenschluss (englisch chain inference) ein aussagenlogischer Schluss der folgenden Form bezeichnet:
+
+beziehungsweise allgemein ein Schluss der folgenden Form:
+
+Ein Beispiel für einen Kettenschluss im modernen Sinn ist folgender Schluss:Der Sorites (Kurzform von soriticus syllogismus, auch gehäufter Schluss, Häufelschluss, Kettenschluss, syllogismos synthetos, coacervatio, soriticus syllogismus, englisch nur sorites) ist eine Schlussform der traditionellen Logik. Es handelt sich um eine spezielle abgekürzte Schlusskette. Die Stoiker verwendeten die verkürzten Schlüsse (Epiballontes), indem sie einzelne Sätze in ihren Schlüssen (also Ober- oder Unter- und Schlusssätze) verschwiegen bzw. ausgelassen haben.
+Die Verknüpfung der Sätze folgt folgendem Schema: Der erste Satz verbindet einen Begriff mit einem anderen. Der Folgesatz wiederum verbindet diesen zweiten Begriff mit einem dritten. Der nächste Satz wiederum verbindet den dritten Begriff mit einem vierten usw. und der Schlusssatz stellt wiederum eine Verbindung her mit dem letzten Begriff und dem im ersten Satz eingeführten Begriff. Ein Sonderfall und Beispiel für den Sorites ist der syllogistische Modus Barbara.
+Unterschieden wird zwischen dem regressiven aristotelischen und dem progressiven goclenischen Sorites.
+
+Aristotelischer Sorites
+S ist M1
+M1 ist M2
+M2 ist M3
+…
+Mn-1 ist Mn
+Mn ist P
+Daraus folgt: S ist P
+Goclenischer Sorites
+Mn ist P
+Mn-1 ist Mn
+…
+M2 ist M3
+M1 ist M2
+S ist M1
+Daraus folgt: S ist P
+Beispiel
+Die Gestirne sind Körper; alle Körper sind beweglich; alles Bewegliche ist veränderlich; alles Veränderliche ist vergänglich: Also sind die Gestirne vergänglich.Laut Prantl hat Marius Victorinus den Sorites zuerst angewendet.

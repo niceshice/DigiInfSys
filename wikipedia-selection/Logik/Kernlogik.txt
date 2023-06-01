@@ -1,0 +1,18 @@
+Die Kernlogik, auch Kern der Logik oder Minimallogik, ist der Teil der Logik, ohne den eine Argumentation nicht möglich ist. Sie nimmt insofern eine Sonderstellung ein, als sie innerhalb einer Argumentation nicht revidiert werden kann, weil jeder Argumentations- und Revisionsversuch sie bereits voraussetzt. Sie kann daher nur zusammen mit der Tätigkeit des Argumentierens selbst aufgegeben werden.Aus transzendentalpragmatischer Sicht lässt sich die Kernlogik konstituieren, indem man überprüft, welche Regeln notwendig sind, um das einfachste widerlegbare System zu widerlegen. Dies ist das System, das nur aus den zwei Aussagen 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   und 
+  
+    
+      
+        ¬
+        A
+      
+    
+    {\displaystyle \neg A}
+   besteht.David Miller ist der Ansicht, dass diese Argumentation auf einer unzureichenden Trennung von Kritik und Begründung fußt und unzulässig ist; die Kernlogik sei durchaus prinzipiell revidierbar.

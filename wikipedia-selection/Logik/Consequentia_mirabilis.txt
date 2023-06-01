@@ -1,0 +1,94 @@
+Die Consequentia mirabilis (bewundernswerte Folgerung), auch als Clavius-Gesetz bekannt, wird in der klassischen Logik verwendet, um die Gültigkeit einer Behauptung aus der Ungültigkeit ihrer Negation zu beweisen. Die Argumentation ist verwandt mit der Reductio ad absurdum; allerdings muss man bei der Consequentia mirabilis nur zeigen, dass die Behauptung aus ihrer Negation folgt. Diese Methode wurde von Christophorus Clavius  im Rahmen der Herausgabe der Elemente des Euklid verwendet. Später machte Giovanni Girolamo Saccheri bei seinen Untersuchungen über den Syllogismus auf originelle Weise von diesem Verfahren Gebrauch.Man kann die Argumentation informal wie folgt in Worte fassen:
+
+„Wenn eine Behauptung aus ihrem Gegenteil folgt, dann ist sie richtig.“Heute wird die „Consequentia mirabilis“ meist als Formel der klassischen Aussagenlogik formuliert. In dieser Formulierung besagt sie, dass die Formel
+
+  
+    
+      
+        (
+        ¬
+        p
+        →
+        p
+        )
+        →
+        p
+      
+    
+    {\displaystyle (\neg p\to p)\to p}
+  eine Tautologie ist, was man aus der folgenden Wahrheitstabelle ersehen kann:
+
+Die Richtigkeit der Formel  
+  
+    
+      
+        (
+        ¬
+        p
+        →
+        p
+        )
+        →
+        p
+      
+    
+    {\displaystyle (\neg p\to p)\to p}
+   lässt sich auch rein syntaktisch z. B. mit Hilfe des Principia Mathematica-Kalküls für die Aussagenlogik herleiten:
+Nach Definition ist 
+  
+    
+      
+        p
+        →
+        q
+        :=
+        ¬
+        p
+        ∨
+        q
+      
+    
+    {\displaystyle p\to q:=\neg p\lor q}
+  
+Also gilt 
+  
+    
+      
+        ¬
+        p
+        →
+        p
+        =
+        p
+        ∨
+        p
+      
+    
+    {\displaystyle \neg p\to p=p\lor p}
+  
+Das erste der genannten Axiome lautet 
+  
+    
+      
+        p
+        ∨
+        p
+        →
+        p
+      
+    
+    {\displaystyle p\lor p\to p}
+  Die Behauptung ist damit bewiesen.„Es gibt nichts Wahres“ (
+  
+    
+      
+        ¬
+        p
+      
+    
+    {\displaystyle \neg p}
+  ), aber dies wird ja als wahr behauptet (p), also „gibt es etwas Wahres“ (also ist p wahr).
+Entsprechend: Aus der Aussage „Ich behaupte nichts“ folgt, dass ich doch etwas behaupte (nämlich die Behauptung, dass ich nichts behaupte).William Kneale: Aristotle and the Consequentia Mirabilis. In: Journal of Hellenic Studies. Band 77, 1957, S. 62–66.
+
+
+== Einzelnachweise ==

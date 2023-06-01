@@ -1,0 +1,102 @@
+Phosphonsäure, veraltet auch Phosphorige Säure, ist ein wasserlöslicher, kristalliner Feststoff mit der Summenformel H3PO3.
+Salze und Ester der Phosphonsäure werden Phosphonate (veraltet: Phosphite) genannt. Der Phosphor hat in diesen Verbindungen die Oxidationsstufe III.Phosphonsäure erhält man im Labor durch Hydrolyse von Phosphor(III)-chlorid. Aufkonzentrierung des kommerziellen Produkts bis zu 99,3 Prozent durch Erhitzen auf 80 °C ist möglich.
+
+  
+    
+      
+        
+          P
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {PCl_{3}+3\ H_{2}O\longrightarrow H_{3}PO_{3}+3\ HCl} }Die bevorzugte tautomere Form der Phosphonsäure ist die Struktur mit doppelt gebundenem Sauerstoff (P=O), daher liegt eine zweiprotonige Säure vor.
+
+Die Verbindung disproportioniert beim Erhitzen unter der Bildung von Phosphorsäure und hochentzündlichem Phosphin.
+
+  
+    
+      
+        
+          4
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          3
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+          +
+          P
+          
+            H
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\,H_{3}PO_{3}\longrightarrow 3\,H_{3}PO_{4}+PH_{3}} }Organophosphorverbindungen der Phosphonsäure mit der allgemeinen Struktur R–PO(OH)2 (R = Alkyl-Rest oder Aryl-Rest) und deren Ester R–PO(OR)2 (R = Alkyl-Rest) bezeichnet man als Phosphonate. Der für Salze veraltete Begriff Phosphite wird für organische Verbindungen mit der Struktur P(OR)3 (Phosphorigsäureester) verwendet. Verbindungen dieser Art haben wichtige Funktionen in einigen Syntheseverfahren.Phosphonsäure wird zur Herstellung von Bleiphosphonat (einem PVC-Stabilisator), als Reduktionsmittel bei chemischen Prozessen, als Ausgangsstoff für die Herstellung von Phosphonaten, wie z. B. 1-Hydroxyethan-1,1-diphosphonsäure (HEDP, ein Kalkbinder mit Verwendung in der Wasserenthärtung, in Zahnpasta usw.), sowie als Langzeitverzögerer in Betonzusatzmitteln verwendet.
+Durch Zufall wurde in den 1970er Jahren entdeckt, dass Pflanzen, die mit Phosphonsäure behandelt wurden, sehr gut gegen Pilze aus der Gruppe der Oomyceten geschützt waren. Neben der vorbeugenden konnte auch eine kurative (heilende) Wirkung bis einige Tage nach der Infektion durch den Pilz, festgestellt werden.
+Phosphonsäure wird sehr leicht von der Pflanze aufgenommen und wird systemisch (akropetal) in der Pflanze verteilt. Der Transport erfolgt in die oberen Organe (Triebspitze, junge Blätter, Blüten, Fruchtstände) besonders gut in der Wachstumsphase einer Pflanze. Die Einlagerung erfolgt auch in die Gescheine und Früchte.Die Wirkungsweise ist noch nicht vollständig geklärt, ist aber sehr komplex. Eine direkte Wirkung auf den Pilz ist sehr gering. Hauptsächlich beruht die Wirkung darauf, dass der Pilz aus mit Phosphonat angereichertem Gewebe statt Phosphat das Phosphonat-Ion bezieht. Die Pflanze aktiviert die eigene Abwehrkraft (= eine induzierte Resistenzreaktion der Pflanze) so gut, dass eine Infektion verhindert wird und bei bereits erfolgter Infektion das Pilzmyzel nach wenigen Tagen abgetötet wird und ausheilen kann. Die Substanz, die in bestimmten Pflanzenstärkungsmitteln und Blattdüngern enthalten ist, findet teilweise auch im Bioweinbau Verwendung. In der EU waren Kaliumphosphonate bis 2013 auch im ökologischen Anbau zugelassen. Sie dient der Bekämpfung von Falschem Mehltau, einer  durch Eipilze aus der Ordnung der Peronosporales verursachten Krankheit. Sehr nachteilig ist aber, dass bei später Anwendung (ca. ab Juli) Rückstände in den Trauben bzw. im Wein festgestellt werden können. Die Gefahr von Rückständen ist abhängig vom Applikationszeitpunkt und von der ausgebrachten Dosis. Bekämpfungsmaßnahmen vor und knapp nach der Rebblüte (Anfang bis Mitte Juni), decken die wichtigste Zeit der Peronosporabekämpfung ab. So werden Rückstände im Wein vermieden (unter der Nachweisgrenze).
+Wegen der Rückstandsproblematik und da die Substanz in die Pflanze aufgenommen wird, ist nach wie vor der Einsatz im Bio-Weinbau gegen den Falschen Mehltau umstritten. Phosphonsäure ist eine gegen Peronospora sehr wirksame Substanz und stellt eine sehr gute Alternative zu Kupfer im Vorblütebereich dar. Bei extremen Bedingungen ist Kupfer zu schwach in der Wirkung und führt selbst zur Anreicherung im Humus oder Boden.

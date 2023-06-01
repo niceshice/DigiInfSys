@@ -1,0 +1,18 @@
+2D-Materialien sind kristalline Materialien, die aus nur einer Lage von Atomen oder Molekülen bestehen. Aufgrund ungewöhnlicher Eigenschaften sind sie Gegenstand umfangreicher (Grundlagen-)Forschungen.
+Allgemein können 2D-Materialien entweder als zweidimensionale Allotrope unterschiedlicher Elemente oder als Verbindung verschiedener Elemente mit kovalenter Bindung angesehen werden. Elementare 2D-Materialien bekommen im Allgemeinen die Endung -en (englisch -ene), während Verbindungsmaterialien die Endung -an oder -id (englisch -ane oder ide) haben.2D-Materialien sind seit über hundert Jahren bekannt, z. B. in Form des Graphens als 2-dimensionaler Kohlenstoff. 2004 gelang es Andre Geim und Konstantin Novoselov an der Universität Manchester die ersten zweidimensionalen Kristalle aus Kohlenstoffatomen herzustellen (Graphen), eine Entdeckung, für die sie im Jahr 2010 den Nobelpreis für Physik „für grundlegende Experimente mit dem zweidimensionalen Material Graphen“ erhielten.Weltweit wurden infolgedessen umfangreiche Forschungen zu weiteren 2D-Materielien angestoßen. Da 2D-Materialien aus einer einzelnen Lage, aber auch aus zwei oder mehr Lagen bestehen können, stellt sich die Frage, ab wie viel Lagen man nicht mehr von z. B. Graphen, sondern Graphit sprechen muss. Deshalb sind international die Begriffe und Definitionen der 2D-Materialien in dem Standard ISO/TS 80004-13:2017 festgelegt.Beispiele für elementare Allotrope:
+
+Kohlenstoff: Graphen
+Bor: Borophen
+Gallium: Gallenen
+Germanium: Germanen
+Silicium: Silicen
+Zinn: StanenAuch von Metalllegierungen sind zweidimensionale Strukturen bekannt.Beispiele für 2D-Verbindungs-Materialien:
+
+Graphan (ein zweidimensionales Polymer aus Kohlenstoff und Wasserstoff)
+Boronitren (Nanomesh – zweidimensionales Bornitrid, auch englisch White Graphene)
+Germaniumphosphid
+Molybdän(IV)-sulfid, das als 2D-Material im Gegensatz zum 3D-Kristall eine direkte Bandlücke aufweist.Aufgrund ihrer ungewöhnlichen Eigenschaften werden 2D-Materialien für vielfältige Anwendungen untersucht, z. B. als elektrische oder elektronische Bauelemente (Halbleiter), Bioengineering, medizinische Anwendungen, als Energiespeicher usw.
+Wegen der geringen Dicke ermöglichen 2D-Materialien das extreme Skalieren der Strukturen von Integrierten Schaltungen, wie Untersuchungen des IMEC an Molybdändisulfid zeigen.
+
+
+== Einzelnachweise ==

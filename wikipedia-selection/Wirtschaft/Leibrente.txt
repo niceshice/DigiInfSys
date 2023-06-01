@@ -1,0 +1,162 @@
+Eine Leibrente ist nach deutschem Recht eine wiederkehrende Zahlung (Rente), die bis zu einem bestimmten Ereignis – üblicherweise bis zum Tod des Zahlungsempfängers der Rente – gezahlt wird (§§ 759 ff. BGB).Bei der Leibrente ist zu differenzieren zwischen dem schuldrechtlichen Grundgeschäft, aus dem die Verpflichtung entstanden ist, die Leibrente zu bestellen, der Bestellung des Stammrechts und den einzelnen Rentenzahlungen, die man sich als Früchte des Stammrechts vorzustellen hat.
+SicherheitenDie Leibrente kann durch eine Reallast auf einem Grundstück oder grundstücksgleichen Recht dinglich gesichert werden (§§ 1105 f. BGB). Auch eine notariell beurkundete Unterwerfung des Schuldners in eine Zwangsvollstreckung ist als Sicherheit möglich (§ 795 Abs. 1 Nr. 5 ZPO). Wertabsicherungen gegen Inflationsgefahr sind durch vertragliche Klauseln (Wertsicherungsklauseln) möglich, soweit sie dem Preisklauselgesetz genügen.Die Immobilienleibrente ermöglicht es den (älteren) Eigentümern, den Wert ihrer Immobilie in eine lebenslange Zusatzrente umzuwandeln. Die Empfänger der Immobilienleibrente bekommen ein notariell grundbuchgesichertes lebenslanges Wohnrecht. Sie haben so die Gewissheit, in ihrer vertrauten Umgebung wohnen bleiben zu können.Ein Anwendungsfall für die Leibrente ist der Grundstückskaufvertrag über ein Haus. Der Kaufpreis wird bei Vereinbarung einer Leibrente nicht vollständig, sondern nur teilweise bezahlt (oder gar nicht). Der Käufer verpflichtet sich gegenüber dem Verkäufer, einen Teil des Kaufpreises sofort und den Rest als monatliche Leibrente bis zum Tod des Verkäufers zu zahlen. Die Versteuerung dieser Renten erfolgt gemäß § 22 EStG i. V. m. § 55 EStDV mit dem laufzeitabhängigen Ertragsanteil.
+Für den Verkäufer ist vorteilhaft, dass er für den Rest seines Lebens einen Teil seines Einkommens sichern kann. Für den Käufer besteht die Hoffnung, dass der Verkäufer unerwartet früh stirbt und so die Leibrente vorzeitig endet. Man spricht in einem solchen Fall von einem versicherungsmathematischen Gewinn. Falls keine Anpassung an die Inflationsrate vorgesehen ist, kann der Käufer außerdem darauf hoffen, dass seine Einkünfte steigen, aber der Wert der Leibrente durch die Inflation sinkt.Ein weiteres Beispiel ist die Absicherung von Hausübergebern durch Leibrentenzahlungen ihrer Kinder.Beim Rentenvermächtnis wird z. B. das Kind vom vererbenden Vater als Alleinerbe mit einer Leibrente zugunsten der Witwe belastet.Leibrenten können auch als Zeitrenten mit unbestimmter Laufzeit vereinbart werden. Der Vertrag endet dabei mit dem Tod als Wagniswegfall. Varianten der Leibrente sind die aufgeschobene Leibrente, die temporäre Leibrente und die Sofortrente (sofort – regelmäßig zum 1. eines Monats beginnende Leibrente). Sie sind sonstige Einkünfte im Sinne von § 22 und § 23 EStG.Um den Wert einer Leibrente zu berechnen, kann man die Situation mathematisch äquivalent so darstellen:
+Der Schuldner (Käufer des Hauses) besitzt ein Vermögen, das durch Verzinsung in jeder Periode (monatlich, jährlich) genau den Betrag liefert, den er dem Gläubiger (Empfänger der Leibrente, Verkäufer) zu überweisen hat.
+
+  
+    
+      
+        
+          R
+          e
+          n
+          t
+          e
+        
+        =
+        
+          K
+          a
+          p
+          i
+          t
+          a
+          l
+        
+        ⋅
+        (
+        q
+        −
+        1
+        )
+      
+    
+    {\displaystyle \mathrm {Rente} =\mathrm {Kapital} \cdot (q-1)}
+  Kapital ist dabei der Teil des Kaufpreises, der nicht sofort, sondern als Leibrente bezahlt werden soll. Die Formel geht von einem konstanten Zinssatz am Kapitalmarkt und von dem für den Käufer am ungünstigsten Fall aus, der ein ewiges Leben des Gläubigers (Empfänger der Leibrente, Verkäufer) annimmt. So gesehen ist das der günstigste Wert für den Käufer, ohne dass der Verkäufer übervorteilt wird, also die rechnerische Untergrenze für den Betrag der Leibrente.
+Ist aufgrund statistischer Daten die durchschnittliche Lebenserwartung des Verkäufers bekannt, so kann auch diese Formel herangezogen werden (gilt bei Zahlung am Ende der Zahlungsperiode, also nachschüssig):
+
+  
+    
+      
+        
+          R
+          e
+          n
+          t
+          e
+        
+        =
+        
+          K
+          a
+          p
+          i
+          t
+          a
+          l
+        
+        ⋅
+        
+          (
+          
+            
+              
+                q
+                −
+                1
+              
+              
+                1
+                −
+                
+                  
+                    1
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathrm {Rente} =\mathrm {Kapital} \cdot \left({\frac {q-1}{1-{\frac {1}{q^{n}}}}}\right)}
+  Dabei ist n die Anzahl der Zinsperioden (üblicherweise Monate), die der Verkäufer statistisch noch leben wird. Die Formel ergibt den günstigsten Wert für den Verkäufer, ohne dass der Käufer übervorteilt wird, ist also die rechnerische Obergrenze für den Betrag der Leibrente.
+
+  
+    
+      
+        q
+        =
+        
+          
+            
+              p
+              
+              %
+            
+            
+              100
+              
+              %
+            
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle q={\frac {p\,\%}{100\,\%}}+1}
+  p ist der Zinssatz für die Kapitalverzinsung und muss dem Zeitraum von q angepasst werden. Geht man jedoch (wie bei vielen Geschäften üblich) von einer monatlichen Zahlung und Zinssatz p aus, der eine jährliche Verzinsung wiedergibt, so ist statt q richtigerweise qm zu verwenden:
+
+  
+    
+      
+        
+          q
+          
+            m
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    p
+                    
+                    %
+                  
+                  
+                    100
+                    
+                    %
+                  
+                
+              
+              +
+              1
+            
+            )
+          
+          
+            
+              1
+              12
+            
+          
+        
+      
+    
+    {\displaystyle q_{m}=\left({\frac {p\,\%}{100\,\%}}+1\right)^{\frac {1}{12}}}
+  Über den Zinssatz p, der ja für die Zukunft nicht vorhergesagt werden kann, sondern angenommen werden muss, lässt sich die Höhe der Leibrente ebenfalls beeinflussen.Kardinal Henricus de Segusio (genannt „Hostiensis“) erwähnte 1255 einen Vorläufer eines eigentlichen Leibrentenvertrages in seiner 1255 erschienenen „Summa Aurea“. Der älteste reine Leibrentenvertrag wurde im Jahre 1308 zwischen dem Abt von St. Denis und dem Erzbischof von Bremen abgeschlossen. In Italien kam es zur Gründung von Leibrentenbanken (italienisch Montes pietatis, deutsch „Berge der Barmherzigkeit“), über die Jean Bodin erstmals 1576 in seinem Werk Sechs Bücher über den Staat berichtete. Das Prinzip ähnelte der erst 1653 in Frankreich aufkommenden Tontine.Die Leibrente ist in der Schweiz in Art. 516 ff. Obligationenrecht geregelt. Sie kann auf die Lebenszeit des Rentengläubigers, des Rentenschuldners oder eines Dritten gestellt werden. Details regelt das Schuldbetreibungs- und Konkursgesetz (SchKG).
+Die Leibrente kann durch laufende Beitragszahlungen oder per Einmalbeitrag mit dem Ziel eines erst späteren Abrufs der Rente (aufgeschobene Leibrente) oder durch Zahlung eines Einmalbeitrags mit dem Ziel des sofortigen – regelmäßig einen Monat nachschüssigen – Abrufs (sofort beginnende Leibrente) erworben werden. Wenn eine Leibrente durch eine Einmalzahlung abgefunden wird, so wird als Zahlbetrag gewöhnlich der versicherungsmathematische Barwert der Rente als Abfindungsbetrag ausgezahlt. Das Stammrecht einer Leibrente des schweizerischen Rechts ist unpfändbar (Art. 92 Abs. 1 Z. 7 SchKG). Dieser Umstand rechtfertigt die Gleichstellung des entgeltlichen Erwerbs einer Leibrente durch den Schuldner mit einer Schenkung im Rahmen der schuldbetreibungs- und konkursrechtlichen Pauliana (Art. 286 Abs. 2 Z. 2 SchKG).In Österreich handelt es sich bei der Leibrente gemäß § 1269 ABGB um einen Glücksvertrag wie Spiel oder Wette. Wird jemanden für Geld oder gegen eine für Geld geschätzte Sache auf die Lebensdauer einer gewissen Person eine bestimmte jährliche Entrichtung versprochen; so ist es ein Leibrentenvertrag (§ 1284 ABGB).

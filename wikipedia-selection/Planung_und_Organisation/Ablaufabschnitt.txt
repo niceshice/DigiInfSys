@@ -1,0 +1,64 @@
+Ablaufabschnitte sind in der Ablaufplanung und der Arbeitsorganisation die Teile des Arbeitsablaufs, die untereinander in einer bestimmten Ablauffolge stehen und der Erfüllung einer Arbeitsaufgabe dienen.Eine Aufgabe besteht in der arbeitsteiligen Industrie und Verwaltung meist aus mehreren Ablauffolgen, welche die Teile eines Arbeitsablaufs darstellen. Diese Ablauffolgen können von einer Arbeitskraft an einem Arbeitsplatz, aber auch von mehreren Arbeitspersonen an mehreren Arbeitsplätzen erledigt werden. So besteht die Erfassung eines Buchungsbelegs aus drei Ablaufabschnitten, nämlich Belege aufnehmen und nach Belegart sortieren, Belege auf sachliche Richtigkeit prüfen und Erfassung der Belege im Buchungssystem.Ebenso wie es für unterschiedliche Zwecke unterschiedliche Arten von Arbeitsplänen gibt, so gibt es diese auch bezüglich der dort beschriebenen Ablaufabschnitte in unterschiedlichen Detaillierungstiefen. In Abhängigkeit von der Spezifiziertheit der Fertigungsplanung, des gewählten Ablaufprinzips und des Fertigungstyps ist auch eine unterschiedliche Detaillierung sinnvoll und notwendig. Bei REFA werden die Gliederungsstufen der Ablaufabschnitte abgestuft nach „Gesamtablauf“, „Teilablauf“, „Ablaufstufe“, „Vorgang“, „Teilvorgang“, „Vorgangsstufe“ und „Vorgangselement“ unterschieden. Die Systeme vorbestimmter Zeiten (SvZ) bauen auf Vorgangselementen auf.Die Dauer eines Ablaufabschnittes wird als Einzelzeit 
+  
+    
+      
+        
+          T
+          
+            i
+          
+        
+      
+    
+    {\displaystyle T_{i}}
+   bezeichnet. Sie ergibt sich als Differenz der Fortschrittszeit 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+      
+    
+    {\displaystyle F_{i}}
+   am Ende des Ablaufabschnitts und der am Ende des vorhergehenden Abschnitts:
+
+  
+    
+      
+        
+          
+            T
+            
+              i
+            
+          
+        
+        =
+        
+          
+            F
+            
+              i
+            
+          
+        
+        −
+        
+          F
+          
+            i
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {T_{i}}={F_{i}}-F_{i-1}}
+  .Sämtliche Einzelzeiten eines Ablaufabschnitts addieren sich zu der Gesamtzeit, die für die Erledigung der Arbeitsaufgabe benötigt wird. Die Messung der Einzelzeiten ist Aufgabe einer REFA-Zeitstudie.
+
+
+== Einzelnachweise ==

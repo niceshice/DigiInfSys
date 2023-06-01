@@ -1,0 +1,9 @@
+Der Begriff Peopleware wurde geprägt von Tom DeMarco und Timothy R. Lister in ihrem 1987 erschienenen gleichnamigen Buch (dt. Titel: Wien wartet auf Dich!). Inzwischen wird der Begriff auch allgemein verwendet, um zu beschreiben, dass es neben der Hardware und der Software noch den Menschen als wichtige Komponente im Prozess der Softwareentwicklung gibt.
+Peopleware umfasst nach Ernest Wallmüller zwei Teile: einerseits den arbeitenden Menschen in seinen unterschiedlichen sozialen Rollen als Individuum, Gruppenmitglied, Vorgesetztem und/oder Untergebenem, andererseits die Arbeitsumfeldbedingungen und die Unternehmenskultur und -philosophie.
+Hierbei wird der Mensch in seinen unterschiedlichen Rollen betrachtet, genauso wie die Arbeitsumfeldbedingungen und die Unternehmenskultur betrachtet wird. Man kann diese Aspekte nicht vollständig voneinander trennen: die Unternehmenskultur wird von den Menschen, die in einem Unternehmen arbeiten, genauso geprägt wie die Arbeitsumfeldbedingungen. Andersherum prägen die Arbeitsumfeldbedingungen und die Unternehmenskultur wiederum die Menschen, die in diesem Unternehmen arbeiten. Hier liegt eine wechselseitige Beziehung vor, auf die jeder einzelne Mensch im Unternehmen Einfluss nehmen kann, und von der jeder Mensch im Unternehmen beeinflusst wird.
+Kernpunkte der Betrachtung der Peopleware und auch angestrebtes Ziel eines entsprechenden Managementstils ist die Verbesserung von vier wichtigen soziologischen Aspekten, nämlich:
+
+Mitarbeiterführung im Sinne von Menschenführung
+Angemessene Gestaltung der Büroumgebung
+Auswahl geeigneter Mitarbeiter
+Förderung der TeambildungDer deutsche Titel bezieht sich auf den Refrain im Song Vienna von Billy Joels Album The Stranger. Die Aussage dahinter ist, dass es im Leben noch mehr als die Arbeit gibt.

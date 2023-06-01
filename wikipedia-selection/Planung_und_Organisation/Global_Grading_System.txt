@@ -1,0 +1,24 @@
+Das Global Grading System (kurz: GGS) ist ein Verfahren zur Stellenbewertung, das der Systematisierung und Bewertung von einzelnen Positionen im Kontext des Gesamtunternehmens dient.
+Ziel ist es, möglichst objektiv eine Wertigkeitsbestimmung von Positionen vorzunehmen und die Positionen, in Abhängigkeit von der Unternehmensgröße, sinnvoll in Funktionsgruppen zu untergliedern. Die Abstufungen im Positionsranking sowie die Einteilung in spezifische Gruppen erzeugen eine systematische Darstellung der Mitarbeiterstruktur des Unternehmens.
+Auf Basis eines Stellen- und Organisationsprofils erfolgt üblicherweise im ersten Schritt die Einstufung der einzelnen Positionen in das jeweilige Funktionsband. Im Anschluss erfolgt die Bewertung der Positionen durch die sogenannten Global Grades, die auch eine Vergleichbarkeit der Positionen über die Grenzen des Unternehmens hinaus ermöglicht. Das Global Grading System bietet somit beispielsweise die Möglichkeit, eine Vergütungsstruktur marktgerecht zu gestalten.Die Vorgehensweise für eine Positivbewertung erfolgt in vier Schritten:
+
+Die Erstellung eines Stellenprofils, wo die Haupttätig- und -verantwortlichkeit liegen, sowie anderer relevanter Kriterien
+Die Deckelung des Unternehmens, wo die Top-Position nach der Unternehmensstruktur angeschaut wird. Diese Deckelung kann zwischen den Global Graden 16 bis 25 liegen
+Die Zuordnung zu Funktionsgruppen, wo eine Einstufung in die Global Grade stattfindet
+Die Positionsbewertung bzw. Gradentscheidung, wo die Einstufungen der ermittelten Position mit softwaregestützten Programmen verarbeitet wirdDie so ermittelte Ist-Struktur des Unternehmens lässt sich nun mit den marktbasierten Vergütungsdaten vergleichen. Die resultierenden Vorteile sind:
+
+einfache Kommunizierbarkeit
+hohe Transparenz und Nachvollziehbarkeit
+einfache Systempflege
+Vermeidung einer Inflation von Stellenwerten und Positionsinhalten
+Vermeidung von Automatismen zur Erreichung des Maximums innerhalb des Gehaltsbands
+Klares Regelwerk (Checks & Balances) zur konsistenten Anwendung
+Ableitung einer markt- und leistungsgerechten Vergütung der Mitarbeiter mit Hilfe einer VergütungsstrukturUm die Gehaltssteigerungsraten den individuellen Leistungen und der Marktentwicklung anzupassen, ist zusätzlich die Implementierung einer unternehmensspezifischen Gehaltsanpassungsmatrix sinnvoll. Dieses Instrument bietet den Vorteil hoher Transparenz und lässt sich leicht um für das jeweilige Unternehmen wichtige Kriterien erweitern.
+Das Global Grading System bietet darüber hinaus Anknüpfungspunkte für andere Themen des HR Managements:
+
+Klärung der Organisation (Rollen/Ebenen): Die Positionsbewertung zur Verortung der einzelnen Mitarbeiter im Organigramm des Unternehmens ermöglicht eine Revision der Unternehmensstruktur.
+Karrierepfade/Personalentwicklung: Die Ermittlung individueller Karrierepfade ermöglicht die Implementierung von optimalen Talent Management Maßnahmen zur Personalentwicklung.
+Vergütungsmanagement/Softwareunterstützung: Softwaregestütztes Vergütungsmanagement bietet eine einfach zu bedienende und transparente Lösung für alle Vergütungsentscheidungen.
+Struktur der Nebenleistungen: Die Orientierung an der Unternehmenspolitik und am Markt bildet die Grundlage um die Vergütungsstruktur auch auf Nebenleistungen, wie beispielsweise Firmenwagen etc. auszuweiten.
+Kompetenzmanagement (Führungskarriere/Fachkarriere): Effizienzsteigerung durch eine optimale Ausnutzung der individuellen Fähigkeiten eines jeden Mitarbeiters.
+Positionstitelstruktur: Eine einheitliche Terminologie fördert das Verständnis der Unternehmensstruktur, den Überblick über einzelne Zuständigkeiten und somit die Transparenz.Die IG Metall hat im Jahr 2003 in der Reihe "Beiträge zur Tarifpolitik" eine Broschüre mit dem Titel Unternehmerische Systeme zur Entgeltfindung herausgegeben, die das Global Grading System der Firma Watson Wyatt behandelt. Aus Arbeitnehmersicht wird die Eignung des Systems zur Performance-Bewertung von Mitarbeitern untersucht.Wettbewerber im internationalen Kontext der Stellenbewertung sind etwa gradar the job evaluation engine, Mercer (Beratung) mit dem System zur International Position Evaluation oder die Hay Group mit der Guide Chart-Profile Method. Daneben findet sich eine große Zahl kleinerer Anbieter, die häufig unternehmensspezifische Derivate der Guide Chart-Profile Method entwickelt haben.

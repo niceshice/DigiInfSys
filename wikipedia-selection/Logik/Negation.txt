@@ -1,0 +1,111 @@
+Negation (von lateinisch negare  ‚verneinen‘) ist Ablehnung, Verneinung oder Aufhebung; verneint werden können zum Beispiel Aussagen, abgelehnt werden können zum Beispiel moralische Werte, aufgehoben werden können zum Beispiel Konventionen.In der Sprachwissenschaft unterscheidet man zwischen Negation und Verneinung. Während man mit dem Begriff Negation die logische Operation meint, die den Wahrheitswert einer Aussage umkehrt, ist die Verneinung eine sprachliche Handlung, die man ausführt, wenn man einen negierten Satz verwendet. Das Gegenteil einer Verneinung, also eine bejahende beziehungsweise bekräftigende Aussage, bezeichnet man als Affirmation. Hinsichtlich der Negation unterscheidet man zwischen Satznegation und Konstituentennegation. Bei der Satznegation wird ein gesamter Satz bzw. Sachverhalt negiert (z. B. „Es regnet nicht“). Bei der Konstituentennegation wird der im Satz beschriebene Sachverhalt dagegen nicht negiert, sondern nur eine Konstituente, die kleiner als ein Satz ist (z. B. „Laura hat einen Job nicht weit weg gefunden“).In der formalen Logik versteht man unter Negation üblicherweise die Satzverneinung, also eine Operation, durch die der Wahrheitswert einer Aussage (eines Satzes) in sein Gegenteil gekehrt wird; auch hier kann mit der Bezeichnung „Negation“ (a) der sprachliche Ausdruck der Verneinung (zum Beispiel das Negationszeichen „¬“ oder die Formulierung „es ist nicht der Fall, dass …“), (b) seine Bedeutung, etwa die verneinende Wahrheitswertefunktion oder (c) die gebildete verneinende Aussage gemeint sein.In der klassischen Logik, in der genau zwei Wahrheitswerte wahr und falsch – betrachtet werden, ist die Negation unmittelbar als Umkehrung des Wahrheitswertes in sein Gegenteil fassbar: Wenn man eine wahre Aussage verneint, dann entsteht eine falsche Aussage; verneint man hingegen eine falsche Aussage, so entsteht eine wahre Aussage.
+Gebräuchliche Schreibweisen für die Negation einer Aussage a sind 
+  
+    
+      
+        ¬
+        a
+      
+    
+    {\displaystyle \lnot a}
+  , 
+  
+    
+      
+        
+          ∼
+        
+        a
+      
+    
+    {\displaystyle {\sim }a}
+  , 
+  
+    
+      
+        
+          
+            a
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {a}}}
+   und 
+  
+    
+      
+        
+          a
+          ′
+        
+      
+    
+    {\displaystyle a'}
+  . In der polnischen Notation wird die Negation durch den vorangestellten Großbuchstaben N ausgedrückt, (z. B. Na), in den Existential Graphs von Charles S. Peirce wird eine Aussage verneint, indem sie von einem geschlossenen Linienzug umgeben wird. In vielen Programmiersprachen wird die Negation als not a oder !a geschrieben.
+Die Negation lässt sich durch andere Junktoren ausdrücken:
+
+durch das Konditional: Der Ausdruck 
+  
+    
+      
+        p
+        →
+        ⊥
+      
+    
+    {\displaystyle p\rightarrow \bot }
+   („Wenn p wahr ist, dann ist ein beliebiger Widerspruch wahr“) ist genau dann wahr, wenn p falsch ist, und genau dann falsch, wenn p wahr ist;
+durch die Sheffer-Operatoren NAND und NOR: Die Ausdrücke p NOR p sowie p NAND p kehren den Wahrheitswert von p um.In der klassischen Logik hat die Negation unter anderem folgende Eigenschaften:
+
+Die doppelte Verneinung einer Aussage hat stets denselben Wahrheitswert wie die unverneinte Aussage, das heißt Aussagen der Form 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   und 
+  
+    
+      
+        ¬
+        ¬
+        P
+      
+    
+    {\displaystyle \neg \neg P}
+   sind stets äquivalent (Prinzip der doppelten Negation).
+Eine Aussage der Form 
+  
+    
+      
+        P
+        ∨
+        ¬
+        P
+      
+    
+    {\displaystyle P\vee \neg P}
+   ist stets wahr beziehungsweise gültig (Satz vom ausgeschlossenen Dritten).
+Eine Aussage der Form 
+  
+    
+      
+        P
+        ∧
+        ¬
+        P
+      
+    
+    {\displaystyle P\wedge \neg P}
+   ist stets falsch beziehungsweise ungültig (Satz vom Widerspruch).In der dreiwertigen Logik gibt es zwei Arten der Negation: die schwache und die starke. Der Unterschied liegt darin, dass bei der starken Negation die Präsuppositionen erhalten bleiben.Nach Frege ist es nicht sinnvoll, zwischen bejahenden und verneinenden Urteilen zu unterscheiden. Die Negation gehört im Sinne von Frege zum „Gedanken“ und nicht zur illokutiven Kraft.In der Philosophie bedeutet Negation die Aufhebung von etwas durch etwas Entgegengesetztes (Beispiel: der Tod als Negation des Lebens). Durch die Negation entsteht eine andere Qualität. Durch die Negation der Negation entsteht wieder eine neue Qualität, die sich möglicherweise stark vom Ausgangszustand unterscheidet. Bei dieser Art der Negation spielt die Zeit eine große Rolle. Sie ist eine Darstellung jeder Entwicklung. Bei der Empfängnis wird der Tod negiert, Leben entsteht. Das Lebewesen entwickelt sich, wird geboren und stirbt wieder. Dabei ist aber nicht der Ausgangszustand wieder erreicht. In der Zwischenzeit hat das Lebewesen sich bewegt, gehandelt, eventuell Nachwuchs erzeugt (somit seine Gene weitergegeben) und die Umwelt verändert.In Hegels Dialektik ist die Negation ein Aspekt der kritischen Antithese. Dabei stellt sie auch eine der drei Bedeutungsaspekte des Begriffs Aufhebung dar. Negation ist die kritische Ablehnung eines positiven philosophischen Systems. Im Anschluss an Hegel postulierte Engels das Gesetz von der Negation der Negation.
+Keineswegs hat man sich in diesem Zusammenhang die Antithese bzw. die Entgegensetzung als bloße logische Verneinung vorzustellen. Vielmehr werden zwei Begriffe einander gegenübergestellt und in ihrer Beziehung zueinander betrachtet. Die Negation ist dabei der Übergang von einem zum anderen Begriff und auch umgekehrt. Dieser Übergang setzt nicht nur am ursprünglichen Begriff an, sondern wird aus diesem selbst entwickelt und dabei so vollständig durchgeführt, dass der jeweilige Ursprungsbegriff aber in der Umkehrung auch der Gegensatz argumentativ umfassend zurückgewiesen wird.
+Für konkrete Beispiele siehe den Artikel zur Wissenschaft der Logik.In anthropologischer Perspektive wird mitunter die Negation als spezifisch für den Menschen und seine Geistigkeit angesehen. Das Urteil sei etwas „Paradoxes“ als die Verknüpfung zweier Begriffe auch dann erhalten bleibt, wenn der verneinende Satz formuliert werden kann. „Dieses Wunder einer Verknüpfung, die ihre eigene Aufhebung besagt, unterscheidet die menschliche Sprache von allen anderen Formen der Kommunikation im Tierreich: Nichtmenschliche Tiere können nicht verneinen und auch nicht bejahen, also nicht urteilen. Damit gibt es für sie kein `wahr´ oder `falsch´.“Auch in der philosophischen Anthropologie wird u. a. von Max Scheler das „Nein-Sagen-Können“ des Menschen als spezifisch menschlich erachtet.In der Ethik bedeutet Negation die Ablehnung eines moralischen Wertes.In der Kunst gibt es verschiedene Aspekte der Negation: So wird eine Kunstrichtung durch eine andere abgelöst und damit negiert. Neue Methoden treten an die Stelle der alten. L’art pour l’art verneinte die Zweckgebundenheit von Kunst.
+Während vor der Erfindung der Fotografie lange Zeit eine detailgetreue realistische Darstellung das Ziel in der Malerei war, verlegte sich die Malerei danach auf abstrakte, impressionistische, expressionistische, kubistische und andere Darstellungen einer Wirklichkeit, die nicht von der Kamera gesehen wurde. Oftmals hatten diese Kunstrichtungen auch Programme, die vieles bisherige, dagewesene zurückwiesen.
+Der Dadaismus verneinte die gesamte bis dahin gültige Kunst und verspottete sie. In Richard Huelsenbecks Dadaistischem Manifest heißt es: „Das Wort Dada symbolisiert das primitivste Verhältnis zur umgebenden Wirklichkeit, mit dem Dadaismus tritt eine neue Realität in ihre Rechte. Das Leben erscheint als ein simultanes Gewirr von Geräuschen, Farben und geistigen Rhythmen, das in die dadaistische Kunst unbeirrt mit allen sensationellen Schreien und Fiebern seiner verwegenen Alltagspsyche und in seiner gesamten brutalen Realität übernommen wird.“
+Kunst versucht, die Wirklichkeit zu beschreiben, oder versucht, sie zu negieren, wie die situationistische Künstlerbewegung der 60er, die die Arbeit, den Kapitalismus und schließlich die Kunst selbst durch Überführung in den Alltag negieren, also aufheben wollte.
+In Form der virtuellen Realität versucht sie, die Wirklichkeit zu ersetzen oder sich ihr anzunähern, Raum und Zeit zu überwinden. Auch Negativmaterial und Falschfarben negieren die gewohnte Welt im visuellen Bereich.
+In der Musik spielen die Pause und die Stille – die Negation des Tones – eine große Rolle. Negation als Zerstörung: Jimi Hendrix zerfetzte musikalisch die amerikanische Nationalhymne und zündete seine Gitarre an. Die Punk-Bewegung negierte mit ihrer Rebellion alle Sitten und Werte der gutbürgerlichen Gesellschaft.Im Fest und im Ritual ist der Alltag aufgehoben (negiert).

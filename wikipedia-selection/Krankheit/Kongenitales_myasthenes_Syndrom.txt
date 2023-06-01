@@ -1,0 +1,37 @@
+Das kongenitale myasthene Syndrom (Abkürzung im Englischen CMS, Synonym: kongenitale Myasthenie) ist eine sehr seltene, heterogene Gruppe von angeborenen Störungen der Signalübertragung zwischen Nerv und Muskel. Daraus resultiert eine belastungsabhängige Muskelschwäche der Skelettmuskulatur.
+Das kongenitale myasthene Syndrom gehört ebenso wie die Myasthenia gravis, die neonatale Myasthenie und das Lambert-Eaton-Rooke-Syndrom zum myasthenen Syndrom.Die Häufigkeit des Auftretens wird auf etwa 1 : 500.000 geschätzt und ist beispielsweise im Vergleich zur Myasthenia gravis (1 : 5000) deutlich geringer. Weltweit bestehen 2000–3000 genetisch gesicherte Fälle und zusätzlich ebenso viele ohne genetische Bestätigung.Die Krankheit ist genetisch bedingt, im Gegensatz zur autoimmunen Myasthenia gravis. Die meisten Formen treten sporadisch auf und werden sowohl autosomal-rezessiv, als auch autosomal-dominant vererbt. Insbesondere das Slow Channel Syndrom tritt überwiegend familiär auf und wird autosomal-dominant vererbt. Außerdem liegen in einem unbekannten Umfang Neumutationen vor.Es kommt zu einer Störung der Signalübertragung zwischen Nerv und Muskel an der motorischen Endplatte, entweder präsynaptisch, synaptisch oder postsynaptisch.Es sind verschiedene Klassifikationen vorgeschlagen worden:Bei etwa 50 % kann eine verursachende Genveränderung nachgewiesen werden. Je nach Mutation können folgende Typen unterschieden werden:
+
+CMS1A, Mutationen im CHRNA1-Gen im Chromosom 2 am Genort q31.1
+CMS1B, Mutationen im CHRNA1-Gen im Chromosom 2 q31.1
+CMS2A, Mutationen im CHRNB1-Gen im Chromosom 17 p13.1
+CMS2C, Mutationen im CHRNB1-Gen im Chromosom 17 p13.1
+CMS3A, Mutationen im CHRND-Gen im Chromosom 2 q37.1
+CMS3B, Mutationen im CHRND-Gen im Chromosom 2 q37.1
+CMS3C, Mutationen im CHRND-Gen im Chromosom 2 q37.1
+CMS4A, Mutationen im CHRNE-Gen im Chromosom 17 p13.2
+CMS4B, Mutationen im CHRNE-Gen im Chromosom 17 p13.2
+CMS4C, Mutationen im CHRNE-Gen im Chromosom 17 p13.2
+CMS5, Mutationen im COLQ-Gen im Chromosom 3 p25.1
+CMS6, Mutationen im CHAT-Gen im Chromosom 10 q11.23
+CMS7, Mutationen im SYT2-Gen im Chromosom 1 q32.1
+CMS8, Mutationen im AGRN-Gen im Chromosom 1 p36.33
+CMS9, Mutationen im MUSK-Gen im Chromosom 9 q31.3
+CMS10, Mutationen im DOK7-Gen im Chromosom 4 p16.3
+CMS11, Mutationen im RAPSN-Gen im Chromosom 11 p11.2
+CMS12, Mutationen im GFPT1-Gen im Chromosom 2 p13.3
+CMS13, Mutationen im DPAGT1-Gen im Chromosom 11 q23.3
+CMS14, Mutationen im ALG2-Gen im Chromosom 9 q22.33
+CMS15, Mutationen im ALG14-Gen im Chromosom 1 p21.3
+CMS16, Mutationen im SCN4A-Gen im Chromosom 17 q23.3
+CMS17, Mutationen im LRP4-Gen im Chromosom 11 p11.2
+CMS18, Mutationen im SNAP25-Gen im Chromosom 20 p12.2
+CMS19, Mutationen im COL13A1-Gen im Chromosom 10 q22.1
+CMS22, Mutationen im PREPL-Gen im Chromosom 2 p21Postsynaptisch, häufigste Form, verminderte Menge des Azetylcholinrezeptors ('Slow-channel') oder, seltener, veränderte Rezeptorkinetik ('Fast channel'): CMS9, CMS10, CMS11 und CMS16. Erhebliche Muskelschwäche bei Kleinkindern, Atemprobleme, Fütterungsschwierigkeit, verzögerte motorische Fähigkeiten
+Synaptisch, Acetylcholinesterase-Mangel, mit Mutationen in der kollagenartigen Untereinheit des Enzyms, Fütterungs- und Atemproblem in früher Kindheit, verzögerte motorische Fähigkeiten, Wirbelsäulenverkrümmung
+Präsynaptisch, seltener, CMS6, CMS10, kurze Atemunterbrechungen, Schwäche der Augen-, Mund- und SchluckmuskulaturDas kongenitale myasthene Syndrom umfasst Störungen mehrerer Strukturen bzw. mindestens 14 Gene. Ein bestimmtes Gen kann wiederum an zahlreichen Stellen gestört sein. Selbst bei identischem Gendefekt kann sich die Ausprägung der Beschwerden erheblich unterscheiden, ohne dass die Ursache bekannt wäre.
+Allen gemeinsam ist eine vorzeitige Ermüdbarkeit der Skelettmuskulatur, also an Lidern (Ptosis), Augenbewegern (Schielen, Doppelbilder), mimischer Muskulatur (ausdruckloses Gesicht, Speicheln), Rachen (Trinkschwäche bzw. Schluckstörung, schwache Stimme), Atemmuskeln (Atemlähmung), Rumpf und/oder Extremitäten (verzögerte motorische Entwicklung, Muskelschwäche, Lähmung). Bei den meisten Patienten sind nicht alle genannten Muskelgruppen betroffen.
+Die Schwäche tritt vor allem abends und nach Belastung in Erscheinung. Bei vielen kommt es zu zwischenzeitlichen Verschlechterungen (Krisen) bei Infekten oder Aufregung. Die Beschwerden beginnen im Mutterleib oder den ersten Lebensmonaten, selten erst im Jugend- oder Erwachsenenalter (kongenital bedeutet angeboren). Die Ausprägung der Beschwerden reicht von kaum feststellbar über fähig zu den Tätigkeiten des täglichen Lebens, aber nicht zu Sport, bis hin zur Rollstuhl- oder nächtlichen Heimbeatmungspflicht. Bei einigen kommt es zu einem über Monate bis Jahrzehnte fortschreitenden Verlauf. Die allermeisten Patienten können jedoch laufen.Die Diagnose wird gestellt durch Anamnese und Untersuchung, gefolgt von serologischer Diagnostik zum Ausschluss einer Myasthenia gravis und der häufig wegweisenden Neurophysiologie (repetitive Stimulation). Anschließend kann ein Behandlungsversuch mit einem Cholinesteraseinhibitor unternommen werden. Je nach Ansprechen können die in Frage kommenden Gene bzw. Unterformen weiter eingegrenzt werden. Genetische Analysen können voraussagen, welche Medikamente gefährlich sind und welche vermutlich förderlich. In weltweit nur wenigen Zentren werden Muskelbiopsien physiologisch untersucht.Abzugrenzen sind die Kongenitale Myopathien (bei frühem Krankheitsbeginn) und bei späterem Beginn die Myasthenia gravis, seronegative Form.Es gibt in den meisten Fällen die Möglichkeit einer Behandlung mit Medikamenten (der Cholinesteraseinhibitor Pyridostigmin, 3, 4-Diaminopyridin, Ephedrin oder Salbutamol, Fluoxetin, Chinidin). Oft werden die Beschwerden nur teilweise gebessert und in einigen Fällen gar nicht.
+Cholinesterasehemmer sind bei allen Formen des CMS wirksam, mit Ausnahme der 'Slow-channel'-Formen (CMS1A, CMS2A, CMS3A und CMS4A), der symaptischen Formen (mit Acetylcholinesterase-Mangel) und der meisten Dok7-Mutationen (CMS10).
+3,4-Diaminopyridin kann CMS allein oder zusammen mit der Acetylcholinesterase-Therapie eingesetzt werden.
+Für die 'Slow-channel'-Formen wird Paroxetin und Chinidin empfohlen, Ephedrin für einige Erkrankungen mit Acetylcholinesterase-Mangel und bei Dok7-abhängigen CMS.Außerdem können Physiotherapie, Logopädie, Beatmung, die Versorgung mit Hilfsmitteln, humangenetische Beratung und Angehörigen- bzw. Patientenschulung zum Einsatz kommen.
+Neben Wechselwirkungen mit den eingesetzten Medikamenten ist außerdem eine Verschlechterung des myasthenen Syndroms (Myasthenia gravis ebenso wie kongenitales myasthenes Syndrom) durch einige Medikamente bzw. Substanzen (inklusive Tonic Water und Magnesium) zu beachten.

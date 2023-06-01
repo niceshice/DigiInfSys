@@ -1,0 +1,24 @@
+Das Durchschnittseinkommen (oder durchschnittliche Einkommen) nennt als volkswirtschaftliche Kennzahl das arithmetische Mittel einer Einkommensart bezogen auf die Anzahl aller Bezieher dieser Einkommensart.Zur Verfeinerung der Aussagekraft unterscheiden die Einkommensarten nach seiner Form, zum Beispiel in Arbeitseinkommen oder Kapitaleinkommen, oder nach den Wirtschaftszweigen, in denen Einkommen erzielt werden, etwa produzierendes Gewerbe, Dienstleistungssektor und öffentlicher Dienst. Die Einkommensarten werden durch Aggregation zum Gesamteinkommen eines Sektors zusammengefasst und hieraus als Beziehungszahl das arithmetische Mittel errechnet:
+
+  
+    
+      
+        
+          Durchschnittseinkommen
+        
+        =
+        
+          
+            Gesamtbetrag aller Einkommensarten
+            Anzahl aller Einkommensarten
+          
+        
+        
+      
+    
+    {\displaystyle {\text{Durchschnittseinkommen}}={\frac {\text{Gesamtbetrag aller Einkommensarten}}{\text{Anzahl aller Einkommensarten}}}\,}
+  .Durchschnittseinkommen dienen der Orientierung von Wirtschaftssubjekten wie Unternehmen oder öffentlichen Verwaltungen, um etwa im Marketing das künftige Kaufkraftpotenzial abzuschätzen oder beim Betriebsvergleich innerhalb einer Branche Personalkosten pro Arbeitnehmer.
+Sie spielen zudem eine große Rolle in der gesetzlichen Rentenversicherung zur Berechnung der Entgeltpunkte, indem persönliches Entgelt zum Durchschnittsentgelt eines Kalenderjahres ins Verhältnis gesetzt wird. Zur Ermittlung des Standardrentenniveaus ist das Durchschnittseinkommen neben der Standardrente erforderlich.
+Das durchschnittliche Bruttoeinkommen steht für das Mittel aller Bruttoeinkommen der Erwerbstätigen. und ist damit vom Pro-Kopf-Einkommen abzugrenzen, dem arithmetischen Mittel aller Einkommen, also des Bruttonationaleinkommens, über die Gesamtbevölkerung. Zur Ermittlung von relativer Einkommensarmut wird jedoch häufig das mittlere Einkommen bevorzugt, da es im Gegensatz zum arithmetischen Mittel unempfindlicher gegenüber Extremwerten ist.
+Das Durchschnittseinkommen belief sich in Deutschland im Jahre 2014 brutto auf 39.077 Euro pro Jahr (monatlich 3.256 Euro). Das verfügbare Netto-Durchschnittseinkommen in Deutschland lag bei 21.583 Euro im Jahr (monatlich 1.844 Euro). Verfügbares Einkommen bezeichnet die einem Privathaushalt tatsächlich für den Konsum und das Sparen zur Verfügung stehenden Geldmittel. Dazu werden von der Summe aller Einkommen die einbehaltenen direkten Steuern und Sozialversicherungsbeiträgen abgezogen und zugleich die staatlichen Transferleistungen hinzugerechnet.
+Den größten durchschnittlichen Bruttomonatsverdienst für Vollbeschäftigte erzielten innerhalb der Europäischen Union die Dänen mit 4.664 Euro. Es folgten Luxemburg mit 4.246 Euro, Irland mit 4.003 Euro, Schweden (3.755 Euro) oder Niederlande (3.544 Euro). Deutschland befand sich mit durchschnittlich 3.380 Euro auf Platz 7. Am unteren Ende rangierten die südosteuropäischen Staaten Rumänien mit 527 Euro und Bulgarien mit 436 Euro. In Europa führt Monaco mit 10.543 Euro, gefolgt von Liechtenstein (6.948 Euro) und der Schweiz (5.943 Euro). Weltweit folgt nach Monaco und Liechtenstein noch Bermuda (6.660 Euro). Diese Zahlen nennen allein die nominelle Einkommenshöhe aus und berücksichtigen nicht die jeweilige Kaufkraftparität.

@@ -1,0 +1,4 @@
+Apache Giraph ist ein verteiltes Graph-Analyse-System, das bei der Verarbeitung von Daten in sozialen Netzwerken verwendet wird.Giraph basiert auf einer 2010 von Google veröffentlichten Schrift zu deren Graph-Analyse-System Pregel und wurde zuerst von Yahoo entwickelt und dann an die Apache Software Foundation übergeben. Im Mai 2012 wurde Giraph dort ein eigenständiges Software-Projekt.Giraph setzt auf Hadoop auf und macht dadurch die Analyse von großen Datenmengen möglich. Es handelt sich um eine Erweiterung der Map-Reduce-Implementierung von Hadoop.Außer von Yahoo wird Apache Giraph seit 2013 auch von Facebook zum Betrieb der seiteneigenen Suchfunktionen eingesetzt. Dort konnten mithilfe der Software auf 200 Servern eine Billion (1012) Edges in 4 Minuten ausgewertet werden.Auch PayPal, Twitter und LinkedIn nutzen die Software.
+
+
+== Einzelnachweise ==

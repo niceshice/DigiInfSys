@@ -1,0 +1,22 @@
+Der Alpina B7 Turbo war ein von Alpina produziertes Kleinserien-Fahrzeug mit Turbolader auf Basis des Modells E12 der 5er-Reihe von BMW.Im Dezember 1978 wurde der B7 Turbo erstmals gebaut. Er war das erste komplette Fahrzeug, das Alpina produzierte, und wurde in Kleinserie gefertigt. Dem B7-Motor lag der BMW M30B30 zugrunde. An ihm wurden tiefgreifende Änderungen vorgenommen. Fritz Indra, Chefentwickler von Alpina, verwendete einen Abgasturbolader des Typ K27 von Kühnle, Kopp & Kausch (KKK), der die zu dieser Zeit hohe Leistung von 221 kW (300 PS) ermöglichte. Das Drehmoment betrug 463 Newtonmeter bei 2500 Umdrehungen in der Minute. KKK fertigte die Turbine nach den Vorgaben von Indra. Sie arbeitete mit einem variablen Ladedruck von 0,6 bis 0,9 bar. Bei minimal geöffnetem Ventil leistete das Aggregat 184 kW (250 PS), einen Wert, den auch der Saugmotor erreichte – allerdings erst bei einer um 1000 Umdrehungen pro Minute höheren Drehzahl. Bei vollem Ladedruck ließ sich die Leistung auf 221 kW (300 PS) steigern. Ende der 1970er-Jahre war der Alpina B7 Turbo die schnellste in Serie gebaute Limousine der Welt.
+Die Verdichtung des Motors wurde reduziert. Ferner wurden Spezialkolben sowie ein spezielles Resonanzsaugrohr nach dem Prinzip des ungarischen Konstrukteurs Cser eingesetzt. Durch Verbindung des Resonanzsaugrohrs mit dem Turbolader wurde das kombinierte Ladesystem für Ottomotoren erreicht. Darüber hinaus trugen die Zenith-DL-Einspritzung von Karl-Otto Noelle, die Pierburg herstellte, die Hartig-Zündung, ein Ladeluftkühler (Luft/Luftkühler) der Firma Längerer & Reich sowie eine Gillet-Doppelrohrauspuffanlage zum Erfolg bei. Alpina hat für den Alpina B7 Turbo den ersten Serien-Sechszylinder-BMW-Turbomotor entwickelt.
+Am Antriebsstrang wurden des Weiteren das Getriebe und die Hinterachse optimiert. Dazu gehörte die aus damaliger Sicht geniale Hinterachskühlung. Das Öl wird über eine mechanische Ölpumpe mittels eines Riementriebs an der rechten Antriebswelle in Bewegung gesetzt und kann so im Gehäuse und Ölkühler zirkulieren. Zusätzlich wurde im Cockpit eine HA-Temperaturanzeige installiert, um den Fahrer ständig über die anstehenden Temperaturen zu informieren, denn 140 °C sollten nicht überschritten werden. Als Sonderausstattung gab es die Hinterachse auch mit einer 25-%-Sperre.
+Der Wagen hatte ein speziell entwickeltes Fahrwerk mit Leichtmetallrädern im Stile des Hauses sowie Reifen der Größen 205/55 vorn und 225/50 hinten, die in den 1970er-Jahren noch als breit galten. Lederlenkrad, Holzschaltknauf, Fußstütze, das alpina Dekor (außen) in den Farben Gold oder Silber und eine versilberte Produktionsnummern-Plakette im Innenraum gehörten zur serienmäßigen Ausstattung des Modells. Des Weiteren waren die Fahrzeuge serienmäßig mit einem Zusatztank, der den Tankinhalt auf 109 Liter vergrößerte, ausgestattet.
+149 Fahrzeuge des Typs Alpina B7 Turbo wurden in wenig mehr als drei Jahren gebaut. 1981–82 wurden 60 Exemplare mit 330 PS gebaut, als Alpina B7 S Turbo bezeichnet.Alpina baute den B7 auch 153 mal auf Basis des Modells E24 der 6er-Reihe von BMW, dann als Alpina B7 Turbo Coupé bezeichnet.
+1982 wurden 30 Exemplare mit 330 PS gebaut, als Alpina B7 S Turbo Coupé bezeichnet.
+Abmessungen: Länge × Breite × Höhe 4755 × 1725 × 1345 mm, Radstand 2626 mm, Gewicht 1550 kg.Typ:      B7 (Basis: BMW E12, BMW E24)
+Motor:    B7 (Basis BMW M30B30)
+Leistung: 221 kW (300 PS) bei 6000/min (0,9 bar Ladedruck)
+Literleistung: 74 kW (100 PS)
+Leistungsgewicht: 6,7 kg/kW (4,9 kg/PS) (7 kg/kW [5,2 kg/PS])
+Drehmoment: 463 Nm bei 2500/min
+Hubraum:  2986 cm³
+Bohrung × Hub: 89,0 mm × 80,0 mm
+Verdichtung: 7,3 : 1
+Mittlere Kolbengeschwindigkeit: 16 m/s
+Höchstgeschwindigkeit: über 250 km/h
+Beschleunigung 0–100 km/h: 6,5 s (6,8 s)
+Kraftstoffverbrauch in l/100 km: Gesamt 12,9 l Superplus
+Leergewicht: 1485 kg (1550 kg)
+Bauzeit:   12/78 bis 02/82
+Stückzahl: 149 (153) Fahrzeuge

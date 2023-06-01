@@ -1,0 +1,20 @@
+Mit dem Schlagwort hyperkonvergente Infrastruktur (englisch hyper-converged Infrastructure, HCI) lässt sich eine IT-Infrastruktur bezeichnen, der eine Software-zentrierte Architektur zugrunde liegt, in der Prozessoren, Speicher, Netzwerk und Virtualisierung und andere Technologien eng miteinander verzahnt sind. Als Hardware kann dabei Standard-Hardware mit Commercial off-the-shelf(COTS)-Komponenten verwendet werden. Oft werden solche hyperkonvergenten Systeme von einem einzelnen Hersteller angeboten und unterstützt.
+Hyperkonvergente Infrastrukturen sind eine Weiterentwicklung konvergenter Infrastrukturen, in denen ebenfalls Hard- und Software gebündelt werden. Herkömmliche monolithische Speichersysteme, wie z. B. Storage Area Network (SAN) oder Network Attached Storage (NAS), die im Rechenzentrum eigene Silos bildeten, werden in hyperkonvergenten Infrastrukturen durch softwaredefinierte Speichersysteme abgelöst. Die wesentlichen Komponenten eines Rechenzentrums wandern somit in eine Appliance und werden durch gemeinsame Virtualisierungs- und Management-Tools verwaltet.
+Die Aufgabe der Storage-Software besteht darin, die direkt mit dem System verbundenen Festplatten (DAS – Direct Attached Storage) beziehungsweise SSD-Medien in Form eines virtuellen Pools für die Anwendungen bereitzustellen.HCI vereint Rechenleistung (Prozessoren und RAM) mit Massenspeicher (SSDs und Festplatten) in jeder einzelnen (virtuellen) Maschine, verbindet jedoch den Speicher mehrerer Maschinen mit Storage-Software zu einem einheitlichen System. Dies steigert die Performance und erleichtert die Verwaltung und Automatisierung unter einer einheitlichen Administrationsoberfläche. Ebenfalls kann bessere Ausfallsicherheit erzielt werden.
+Insgesamt traut man Hyperkonvergenzlösungen inzwischen auch den Betrieb von unternehmenswichtigen Applikationen zu, z. B. Geschäftsprozesse, Produktivanwendungen und BigData/Analytik laufen zu lassen. Auch kann HCI als Plattform für virtuelle Desktops bei Großfirmen, sowie bei Webhosting-Dienstleistern eingesetzt werden.Eine hyperkonvergente Infrastruktur beinhaltet mindestens folgende Komponenten:
+
+integrierte Virtualisierung (Hypervisor)
+virtualisierter Speicher (Software-defined Storage)
+virtualisiertes Netzwerk (Software-defined networking)
+Software zur zentralen Überwachung und Steuerung
+erweiterte IT-Konzepte wie Anbindung an die Cloud oder ein Desaster-Recovery-KonzeptKostensenkungen
+betriebliche Effizienz der IT
+schnellere Implementierungszeiten da alles von einem Hersteller
+sehr gut skalierbar
+weitere Konsolidierung in den Rechenzentren
+verminderter I/O-Blender-EffektOffene hyperkonvergente Plattformen sind wie andere HCI-Systeme aufgebaut, nur dass Hypervisor- und Storage-Software auf offenen Standards basieren. Dabei werden Systeme auf Standard-Hardware vorinstalliert, oder aber es kann auch alternative Hardware verwendet werden.
+RedHat: RedHat bietet eine integrierte, softwaredefinierte Rechen- und Speicherplattform, wobei Virtualisierungs- und Storage-Technologien mit einer bewährten Betriebssystemplattform kombiniert werden. Zielgruppe sind Unternehmen mit verteilten Standorten bzw. Niederlassungen, an denen weniger Raum- und Kühlkapazitäten und kaum oder sogar gar keine IT-Administratoren vor Ort sind.
+Proxmox VE: Die Open-Source-Virtualisierungsplattform Proxmox Virtual Environment integriert neben Virtualisierung auch virtualisierte Speicher- und Netzwerktechnologien in einem Software-Stack und macht die Verwaltung über eine Web-basierte Administrationsoberfläche möglich. Ein verteilter Ceph-Storage-Cluster kann so direkt über das GUI erstellt und Hyperkonvergenz erzielt werden.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,52 @@
+Wolframsäure (genauer Orthowolframsäure) ist eine Verbindung aus Wolframtrioxid und Wasser.Wolframsäure entsteht unter anderem beim Ansäuern von Wolframatlösungen und vorsichtigem Erhitzen des zunächst ausfallenden Dihydrats (WO3 · 2 H2O).
+So zum Beispiel durch Reaktion von Calciumwolframat mit einer Mischung aus konzentrierter Salzsäure und Salpetersäure.
+
+  
+    
+      
+        
+          C
+          a
+          W
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          H
+          X
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          W
+          
+            O
+            
+              4
+            
+          
+          +
+          C
+          a
+          
+            X
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CaWO_{4}+2\ HX\longrightarrow H_{2}WO_{4}+CaX_{2}} }Die Verhältnisformel des Wolframtrioxid-Monohydrats lautet H2WO4, doch existieren im Gegensatz zur scheinbar analog aufgebauten Schwefelsäure (H2SO4) keine diskreten H2WO4-Moleküle. Stattdessen besteht Wolframsäure aus einem Schichtengitter aus WO6-Oktaedern. Die Anionen der Wolframsäure bestehen dagegen, analog der Sulfationen, aus WO42−-Tetraedern. Erstmals isoliert wurde sie von Carl Wilhelm Scheele im Jahr 1781 in Köping.
+Wolframsäure löst sich leichter in Alkalien als Wolframtrioxid.
+
+
+== Einzelnachweise ==

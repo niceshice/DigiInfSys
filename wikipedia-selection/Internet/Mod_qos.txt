@@ -1,0 +1,25 @@
+mod_qos ist ein Modul für den Apache HTTP Server, das Quality-of-Service (QoS) realisiert. Es implementiert Mechanismen, um Zugriffe auf Ressourcen eines Webservers unterschiedlich zu priorisieren und zu steuern.Ein Web-Server kann nur eine begrenzte Anzahl von gleichzeitigen Anfragen verarbeiten. QoS wird verwendet, um sicherzustellen, dass wichtige Ressourcen auch unter hoher Last verfügbar bleiben, indem Anfragen auf diese Ressourcen höher priorisiert werden als Anfragen auf weniger wichtige.
+mod_qos bietet verschiedene Kontrollmechanismen auf unterschiedlichen Ebenen:
+
+Pro HTTP-Request: mod_qos kontrolliert die Anzahl gleichzeitiger Anfragen auf einen Namensraum (URL). mod_qos kann Anfragen auf Ressourcen niedriger Priorität ablehnen, wenn derer Anzahl zu hoch wird, damit der Web-Server weiterhin wichtige Anfragen bearbeiten kann.
+Auf Verbindungsebene: mod_qos kontrolliert die Anzahl der TCP-Verbindungen auf den Web-Server und kann beispielsweise die Anzahl der Verbindungen eines einzelnen Benutzers begrenzen.
+Bandbreite: Anfragen auf bestimmte Ressourcen können verlangsamt werden, um die verfügbare Bandbreite nicht voll auszuschöpfen.
+Generische Filter können ungültige Anfragen auf einen Web-Server ablehnen.Das Modul kann speziell in einem Reverse Proxy hilfreich sein, wo viele verschiedene Ressourcen und Applikationen über einen einzelnen Zugriffspunkt erreichbar sind (möglicher Flaschenhals).Bietet ein einzelner Web-Server Zugriff auf verschiedene Applikation, so kann sich das Verhalten einer Applikation negativ auf die Verfügbarkeit anderer Applikationen auswirken. Ist beispielsweise eine Applikation (im oben gezeigten Bild Pfad /ccc) sehr langsam, kann es passieren, dass die viele Anfragen auf diese Applikationen einen Stau bilden und so alle Verbindungen zum Web-Server blockieren. Andere Applikationen (hier /aaa oder /bbb), die noch einwandfrei funktionieren würden, sind für die Benutzer nicht mehr erreichbar. mod_qos kann in einem solchen Fall die maximale Anzahl gleichzeitiger Anfragen auf die langsame Applikation begrenzen, damit die anderen beiden Applikationen verfügbar bleiben.Die sogenannte "Keep-Alive"-Erweiterung von HTTP 1.1 erlaubt persistente TCP-Verbindungen zwischen Client und Server über die mehrere HTTP-Anforderungen („requests“) ausgeführt werden können. Dies beschleunigt das Laden einer Web-Seite im Browser. Ein Nachteil dabei ist, dass während den Wartezeiten, in denen keine Anforderung verarbeitet wird, auf dem Server trotzdem Ressourcen blockiert sind. mod_qos erlaubt es einem Server, Keep-Alive zu unterstützen, solange er noch genügend freie Ressourcen hat, diese Funktion aber zu deaktivieren, falls zu viele Verbindungen zum Server geöffnet werden.mod_qos kann die Anzahl gleichzeitiger Anfragen an eine URL begrenzen. Weiter kann die maximale Anzahl der Anfragen pro Zeit und auch die maximal erlaubte Bandbreite definiert werden.mod_qos kann helfen, einen Web-Server vor Attacken zu schützen vom sogenannten Typ “Low-bandwidth denial of service”. Dabei versuchen Angreifer mit Programmen wie Slowloris oder LOIC einen Web-Server zu blockieren, indem sie auf offenen TCP-Ports nur sehr wenige Daten zum Server senden. mod_qos versucht solche Verbindungen zu unterbinden, indem es Verbindungen mit zu wenig Datenaustausch schließt.Der erste Release von mod_qos erschien im Mai 2007. Die Software wurde auf SourceForge.net als Open-Source-Projekt veröffentlicht. Die erste Version war in der Lage die Anzahl paralleler Requests auf vordefinierte Ressourcen zu limitieren. Nach und nach wurden mehr Funktionen implementiert und einige davon wurden zur Bekämpfung von DoS Attacken eingesetzt.
+Im Jahr 2012 wurde mod_qos in das Software-Repository der Linux-Distribution Ubuntu aufgenommen.
+Major releases:
+
+May 2007, Version 1: Begrenzt die Anzahl paralleler Anfragen auf Ressourcen.
+July 2007, Version 2.2: Projekt lanciert verschiedene Hilfsprogramme.
+August 2007, Version 3: Kontrolliert Datentransfer auf Verbindungsebene. Web-Interface zur Betrachtung des aktuellen Status.
+September 2007, Version 4: Steuerung der Bandbreite.
+December 2007, Version 5: Erlaubt die Definition benutzerspezifischer Ereignisse („events“) und deren Begrenzung ("limitation").
+March 2008, Version 6: Kontrolle pro Client-IP-Adresse.
+May 2008, Version 7: Erzwingung einer Mindestbandbreite, die ein Client einhalten muss.
+September 2009, Version 9: Erkennung von abnormalem Benutzerverhalten.
+Februar 2012, Version 10: Unterstützung von Geolocation.
+Mai 2014, Version 11: Weit verbessere Steuerung der Bandbreite.
+Juli 2015, Version 11.15: Serialisierung von Requests nun auch per Client (IP).
+Mai 2016, Version 11.28: Unterstützung von DiffServ (Setzen des DSCP Feldes im IP Packetheader).
+
+
+== Einzelnachweise ==

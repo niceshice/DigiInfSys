@@ -1,0 +1,90 @@
+Die Ausfallwahrscheinlichkeit (Abkürzung PD aus englisch Probability of Default) ist im Bankwesen ein bankenaufsichts­rechtlicher Risikoparameter zur Messung der Kreditrisiken.Neben der Ausfallwahrscheinlichkeit gibt es als Risikoparameter noch die Ausfallkredithöhe (EaD) und die Ausfallverlustquote (LGD). Diese Parameter wurden erstmals im Januar 2007 in allen EU-Mitgliedstaaten eingeführt, in Deutschland durch die Solvabilitätsverordnung. Deren aufsichtsrechtliche Funktion hat seit Januar 2014 die ebenfalls in allen EU-Mitgliedstaaten geltende Kapitaladäquanzverordnung (CRR) übernommen. Sie sieht für diese Parameter Legaldefinitionen vor.  Alle drei Parameter sind hypothetische Größen, die auf stochastischen Wahrscheinlichkeiten beruhen.In Artikel 4 Abs. 1 Nr. 54 legt die Kapitaladäquanzverordnung für die Ausfallwahrscheinlichkeit „Wahrscheinlichkeit des Ausfalls einer Gegenpartei im Laufe eines Jahres“ fest. Der Begriff der Gegenpartei ist weit gefasst und umfasst jede natürliche oder juristische Person, die mit einer Bank Bankgeschäfte tätigt und bei der die Bank die Kreditwürdigkeit untersucht hat (Art. 286 Abs. 2a CRR). Der Ausfall wird nach Art. 178 CRR als gegeben angesehen, wenn es unwahrscheinlich ist, dass der Schuldner seine Verbindlichkeiten in voller Höhe begleichen wird oder eine wesentliche Verbindlichkeit des Schuldners mehr als 90 Tage überfällig ist. 
+Die Ausfallwahrscheinlichkeit ist der Ebene des Kreditnehmers zuzuordnen, da nicht eine einzelne Forderung, sondern ein Schuldner mit sämtlichen Forderungen ausfällt. Es sind mithin alle bilanziellen Risikopositionen der Geldleihe (Kreditgeschäft) und außerbilanziellen Geschäfte der Kreditleihe (Avalkredite, Akkreditive, Derivate) gegenüber einer Kreditnehmereinheit zu erfassen.
+Die Schätzung beruht auf bankinternen oder externen Daten der Vergangenheit über vorgekommene Kreditausfälle mit mindestens 5 Jahren Beobachtungsdauer, die zu einer abgestuften Ausfallhäufigkeit verdichtet werden und dann jeder einzelnen Ratingstufe zugeordnet (kalibriert) werden können. Die Institute schätzen die Ausfallwahrscheinlichkeit demnach für die einzelnen Ratingstufen ausgehend von den langfristigen Durchschnitten der jährlichen Ausfallquoten (Art. 180 Abs. 1a CRR). Dadurch erhält die beste Ratingstufe die geringste Ausfallwahrscheinlichkeit und das schlechteste Rating die höchste. Hierbei sind künftige Ratingmigrationen jedes Kreditnehmers im Rahmen einer Neukalibrierung zu berücksichtigen. Den empirischen Ausfallstudien der Ratingagentur Standard & Poor’s zufolge besteht eine deutliche positive Korrelation zwischen Kreditrisiko und der Ausfallwahrscheinlichkeit, denn je besser das Rating, umso geringer ist die Ausfallwahrscheinlichkeit und umgekehrt.Kreditinstitute, die beim Rating den Kreditrisiko-Standardansatz wählen, bekommen die Ausfallwahrscheinlichkeit von der Bankenaufsicht als Standardwert vorgegeben. Alle übrigen Institute, die den IRB-Basisansatz oder dem fortgeschrittenen IRB-Ansatz anwenden, ermitteln die Ausfallwahrscheinlichkeit selbst.
+Art. 160 Abs. 1 CRR gibt die Extremwerte vor, so dass die anzusetzende Ausfallwahrscheinlichkeit von Unternehmen (Nichtbanken) und Kreditinstituten mindestens 0,03 % zu betragen hat, während die Ausfallwahrscheinlichkeit ausgefallener Schuldner gemäß Art. 160 Abs. 3 CRR bei 100 % liegen muss. Bei der Ermittlung der Ausfallwahrscheinlichkeit dürfen Personalsicherheiten berücksichtigt werden (Art. 160 Abs. 4 CRR). Banken, die den fortgeschrittenen IRB-Ansatz anwenden, dürfen auch Sachsicherheiten berücksichtigen (Art. 160 Abs. 5 CRR).
+Die kumulative Ausfallwahrscheinlichkeit ist die Wahrscheinlichkeit, dass ein Kredit über einen bestimmten Zeitraum ausfällt. Kumulative Ausfallwahrscheinlichkeiten lassen sich unter der Annahme, dass die einjährigen Ausfallwahrscheinlichkeiten über jede Periode gleich sind, mit folgender Formel berechnen:
+
+  
+    
+      
+        P
+        D
+        =
+        1
+        −
+        (
+        1
+        −
+        
+          p
+          
+            D
+          
+        
+        
+          )
+          
+            t
+          
+        
+      
+    
+    {\displaystyle PD=1-(1-p_{D})^{t}}
+  Dabei ist 
+  
+    
+      
+        P
+        D
+      
+    
+    {\displaystyle PD}
+   die Ausfallwahrscheinlichkeit über einen Zeitraum von 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   Jahren und 
+  
+    
+      
+        
+          p
+          
+            D
+          
+        
+      
+    
+    {\displaystyle p_{D}}
+   die einjährige Ausfallwahrscheinlichkeit.
+Liegt mithin die einjährige Ausfallwahrscheinlichkeit bei 0,4 %, so beträgt die Wahrscheinlichkeit, dass der Kredit innerhalb der nächsten fünf Jahre ausfällt
+
+  
+    
+      
+        P
+        D
+        =
+        1
+        −
+        (
+        1
+        −
+        0,004
+        
+          )
+          
+            5
+          
+        
+        ≈
+        0,019
+        8
+      
+    
+    {\displaystyle PD=1-(1-0{,}004)^{5}\approx 0{,}0198}
+  ,also ungefähr 1,98 %.Erst durch die Kalibrierung der Ratingstufen durch abgestufte Ausfallwahrscheinlichkeiten kommt dem Rating eine wirtschaftliche Bedeutung durch Bonitätsdifferenzierung zu. Sobald der Kreditgeber die Ausfallwahrscheinlichkeit ermittelt hat, bieten sich ihm die Verhaltensweisen der Risikoabgeltung, Risikonormierung und Risikovermeidung. Durch die nach Ratingklassen gestaffelte Ausfallwahrscheinlichkeit ergibt sich für jede Ratingklasse im Rahmen der Risikoabgeltung eine unterschiedliche Staffelung der Kreditmarge und damit der Kreditzinsen. Je höher mithin die Ausfallwahrscheinlichkeit, umso höher ist auch der Kreditzins und umgekehrt. Damit beruht die Konditionengestaltung von Kreditinstituten maßgeblich auf der Ausfallwahrscheinlichkeit. Eine Steuerung des Kreditgeschäfts kann dann durch differenzierte Kreditzinsen erfolgen, weil niedrige Zinsen nur guten Bonitäten angeboten werden, während hohe Zinsen für schlechte Bonitäten weniger attraktiv sind. Die Risikonormierung sorgt dafür, dass ein bestimmtes Kreditrisiko nicht überschritten wird, so dass bei der Risikovermeidung eine Kreditentscheidung unterhalb der Anlagebonität (englisch „investment grade“) negativ ausfällt.Die technische Ausfallwahrscheinlichkeit wird bei der Ausfallrate behandelt.

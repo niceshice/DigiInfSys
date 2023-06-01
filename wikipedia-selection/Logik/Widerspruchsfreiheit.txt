@@ -1,0 +1,286 @@
+In der Logik gilt eine Menge von Aussagen als konsistent oder widerspruchsfrei, wenn aus ihr kein Widerspruch abgeleitet werden kann, also kein Ausdruck und zugleich dessen Negation. Da man mit inkonsistenten Aussagenmengen Beliebiges beweisen könnte, auch Unsinniges, ist die Widerspruchsfreiheit unerlässlich für brauchbare wissenschaftliche Theorien, logische Kalküle oder mathematische Axiomensysteme.
+Ein Zusatzaxiom heißt relativ konsistent zu einer bestehen Aussagenmenge, falls seine Hinzunahme keine neuen Widersprüche einbringt. Mit anderen Worten: ist die Aussagenmenge als konsistent vorausgesetzt, ist sie mit dem Zusatzaxiom ebenfalls konsistent.
+Ferner heißen zwei Zusatzaxiome zueinander äquikonsistent bezüglich einer bestehenden Aussagenmenge, falls die Hinzunahme des einen genau dann keine neuen Widersprüche einbringt, falls es das andere auch nicht tut.Man betrachtet stets einen gegebenen Kalkül mit einem Ableitbarkeitsoperator 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+  , bei dem 
+  
+    
+      
+        A
+        ⊢
+        B
+      
+    
+    {\displaystyle A\vdash B}
+   soviel bedeutet wie: aus 
+  
+    
+      
+        A
+        
+      
+    
+    {\displaystyle A\,}
+   ist 
+  
+    
+      
+        B
+        
+      
+    
+    {\displaystyle B\,}
+   ableitbar.
+Die Konsistenz (oder Widerspruchsfreiheit) wird dann sowohl für eine Formelmenge als auch für den ganzen Kalkül folgendermaßen definiert:
+Eine Formelmenge 
+  
+    
+      
+        Γ
+        
+      
+    
+    {\displaystyle \Gamma \,}
+   heißt konsistent im Kalkül, wenn es eine Formel 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   gibt, für die  
+  
+    
+      
+        Γ
+        ⊢
+        A
+      
+    
+    {\displaystyle \Gamma \vdash A}
+   nicht gilt. In Worten: Nicht alles kann aus 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   abgeleitet werden.
+Der Kalkül heißt konsistent, wenn die leere Formelmenge konsistent im Kalkül ist.
+Eine nicht konsistente Formelmenge im Kalkül heißt inkonsistent im Kalkül.
+Ein nicht konsistenter Kalkül heißt inkonsistent.
+Die Formelmenge 
+  
+    
+      
+        
+          A
+        
+        
+      
+    
+    {\displaystyle \mathrm {A} \,}
+   heißt konsistent relativ zu 
+  
+    
+      
+        Γ
+        
+      
+    
+    {\displaystyle \Gamma \,}
+   im Kalkül, falls aus der Konsistenz der Formelmenge 
+  
+    
+      
+        Γ
+        
+      
+    
+    {\displaystyle \Gamma \,}
+   folgt, dass auch die Vereinigung beider Formelmengen konsistent im Kalkül ist.Diese Definitionen sind hier allgemein für beliebige Kalküle formuliert. In der klassischen Logik und in der intuitionistischen Logik kann die Konsistenz passend zum Namen widerspruchsfrei definiert werden, dadurch, dass 
+  
+    
+      
+        Γ
+        ⊢
+        A
+        ∧
+        ¬
+        A
+      
+    
+    {\displaystyle \Gamma \vdash A\land \neg A}
+   für keine Formel 
+  
+    
+      
+        A
+        
+      
+    
+    {\displaystyle A\,}
+   gilt; dies ist hier gleichwertig, denn aus der Inkonsistenz folgt die Ableitbarkeit jeder Formel, also auch aller Widersprüche der Form 
+  
+    
+      
+        A
+         
+        ∧
+        ¬
+        A
+      
+    
+    {\displaystyle A\ \land \neg A}
+  , und umgekehrt folgt aus jedem Widerspruch in diesen Logiken jede beliebige Formel nach der Regel ex contradictione sequitur quodlibet. Es gibt aber auch Logiken, in denen diese Regel nicht gilt, sogenannte Parakonsistente Logiken; zu ihnen passt diese Definitionsvariante nicht.
+Allgemein unterteilt sich die Widerspruchsfreiheit in verschieden starke Stufen, je nachdem, welche Sprache gegeben ist. Die schwächste ist dabei die syntaktische Widerspruchsfreiheit (Post-widerspruchsfrei). Analog zur Konsistenz im Kalkül fordert diese, dass es einen Ausdruck  
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   mit  
+  
+    
+      
+        ⊬
+        A
+      
+    
+    {\displaystyle \nvdash A}
+  , es also zumindest einen nicht-ableitbaren Ausdruck gibt. Besitzt die zu Grunde gelegte Sprache das Negationszeichen (wie in der klassischen oder der intutionistischen Logik), so lässt sich wie bereits erwähnt die klassische Widerspruchsfreiheit formulieren: es gibt einen Ausdruck  
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , für den gilt, dass nicht gleichzeitig 
+  
+    
+      
+        ⊢
+        A
+      
+    
+    {\displaystyle \vdash A}
+   und 
+  
+    
+      
+        ⊢
+        ¬
+        A
+      
+    
+    {\displaystyle \vdash \neg A}
+   (also 
+  
+    
+      
+        ⊬
+        A
+        ∧
+        ¬
+        A
+      
+    
+    {\displaystyle \nvdash A\land \neg A}
+  ). Ist zudem eine Semantik vorhanden, so ergibt sich die semantische Widerspruchsfreiheit (Korrektheit des Kalküls): Aus 
+  
+    
+      
+        ⊢
+        A
+      
+    
+    {\displaystyle \vdash A}
+   folgt 
+  
+    
+      
+        ⊨
+        A
+      
+    
+    {\displaystyle \vDash A}
+  . Es impliziert schließlich die semantische Widerspruchsfreiheit die klassische Widerspruchsfreiheit, und diese wiederum die syntaktische Widerspruchsfreiheit.
+Die Konsistenz eines Kalküls kann auch durch ein Modell gezeigt werden, indem die semantische Korrektheit nachgewiesen wird.Zur Widerspruchsfreiheit und Konsistenz gehört als Kehrseite die Inkonsistenz, die meist einfach zu zeigen ist, weil hierzu nur eine einzige Ableitung eines Widerspruchs nötig ist. Der berühmteste einfache klassische Inkonsistenzbeweis ist die Ableitung der Russellschen Antinomie in Gottlob Freges Arithmetik-Kalkül, den Bertrand Russell 1902 entdeckte. Ein allgemeinerer Inkonsistenzbeweis (für klassische, intuitionistische und parakonsistente Logiken) ist die Ableitung von Currys Paradoxon 1942, bei der die relative Inkonsistenz einer selbstbezüglichen Aussage gezeigt wird.
+Ein anschauliches Beispiel für eine inkonsistente Aussagenmenge ist im Rahmen der traditionellen Syllogistik formulierbar. Folgende Aussagen bilden eine widersprüchliche Aussagenmenge im Syllogistikkalkül, insbesondere sind die evidenten Aussagen (3)(4) im aktuellen Präsens nicht widerspruchsfrei relativ zu den evidenten Aussagen (1)(2) im historischen Präsens:
+
+(1) Alle Menschen sind Lebewesen.
+(2) Alle Vorfahren von Sokrates sind Menschen.
+(3) Alle Vorfahren von Sokrates sind tot.
+(4) Keine Toten sind Lebewesen.
+Der Inkonsistenzbeweis geht über drei Ableitungsschritte:
+Aus (1) und (2) folgt (5): Alle Vorfahren von Sokrates sind Lebewesen; angewandt wurde hier der Syllogismus Barbara.
+Aus (4) und (5) folgt (6): Einige Vorfahren von Sokrates sind nicht tot; angewandt wurde hier der Syllogismus Cesaro.
+(6) steht im Widerspruch zu (3); angewandt wurde hier die Eigenschaft kontradiktorisch.
+Dieser Inkonsistenzbeweis kann mit den üblichen Formeln und Initialen für die gebrauchten Terme formalisiert werden:
+Aussagenformeln: (1) MaL,  (2) VaM, (3) VaT, (4) TeL, (5) VaL, (6) VoT
+Formale Ableitungsschritte:  MaL, VaM 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   VaL (Barbara). TeL, VaL 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   VoT (Cesaro). VaT, VoT 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   VaT 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+  
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \neg }
+  VaT (kontradiktorisch).Viele populäre Antinomien und Paradoxone  beziehen sich nicht auf einen Kalkül, sondern beruhen auf intuitiven, undurchsichtigen, unerlaubten Schlussweisen. Daher ist es wichtig, das logische Schließen in Kalkülen zu regeln; dann erst werden die inkonsistenten Schritte, die zu Paradoxien führen, deutlich sichtbar, beispielsweise beim Lügner-Paradoxon.Das Bedürfnis nach Widerspruchsfreiheitsbeweisen trat an der Wende zum 20. Jahrhundert auf, als in der Mengenlehre Widersprüche bekannt wurden. Georg Cantor, der Begründer der Mengenlehre, entdeckte sie selbst und teilte die erste Cantorsche Antinomie 1897 David Hilbert brieflich mit. 1899 gab Hilbert einen relativen Widerspruchfreiheitsbeweis der Geometrie zur Arithmetik reeller Zahlen. Im Jahr darauf stellte er dann die Frage „Sind die arithmetischen Axiome widerspruchsfrei?“ als zweites seiner berühmten mathematischen Probleme. Russell machte 1903 die Widerspruchsfreiheitsproblematik allgemein bewusst und entwarf zur Lösung 1903–1908 seine Typentheorie, die 1910 in die „Principia mathematica“ einging. Ernst Zermelo schuf 1907 die axiomatische Mengenlehre, die sich in der Mathematik später durchsetzte in Form der erweiterten Zermelo-Fraenkel-Mengenlehre ZF oder ZFC. In ihr konnten bisher keine Widersprüche mehr abgeleitet werden.
+Um aber Sicherheit zu erlangen, dass grundsätzlich keine Widersprüche auftreten können, entwickelte Hilbert ab 1918 sein Programm, die Widerspruchsfreiheit der Logik zu beweisen, und skizzierte Methoden für Widerspruchsfreiheitsbeweise, die anspruchsvoller sind, da für alle möglichen Ableitungen Widersprüche ausgeschlossen werden müssen. Sein Plan wurde als Hilberts Programm bekannt und konnte für zentrale Gebiete der Logik erfolgreich umgesetzt werden:
+
+Die Widerspruchsfreiheit der klassischen Aussagenlogik wurde 1918/1926 von Paul Bernays und 1921 von Emil Leon Post bewiesen.
+Die Widerspruchsfreiheit der klassischen Prädikatenlogik erster Stufe wurde 1925 von John von Neumann gezeigt.Hilberts Programm, das sich auf finite metalogische Beweismittel beschränkte, versagte aber bei der Arithmetik und darauf aufbauenden Axiomensystemen, was Kurt Gödel in seinen Unvollständigkeitssätzen von 1930 zeigte.
+Spätere Mathematiker modifizierten daher Hilberts Programm, indem sie die Beweismittel erweiterten (z. B. um transfinite Methoden), und erzielten damit neue Ergebnisse:
+
+Die Widerspruchsfreiheit der Arithmetik wurde 1936 von Gerhard Gentzen bewiesen.
+Die Widerspruchsfreiheit der allgemeinen Mengenlehre (ohne Unendlichkeitsaxiom) wurde 1936 von  Wilhelm Ackermann gezeigt im Rückgriff auf Gentzen.
+Die Widerspruchsfreiheit der verzweigten Typentheorie und der klassischen Analysis wurde 1951 von Paul Lorenzen nachgewiesen.Neue, von Hilberts Programm abweichende Wege beschritten vorher schon Neumann und Zermelo bei ihrer Einführung der heute etablierten ZF-Mengenkalküle (Neumanns Vorform der Neumann-Bernays-Gödel-Mengenlehre). Sie bildeten innerhalb der Mengenlehre Modelle der Mengenlehre und nutzten dies für Widerspruchsfreiheitsbeweise:
+
+Die Konsistenz des Fundierungsaxioms relativ zu ZF ohne Fundierungsaxiom wurde 1929 von John von Neumann durch ein Modell gezeigt
+Die Widerspruchsfreiheit der allgemeinen Mengenlehre (ZFC ohne Unendlichkeitsaxiom) wurde 1930 von Ernst Zermelo gezeigt mit einem  Modell in ZFC, ebenso die Widerspruchsfreiheit von ZFC in einer Meta-Mengenlehre mit stark unerreichbaren Kardinalzahlen.Wegen Gödels Unvollständigkeitssätzen ist aber die Widerspruchsfreiheit der ZF-Mengenlehre ohne wesentlich stärkere Meta-Axiome nicht beweisbar. Deshalb bleibt im Rahmen der üblichen Mengenlehre ZF die Frage nach ihrer eigenen Widerspruchsfreiheit unentscheidbar. Gödel ging von ihr aus und konnte damit einen relativen Konsistenzbeweis für umstrittene Zusatzaxiome zu ZF führen:
+
+Die Konsistenz des Auswahlaxioms und der verallgemeinerten Kontinuumshypothese relativ zu ZF wurde 1940 von Kurt  Gödel bewiesen.

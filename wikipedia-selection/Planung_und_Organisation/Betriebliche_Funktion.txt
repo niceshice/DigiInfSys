@@ -1,0 +1,20 @@
+Betriebliche Funktionen sind die mit einem einheitlichen und abgegrenzten Aufgabengebiet und Verantwortungsbereich betrauten Organisationseinheiten in einem Unternehmen, ohne die das Unternehmen seinen Betriebszweck und seine Unternehmensziele nicht erfüllen kann.Betriebliche Funktionen sind auf betriebliche Leistungsfaktoren gerichtete Aufgaben, die am Betriebszweck und an Unternehmenszielen orientiert sind. Während der Betriebszweck das Sachziel (Herstellung oder Handel von oder mit bestimmten Gütern/Dienstleistungen) verfolgt, sind die Unternehmensziele als Formalziele auf die Gewinnerzielung ausgerichtet. Um diese Ziele zu erreichen, muss ein Betrieb organisatorische Vorkehrungen treffen und Aufgabenträger benennen.In der betrieblichen Aufbauorganisation sind die zu erfüllenden Aufgaben nach dem Verrichtungsprinzip zusammengefasst, so dass eine Gliederung nach Funktionen entsteht. Die Fachliteratur unterscheidet dabei zwischen betrieblichen Grundfunktionen und Querschnitts- bzw. Servicefunktionen.Grundfunktionen sind Aufgabengebiete, ohne die ein Betrieb nicht funktionieren kann:
+Die Beschaffung befasst sich mit dem Einkauf von Roh-, Hilfs- und Betriebsstoffen (bei Produktionsbetrieben) und Fertigerzeugnissen (im Handel).
+Die Produktion beinhaltet die Erstellung von materiellen und immateriellen Gütern und/oder Dienstleistungen.
+Der Vertrieb (Absatz) befasst sich mit dem Verkauf der produzierten Güter und/oder Dienstleistungen am Markt.
+Die Finanzierung umfasst alle Prozesse, die sich auf die monetäre Versorgung und Steuerung zwischen Kapitalbeschaffung und Kapitalverwendung beziehen.Die Querschnitts- oder Servicefunktionen weisen einen direkten Bezug zu den betrieblichen Grundfunktionen auf:
+Die Unternehmensleitung ist mit der Unternehmensführung betraut, ihr werden oft die Aufgaben der Organisation und Planung zugeordnet.
+Das Personalwesen befasst sich mit der Beschaffung, Betreuung und Verwaltung des Personals.
+Die Verwaltung ist mit administrativer Tätigkeit betraut.
+Die Information befasst sich mit der Informationsgewinnung und Informationsverarbeitung.
+Die Forschung und Entwicklung hat die Aufgabe, neue Produkte/Dienstleistungen zu erfinden und bestehende weiterzuentwickeln.
+Die Logistik soll für einen optimalen Zusammenfluss von Material-, Wert- und Informationsströmen sorgen.Die Finanzierung wird manchmal zu den Querschnittsfunktionen gerechnet, weil argumentiert wird, dass sie den anderen Grundfunktionen diene.Jede dieser betrieblichen Funktionen verursacht vor und während des Produktionsprozesses und danach Kosten, so dass diese in folgende Kostenarten eingeteilt werden können:
+
+Beschaffung: Anschaffungskosten,
+Produktion: Herstellungskosten,
+Vertrieb und Logistik: Vertriebskosten
+Finanzierung: Finanzierungskosten,
+Unternehmensleitung und Information: kalkulatorischer Unternehmerlohn bei Selbstorganschaft,
+Personalwesen: Personalaufwand,
+Verwaltung: Verwaltungskosten und
+Forschung und Entwicklung: Forschungs- und Entwicklungskosten

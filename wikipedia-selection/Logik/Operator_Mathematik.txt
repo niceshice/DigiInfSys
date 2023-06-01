@@ -1,0 +1,239 @@
+Ein Operator ist eine mathematische Vorschrift, durch die man aus mathematischen Objekten neue Objekte bilden kann. Er kann eine standardisierte Funktion oder eine Vorschrift über Funktionen sein. Anwendung finden die Operatoren bei Rechenoperationen, also bei manuellen oder bei maschinellen Berechnungen.Standardisierte Operatoren werden in der Mathematik meist dann definiert, wenn es sich um eine häufige, immer wiederkehrende Vorschrift handelt, meist eine ein- oder zweistellige Verknüpfung. Die Argumente dieser Verknüpfung heißen Operanden. Die Operatoren werden durch ein spezielles, kennzeichnendes mathematisches Symbol (ein spezielles Schriftzeichen der Formelschreibweise) dargestellt.Beispiele:
+
+die für die Grundrechenarten verwendeten Operatoren, also das Pluszeichen „+“ für Addition, das Minuszeichen „−“ für Subtraktion, die Malzeichen „·“, „×“ oder „*“ für die Multiplikation, und für die Division die Geteiltzeichen „÷“, „:“, „/“ und der Bruchstrich
+der einstellige Operator für die Gegenzahl, der ebenfalls mit Minus „−“ geschrieben wird
+das Verkettungszeichen „
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+  “ für die Komposition von Funktionen
+der Klassenbildungsoperator 
+  
+    
+      
+        {
+        ∣
+        }
+      
+    
+    {\displaystyle \{\mid \}}Die Argumente, auf die man einen Operator anwendet, heißen Operanden. Beim Ausdruck 
+  
+    
+      
+        1
+        +
+        2
+      
+    
+    {\displaystyle 1+2}
+   sind also die Zahlen 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   und 
+  
+    
+      
+        2
+      
+    
+    {\displaystyle 2}
+   die Operanden, die mit dem zweiseitigen Operator 
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+   verknüpft sind.In der Funktionalanalysis hat man es mit Vektorräumen zu tun, deren Elemente selbst Funktionen sind. Um die Elemente dieser Vektorräume besser von den Abbildungen zwischen solchen Vektorräumen zu unterscheiden, nennt man letztere auch Operatoren. Abbildungen von Funktionenräumen in den Körper der reellen oder komplexen Zahlen heißen auch Funktional. Spezielle Klassen von Operatoren sind etwa kompakte Operatoren oder Fredholm-Operatoren.Bekannte Beispiele für Operatoren, die einer Funktion eine Zahl oder eine andere Funktion zuordnen, sind:
+
+Der Differentialoperator 
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  d
+                
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\mathrm {d} }{\mathrm {d} x}}}
+    zur Bildung von Differentialen.
+Der Volterraoperator 
+  
+    
+      
+        
+          
+            ∫
+            
+              0
+            
+            
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \int _{0}^{t}}
+   zur Bildung des bestimmten Integrals. Operatoren wie diese, die einer Funktion eine Zahl zuordnen, nennt man Funktional.
+Der Nabla-Operator 
+  
+    
+      
+        ∇
+      
+    
+    {\displaystyle \nabla }
+   zur Bestimmung des Gradienten einer mehrdimensionalen Funktion.In Funktionalanalysis betrachtet man Eigenschaften von Abbildungen zwischen (unendlichdimensionalen) Banachräumen. Lineare Abbildungen heißen lineare Operatoren, nichtlineare Abbildungen werden nichtlineare Operatoren genannt.Observablen in der Quantenmechanik sind Operatoren. Sie werden meist nach der zu messenden Größe benannt: der Operator zur Ortsmessung heißt dann der Ortsoperator 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {x} }}}
+  . Entsprechend gibt es den Impulsoperator 
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {p} }}}
+  , den Spinoperator 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    s
+                  
+                  →
+                
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\vec {\mathbf {s} }}}}
+   usw.
+Der Operator zur Energie wird Hamilton-Operator genannt und mit 
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {H}}}
+   bezeichnet. Er kommt insbesondere in der Schrödinger-Gleichung 
+  
+    
+      
+        
+          i
+        
+        ℏ
+        
+          
+            
+              ∂
+              
+                ∂
+                t
+              
+            
+          
+        
+        
+          |
+        
+        
+        ψ
+        (
+        t
+        )
+        ⟩
+        =
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        
+          |
+        
+        
+        ψ
+        (
+        t
+        )
+        ⟩
+      
+    
+    {\displaystyle \mathrm {i} \hbar {\tfrac {\partial }{\partial t}}|\,\psi (t)\rangle ={\hat {H}}|\,\psi (t)\rangle }
+   vor.
+Der Dichteoperator 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   gibt für ein Ensemble die Wahrscheinlichkeit an, mit der sich ein herausgegriffenes System in einem bestimmten Zustand befindet.

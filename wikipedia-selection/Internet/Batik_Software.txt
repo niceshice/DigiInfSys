@@ -1,0 +1,3 @@
+Batik ist ein Projekt der Apache Software Foundation zur Entwicklung einer freien Softwarekomponente für die Darstellung (Rasterung), das Erzeugen und die Manipulation von Scalable Vector Graphics (SVG). Diese wird in Java entwickelt und ist als freie Software unter der Apache Software License plattformübergreifend erhältlich.
+Das Projekt wurde zunächst von IBM unterstützt und der Code dann der Apache Software Foundation gespendet, woraufhin sich auch andere Firmen und Entwickler(gruppen) an der Entwicklung beteiligten.
+Lange Zeit war es die vollständigste SVG-1.1-Implementierung und bestand als solche fast 94 % der offiziellen SVG-Tests in Version 1.7. (Mittlerweile steht es an zweiter Stelle knapp hinter Opera.)

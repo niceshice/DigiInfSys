@@ -1,0 +1,78 @@
+Arbeitsleid (oder Arbeitsaversion, englisch disutility of effort) ist in der Ökonomie die bei der Erbringung der Arbeitsleistung aufkommende Anstrengung und Arbeitsbelastung, welche von einer Arbeitskraft zum Teil auch als unerträgliche physisch-psychische Beeinträchtigung ihres Lebens empfunden wird.Zentrale Tauschbeziehung im Leben eines Arbeitnehmers ist der Tausch Arbeit gegen Arbeitsentgelt, wobei der Arbeitsaufwand einen Kostenfaktor darstellt, der im übertragenen Sinn als Arbeitsleid wahrgenommen wird. Aus utilitaristischer Sicht ist Arbeit mit Arbeitsleid verbunden, dem man sich in der Arbeitswelt zum Zwecke der Einkommenserzielung unterzieht, Freizeit dagegen wird als ein lebensweltliches Gut definiert, das einen originären Nutzen hat. Arbeit wird mithin erbracht, wenn der Nutzen der Arbeit (Arbeitsentgelt, Sicherheit, Prestige, sozialer Status, Macht) das Arbeitsleid übersteigt. Das Arbeitsleid wird deshalb als die Summe aus dem „eigentlichen“ Arbeitsleid (das ist der mit der Arbeitstätigkeit direkt verbundene Nutzenentgang) und dem entgangenen Freizeitnutzen definiert.Arbeitsleid ist mit der Anstrengung durch körperliche oder geistige Arbeit und dem Verzicht auf Freizeit verbunden. Die geistige und körperliche Arbeitsleistung ist physiologisch ein Verbrauchsvorgang, der zunächst die Energievorräte der beteiligten Organe erschöpft, gleichzeitig aber auch den gesamten Organismus in Mitleidenschaft zieht; mit dem Energieverbrauch sinkt die Arbeitskurve und steigt das Arbeitsleid. Auch der Arbeitsweg (vor allem bei Pendlern) trägt mit zum Arbeitsleid bei; er hat mehr Auswirkungen auf die körperliche und psychische Gesundheit als man von einer vergleichbar langen Tätigkeit erwarten würde.In der Industrie- und Arbeitssoziologie gelten als Arbeitsleid die negativen Erlebnisse der Arbeitenden im Arbeitsprozess aufgrund körperlicher Anstrengung, psychischer Belastung und sozialer Unfreiheit.Das Wort „Arbeit“ stand von der jüngsten bis zur ältesten Sprachstufe immer für „Mühsal“, „Plage“, „Not“, „Beschwerde“. Bereits das Alte Testament verband die Arbeitstätigkeit mit Mühe. „Verflucht sei der Acker um Deinetwillen. Mit Mühsal sollst du dich von ihm nähren dein Leben lang“ (Genesis 3,17 ). „Der wird uns trösten in unserer Arbeit und der Mühsal unserer Hände auf dem Acker, den der Herr verflucht hat“ (Genesis 5,29 ). Die alten Griechen verachteten schwere Arbeit (griechisch πόνος, pónos; „Arbeit“, „Mühsal“, „Strafe“) und überließen sie deshalb den Sklaven oder Tragtieren. Aristoteles setzte diese schwere Arbeit in seiner Nikomachischen Ethik mit Sklavenarbeit gleich. Nicht diese Arbeit, sondern angemessene Tätigkeit (griechisch πρᾶξις, praxis) kennzeichnete den Bürger. Die römische Mythologie kannte ein Pendant für leidvolle Arbeit (lateinisch labor), ihr Ursprung wird im Schwanken der Sklaven unter ihrer schweren Last vermutet. Bei Vergil ist in dessen 37 vor Christus verfassten Lehrgedicht Georgica das Motto „harte Arbeit siegt über alles“ zu finden (lateinisch labor omnia vincit). Noch heute findet sich im Französischen die Mühsal in der lateinischen Urform wieder (französisch labeur). Dementsprechend gab es in der Antike eine Geringschätzung der Arbeit, die durch den Zwangscharakter der Arbeitsverhältnisse bis hin zu massenhafter Sklaverei ihren konkreten Ausdruck fand.Der englische Nationalökonom Adam Smith sprach in seinem Grundlagenwerk Der Wohlstand der Nationen (März 1776) vom Arbeitsleid als der Anstrengung und Mühe (englisch toil and trouble), die aufgewendet werden müssten, um ein Gut zu erwerben. Der aus dem Genuss der Freizeit resultierende Freizeitnutzen führe dazu, dass Arbeit für den Arbeitnehmer keinen direkten Nutzen stifte, sondern im Gegenteil Arbeitsleid (englisch disutility, „sozialer Unwert“, „Disnutzen“) verursache.
+Die österreichische Schule nahm überwiegend an, dass der Mensch bei der Arbeit Arbeitsleid empfinde: Bereits im Jahre 1911 stufte Arthur Salz den Arbeitslohn als eine Entschädigung für das bei der Güterproduktion erduldete Arbeitsleid ein. Der Nationalökonom Friedrich Lenz ging 1927 von der Grundannahme einer „natürlichen Trägheit“ (lateinisch vis inertiae) aus, die nur durch Anstöße von außen her überwunden werden und in soziale Aktivität umschlagen könne. „Von einer bestimmten Arbeitsmenge an verwandelt sich die Lust in Unlust“, wobei erst ein kritisches Arbeitsvolumen zum Arbeitsleid führt. Ludwig von Mises glaubte 1940, dass man in der Arbeit und im Arbeitsleid größerem Leid entkommen könne, weil „man arbeitet, um zu vergessen“.Der Industriesoziologe Wilhelm Baldamus ging 1961 auch im Hinblick auf das Arbeitsleid von gegensätzlichen Interessen aus: „Da Löhne Personalkosten für die Arbeitgeber bedeuten und die im Arbeitsleid liegenden Entbehrungen auch Kosten für die Arbeitnehmer darstellen, stehen sich die Interessen der Arbeitgeber und Arbeitnehmer diametral gegenüber“.Die Prinzipal-Agent-Theorie führte erstmals 1978 auf Seite des „Agents“ (Arbeitnehmer) das Arbeitsleid ein. Seine Handlungen bedeuten für ihn Anstrengungen, die ihm Nutzeneinbußen verursachen und die er deshalb scheut. Die Theorie unterstellte im 1987 entwickelten LEN-Modell, dass der Arbeitgeber („Prinzipal“) vom Arbeitnehmer („Agent“) ein hohes Anstrengungsniveau erwartet, während der Arbeitnehmer lediglich ein geringes Anstrengungsniveau vorzieht. Je höher die Anstrengung, desto weniger möchte der Arbeitnehmer arbeiten. Ihm fällt die Anstrengung zur Last, was seinen Freizeitnutzen mindert. Dieses so genannte Arbeitsleid 
+  
+    
+      
+        c
+        (
+        x
+        )
+      
+    
+    {\displaystyle c(x)}
+   ist eine Funktion, die vom Anstrengungsniveau 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   abhängt. Sie kann als Kosten für seine Anstrengung interpretiert werden:
+
+  
+    
+      
+        c
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c(x)=x^{2}}
+  Das Arbeitsleid des Agenten steigt hier überproportional mit zunehmender Anstrengung, da 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in der Funktion quadriert wird. Um das höhere, vom Arbeitgeber präferierte Anstrengungsniveau zu wählen, muss der Agent dementsprechend für das entstandene Arbeitsleid entschädigt werden. Somit treffen beide eine Vereinbarung, bei der der Agent sich zu einer gewissen Entscheidung und der Prinzipal sich zu einer Kompensationszahlung verpflichtet. Der Nettolohn 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   des Agenten für seine Arbeit ist somit die Entlohnung durch den Prinzipal abzüglich des Arbeitsleides:
+
+  
+    
+      
+        w
+        =
+        p
+        (
+        f
+        )
+        −
+        c
+        (
+        x
+        )
+      
+    
+    {\displaystyle w=p(f)-c(x)}
+  Der Arbeitssoziologe Christian von Ferber promovierte 1955 mit dem Thema „Arbeitsfreude, Arbeitsinteresse und Arbeitszufriedenheit. Ein Beitrag zur Soziologie der Arbeit in der industriellen Gesellschaft“. Nachfolgend verfasste er zahlreiche Beiträge zum Arbeitsleid, so etwa 1959, als er die enge Auslegung des Begriffs Arbeit in der Sozialwissenschaft kritisierte. Im Jahre 1964 verstand er Arbeitsleid als die „relative Versagung der Wünsche und Ziele …, die unsere Wohlstandssituation sich setzt“.Arbeitsleid stellt neben dem entgangenen Freizeitnutzen eine mit der Erwerbsarbeit verbundene negative Komponente dar; subjektive Unterschiede in der Intensität des Arbeitsleids sind allerdings nicht messbar. Je länger der Arbeitsweg ist, je mehr Arbeitsvolumen pro Zeiteinheit erbracht wird und je länger die Soll-Arbeitszeit ausgedehnt wird (Mehrarbeit), umso größer wird das Arbeitsleid. Dem Arbeitsleid entspricht in der Arbeitsphysiologie die Arbeitsbelastung, wozu auch Ärger, Frustrationen, Monotonie, Stress oder Unlust gehören.Im Falle des Arbeitsverhältnisses stellt das Arbeitsentgelt Nutzen für den Arbeitnehmer und Personalkosten für den Arbeitgeber dar. Entsprechend verursacht die Arbeitsleistung Arbeitsleid und Opportunitätskosten. Durch den Arbeitseinsatz entsteht bei der Arbeitskraft ein Disnutzen, den er im Austausch für das Arbeitsentgelt erträgt. Um einen höheren als den minimalen Arbeitseinsatz zu erzielen, muss der Arbeitgeber einen Anreiz (Bonuszahlung, Incentive) anbieten.Arbeitgeber und Arbeitnehmer können auch wählen, ob das Arbeitsleid finanziell durch Arbeitslohn entgolten und/oder durch die Gestaltung von Arbeitsinhalt, Arbeitsplatz, Arbeitsumgebung oder Arbeitszeit abgemildert werden soll. Der Arbeitslohn ist daher nicht nur die Gegenleistung für eine bestimmte Arbeitsleistung, sondern auch Abgeltung für die „während des Produktionsprozesses ertragene Arbeitsqual“. Das Arbeitsleid ist die (psychische) Reaktion des arbeitenden Menschen auf den Wert der Arbeit. Steigt der Reallohn, steigt auch das Arbeitsangebot, weil die Opportunitätskosten für den Konsum von Freizeit steigen.Bei Arbeitslosigkeit gibt es kein Arbeitsleid. Die gezahlte staatliche Transferleistung (Arbeitslosengeld) hindert Arbeitslose mehr oder weniger daran, Arbeit zu suchen (siehe Moral Hazard). Die Arbeitssuche stellt aus Sicht der Arbeitslosen nämlich einen Nutzenverlust aus entgangener Freizeit dar. Deshalb muss das angebotene Arbeitsentgelt einerseits die entgangene Arbeitslosenhilfe kompensieren und andererseits einen Ausgleich für das mit der Beschäftigung erwartete Arbeitsleid darstellen, dessen Höhe allerdings geringer ist als der (unbedingte) Erwartungswert des Arbeitsleids.Privathaushalte müssen sich bei der Verfolgung des Ziels der Nutzenmaximierung zwischen Arbeitszeit und Freizeit entscheiden, denn jeder Haushalt besitzt ein Budget an Zeit, welches er zwischen Arbeit und Freizeit aufteilen muss. Für jede Stunde Arbeitszeit entstehen ihm Opportunitätskosten in Höhe des Nutzens der entgangenen Freizeit; diese Kosten heißen Arbeitsleid. Nach dem Ersten Gossenschen Gesetz steigt mit sinkender Freizeit (steigender Arbeit) der Nutzen der verbleibenden Zeit, so dass der Preis der Freizeit steigt und somit der Anstieg des Arbeitsleids pro zusätzlicher Arbeitseinheit („Grenzleid der Arbeit“) ansteigt. Das Grenzleid der Arbeit gibt für alle Tätigkeiten in Geldeinheiten an, welches Arbeitsleid bzw. welche Arbeitsfreude damit verbunden ist, eine bestimmte Tätigkeit übernehmen zu müssen oder zu dürfen.
+
+
+== Einzelnachweise ==

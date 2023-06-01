@@ -1,0 +1,20 @@
+The Need for Speed war das erste Spiel der Need-for-Speed-Serie und wurde erstmals 1994 für den 3DO veröffentlicht. 1995 wurde der Konsolen-Titel für den PC portiert, 1996 erschien der Titel auf der PlayStation und dem Sega Saturn.Im Spiel stehen acht Fahrzeuge zur Auswahl, die man auf sieben (in der Special Edition neun) verschiedenen Strecken ausfahren kann, davon drei Punkt-zu-Punkt-Strecken und vier Rundstrecken. Wer im Wettkampfmodus alle sieben Rennen gewinnt, bekommt eine geheime Bonusstrecke (Lost Vegas) freigeschaltet, die wohl in Las Vegas bei Nacht spielen soll, was sich durch wenige Texturen am Streckenrand auszeichnet, und auf der zuvor undenkbare Geschwindigkeiten gefahren – beziehungsweise durch einen großen Sprung geflogen – werden können.
+Eine Besonderheit des Spiels ist es, dass die Rennen auf normal befahrenen Straßen unter Polizeiverfolgung gespielt werden. Es gibt einen Multiplayer-Modus über Nullmodem. Außergewöhnlich sind auch die umfangreichen Replayfunktionen mit Rückwärtslauf und Zeitlupe, über die die nachfolgenden Teile nicht oder nicht mehr so detailliert verfügen.
+Ferner erschien 1996 eine Special Edition mit neuen Wagen und Strecken sowie der Möglichkeit, das Spiel im Netzwerk mit acht Spielern zu spielen.
+Das Spiel entstand in Zusammenarbeit mit der US-amerikanischen Auto-Zeitschrift „Road & Track“, die genaue technische Details und viele Bilder und Videos zu den Autos beisteuerte. Egon Hoegen war in der deutschen Version der Sprecher für diese Beschreibungen der Fahrzeuge. The Need for Speed hatte eine der realistischsten Fahrphysiken seiner Zeit, auch ABS und Traktionskontrolle wurden – soweit in den jeweiligen Fahrzeugen vorhanden – realistisch umgesetzt. Ungewöhnlich für Autorennspiele dieser Zeit war auch, dass die Fahrtrichtung nicht vorgeben war, so dass man sogar den Wagen auf der Strecke wenden konnte. Auch sogenannte "Donuts" waren möglich. Die Grafik-Engine nutzte vorberechnete BSP-Bäume, um zu bestimmen, von welchen Positionen aus welche Polygone der Landschaft zu sehen sein mussten. Das Ergebnis war eine bis dahin unerreicht realistische Grafik, die ab einem Pentium 120 auch in VGA-Auflösung (640 × 480 Pixel mit 256 Farben) für die damalige Zeit sehr opulent war. Von den Originalfahrzeugen gesampelte Motor- und Fahrgeräusche sorgten für einen sehr realistischen und bei jedem Fahrzeug individuellen Sound.
+Die britische Zeitschrift PC Power gab dem Spiel dementsprechend eine Wertung von 95 % und lobte gerade das Handling, die Grafik und die Aufmachung des Spiels, kritisierte jedoch unter anderem den Sound.Das Spiel stellt acht Fahrzeuge zur Verfügung:
+
+Mazda RX-7
+Honda NSX
+Toyota Supra
+Porsche 911
+Chevrolet Corvette ZR-1
+Dodge Viper RT/10
+Ferrari 512 TR
+Lamborghini Diablo VTDas Bonus-Fahrzeug in der „Special Edition“ wird  „Warrior PTO E/2“ genannt.City (3 Streckenabschnitte)
+Coastal (3 Streckenabschnitte)
+Alpine (3 Streckenabschnitte)
+Rusty Springs Raceway
+Autumn Valley Speedway
+Vertigo Ridge
+Lost Vegas (Bonus)Zusätzlich stehen in der „The Need for Speed Special Edition“ die Strecken „Burnt Sienna“ und „Transtropolis“ zur Verfügung.

@@ -1,0 +1,692 @@
+Die Skolemform gehört zu den mathematischen Darstellungen der Prädikatenlogik, um Argumente zu formalisieren und auf ihre Gültigkeit zu überprüfen. Die Skolemform ist eine logische Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   mit Variablen, die keinen Quantifikator, kurz Quantor zur Existenz hat, also ohne 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   „es existiert“. Diese Form wurde nach dem norwegischen Mathematiker Albert Thoralf Skolem (1887–1963) benannt. 
+Logischen Formeln 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   sind erfüllbar, wenn mindestens eine Belegung der Variablen zu einer wahren Aussage führt. Algorithmen zur Prüfung der Erfüllbarkeit nutzen oft die Skolemform, da jede Formel genau dann erfüllbar ist, wenn ihre Skolemform erfüllbar ist. Die Skolemform ist ferner ein praktischer Zwischenschritt, wenn eine logische Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   in die Klausel-Normalform umgeformt werden soll oder bei der Erzeugung eines Herbrand-Universums.
+Die Skolemform hat keine Existenzquantoren 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+  , alle Ausdrücke 
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+   sind aufgelöst. 
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+   bedeutet „es existiert mindests ein 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  “ – mit einer bestimmten Eigenschaft. Variablen 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , die an Existenzquantoren 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   gebunden sind, werden durch neue Funktions- oder Konstantensymbole ersetzt. Die Argumente der neuen Funktionssymbole haben Allquantoren 
+  
+    
+      
+        ∀
+        
+
+        
+        x
+      
+    
+    {\displaystyle \forall {}x}
+   – sprich: "es gilt für alle 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ".Eine Formel 
+  
+    
+      
+        
+          F
+          
+            0
+          
+        
+      
+    
+    {\displaystyle F_{0}}
+   wird in die Skolemform gebracht, indem sie als Bereinigte Normalform in der Pränex-Normalform dargestellt wird, kurz als bereinigte Pränexform. Auf diese Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   wird der folgende Algorithmus anwendet:
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   habe die Form 
+  
+    
+      
+        F
+        =
+        ∀
+        
+          y
+          
+            1
+          
+        
+        ∀
+        
+          y
+          
+            2
+          
+        
+        .
+        .
+        .
+        ∀
+        
+          y
+          
+            n
+          
+        
+        ∃
+        x
+        G
+      
+    
+    {\displaystyle F=\forall y_{1}\forall y_{2}...\forall y_{n}\exists xG}
+  
+Setze 
+  
+    
+      
+        
+          F
+          ′
+        
+        :=
+        ∀
+        
+          y
+          
+            1
+          
+        
+        ∀
+        
+          y
+          
+            2
+          
+        
+        .
+        .
+        .
+        ∀
+        
+          y
+          
+            n
+          
+        
+        G
+        
+          [
+          
+            x
+            
+              /
+            
+            f
+            
+              (
+              
+                
+                  y
+                  
+                    1
+                  
+                
+                ,
+                .
+                .
+                .
+                ,
+                
+                  y
+                  
+                    n
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle F':=\forall y_{1}\forall y_{2}...\forall y_{n}G\left[x/f\left(y_{1},...,y_{n}\right)\right]}
+  
+Die Schritte werden wiederholt, bis 
+  
+    
+      
+        
+          F
+          ′
+        
+      
+    
+    {\displaystyle F'}
+   keinen Existenzquantor 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   mehr enthält.
+  
+    
+      
+        G
+        
+          [
+          
+            x
+            
+              /
+            
+            w
+          
+          ]
+        
+      
+    
+    {\displaystyle G\left[x/w\right]}
+   steht für eine beliebige Formel 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , in der 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   durch 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   ersetzt wurde. 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   ist ein in 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   noch nicht vorkommendes 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelliges Funktionssymbol. Die Stelligkeit 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   von 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   ist bestimmt durch die Anzahl Allquantoren 
+  
+    
+      
+        ∀
+      
+    
+    {\displaystyle \forall }
+   vor dem zu skolemisierenden Symbol. Nullstellige Funktionssymbole sind Konstanten. 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   heißt auch Skolemfunktion, im Fall 
+  
+    
+      
+        n
+        =
+        0
+      
+    
+    {\displaystyle n=0}
+   ist 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   eine Skolemkonstante.
+Als Ergebnis erhält man die Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   in Skolemform 
+  
+    
+      
+        
+          F
+          ′
+        
+      
+    
+    {\displaystyle F'}
+  . Andere Bezeichnungen sind Skolemisierung von 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   oder auch Skolem’sche Normalform. 
+Zu beachten ist, dass bei der beschriebenen Umformung nicht notwendigerweise die logische Äquivalenz erhalten bleibt. Die Umformung erhält zwar die Erfüllbarkeit der Formel und ist somit erfüllbarkeitsäquivalent, ist aber nicht modellerhaltend: Weil das Funktionssymbol neu interpretiert werden muss, erfüllt eine Interpretation, welche die ursprüngliche Formel erfüllt, nicht notwendigerweise auch die skolemisierte Formel.
+  
+    
+      
+        F
+        :=
+        ∃
+        x
+        ∃
+        y
+        ∀
+        w
+        ∃
+        z
+        
+          (
+          
+            P
+            
+              (
+              
+                x
+                ,
+                y
+                ,
+                w
+              
+              )
+            
+            ∨
+            Q
+            
+              (
+              
+                z
+                ,
+                x
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F:=\exists x\exists y\forall w\exists z\left(P\left(x,y,w\right)\vee Q\left(z,x\right)\right)}
+  
+ist in Bereinigter Pränexform. Der oben aufgeführte Algorithmus führt zu folgenden Schrittten:
+
+Zuerst wird 
+  
+    
+      
+        ∃
+        
+          x
+        
+      
+    
+    {\displaystyle \exists {x}}
+   durch die neu eingeführte nullstellige Funktion 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   ersetzt: 
+  
+    
+      
+        
+          F
+          ′
+        
+        :=
+        ∃
+        y
+        ∀
+        w
+        ∃
+        z
+        
+          (
+          
+            P
+            
+              (
+              
+                a
+                ,
+                y
+                ,
+                w
+              
+              )
+            
+            ∨
+            Q
+            
+              (
+              
+                z
+                ,
+                a
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F':=\exists y\forall w\exists z\left(P\left(a,y,w\right)\vee Q\left(z,a\right)\right)}
+  
+
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   wird danach als Ersetzung für 
+  
+    
+      
+        ∃
+        
+          y
+        
+      
+    
+    {\displaystyle \exists {y}}
+   eingeführt: 
+  
+    
+      
+        
+          F
+          ″
+        
+        :=
+        ∀
+        w
+        ∃
+        z
+        
+          (
+          
+            P
+            
+              (
+              
+                a
+                ,
+                b
+                ,
+                w
+              
+              )
+            
+            ∨
+            Q
+            
+              (
+              
+                z
+                ,
+                a
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F'':=\forall w\exists z\left(P\left(a,b,w\right)\vee Q\left(z,a\right)\right)}
+  
+Dann wird 
+  
+    
+      
+        ∃
+        
+          z
+        
+      
+    
+    {\displaystyle \exists {z}}
+   ersetzt. Dafür wird die einstellige Funktion 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   eingeführt. Sie erhält als Argument die per Allquantor gebundene Variable 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+  , da der Allquantor vor dem Existenzquantor steht. 
+  
+    
+      
+        
+          F
+          ‴
+        
+        :=
+        ∀
+        w
+        
+          (
+          
+            P
+            
+              (
+              
+                a
+                ,
+                b
+                ,
+                w
+              
+              )
+            
+            ∨
+            Q
+            
+              (
+              
+                f
+                
+                  (
+                  w
+                  )
+                
+                ,
+                a
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F''':=\forall w\left(P\left(a,b,w\right)\vee Q\left(f\left(w\right),a\right)\right)}
+  Nun liegt die Formel in Skolemform mit den Konstanten 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   und einem einstelligen Funktionssymbol 
+  
+    
+      
+        f
+        (
+        w
+        )
+      
+    
+    {\displaystyle f(w)}
+   vor.

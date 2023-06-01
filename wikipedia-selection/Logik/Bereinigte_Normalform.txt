@@ -1,0 +1,214 @@
+In der Prädikatenlogik heißt eine Formel bereinigt, wenn
+
+keine Variable in der Formel einmal als freie und als gebundene Variable vorkommt,
+hinter jedem Quantor eine andere Variable steht.Zu jeder Formel gibt es eine äquivalente bereinigte Formel.
+Jede Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   lässt sich durch geeignete, gebundene Umbenennung in eine bereinigte Form überführen.F
+        :=
+        ∀
+        x
+        ∃
+        y
+        
+          (
+          
+            P
+            
+              (
+              
+                x
+                ,
+                y
+              
+              )
+            
+            ∧
+            Q
+            
+              (
+              
+                x
+                ,
+                z
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F:=\forall x\exists y\left(P\left(x,y\right)\wedge Q\left(x,z\right)\right)}
+  
+
+  
+    
+      
+        G
+        :=
+        ∃
+        u
+        
+          (
+          
+            ∀
+            v
+            P
+            
+              (
+              
+                u
+                ,
+                v
+              
+              )
+            
+            ∨
+            Q
+            
+              (
+              
+                v
+                ,
+                v
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle G:=\exists u\left(\forall vP\left(u,v\right)\vee Q\left(v,v\right)\right)}
+  
+In der Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   sind die Variablen 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   und 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   gebunden und 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   ist frei. 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   ist somit bereinigt. In der Formel 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   sind alle Vorkommen der Variable 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   gebunden, allerdings tritt 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   sowohl gebunden als auch frei auf. 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   ist daher nicht in bereinigter Form. Eine Überführung für 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   ist folgende Umbenennung (bei der Umbenennung müssen die gebundenen Variablen umbenannt werden):
+
+  
+    
+      
+        
+          G
+          ′
+        
+        :=
+        ∃
+        u
+        
+          (
+          
+            ∀
+            w
+            P
+            
+              (
+              
+                u
+                ,
+                w
+              
+              )
+            
+            ∨
+            Q
+            
+              (
+              
+                v
+                ,
+                v
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle G':=\exists u\left(\forall wP\left(u,w\right)\vee Q\left(v,v\right)\right)}

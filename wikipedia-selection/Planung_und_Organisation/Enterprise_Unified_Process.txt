@@ -1,0 +1,17 @@
+Der Enterprise Unified Process (EUP) ist eine erweiterte Variante des Rational Unified Process und wurde ab 1999 von Scott W. Ambler und Larry Constantine entwickelt. Eine grundlegende Überarbeitung und erneute Veröffentlichung wurde 2005 durch Ambler, John Nalbone und Michael Vizdos vorgenommen.
+EUP wurde schließlich durch das Disciplined Agile Delivery (DAD) Toolkit ersetzt und 2019 vom Project Management Institute übernommen.Die Hauptmotivation für EUP waren einige Schwächen des RUP, speziell in den Bereichen system support und retirement für Softwaresysteme. Beide Bereiche wurden jeweils als neue Phase angefügt. Zusätzlich wurden neue Projekt- und Unternehmens-Arbeitsschritte definiert, um den gesamten Lebenszyklus eines Softwaresystems aus Unternehmenssicht abzudecken. RUP ist damit nur ein Teilbereich des EUP.
+Diese Ergänzungen dienen einerseits der Organisation von Softwareprojekten aus Sicht des Kunden und definieren andererseits die Bereiche im Unternehmen, die vor und nach Softwareprojekten einen wesentlichen Beitrag zum Projekterfolg leisten. In dieser Unternehmenssicht spielen (neben dem Software-Lebenszyklus) noch andere Lebenszyklen eine Rolle, da das Softwaresystem in den IT-Lebenszyklus und dieser wieder in den Unternehmenslebenszyklus eingebunden ist. Mit Unternehmen ist hier immer das Unternehmen gemeint, das die Software auch tatsächlich einsetzt.
+Wie auch RUP beschreibt der Enterprise Unified Process ein idealtypisches Organisations- und Vorgehensmodell. Er schafft einen Überblick über alle Aktivitäten, Rollen und Erzeugnisse, die für erfolgreiche Planung und Einsatz von Softwareprojekten im Unternehmen notwendig sind. Wie bei allen Vorgehensmodellen ist vor dem Einsatz in einem konkreten Unternehmen eine Anpassung (tailoring) notwendig, um a) auf die spezifischen Unternehmensbedingungen Rücksicht nehmen zu können und b) eine der Unternehmenslernkurve angepasste, stufenweise Übernahme der einzelnen Praktiken und Methoden zu gewährleisten.
+Ebenso wie RUP, ist der Enterprise Unified Process im Großen sequentiell, im Kleinen iterativ ("serial in the large and iterativ in the small").Konzeptionsphase
+Entwurfsphase
+Konstruktionsphase
+Übergabephase
+Produktion
+AußerbetriebnahmeFolgende Vorgehensweise wird für die Einführung von EUP im Unternehmen vorgeschlagen. Es muss aber jedes Unternehmen für sich entscheiden, wo die dringendsten Probleme liegen und mit welchen EUP-Elementen begonnen werden sollte.
+
+Software Process Improvement
+Phase "Production" und Arbeitsschritt "Operations und Support"
+Enterprise Business Modelling, Enterprise Architecture und Portfolio Management
+People Management und Enterprise Administration
+Strategic Reuse
+Phase "Retirement"

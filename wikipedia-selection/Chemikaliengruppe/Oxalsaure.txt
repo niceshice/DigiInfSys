@@ -1,0 +1,239 @@
+Oxalsäure (systematischer Name: Ethandisäure, historisch: Kleesäure und Acidum oxalicum) ist die einfachste Dicarbonsäure. Ihre Salze heißen Oxalate (systematisch: Ethandioate). Oxalsäure ist ein Reduktionsmittel und kann daher quantitativ durch Titration mit einem Oxidationsmittel wie Kaliumpermanganat bestimmt werden, dabei entsteht Kohlenstoffdioxid als Oxidationsprodukt.Oxalsäure wurde 1769 durch Johann Christian Wiegleb im Sauerklee (Oxalis acetosella, daher der Name) als Kaliumsalz entdeckt und war daher erst unter dem Namen Kleesäure bekannt. 1776 konnte sie in größeren Mengen durch Carl Wilhelm Scheele und Torbern Olof Bergman durch Oxidation von Zucker mit Salpetersäure hergestellt werden, was noch keine Synthese, sondern der Abbau eines Naturstoffes war. (Auf dieses Verfahren geht auch der historische Name Zuckersäure, womit heute Glucarsäure bezeichnet wird, zurück.)
+Oxalsäure wurde dann 1824 erstmals von Friedrich Wöhler künstlich aus anorganischen Grundstoffen hergestellt (synthetisiert durch Verseifung von Dicyan, (CN)2).Oxalsäure und ihre Salze kommen in größeren Mengen in Rhabarber (180–765 mg/100 g Frischgewicht, Stiele) und anderen Knöterichgewächsen (Polygonaceen) vor wie z. B. Alpen-Ampfer und Sauerampfer (830–1770 mg/100 g), das meiste davon in den Blattspreiten, weshalb nur die Stiele der Rhabarberblätter nach dem Kochen zum Verzehr geeignet sind. Auch Sternfrüchte (Averrhoa carambola) enthalten viel Oxalsäure (40–1000 mg/100 g Frischsubstanz). In ähnlichen Mengen kommt Oxalsäure aber auch im namensgebenden  Sauerklee (Oxalis), Mangold (110–940 mg/100 g Frischgewicht), Spinat (120–1330 mg/100 g Frischgewicht), Petersilie (0–185 mg/100 g Frischgewicht), Kakao (338–480 mg/100 g), Schokolade (80–200 mg/100 g) und Roten Rüben (17–329 mg/100 g Frischgewicht) vor. Ferner wird Oxalsäure von vielen Pilzen ausgeschieden; ihre Produktion wird durch alkalische Reaktion der Nährlösung gefördert.Heutzutage wird Oxalsäure durch rasches Erhitzen von Natriumformiat auf 360 °C hergestellt.
+
+  
+    
+      
+        
+          2
+           
+          H
+          C
+          O
+          O
+          N
+          a
+          ⟶
+          N
+          a
+          O
+          O
+          C
+          
+            −
+          
+          C
+          O
+          O
+          N
+          a
+          +
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ HCOONa\longrightarrow NaOOC{-}COONa+H_{2}} }
+  Das erhaltene Natriumoxalat wird mit Calciumhydroxid zunächst in das schwerlösliche Calciumoxalat überführt:
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              2
+            
+          
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          C
+          a
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          C
+          a
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          N
+          a
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {Na_{2}C_{2}O_{4}+Ca(OH)_{2}\longrightarrow CaC_{2}O_{4}+2\ NaOH} }
+  Daraus wird durch Zugabe von Schwefelsäure das Endprodukt Oxalsäure freigesetzt; als Nebenprodukt entsteht Calciumsulfat:
+
+  
+    
+      
+        
+          C
+          a
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          C
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CaC_{2}O_{4}+H_{2}SO_{4}\longrightarrow H_{2}C_{2}O_{4}+CaSO_{4}} }
+  Die weltweite Produktion von Oxalsäure und ihren Estern liegt bei 140.000 Tonnen pro Jahr.Oxalsäure ist durch die Nachbarstellung der Carboxygruppen eine starke Säure. Beim Erhitzen über 150 °C zerfällt sie unter Bildung von Kohlenstoffmonoxid, Kohlenstoffdioxid und Wasser. Die Zersetzung erfolgt in zwei Schritten über die Bildung von Ameisensäure:
+
+  
+    
+      
+        
+          H
+          O
+          O
+          C
+          
+            −
+          
+          C
+          O
+          O
+          H
+          ⟶
+          H
+          C
+          O
+          O
+          H
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HOOC{-}COOH\longrightarrow HCOOH+CO_{2}} }
+  
+
+  
+    
+      
+        
+          H
+          C
+          O
+          O
+          H
+          ⟶
+          C
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {HCOOH\longrightarrow CO+H_{2}O} }
+  In ähnlicher Weise zerfällt Oxalsäure in konzentrierter Schwefelsäure sofort zu Kohlenstoffmonoxid, Kohlenstoffdioxid und Wasser. Oxalsäure kristallisiert aus wässrigen Lösungen mit zwei Molekülen Kristallwasser zum Oxalsäure-Dihydrat [(COOH)2 · 2 H2O]. Oxalsäure und ihre löslichen Salze sind gesundheitsschädlich.Oxalsäure kann zur Entfernung von Rostflecken oder als Bleichmittel verwendet werden.
+In der Imkerei wird Oxalsäure als Winterbehandlung zur Bekämpfung der Varroamilbe eingesetzt. Sie wird 3,5-%ig (berechnet für Oxalsäure-Dihydrat, die effektive Oxalsäurekonzentration beträgt 2,5 %) in einer wässrigen Zuckerlösung (50 %ige Saccharoselösung) auf die Bienen geträufelt oder dreiprozentig besprüht. Sie wird in ihrer kristallinen Form als Dihydrat auch in Tabletten- oder Pulverform in sogenannten Verdampfern angewendet. Dabei sublimiert sie als feiner Niederschlag im Bienenstock, wo sie durch die Arbeiterinnen verteilt wird. Der Verdampfer ist eine Konstruktion aus einem mit einigen Gramm Oxalsäuredihydrat befüllten Metallbehälter, der von unten meist durch ein Teelicht befeuert wird. Zweckmäßigerweise wird der Verdampfer in eine oben auf das Bienenvolk aufgesetzte und durch engmaschiges Kunststoff- oder Metallgewebe von diesem getrennte Leerzarge im Bienenstock eingebracht. Durch die Abtrennung der Bienen können diese das Teelicht nicht durch Flügelschlag auslöschen. Diese Behandlungsform ist in Deutschland bisher nicht zugelassen.
+Im analytischen Labor wird das Dihydrat der Oxalsäure als Urtitersubstanz für die Manganometrie verwendet. Weiterhin dient sie als Urtitersubstanz zur exakten Gehaltbestimmung von alkalischen Maßlösungen, etwa von Natronlauge. Durch die Bildung eines schwer löslichen Calcium-Salzes ist es außerdem zur gravimetrischen Bestimmung von Calcium-Ionen als Calciumoxalat von Bedeutung. Darüber hinaus wird Oxalsäure zum Messen von Ammoniak in der Außenluft verwendet, indem die Innenröhren sogenannter Denuder mit Oxalsäure beschichtet werden und das entstehende Reaktionsprodukt analysiert wird.Im Fichtelgebirge wurde aus Sauerklee gewonnene Oxalsäure zum Bleichen von Quarz (Bergkristall) benutzt, welcher hier vorwiegend unter der Stadt Weißenstadt vorkommt.
+Oxalsäure (Kleesalz) wird zum Glanzpolieren von Marmor verwendet.
+In der Holzbearbeitung dient Oxalsäure als mildere Bleiche (im Vergleich zum Wasserstoffperoxid) für Holz und wird vor allem zur Entfernung von schwarzen Flecken verwendet, die durch eine Reaktion von Gerbsäuren (Inhaltsstoffe des Holzes) mit Metall entstanden, beispielsweise durch Kontakt von gerbsäurehaltigen Hölzern mit eisernen Werkzeugen.In der Arzneistoff-Chemie wird Oxalsäure als Salzbildner eingesetzt. Durch Protonierung basischer Amine entstehen so Oxalate.Oxalsäure und Oxalate werden durch die Nahrung aufgenommen und entstehen als Stoffwechselprodukt beim Abbau von Aminosäuren und Ascorbinsäure. Die Ausscheidung erfolgt über den Urin. Je nach Nahrung stammen 5 – 50 % der im Harn ausgeschiedenen Oxalsäure aus der Nahrung. Wenn innerhalb von 24 Stunden mehr als 45 mg (=0,5 mmol) ausgeschieden wird, so spricht man von einer Hyperoxalurie. Damit steigt das Risiko einer Ausfällung von schwer löslichem Calciumoxalat in Form von Nierensteinen.
+Oxalsäure ist in höherer Konzentration gesundheitsschädlich, kommt in geringer Konzentration aber in Lebensmitteln wie Tee (insbesondere schwarzer Tee und Pfefferminztee, siehe auch Vorkommen) und in Wurzeln und Rinden zahlreicher Pflanzen als unlösliches Calciumoxalat vor. Calciumoxalat entsteht in der Natur häufig beim Absterben von Pflanzenzellen. Es kann unter polarisiertem Licht in Form heller rechteckiger Kristalle erkannt werden (besonders einfach in braunen Zwiebelschalen).
+Nierensteine bestehen meist aus Calciumoxalat und Harnsäure, die Steinbildung wird aber durch Citronensäure, welche in Früchten vorkommt, verhindert.
+Da Oxalsäure die Resorption (Aufnahme) von Eisen im Darm erschwert, sollte man bei einer Eisentherapie, z. B. im Rahmen einer Eisenmangelanämie, mit dem Verzehr stark oxalsäurehaltiger Lebensmittel zurückhaltend sein und diese auch nicht gleichzeitig mit Eisentabletten zu sich nehmen. Nach Aufnahme von Oxalsäure kommt es im betroffenen Gewebe zu einer Verarmung an Calcium, in schweren Fällen kann dies eine Schädigung des Herzens zur Folge haben. Nach Aufnahme von größeren Dosen kann es zu Lähmungserscheinungen kommen, in jedem Fall (auch bei leichten Vergiftungen) kommt es zu Nierenschäden durch verstopfte Nierenkanälchen. Die niedrigste (bekannte) letale Dosis beim Menschen (LDLo, oral) wird mit 600 mg pro kg Körpergewicht angegeben.Auch für Weidetiere sind stark oxalsäurehaltige Pflanzen (z. B. Stumpfblättriger Ampfer) nicht bekömmlich und werden gemieden. Da die Oxalsäure beim Heuen nicht verschwindet, sind stark derartig verkrautete Wiesen für die Heuernte problematisch.

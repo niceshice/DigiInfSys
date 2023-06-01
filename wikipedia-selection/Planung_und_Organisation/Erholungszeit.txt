@@ -1,0 +1,93 @@
+Die Erholungszeit ist in der Produktionswirtschaft und im Arbeitsstudium eine persönliche Ruhezeit, die eine Arbeitskraft zur Wiederherstellung ihrer körperlichen und geistigen Leistungsfähigkeit benötigt, um dauerhafte Normalleistung erbringen zu können.Die REFA-Methodenlehre kennt viele Zeitbegriffe, zu denen unter anderem auch die Vorgabezeit (oder Hauptzeit, Tätigkeitszeit) und Zwischenzeit (einschließlich Wartezeit) gehören; aus Vorgabe- und Zwischenzeit zusammen ergibt sich die Grundzeit. Die Vorgabezeit lässt sich ermitteln, indem zur Grundzeit und der Erholungszeit die Verteilzeit (sachlich und persönlich bedingte) hinzugerechnet wird. Die REFA sieht die Erholungszeit als einen Bestandteil der Arbeitszeit und definiert sie als die Summe der Sollzeiten aller Ablaufabschnitte, die erforderlich sind, damit eine Arbeitsperson sich von einer vorhergehenden, über der Dauerleistungsgrenze liegenden, aus einer Arbeitsbelastung resultierenden Arbeitsbeanspruchung erholen kann.Die Erholungszeit gehört dabei zur personalbedingten Liegezeit und zur persönlichen Ruhezeit, ist mithin ein Teil der Zwischenzeit. Erholungszeiten sind keine Arbeitspausen, die zur Kategorie der überbetrieblichen Ruhezeiten gehören. Die Erholungszeit ist eine Sollzeit für erholungsbedingtes Unterbrechen.Es handelt sich also nicht um eine Arbeitspause im Sinne des Arbeitszeitgesetzes, sondern um eine Unterbrechung der Arbeit, die abhängig von der Art der durchzuführenden Arbeiten anfällt und möglichst unmittelbar nach der Beanspruchung vorzusehen ist. Dabei können unter Umständen Zeiten für ablaufbedingtes Unterbrechen und störungsbedingtes Unterbrechen als Erholungszeiten ausgewiesen werden. Durch geeignete Arbeitsstrukturierung, insbesondere durch die Arbeitsorganisation des Jobrotation, kann oft statt durch eine Erholungszeit die Beanspruchung auch durch einen Belastungswechsel ausgeglichen werden.Erholungszeiten können wie folgt eingeordnet werden:
+                                                        Ruhezeit                        
+                       ┌────────────────────────────────────┴──────────────────────────────────┐                
+                betrieblich bedingt                persönlich bedingt             überbetrieblich bedingt
+               ┌───────┴──────┐                  ┌──────────┴──────────────┐                   ┴         
+          Wartezeit      Wartezeit        Erholungszeit           Zeiten vermeidbarer     Arbeitspausen
+        (ablaufbedingt) (störungsbedingt)                         Untätigkeit
+                                                                            
+
+Die Ruhezeit gliedert sich in betrieblich, persönlich und überbetrieblich bedingte Ruhezeiten. Die Erholungszeit ist eine persönlich bedingte Ruhezeit.Die Erholungszeit soll dem Arbeitnehmer Gelegenheit zur Überwindung arbeitsbedingter Ermüdung geben. Die REFA-Methodenlehre unterscheidet dabei zwischen biologischer Ermüdung, Arbeitsermüdung und Antriebsermüdung. Lediglich die Arbeitsermüdung ist für die Ermittlung des Erholungszeitbedarfs als Zuschlag zur Grundzeit bestimmend. Auch Zeiten, die der Arbeitnehmer zur wenig anstrengenden Überwachung der Maschinenarbeit oder eines Veränderungsvorgangs bei Werkstoffen verwendet, können in den meisten Fällen als Erholungszeit von vorangegangener anstrengender körperlicher Tätigkeit angesehen werden. Generell ist es möglich, die der Arbeitskraft für ihre Handarbeit zu gewährende Erholungszeit ganz oder teilweise in die arbeitsablaufbedingten Wartezeiten zu verlegen.Es gibt eine Anzahl von Verfahren, um erforderliche Erholungszeiten zu ermitteln. Da es sich hierbei um eine Rechtsfrage des Tarif- und Arbeitsrechts handelt, kann nicht ein beliebiges herangezogen werden. REFA weist auf folgende Verfahren hin:
+
+Analytisches Verfahren zur Erholungszeitermittlung,
+Ermittlung der Erholungszeiten mit Hilfe von Tafeln für den Energieumsatz,
+Physiologische Verfahren zur Erholungszeitermittlung und
+langandauernde Zeitaufnahmen („Langzeitaufnahme“).Neben diesen Angaben gehört ein REFA-Standardprogramm Erholungszeitermittlung zur REFA-Methodenlehre. Das Verfahren ist unter Arbeitswissenschaftlern durchaus umstritten. Es weist aber die Vorzüge auf, in seiner Anwendung leicht erlernbar zu sein, relativ wenig Anwendungsaufwand zu verursachen und vor allem, als REFA-Methode, mit den Tarifparteien abgestimmt zu sein. Dies erleichtert erheblich die betriebliche Anwendung in einem umstrittenen Tarifgebiet.
+Die Erholungszeit 
+  
+    
+      
+        
+          t
+          
+            e
+            r
+          
+        
+      
+    
+    {\displaystyle t_{er}}
+   kann auch in Form eines prozentualen Erholungszuschlages 
+  
+    
+      
+        
+          Z
+          
+            e
+            r
+          
+        
+      
+    
+    {\displaystyle Z_{er}}
+   zur Grundzeit 
+  
+    
+      
+        
+          t
+          
+            g
+          
+        
+      
+    
+    {\displaystyle t_{g}}
+   angegeben werden:
+
+  
+    
+      
+        
+          Z
+          
+            er
+          
+        
+        =
+        
+          
+            
+              t
+              
+                er
+              
+            
+            
+              t
+              
+                g
+              
+            
+          
+        
+        ⋅
+        100
+      
+    
+    {\displaystyle Z_{\text{er}}={\frac {t_{\text{er}}}{t_{\text{g}}}}\cdot 100}
+  .Angesichts erheblicher Fortschritte in der Automatisierung, der Arbeitsgestaltung und vor dem Hintergrund der erheblichen Verlagerung körperlich arbeitsintensiver Produktionsprozesse ins Ausland sind Erholungszeitermittlungen in Deutschland nur noch selten erforderlich.Arbeitspausen, deren minimale Dauer und Häufigkeit in § 4 ArbZG geregelt ist, betreffen die aus dem biologischen Tagesrhythmus eines Menschen (Cirkadianrhythmus, Arbeitskurve) entstammende, zyklische Ermüdung, die auch ganz ohne Arbeit eintritt. Sie dienen ferner der Einnahme von Mahlzeiten in hygienischen Umgebungen und der Aufnahme sozialer Kontakte. Die Erholung dagegen wird erforderlich, um einer durch die Arbeit zusätzlich hervorgerufenen Ermüdung zu begegnen. Umgangssprachlich kann die Erholungszeit mit der Ruhezeit verwechselt werden, der arbeitsfreien Zeit zwischen zwei Arbeitstagen. Bei dieser handelt es sich aber um einen nicht zur Arbeitszeit gehörenden Bestandteil der Zeit nach § 5 Abs. 1 ArbZG, die mindestens 11 Stunden betragen muss.
+
+
+== Einzelnachweise ==

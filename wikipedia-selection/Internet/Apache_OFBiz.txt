@@ -1,0 +1,17 @@
+Apache OFBiz ist ein Open-Source-Enterprise-Resource-Planning-System (ERP). OFBiz ist ein Toplevel-Projekt der Apache Software Foundation und stellt verschiedene Unternehmensapplikationen zur Verfügung. Diese Unternehmensapplikationen integrieren und automatisieren viele übliche Unternehmensprozesse. OFBiz steht bzw. stand für Open For Business, wird offiziell nicht mehr geführt.OFBiz wurde 2001 von David E. Jones und Andrew Zeneski bei sourceforge veröffentlicht und war eine Zeitlang auf java.net gehostet. Am 10. Januar 2006 wurde OFBiz als Apache Projekt vorgeschlagen und am 31. Januar 2006 nach einer Abstimmung in den Inkubationsprozess aufgenommen.Apache OFBiz ist eine Enterprise Application Development Framework welches ein gemeinsames Datenmodell sowie einen umfangreichen Satz von Geschäftsprozessen für Unternehmen bereitstellt.
+Die Applikationen basieren auf einer gemeinsamen Architektur, welche Daten-, Logik- und Prozesskomponenten bereitstellt.
+Neben dem Framework bietet Apache OFBiz u. a. folgende Funktionalitäten:
+
+E-Commerce
+Katalog- und Produktmanagement (PIM)
+Content-Management-System (CMS)
+Lagerverwaltungssystem (WMS)
+Bestandsführung
+Bestellverwaltung
+Customer Relationship Management (CRM)
+Buchhaltung (Verträge, Rechnungen, Faktura, Hauptbuch)
+Asset Maintenance
+Produktionssteuerung (MES)
+Personalverwaltung (HR)
+Verwaltung von Personen, Abteilungen und Organisationen
+ProjektmanagementApache OFBiz ist ein Framework basierend auf Jakarta EE. Die Anwendung ist als dreischichtige Architektur realisiert.Apache OFBiz verwendet ein Screen-Konzept zum Aufbau und Anzeige der Seiteninhalte. Jede Seite wird durch einen Screen repräsentiert. Eine Seite besteht aus verschiedenen Komponenten, bspw. dem Header, Footer, Menü usw. Beim Rendern der Seite werden alle Komponenten anhand der Screen Definition kombiniert. Komponenten können FreeMarker Templates oder Forms und Menü Widgets sein. Widgets sind eine Apache OFBiz spezifische Technologie.Die Logikschicht definiert Geschäftslogiken und -prozesse, welche dem Anwender zur Verfügung gestellt werden. Services können in unterschiedlichen Technologien wie Java, Groovy und der OFBiz eigenen, XML basierten Mini Language realisiert werden. Eine Service Engine ist verantwortlich für die Validierung und den Aufruf der Services und kümmert sich um die Sicherheit und das Transaktionsverhalten. Services können dabei auch als Webservices nach außen verfügbar gemacht werden.Die Datenschicht ist verantwortlich für den Datenbankzugriff, Datenspeicherung und Bereitstellung eines einheitlichen Schnittstelle für die Logikschicht. Die sog. Entity Engine sorgt für eine datenbankunabhängige Zugriffslogik und ist aufgrund ihres ausgefeilten Cachings sehr performant. OFBiz wird standardmäßig mit IBM Derby SQL Datenbank ausgeliefert. Diese dient nur zum testen bzw. Evaluation, im produktiv Betrieb werden unter anderem folgende Datenbanksysteme unterstützt, PostgreSQL, MySQL, Oracle, Microsoft SQL Server und andere. Und implementiert ein umfangreiches Datenmodell.OFBiz setzt auf in der aktuellen Version auf Java 1.8, gradle, Groovy und lässt sich gut in IntelliJ einbinden.

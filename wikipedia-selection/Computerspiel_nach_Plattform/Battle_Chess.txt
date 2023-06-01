@@ -1,0 +1,8 @@
+Battle Chess ist ein erstmals 1988 erschienenes Schachprogramm des US-Spielentwicklers Interplay.Die Besonderheit des Programms liegt in den 3D-Animationen. Das Schlagen von Figuren wird durch kurze animierte Spielszenen dargestellt, in denen sich die Schachfiguren gegenseitig bekämpfen. Die Kämpfe können, anders als beim zuvor erschienenen Archon, welches sich nur lose an Schach orientiert, nicht von den Spielern beeinflusst werden. „Sieger“ ist immer die schlagende Figur.Die Idee zum Spiel stammt vermutlich aus dem Film Futureworld – Das Land von Übermorgen von 1976.
+Das Spiel war Vorbild für eine Reihe von Titeln wie zum Beispiel Star Wars Chess.Das Spiel erschien zunächst für Amiga 500/600 (OCS/ECS) und IBM PC (DOS) und wurde in den darauffolgenden Jahren auf zahlreiche weitere Systeme portiert:
+
+1989 Atari ST, Commodore 64, Apple IIgs
+1990 Apple II, Nintendo Entertainment System
+1991 Amiga CDTV, PC (MS Windows)
+1993 3DO
+1994 Amiga CD³² (ECS/AGA)Im Jahr 1991 wurde Battle Chess für den PC herausgegeben. Im selben Jahr erschien eine Fortsetzung namens Battle Chess II: Chinese Chess, basierend auf Xiangqi, allgemein bekannt als „chinesisches Schach“. Im nächsten Jahr erschien Battle Chess 4000, dessen Animationen Science-Fiction-Filme und Fernsehserien parodieren, wie z. B. eine Kampf-Sequenz, die den Monolithen aus 2001: A Space Odyssey umfasst. Ein ähnliches Spiel, mit dem Namen Battle vs. Chess, wurde von TopWare Interactive entwickelt. Interplay gewann eine Urheberrechtsklage, wodurch das Spiel nicht rechtzeitig veröffentlicht werden konnte. Battle vs. Chess wurde jetzt am 17. Mai 2011 veröffentlicht.

@@ -1,0 +1,60 @@
+Everything as a Service (auch Anything as a Service), kurz XaaS (auch EaaS), bezeichnet einen Ansatz, „alles“ als Service zur Verfügung zu stellen und zu konsumieren. Damit ist es der konsequente letzte Schritt, nachdem es bereits Software, Laufzeitumgebungen und Hardware as a Service gibt.
+
+Man unterscheidet in diesem Zusammenhang folgende Teile:Unter SaaS versteht man ein Geschäftsmodell, Software nicht länger als Lizenz an einen Benutzer zu verkaufen, sondern lediglich die Benutzung selbiger als Service zur Verfügung zu stellen. Vergleichbar ist dieser Unterschied mit demjenigen zwischen einem Autokauf und einem Mietwagen, da dort ebenfalls eine Abrechnung "per use" erfolgt. Besonders vorangetrieben wurde diese Entwicklung durch Webservices, die in der Regel pro Aufruf abgerechnet werden.
+Beispiele für Software as a Service sind Microsoft Office 365 oder Google Apps.Unter PaaS versteht man den Ansatz, eine integrierte Laufzeit- (und evtl. auch Entwicklungs-) -umgebung als einen Dienst zur Verfügung zu stellen, für den der Nutzer zahlen muss. Bekannte Beispiele dafür sind SAP Cloud Platform, Google App Engine, Force.com und Microsoft Azure.Unter IaaS versteht man ein Geschäftsmodell, das entgegen dem klassischen Kaufen von Rechnerinfrastruktur („Mein Server steht in meinem Keller.“) vorsieht, diese bei Bedarf (on demand) zu mieten. Daraus ergeben sich eine Vielzahl von Anwendungsmöglichkeiten, u. a.:
+
+einmalige Anwendungen werden bezahlbar
+Belastungsspitzen werden abgefangen
+plötzliches Wachstum ist ohne Probleme möglich (Skalierbarkeit)
+brachliegende Kapazitäten können sofort wieder freigegeben werden
+für selten ausgeführte Anwendungen muss nicht extra Infrastruktur vorgehalten werden
+durch die dazu nötige Virtualisierungstechnologie wird ein einfaches Softwaretesting auf den unterschiedlichsten Plattformen möglichDer möglicherweise bekannteste Anbieter von IaaS ist Amazon Web Services mit Produkten wie EC2 für Rechenleistung und S3 für Speicher. Ein international aktiver deutscher Anbieter von Managementsoftware für heterogene IaaS ist Zimory. IaaS-ERP-Software wird u. a. von SAP angeboten. Daneben haben sich IT-Dienstleister auf gezielte Service-Administration spezialisiert.Neben den etablierten as a Service-Anwendungen gibt es auch noch weitere, die diskutiert oder vereinzelt auch schon angewendet werden. Oftmals handelt es sich dabei um bereits vorher bestehende Ansätze, die im Zuge der Cloudifizierung ebenfalls as a Service genannt werden oder neu auch als Dienst angeboten werden. Ihre Zugehörigkeit zum XaaS-Stack sind jedoch z. T. umstritten. Einige Beispiele dazu sind:High Performance Computing as a Service ist ein Bereich, der sich mit dem Hochleistungsrechnen beschäftigt und dies als einen Dienst zur Verfügung stellen möchte. Dabei geht es auch darum, Anwendungen aus dem Grid Computing umzusetzen, indem quasi ein Grid als Dienst zur Verfügung gestellt wird.Data Intensive Computing as a Service beschreibt ebenso wie HPCaaS die eher wissenschaftliche Anwendung von Cloud Computing. Im Gegensatz dazu geht es hierbei allerdings weniger um extrem rechenaufwändige Aufgaben als vielmehr um die Verarbeitung (und Speicherung) sehr großer Datenmengen im Petabyte-Bereich, wie sie beispielsweise am CERN im LHC entstehen.Unter Humans as a Service versteht man, menschliche Intelligenz wie einen Webservice zu nutzen. Dabei kommen vergleichbare Abrechnungsmodelle zur Anwendung, und es wird oftmals darauf gesetzt, dass es sehr viele Menschen gibt, die ihre Dienste anbieten. Interessant ist dies überwiegend für niedrig qualifizierte Tätigkeiten wie bspw. Bilderkennung, die ein Computer nicht oder nur sehr schlecht oder langsam erledigen kann. Meist werden HuaaS-Dienste durch Marktplätze vermittelt, auf denen Anbieter und Konsumenten zusammentreffen. Ein bekanntes Beispiel hierfür ist Amazon Mechanical Turk.Artificial Intelligence as a Service bedeutet, dass Drittanbieter ihre KI Fähigkeiten anderen zur Verfügung stellen. Damit sinken die Kosten für jeden, der künstliche Intelligenz für sich nutzen möchte erheblich. Die größten Anbieter hierfür sind Amazon (AWS SageMaker), Google (Google Cloud), Microsoft (Azure AI) und IBM (IBM Watson). Der AIaas Markt erreichte bereits 2017 ein Volumen von knapp $2.5 Milliarden und wird bis 2025 schätzungsweise auf über $77 Milliarden anwachsen.Vereinzelt findet man auch Ansätze wie
+
+Backend as a Service (BaaS)
+Backup as a Service
+Banking as a Service (BaaS)
+Blockchain as a Service (BaaS)
+Business Process as a Service (BPaaS)
+Communications as a Service
+Compliance as a Service
+Consensus as a Service
+Container as a Service
+Crime as a Service
+Cybercrime as a service
+Crypto as a Service
+Data as a Service
+Database as a Service (DBaaS)
+Data center as a service (DCaaS)
+Desktop as a Service
+Device as a Service (Vermietung von Computer-Hardware wie z. B. PCs und Drucker inkl. Wartung und Support.)
+Disaster-Recovery-as-a-Service (DRaaS)
+Encryption as a Service
+Feature Flag as a Service
+Function as a Service (FaaS)
+Games as a Service (GaaS)
+Gaming as a Service (GaaS)
+Graph Database as a Service (GDaaS)
+Graphics as a Service (Gaas)
+Identity as a Service (IDaaS)
+Jitsi as a Service
+Kubernetes-Clusters-as-a-Service
+Load Balancer as a Service (LBaaS)
+Logging as a Service
+Metering as a Service
+Messaging as a Service
+Mobility as a Service (MaaS)
+Monitoring as a Service
+Music as a Service
+Network as a Service
+PCaaS
+(Private) Cloud as a Service
+Ransomware as a Service (RaaS)
+Security as a Service
+Sensing as a Service
+Storage as a Service
+Storage Backend as a Service (SBaaS)
+Supercomputing as a Service
+Surface as a Service (das "Surface" bezieht sich auf die Surface-Tablets von Microsoft)
+Workplace as a Service (WaaS)und andere. Je nach Blickwinkel kann man diese in die klassischen drei (IaaS, PaaS und SaaS) einordnen.
+Von Canonical gibt es mit Metal as a Service (MAAS) eine Software, um einfach Hardware-Server einzurichten. Der Name soll ausdrücken, dass hiermit das Einrichten von physischen Servern so einfach ist wie das Einrichten von Servern in der Cloud.Viele Service-Provider benutzen diesen Ansatz, um ihren Kunden gegenüber ihre Dienstleistung as-a-Service kurz, prägnant und modern klingend darzustellen. Doch je mehr Anbieter aus unterschiedlichen Anwendungsbereichen diese Ansätze mit denselben Anfangsbuchstaben nutzen (siehe die BaaS-Modelle), desto weniger relevant ist dieser Vereinfachungs-Versuch und kann unter Umständen das Gegenteil bewirken, nämlich den Kunden verwirren.
+Dies führt dazu, dass die Anbieter zusätzlich erklären müssen, worum es sich bei der abgekürzt dargestellten Dienstleistung handelt. Wer im Netz nur nach diesen Abkürzungen sucht, bekommt damit häufig uneindeutige Ergebnisse geliefert. Besonders stark zeigt sich das bei Baas und Maas, für die man ohne weiteres eine zweistellige Anzahl von Dienstleistungen finden kann, die as-a-service angeboten werden.

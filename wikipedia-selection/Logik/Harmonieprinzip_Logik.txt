@@ -1,0 +1,163 @@
+Das Harmonieprinzip (engl. principle of harmony) ist ein metalogisches Prinzip, das für Kalküle des natürlichen Schließens fordert, dass sich die Einführungs- und Beseitigungsregeln für logische Operatoren in „Harmonie“ befinden sollen, das heißt grob gesprochen, dass die Beseitigungsregel für einen gegebenen Operator nicht den Übergang zu logisch stärkeren Aussagen erlaubt, als durch die Einführungsregel gedeckt ist. Der Terminus wurde von Michael Dummett geprägt; die Idee, dass es ein Harmonieprinzip geben müsse, wurde jedoch schon von Gerhard Gentzen vorweggenommen.Gentzen hat 1934 vorgeschlagen, die logischen Operatoren semantisch zu charakterisieren, indem für jeden Operator ein Paar aus Einführungs- und Beseitigungsregel angegeben wird. Die Einführungsregel gibt an, unter welchen Bedingungen eine Aussage gefolgert werden darf, die den betreffenden Operator als Hauptoperator enthält; die Beseitigungsregel gibt an, was aus einer solchen Aussage gefolgert werden darf. Beispielsweise sehen die Regeln für die Konjunktion in einem Kalkül des natürlichen Schließens folgendermaßen aus:
+
+  
+    
+      
+        ∧
+        E
+        :
+         
+        
+          
+            
+              A
+              
+              B
+            
+            
+              A
+              ∧
+              B
+            
+          
+        
+        
+        
+          
+            
+              A
+              
+              B
+            
+            
+              B
+              ∧
+              A
+            
+          
+        
+      
+    
+    {\displaystyle \wedge E:\ {\frac {A\quad B}{A\wedge B}}\qquad {\frac {A\quad B}{B\wedge A}}}
+  
+Aus zwei Aussagen A und B kann die Konjunktion „A und B“ geschlossen werden (Regel der Konjunktionseinführung).
+Beispiel: Aus den Aussagen „Skolem war Norweger“ (A) und „Skolem war Logiker“ (B) kann geschlossen werden: „Skolem war Norweger und Logiker“ (A ∧ B).
+  
+    
+      
+        ∧
+        B
+        :
+         
+        
+          
+            
+              A
+              ∧
+              B
+            
+            A
+          
+        
+        
+        
+          
+            
+              A
+              ∧
+              B
+            
+            B
+          
+        
+      
+    
+    {\displaystyle \wedge B:\ {\frac {A\wedge B}{A}}\qquad {\frac {A\wedge B}{B}}}
+  
+Aus einer Konjunktion „A und B“ kann jedes einzelne Konjunkt, also sowohl A als auch B erschlossen werden (Regel der Konjunktionsbeseitigung).
+Beispiel: Aus „Skolem war Norweger und Logiker“ (A ∧ B) kann geschlossen werden: „Skolem war Norweger“ (A) – und auch „Skolem war Logiker“ (B).Gentzen und, ihm folgend, die Vertreter der beweistheoretischen Semantik gehen davon aus, dass durch diese Regeln die Bedeutung der logischen Operatoren angegeben wird. Arthur Prior hat in seinem Aufsatz „The runabout inference ticket“ auf ein mögliches Problem dieser Annahme hingewiesen: Was hindert uns daran, einen Junktor „tonk“ einzuführen, dessen Einführungsregel der der Adjunktionseinführung entspricht (aus A folgt A tonk B), dessen Beseitigungsregel aber der Konjunktionsbeseitigung entspricht (aus A tonk B folgt A)? Das würde die Ableitung jeder beliebigen Aussage aus beliebigen Prämissen erlauben und zu einer Trivialisierung der Logik führen:
+
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  A
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            A
+                             
+                            t
+                            o
+                            n
+                            k
+                             
+                            B
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            B
+                          
+                        
+                      
+                    
+                  
+                   
+                  t
+                  o
+                  n
+                  k
+                  B
+                
+              
+            
+          
+        
+         
+        t
+        o
+        n
+        k
+        E
+      
+    
+    {\displaystyle {\cfrac {A}{{\cfrac {A\ tonk\ B}{B}}\ tonkB}}\ tonkE}
+  Auf den ersten Blick ist das ein sehr starkes Argument gegen die Idee, dass die Regeln des Gebrauchs die Bedeutung eines Ausdrucks bestimmen. J. T. Stevenson hat in seinem Beitrag zu der von Prior ausgelösten Debatte daraus die Lehre gezogen, die Bedeutung der logischen Operatoren müsse bereits feststehen, bevor Folgerungsregeln angegeben werden, und die Folgerungsregeln hätten sich an dieser im Vorhinein (z. B. durch Wahrheitstafeln) festgelegten Bedeutung zu orientieren.Gentzen selbst hatte bereits die Notwendigkeit einer Harmonie zwischen Einführungs- und Beseitigungsregel gesehen:
+
+Die Einführungen stellen sozusagen die „Definitionen“ der betreffenden Zeichen dar, und die Beseitigungen sind letzten Endes nur Konsequenzen hiervon, was sich etwa so ausdrücken läßt: Bei der Beseitigung eines Zeichens darf die betreffende Formel, um deren äußerstes Zeichen es sich hier handelt, nur „als das benutzt werden, was sie aufgrund der Einführung dieses Zeichens bedeutet“. […] Durch Präzisierung dieser Gedanken dürfte es möglich sein, die B[eseitigungs]-Schlüsse auf Grund gewisser Anforderungen als eindeutige Funktionen der zugehörigen E[inführungs]-Schlüsse nachzuweisen.
+Der hier von Gentzen angedeutete Lösungsweg läuft darauf hinaus, die Einführungsregeln als semantisch primär zu betrachten und die Beseitigungsregeln aus ihnen abzuleiten; eine Möglichkeit dazu gibt das Inversionsprinzip (s. u.) an die Hand. Belnap und Dummett schlagen dagegen als Präzisierung der Harmonieforderung die definitionstheoretische Forderung nach Konservativität oder Nichtkreativität vor.Nuel Belnap argumentierte in seiner Replik auf Prior, dass unbeschadet der Tatsache, dass Regeln die Bedeutung eines Ausdrucks bestimmen, nicht beliebige (Paare von) Regeln dazu geeignet sind. Einführungs- und Beseitigungsregel müssen harmonisch sein, und das expliziert Belnap folgendermaßen: Die Regeln für einen neuen Operator dürfen nicht die Ableitung von Aussagen erlauben, die den neu eingeführten Ausdruck nicht enthalten und vorher nicht ableitbar waren. Der Operator tonk verletzt diese Forderung in augenfälliger Weise.
+Der Gedanke, dass in diesem Sinne eine Harmonie zwischen den Wahrheits- bzw. Behauptbarkeitsbedingungen einer Aussage und ihren Konsequenzen bestehen muss, wurde von Michael Dummett auch auf nichtlogisches Vokabular ausgedehnt:
+
+A simple case would be that of a pejorative term, e. g. ‘Boche’. The condition for applying the term to someone is that he is of German nationality; the consequences of its application are that he is barbarous and more prone to cruelty than other Europeans. [...] The addition of the term ‘Boche’ to a language which did not previously contain it would produce a non-conservative extension, i. e. one in which certain other statements which did not contain the term were inferable from other statements not containing it which were not previously inferable.
+Die Folgerungssequenz „Fritz ist Deutscher; also ist Fritz ein Boche; also ist Fritz grausam“ zeigt, dass die Einführung des Ausdrucks ‘Boche’ eine nicht-konservative Spracherweiterung darstellt: Die Aussage „Fritz ist grausam“ wäre ohne den Zwischenschritt über „Fritz ist ein Boche“ nicht aus der Aussage „Fritz ist Deutscher“ ableitbar. 
+Es ist jedoch fraglich, ob Nichtkonservativität bei nichtlogischem Vokabular ein Problem ist. Die Forderung nach Nichtkreativität für jeden neu eingeführten Ausdruck würde auf ein Verbot echter Spracherweiterungen hinauslaufen, was für natürliche Sprachen nicht plausibel ist.Dag Prawitz hat im Anschluss an Arbeiten von Paul Lorenzen vorgeschlagen, Harmonie im Rückgriff auf das sogenannte Inversionsprinzip zu explizieren: Es müsse eine Symmetrie zwischen Einführungs- und Beseitigungsregeln derart bestehen, dass der Gehalt einer Konklusion, die durch Anwendung einer Beseitigungsregel auf eine Prämisse P erreicht wird, nicht über das hinausgehen darf, was bereits in den Prämissen enthalten war, aus denen P mittels der zugehörigen Einführungsregel gefolgert wurde. Wenn beispielsweise aus A ∧ B A gefolgert wird, so ist das deswegen zulässig, weil A ∧ B (typischerweise) durch Anwendung der Konjunktionseinführung auf die Prämissen A und B gewonnen wird. Der Beweis für eine mittels Beseitigungsregel gewonnene Konklusion ist also bereits im Beweis für deren Prämissen enthalten, wenn die Hauptprämisse mittels der entsprechenden Einführungsregel gefolgert wurde. Die Bezeichnung Inversionsprinzip soll verdeutlichen, dass eine Anwendung einer Beseitigungsregel gewissermaßen nur rückgängig macht, was durch die zugehörige Einführungsregel geleistet wurde.Neil Tennant hat in Natural Logic folgendes Harmoniekriterium vorgeschlagen:
+
+Introduction and elimination rules for a logical operator λ must be formulated so that a sentence with λ dominant expresses the strongest proposition which can be inferred from the stated premises when the conditions for λ-introduction are satisfied; while it expresses the weakest proposition possible under the conditions described by λ-elimination.
+Wie sich die verschiedenen Kriterien für Harmonie zueinander verhalten (ob sie also beispielsweise aufeinander zurückführbar sind), ist bislang ungeklärt.

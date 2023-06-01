@@ -1,0 +1,430 @@
+Kohlensäure (H2CO3) ist eine anorganische Säure und das Reaktionsprodukt ihres Säureanhydrids Kohlendioxid (CO2) mit Wasser.
+Die Salze der zweiprotonigen Säure sind die Carbonate und Hydrogencarbonate.
+Ihre Ester werden ebenfalls Carbonate oder Kohlensäureester genannt. Technische Bedeutung haben die Polyester, die als Polycarbonate bezeichnet werden.
+Das Gas CO2 ist im Vergleich zu O2 und N2 relativ gut löslich in Wasser und reagiert zu einem geringen Anteil (etwa 0,2 %, je nach Temperatur und Druck) zu Kohlensäure:
+
+  
+    
+      
+        
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ CO_{2}+H_{2}O\ \rightleftharpoons \ H_{2}CO_{3}} }
+  Das Gas CO2 wird umgangssprachlich oft ungenau als Kohlensäure bezeichnet.
+Tatsächlich wird in der Wasserchemie gelöstes CO2 mit der eigentlichen Säure H2CO3 üblicherweise als freie Kohlensäure zusammengefasst.
+Sie steht der Summe von Carbonat und Hydrogencarbonat als der gebundenen Kohlensäure gegenüber.
+Kohlensäure spielt eine wichtige Rolle im Säure-Basen-Haushalt sowohl des Wassers als auch des Blutes und der Körperflüssigkeiten.
+Die Natur der Kohlensäure als gelöstes Kohlendioxid erkannte 1741 William Brownrigg. Für die Erfindung des Sodawassers ist allerdings Joseph Priestley bekannt (in seiner Zeit als Priester in Leeds ab 1767, wo ihm genug Kohlendioxid aus einer nahen Brauerei zur Verfügung stand).Gelöstes Kohlenstoffdioxid steht in wässriger Lösung im Gleichgewicht mit Kohlensäure:
+
+  
+    
+      
+        
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ CO_{2}+H_{2}O\ \rightleftharpoons \ H_{2}CO_{3}} }
+     (1)Die Erlenmeyer-Regel beschreibt die Instabilität von Molekülen mit zwei Hydroxygruppen am selben Kohlenstoff-Atom. Daher liegt das Gleichgewicht sehr weit auf der Seite des Anhydrids; der Anteil des Säuremoleküls liegt in wässriger Lösung bei nur rund 0,2 %. Dieser Anteil ist mäßig von der Temperatur abhängig. In Organismen wird die Reaktion durch das Enzym Carboanhydrase beschleunigt. Die Kohlensäure ist eine zweiprotonige Säure. Sie gibt daher ihre Protonen in zwei Dissoziationsstufen an Wasser oder andere Basen ab:
+
+  
+    
+      
+        
+           
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          H
+          C
+          
+            O
+            
+              3
+            
+            
+              
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ H_{2}CO_{3}+H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+HCO_{3}^{\,-}} }
+     (2)Der pKs-Wert der ersten Säurekonstante kann lediglich berechnet werden. Er liegt mit temperaturabhängigen Abweichungen eigentlich bei ca. 3,6. Kohlensäure ist damit eine mittelstarke Säure vergleichbar mit Essigsäure (pKs 4,76) und Ameisensäure (pKs 3,77). Da aber der Anteil der Kohlensäure gemäß Gleichung (1) schlecht zu bestimmen ist, werden die Reaktionen (1) und (2) zu (3) zusammengefasst:
+
+  
+    
+      
+        
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          H
+          C
+          
+            O
+            
+              3
+            
+            
+              
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ CO_{2}+2\ H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+HCO_{3}^{\,-}} }
+     (3)und ergeben den (fast immer genannten und experimentell bestimmbaren) Wert von ca. 6,5 für den pKs-Wert. Freie Kohlensäure ist damit eine schwache Säure. Reaktionsprodukt ist das Hydrogencarbonat-Ion HCO3−.
+
+  
+    
+      
+        
+           
+          H
+          C
+          
+            O
+            
+              3
+            
+            
+              
+              −
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          C
+          
+            O
+            
+              3
+            
+            
+              
+              2
+              −
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ HCO_{3}^{\,-}+H_{2}O\ \rightleftharpoons \ CO_{3}^{\,2-}+H_{3}O^{+}} }
+     (4)Der pKs-Wert für die zweite Säurekonstante liegt um 10,5. Reaktionsprodukt ist das Carbonat-Ion CO32−.
+Die Konzentrationen der drei (eigentlich vier) Kohlensäure-Spezies, also der freien Kohlensäure (H2CO3 und gelöstes CO2), des Hydrogencarbonats und des Carbonats sowie der Oxoniumionen stehen miteinander durch das Massenwirkungsgesetz in einem berechenbaren Zusammenhang.
+Die Konzentration der Oxoniumionen wird durch den pH-Wert ausgedrückt. Bei einem gegebenen pH-Wert ist somit das Mengenverhältnis der Spezies festgelegt.Bei pH 4 liegen über 99 % als Kohlendioxid/Wasser-Mischung vor. (z. B. in Mineralwasser)
+Bei einem pH-Wert von 6,5, der also gleich ist dem pKs der ersten Säurekonstante, liegt daneben gleich viel Hydrogencarbonat vor; der Anteil des Carbonats ist noch weit unter 1 %.
+Bei ca. pH 7,5 in Leitungswasser bestimmt das enthaltene Hydrogencarbonat in Verbindung mit wenig gelöstem Kohlendioxid den Säurehaushalt. (menschliches Blut mit pH 7,4 enthält Kohlendioxid und Hydrogencarbonat im Verhältnis 1 : 24)
+Etwa bei pH 8,3 liegt der maximale Anteil an Hydrogencarbonat mit ca. 98 % vor; je knapp 1 % sind Kohlendioxid und Carbonat. Dies ist der typische pH-Wert von Natrium- oder Kaliumhydrogencarbonat in Wasser. Auch abgekochtes Trinkwasser zeigt diesen pH, da gelöstes Kohlendioxid ausgetrieben wurde.
+Bis fast zur Trockene eingekochtes Trinkwasser zeigt einen pH von bis zu 9, da sich hierbei ein geringer Hydrogencarbonat-Anteil in Carbonat umwandelt (siehe Kesselstein-Bildung).
+Bei einem pH gleich dem pKs der zweiten Säurekonstante von 10,5 liegen gleiche Mengen Hydrogencarbonat und Carbonat sowie ein verschwindend geringer Anteil an Kohlendioxid vor.
+Bei pH 12,5 hat das Carbonat einen Anteil um 99 %, Hydrogencarbonat liegt bei knapp 1 %. Dies ist der typische pH-Wert von Natrium- oder Kaliumcarbonat in Wasser.Diese Eckwerte spiegeln die Zusammenhänge im vielfach genutzten Bicarbonat-Puffer wider.Kohlensäure wird für unzählige Produktionsprozesse weltweit eingesetzt, wobei sie dem Endverbraucher wohl am ehesten aus Erfrischungsgetränken bekannt sein dürfte.
+Jacob Schweppe entwickelte im späten 18. Jahrhundert ein Verfahren, mittels dessen sich Wasser mit Kohlenstoffdioxid versetzen lässt.
+Im 19. Jahrhundert begann man, Mineralwasser Kohlenstoffdioxid beizumischen, um dieses haltbar zu machen.
+Siehe dazu Verwendung von Kohlenstoffdioxid in der Lebensmitteltechnologie.Im Labor ist es gelungen, Kohlensäure (im engeren Sinn) als Reinsubstanz zu erzeugen.
+Diese hat derzeit jedoch keine praktische Bedeutung.
+Bei tiefen Temperaturen und unter absoluter Abwesenheit von Wasser oder Metallionen (beide katalysieren stark die Zersetzungsreaktion zu Kohlenstoffdioxid und Wasser) kann die Kohlensäure H2CO3 als wasserklare, farblose Flüssigkeit dargestellt werden.Darüber hinaus sind organische Derivate der Kohlensäure bekannt, so verschiedene Kohlensäureester. Sie sind leicht zugänglich durch die Reaktion von Phosgen mit Alkoholen. Polyester der Kohlensäure sind die Polycarbonate. Eine andere Stoffgruppe sind die Amide der Kohlensäure. Ihre Stammverbindung ist der Harnstoff, ein Diamid der Kohlensäure; als Beispiel seien die Urethane (von Urea, Harnstoff) genannt. Es sind substituierte Ester des Monoamids der Kohlensäure, der Carbaminsäure; diese sind die Stammverbindungen überaus wichtiger Kunststoffe, der Polyurethane.Eine weitere Gruppe von Trivialnamen, die nicht chemisch unterschiedliche Spezies, sondern Mengenanteile bezeichnen, stammt aus dem Bereich der Wasserchemie für kalkhaltige Wässer.
+Es sei darauf hingewiesen, dass die folgenden Begriffe jeweils Mengenanteile der sogenannten freien Kohlensäure betreffen, bei denen zwischen Kohlenstoffdioxid und der Kohlensäure im engeren Sinn nicht unterschieden wird.
+Entsprechend dem Kalk-Kohlensäure-Gleichgewicht sind die Konzentrationen von Calcium und Kohlensäure voneinander abhängig. Man unterscheidet die Menge der zugehörigen Kohlensäure von der Menge der überschüssigen und der (kalk-)aggressiven Kohlensäure.
+Zugehörige Säure hält im Mengengleichgewicht der Kohlensäurespezies den pH-Wert gerade so niedrig, dass die hiervon abhängige Konzentration des Carbonates multipliziert mit der des Calciums gerade noch nicht das Löslichkeitsprodukt des Calciumcarbonats überschreitet.
+Darüber hinaus vorhandene freie Kohlensäure gilt als überschüssig.
+Davon wiederum ein Teil könnte weiteren Kalk in Lösung bringen, ist also (kalk-)aggressiv;
+der Rest des Überschusses würde danach als zusätzliche zugehörige Kohlensäure benötigt.
+Mit steigendem Werten für die Carbonathärte steigt der Anteil der zugehörigen freien Kohlensäure überproportional an. Beispielsweise beträgt dieser Wert bei 5,1 °dH 1,83 mg/l CO2 und bei 10,2 °dH 11,67 mg/l CO2. Dies führt bei der Mischung von Wässern zu einem Mischwasserproblem. Die Mischung von Wässern mit unterschiedlicher Carbonathärte ergibt Mischwässer mit aggressiver Kohlensäure, selbst wenn die Ausgangswässer im Kalk-Kohlensäure-Gleichgewicht waren.
+Die mathematischen Zusammenhänge sind in der Tillmansschen Gleichung zusammengefasst, mit der die zugehörige „freie Kohlensäure“ für jeden Gehalt an Calcium berechnet werden kann. Nachfolgend die Kurzfassung dieser Gleichung:
+
+  
+    
+      
+        
+          
+            m
+            
+              C
+              
+                O
+                
+                  2
+                
+              
+            
+          
+          =
+          
+            
+              t
+            
+          
+          ⋅
+          (
+          
+            m
+            
+              H
+              C
+              
+                O
+                
+                  3
+                
+              
+            
+          
+          
+            )
+            
+              2
+            
+          
+          ⋅
+          
+            m
+            
+              C
+              a
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {m_{CO_{2}}={\mathfrak {t}}\cdot (m_{HCO_{3}})^{2}\cdot m_{Ca}} }
+  Die Elemente der Gleichung bedeuten:
+
+  
+    
+      
+        
+          
+            m
+            
+              C
+              
+                O
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {m_{CO_{2}}} }
+   = Konzentration der zu berechnenden zugehörigen freien Kohlensäure (CO2) in mol/kg
+
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+   = Tillmanssche Konstante
+
+  
+    
+      
+        
+          (
+          
+            m
+            
+              H
+              C
+              
+                O
+                
+                  3
+                
+              
+            
+          
+          
+            )
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {(m_{HCO_{3}})^{2}} }
+   = Quadrat der Konzentration der Hydrogencarbonate (HCO3) in mol/kg
+
+  
+    
+      
+        
+           
+          
+            m
+            
+              C
+              a
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ m_{Ca}} }
+   = Konzentration des Calciums in mol/kgWeitere Einzelheiten hierzu unter Tillmanssche Gleichung.
+Für die Aufbereitung und Entkarbonisierung von Wässern ist die genaue Kenntnis dieses Gleichgewichtes und seiner Einstellgeschwindigkeit von großer Bedeutung. So wird bei der Trinkwasseraufbereitung das Rohwasser über halbgebranntes Dolomit (Calciummagnesiumcarbonat, CaMg(CO3)2) geleitet, damit es keine überschüssige „freie Kohlensäure“ enthält, da Eisen oder andere Metalle mit dieser reagieren und so beispielsweise Rohrleitungen aus Stahl korrodieren würden. Auch diese Reaktionen sind konzentrationsabhängig im Gleichgewicht mit entsprechenden Carbonaten. Deshalb spricht man dann z. B. von „Eisen-aggressiver Kohlensäure“. Dolomit wird verwendet, weil in Anwesenheit von Magnesiumionen die Einstellgeschwindigkeit des Tillmans’schen Gleichgewichtes erheblich beschleunigt wird, was mit reinem Calciumcarbonat viel zu lange dauern würde.
+Bei manchen Anwendergruppen, z. B. in der Fischerei, werden die hier genannten Mengenbegriffe oft so missverstanden, als ob z. B. die „aggressive Kohlensäure“ besonders schädlich wäre, etwa für die Fische. Da aber Fische nicht aus Kalk bestehen, richtet sich die aggressive Kohlensäure nicht in anderer Weise gegen sie als der Rest der Kohlensäure. Für die Atmung der Fische ist vielmehr die gesamte gelöste CO2-Konzentration ausschlaggebend, für eine allfällige sauere Verätzung ausschließlich der pH-Wert des Wassers. Die „zugehörige Kohlensäure“ wird dort so missverstanden, als ob sie in besonderer Weise an das Hydrogencarbonat gebunden und deshalb nicht durch Wasserbelüftung auszutreiben oder durch Photosynthese von Algen zu verbrauchen wäre. Tatsächlich steht beiden Vorgängen die gesamte „freie Kohlensäure“ zur Verfügung, so dass es zu einer Steigerung des pH-Wertes, dadurch zu einer Verschiebung des Mengengleichgewichts hin zu mehr Carbonat und dadurch schließlich zu einer Überschreitung des Löslichkeitsproduktes des Kalkes, also zu einer Kalkfällung kommt. Siehe dazu auch Kalk-Kohlensäure-Gleichgewicht.

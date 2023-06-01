@@ -1,0 +1,59 @@
+Die Erlösquote (auch Verwertungsquote oder Realisierungsquote, englisch recovery rate) ist im Bankwesen der Teil von Krediten, Anleihen oder Kreditderivaten, der bei Ausfall des Schuldners (Kreditnehmer, Anleiheschuldner oder Referenzschuldner) einschließlich der Verwertung von Kreditsicherheiten eingetrieben werden kann. Komplement ist die Ausfallverlustquote.Im Januar 2007 führten alle EU-Mitgliedstaaten auf der Grundlage von Basel II Risikoparameter ein, die von Kreditinstituten aus ihrem Geschäftsvolumen zu ermitteln sind und den gesetzlichen Vorgaben entsprechen müssen. Grundlage war in Deutschland zunächst die Solvabilitätsverordnung, deren aufsichtsrechtliche Funktion seit Januar 2014 die ebenfalls in allen EU-Mitgliedstaaten geltende Verordnung (EU) Nr. 575/2013 (Kapitaladäquanzverordnung) (englische Abkürzung CRR) übernommen hat. Diese kennt als Risikoparameter das Ausfallvolumen (EaD), die Ausfallwahrscheinlichkeit (PD) und die Ausfallverlustquote (LGD). Es handelt sich bei diesen Parametern um stochastische Wahrscheinlichkeits­größen, die die zukünftige Entwicklung vorhersagen helfen. Mit den hypothetischen Parametern können Eintrittswahrscheinlichkeiten prognostiziert werden. Anders als beim Ausfallvolumen berücksichtigt die Erlösquote auch die Verwertungserlöse von Kreditsicherheiten.Erlösquoten können mit Hilfe unterschiedlicher Bezugswerte ermittelt werden. Die Recovery-of-firm-value bezieht die Insolvenzmasse auf das Unternehmensvermögen, Ratingagenturen verwenden die Recovery-of-face-value, welche die Ausfallhöhe auf den Kreditbetrag bezieht und damit der Erlösquote am nächsten kommt. Die Recovery-of-treasure-value schließlich vergleicht den Ausfall mit dem Wert einer risikolosen Staatsanleihe.Die Erlösquote ist neben der Ausfallwahrscheinlichkeit und dem Ausfallvolumen eine der drei Bestimmungsgrößen des Kreditrisikos. Bei besicherten Krediten erhöht sich die Erlösquote gegenüber vergleichbaren Blankokrediten, weil erzielbare Verwertungserlöse berücksichtigt werden. Da die meisten Kreditsicherheiten ebenfalls Wertschwankungen unterliegen, sind auch deren künftige Verwertungserlöse im Rahmen einer Sicherheitenbewertung nur schätzbar. Von den Verwertungserlösen sind die Verwertungs- und Abwicklungskosten abzuziehen. Lediglich bei wenigen Sicherheiten (wie der Abtretung/Verpfändung von Bankguthaben, Lebensversicherungen und Bundesanleihen) bestehen keine Verwertungsrisiken, so dass hier eine Erlösquote von 100 % angenommen werden kann.
+Auch bei Anleihen und Kreditderivaten (als Sicherungsgeber) spielt die Erlösquote eine Rolle. Im Falle gedeckter Pfandbriefe sind ebenfalls Verwertungserlöse zu berücksichtigen, Kreditderivate sind hingegen stets unbesichert.
+Nach Art. 4 Abs. 1 Nr. 55 CRR ist die Ausfallverlustquote (LGD) die Verlusthöhe bei fälligen Risikopositionen bei Ausfall der Gegenpartei, gemessen am Betrag der zum Ausfallzeitpunkt ausstehenden Risikopositionen. Nach Art. 161 Abs. 1 CRR sind im Standardansatz für erstrangige Blankokredite 45 %, für nachrangige 75 % und bei gedeckten Pfandbriefen 11,25 % als Ausfallverlustquote zu verwenden. Die Erlösquote als Komplementärwert zur Ausfallverlustquote liegt dementsprechend bei 55 % für erstrangige Blankokredite, 25 % für nachrangige Blankokredite und bei 88,75 % für gedeckte Pfandbriefe. Die Kapitaladäquanzverordnung geht mithin im Standardansatz davon aus, dass bei gedeckten Pfandbriefen eine im Mittel 88,75 % des ausstehende Exposures eingetrieben werden kann.Die Erlösquote (RR) ist der Komplementärwert der Ausfallverlustquote (LGD). Sie errechnet sich als Quotient aus den Nettoerlösen bei Ausfall 
+  
+    
+      
+        
+          N
+          
+            a
+          
+        
+      
+    
+    {\displaystyle N_{a}}
+   und dem Ausfallvolumen 
+  
+    
+      
+        
+          E
+          
+            a
+          
+        
+      
+    
+    {\displaystyle E_{a}}
+  : 
+
+  
+    
+      
+        R
+        R
+        =
+        
+          
+            
+              N
+              
+                a
+              
+            
+            
+              E
+              
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle RR={\frac {N_{a}}{E_{a}}}}
+  Liegt die Erlösquote bei 100 %, kann ein Kredit oder eine Anleihe vollständig wieder eingetrieben werden (und ein Kreditderivat unterliegt mit Sicherheit keinem Kreditereignis), es besteht mithin vollkommene Sicherheit über die Rückzahlung. Das ist etwa der Fall bei Krediten, die durch Verpfändung von Bankguthaben vollständig besichert sind. Eine Erlösquote von 0 % dagegen entspricht einem Totalausfall des geplatzten Kredits. Die Erlösquote spielt bereits bei der Kreditpreisbestimmung und der Kreditentscheidung eine bedeutende Rolle. Sinkt die Erlösquote während der Kreditlaufzeit, so kann der betroffene Kredit den Status als Notleidender Kredit erhalten.In der Kapitaladäquanzverordnung ist nicht die Erlösqote, sondern die Ausfallverlustquote als ihr Komplementärwert erwähnt. Die Ausfallverlustquote wird als aufsichtsrechtlicher Risikoparameter von den Kreditinstituten berechnet (oder beim Standardansatz von der Bankenaufsicht vorgegeben); die Erlösquote ergibt sich daraus als Nebenprodukt. Einer Untersuchung aus dem Jahre 2009 zufolge erreichte die Erlösquote bei Bankkrediten etwa 75 %, bei Anleihen liegt sie lediglich bei 40 % des ursprünglichen Kreditbetrags. Die höhere Rate bei Bankkrediten wird dabei mit größeren Einflussmöglichkeiten auf die Kreditnehmer etwa durch Covenants und mögliche Neuverhandlungen zurückgeführt. Im Beobachtungszeitraum zwischen 1984 und 2003 lag die Erlösquote in Großbritannien bei 92 %, gefolgt von Deutschland (67 %) und Frankreich (56 %). Es zeigte sich, dass durch die Verwertung von Kreditsicherheiten die Erlösquote signifikant positiv beeinflusst werden kann. Nach der Sicherheitenart lag die Erlösquote in Deutschland bei öffentlichen Bürgschaften mit 89 % des Sicherheitenwerts am höchsten, gefolgt von Bankguthaben (88 %), Grundpfandrechten (72 %), Lieferforderungen (50 %) und Sicherungsübereignungen (49 %), im Durchschnitt bei 72,9 %.Mit sich verbessernder Erlösquote können im Kreditportfolio zusätzliche Kreditrisiken eingegangen werden und umgekehrt. Außerhalb vom Bankwesen kann die Erlösquote bei Nichtbanken in der Kreditversicherung oder bei Inkassounternehmen und organisatorisch in der Debitorenbuchhaltung zum Einsatz kommen.   
+
+
+== Einzelnachweise ==

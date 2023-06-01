@@ -1,0 +1,25 @@
+File Hosting ist eine Online-Dateiablage, die es Nutzern erlaubt, Dateien über das Internet oder ein Unternehmensnetzwerk auf einem zentralen Datenspeicher abzulegen und über einen Client oder via Webbrowser darauf zuzugreifen.Lassen sich die Dateien auch mit anderen Personen teilen, so spricht man auch von Sharehostern bzw. Filesharing. In den meisten Fällen bieten File-Hoster auch File-Sharing-Funktionalität und die beiden Begriffe sind daher nicht klar voneinander abgegrenzt. Es gibt kommerzielle Anbieter für Privatpersonen und Unternehmen ebenso wie Softwarelösungen für den Betrieb eines privaten Servers.
+Aus wirtschaftlichen, technischen oder politischen Gründen kann die Verfügbarkeit der Dateien eingeschränkt oder durch Abschaltung der Dateispeicher sogar unmöglich werden.Je nach Anbieter und Server-Software werden unterschiedliche Funktionen bereitgestellt. Meistens sind das:
+
+Versionierung von Dateien, so dass von einer Datei (mit gleichem Namen) unterschiedliche Versionsstände gespeichert werden
+Wiederherstellung alter Dateiversionen
+Papierkorbfunktion (d. h. die Wiederherstellung gelöschter Dateien)
+Dateiup- und download via Smartphone-App auf Android-Geräten und iPhone/iPad
+Synchronisation von online und offline Datenbestand (d. h. zwischen Daten auf dem Server und dem/den Client/s)
+Online Bearbeitung von Office Dokumenten via Webinterface direkt auf dem Server (z. B. text- oder tabellenbasierte Dateien)
+Automatische E-Mail-Benachrichtigung für die Empfänger, wenn Dateien für sie eingestellt worden sind.
+Benachrichtigung, wenn bestimmte Dateien automatisch gelöscht worden sind. Z. B. wenn der Absender wünscht, dass die hochgeladenen Dateien nach einem bestimmten Zeitraum von dem Dateiaustauschdienst automatisch gelöscht werden.
+Automatische Konvertierung von bestimmten Dateiformaten (z. B. wurde eine Bilddatei vom Sender als JPG hochgeladen und kann vom Empfänger im GIF-Format heruntergeladen werden.).
+Vergabe von Zugriffsrechten auf einzelne Verzeichnisse, Verzeichnisbäume, einzelne Dateien und Dateigruppen. Dadurch wird dem Anwender nur das gezeigt, auf das er Zugriff hat.
+Interne (relative) HTML-Links zu benachbarten Dateien.Zu den bekannten File Hosting-Anbietern gehören:
+
+Dropbox
+Google Drive
+iCloud
+Microsoft OneDrive
+SpiderOak
+WeTransferownCloud – Open Source.
+Nextcloud – Open Source. Fork des Gründers von ownCloud, Frank Karlitschek.
+Seafile – Community Edition Open Source
+TeamDriversync
+Unison (Software)

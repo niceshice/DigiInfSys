@@ -1,0 +1,187 @@
+Das Tetralemma (gr. tetra: vier, lemma: Voraussetzung, Annahme) ist eine logische Figur bestehend aus vier Sätzen, welche einem Objekt eine Eigenschaft 1. zusprechen, 2. absprechen, 3. sowohl zu- als auch absprechen 4. weder zu-, noch absprechen. Die indische Logik kennt diese Figur als Catuṣkoṭi (Sanskrit: चतुष्कोटि) bzw. caturidhya (Quadrupel).Ursprünglich wird die Catuṣkoṭi eingesetzt, um alle Möglichkeiten der Kombination zweier Prädikate zu erwägen. Im Falle nichtkontradiktorischer Prädikate wie zum Beispiel süß und mild ergeben sich keine Widersprüche.Problematischer sind hingegen Varianten mit nur einem Prädikat. Denn in der klassischen europäischen Logik, die auf Aristoteles zurückgeht, wird jede Aussage als entweder wahr oder falsch angesehen (Satz vom ausgeschlossenen Dritten, Prinzip der Zweiwertigkeit) und eine Eigenschaft kann nicht gleichzeitig einem Gegenstand zukommen und nicht zukommen. Eine traditionelle Ansicht im Buddhismus, die im antiken Indien entstand, ist, dass es vier Möglichkeiten gibt: Eine Aussage kann
+wahr (und nur wahr) sein,
+falsch (und nur falsch) sein,
+sowohl wahr als auch falsch sein,
+weder wahr noch falsch sein.Dabei erscheinen die Aussagen (koti) 3 und 4 als direkt widersprüchlich. Klassische indische Texte scheinen zudem eine Konjunktion aller vier Aussagemöglichkeiten zu behaupten. Eine Widersprüchlichkeit ist zwar vermeidbar, wenn zum Beispiel die Objektbereiche auf diskrete Teilmengen des Diskursuniversums eingeschränkt werden. Auch dann aber erscheinen bei Geltung der Kommutativität der Konjunktion und des Gesetzes vom ausgeschlossenen Dritten die kotis 3 und 4 als austauschbar und mithin redundant.Der buddhistische Philosoph Nagarjuna verwendete das Catuṣkoṭi in zwei unterschiedlichen Varianten:
+Die erste, positive Variante  lautet in einem Beispiel:
+
+Alles ist wirklich
+und unwirklich,
+sowohl wirklich als auch unwirklich,
+weder wirklich noch unwirklich.In der negativen Variante des Catuṣkoṭi wird ausgesagt, dass keine der vier Möglichkeiten wahr ist.Nach der Analyse Butzenbergers gibt es prinzipiell drei Reaktionsmöglichkeiten auf die Probleme der Widersprüchlichkeit und Redundanz der kotis 3 und 4:
+
+Angabe einer Rekonstruktion mit Mitteln klassischer Logik, aus der die Probleme nicht mehr herleitbar sind
+Angabe einer Rekonstruktion mit Mitteln nichtklassischer Logik, aus der die Probleme nicht mehr herleitbar sind
+Unlösbarkeit. Die catuṣkoṭi wird als irrational oder mystisch interpretiert.Alle drei Optionen sind seiner Darstellung zufolge unbefriedigend. "(3), weil sie das Ende mit dem Anfang verwechselt; (2) weil ihr zur viele Aussagen der Catuṣkoṭis enthaltenden Texte widersprechen; und (1), weil die Rekonstruktionen, die bisher gefunden wurden, eher Konstruktionen den[n] Rekonstruktionen zu nennen sind". Ignoriert werde zudem, dass "der Terminus 'catuṣkoṭi' mehrdeutig ist und auf verschiedene Entitäten referiert".Vom Standpunkt der westlichen Logik, unter Verwendung der Junktoren der Aussagenlogik, lassen sich die vier Elemente des Catuṣkoṭi wie folgt in Formeln fassen. X bezeichnet dabei eine beliebige Aussage:
+
+Da schon die ersten beiden Aussagen einander widersprechen, kann nach den Regeln der Aussagenlogik die Konjunktion aller vier Möglichkeiten (also die positive Variante) nur einen Widerspruch ergeben, also unter keinen Umständen richtig sein.
+Die negative Variante (Disjunktion der vier Möglichkeiten) ist stets wahr, weil ja schon 
+  
+    
+      
+        X
+        ∨
+        ¬
+        X
+      
+    
+    {\displaystyle X\lor \neg X}
+  , also die Disjunktion der ersten beiden Elemente, eine Tautologie ist.Dieser Erklärungsversuch geht davon aus, dass es sich beim Catuskoti um die vier Möglichkeiten handelt, die sich ergeben, wenn man das Verhältnis einer (zweistelligen) Relation 
+  
+    
+      
+        R
+        
+      
+    
+    {\displaystyle R\;}
+   auf einer Menge 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   zu einem speziellen Element 
+  
+    
+      
+        a
+        ∈
+        A
+        
+      
+    
+    {\displaystyle a\in A\;}
+   betrachtet:
+
+  
+    
+      
+        R
+        (
+        a
+        ,
+        x
+        )
+        
+      
+    
+    {\displaystyle R(a,x)\;}
+   gilt nur für 
+  
+    
+      
+        x
+        =
+        a
+      
+    
+    {\displaystyle x=a}
+  
+
+  
+    
+      
+        R
+        (
+        a
+        ,
+        x
+        )
+        
+      
+    
+    {\displaystyle R(a,x)\;}
+   gilt nur für Elemente 
+  
+    
+      
+        x
+        ∈
+        A
+      
+    
+    {\displaystyle x\in A}
+   mit 
+  
+    
+      
+        x
+        ≠
+        a
+      
+    
+    {\displaystyle x\neq a}
+  
+
+  
+    
+      
+        R
+        (
+        a
+        ,
+        x
+        )
+        
+      
+    
+    {\displaystyle R(a,x)\;}
+   gilt sowohl für 
+  
+    
+      
+        x
+        =
+        a
+      
+    
+    {\displaystyle x=a}
+   als auch für Elemente 
+  
+    
+      
+        x
+        ∈
+        A
+      
+    
+    {\displaystyle x\in A}
+   mit 
+  
+    
+      
+        x
+        ≠
+        a
+      
+    
+    {\displaystyle x\neq a}
+  
+
+  
+    
+      
+        R
+        (
+        a
+        ,
+        x
+        )
+        
+      
+    
+    {\displaystyle R(a,x)\;}
+   gilt für kein 
+  
+    
+      
+        x
+        ∈
+        A
+      
+    
+    {\displaystyle x\in A}
+  Diese vier Fälle schöpfen alle Möglichkeiten aus und schließen sich untereinander aus.Gleichwohl wurden in jüngster Zeit unter den Versuchen, nichtklassische Logiken zur Interpretation zu verwenden, neben zum Beispiel dreiwertigen Logiken und Modallogik auch die Relevanzlogik ins Spiel gebracht.

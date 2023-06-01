@@ -1,0 +1,86 @@
+Natriumdiethyldithiocarbamat ist eine chemische Verbindung aus der Gruppe der Dithiocarbamate, die als Komplexbilder (Chelator) vor allem für Nickel, Cadmium, Thallium und Kupfer verwendet wird.Natriumdiethyldithiocarbamat kann aus Kohlenstoffdisulfid und Diethylamin unter Anwesenheit von Natronlauge hergestellt werden.
+
+  
+    
+      
+        
+          C
+          
+            S
+            
+              2
+            
+          
+          +
+          H
+          N
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              5
+            
+          
+          
+            )
+            
+              2
+            
+          
+          +
+          N
+          a
+          O
+          H
+          ⟶
+          N
+          a
+          
+            S
+            
+              2
+            
+          
+          C
+          N
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              5
+            
+          
+          
+            )
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CS_{2}+HN(C_{2}H_{5})_{2}+NaOH\longrightarrow NaS_{2}CN(C_{2}H_{5})_{2}+H_{2}O} }
+  
+
+
+== Einzelnachweise ==

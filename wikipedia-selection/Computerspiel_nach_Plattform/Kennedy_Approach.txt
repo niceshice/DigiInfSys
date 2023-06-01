@@ -1,0 +1,20 @@
+Kennedy Approach ist ein Fluglotsen-Computerspiel aus dem Jahr 1986 von MicroProse. Der Titel leitet sich aus dem Namen Kennedy Airport ab.
+Der Spieler übernimmt die Rolle eines Fluglotsen der Flugsicherung und gibt Flugzeugen Anweisungen, damit sie sicher landen und starten können und ihre korrekten Flugkorridore einnehmen. Das Ziel des Spiels ist es, alle Flüge im Bereich des eigenen Flughafens abzuwickeln, ohne dass diese verspätet sind oder den falschen Ort ansteuern oder dort landen. Selbstverständlich müssen auch Beinahekollisionen, Kollisionen und Abstürze vermieden werden. Die Flugzeuge erscheinen auf dem Bildschirm und haben vordefinierte Flugziele oder Landepunkte oder befinden sich auf dem Flughafen zum Start in entsprechende Richtungen. Es ist Aufgabe des Spielers zu entscheiden, welches Flugzeug wohin fliegt und wann eines landet oder startet.
+Flugzeuge dürfen nicht zu nah aneinander kommen, also muss der Spieler sicherstellen, dass sie in unterschiedlichen Flughöhen oder mit ausreichender Distanz (drei Gitterpunkte Nord/Süd oder Ost/West) passieren. Wenn ein Flugzeug abzustürzen droht oder sich in falscher Richtung oder auf falscher Flughöhe befindet, wird der Fluglotse darüber informiert. Flugzeuge ändern nie ihren Kurs oder die Höhe ohne Anweisung des Spielers. Ankommende Flugzeuge, die keine Landeerlaubnis erhalten, gehen in eine Warteschleife und warten auf die Freigabe zur Landung.
+Zu Beginn müssen lediglich einige Flüge gleichzeitig abgewickelt werden, in höheren Leveln benötigen viele Flüge ein gleichzeitiges Management. Außerdem tauchen Sturmfronten auf, die das Flugzeug nicht passieren kann, und einige Flugzeuge verfügen nur noch über sehr wenig Treibstoff, sodass sie zügig landen müssen, um nicht abzustürzen.Es existieren fünf Lufträume im Spiel:
+
+Atlanta
+Dallas/Fort Worth – Diese Karte beinhaltet den Fehler, dass sich Love Field nordöstlich des Dallas-Fort Worth International Airport befindet, tatsächlich aber südöstlich liegt.
+Denver – einschließlich der Rocky Mountains im Westen, über die Flugzeuge nur mit Mindesthöhe fliegen können.
+Washington, D.C. – einschließlich der Flugverbotszone über dem U.S. Capitol.
+New York CityDrei Flugzeugtypen kommen im Spiel vor:
+
+Cessna – als "November"-Flüge bezeichnet, mit Bezug auf die Flugzeug-Registrierungsnummern, die in den USA alle mit "N" beginnen.
+Boeing 747 – fliegt doppelt so schnell wie eine Cessna.
+Concorde – fliegt doppelt so schnell wie eine 747.Vier Fluggesellschaften kommen im Spiel vor:
+
+American Airlines
+Delta Air Lines
+United Airlines
+Air France – betreibt die ConcordeBei den Atari- und C64-Versionen findet die Konversation zwischen Fluglotse und Flugzeug über Lautsprecher statt. Obwohl diese sehr ritualisiert und formell abläuft, sind die Befehle klar verständlich, und die synthetische Sprache war eine beeindruckende Neuheit für Homecomputer mit weniger als 64 kB freiem Arbeitsspeicher.Die Zeitschrift ASM vergab in Ausgabe 09/1986 die Wertung 9 von 12.
+Die Zeitschrift Compute! vergab in Ausgabe Juni 1986 die Wertung 9 von 10.Für den Amiga erschien ein sehr ähnliches Spiel mit dem Namen Airport.

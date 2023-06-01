@@ -1,0 +1,329 @@
+Hyposalpetrige Säure ist eine Sauerstoffsäure des Stickstoff. Sie bildet farblose Kristalle, die explosiv sind. Diese sind löslich in Ethanol und Wasser.
+Ihre Salze heißen Hyponitrite, z. B.: Kaliumhyponitrit (K2N2O2).trans-Hyposalpetrige Säure kann durch Reduktion von Salpetriger Säure oder Natriumnitrit mit nascierendem Wasserstoff (z. B. aus Natrium-Amalgam) hergestellt werden.
+
+  
+    
+      
+        
+          2
+          
+          N
+          a
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+          
+          N
+          
+            a
+            
+              A
+              m
+              a
+              l
+              g
+              a
+              m
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          N
+          
+            a
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+          
+          N
+          a
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {2\,NaNO_{2}+4\,Na_{Amalgam}+2\,H_{2}O\longrightarrow Na_{2}N_{2}O_{2}+4\,NaOH} }
+  Das wasserlösliche Natriumsalz kann mit Silbernitrat als gelbes, unlösliches Silberhyponitrit abgetrennt werden:
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          A
+          g
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          A
+          
+            g
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          ↓
+          +
+           
+          2
+          
+          N
+          a
+          N
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Na_{2}N_{2}O_{2}+2\,AgNO_{3}\longrightarrow Ag_{2}N_{2}O_{2}\downarrow +\ 2\,NaNO_{3}} }
+  Nach dem Abtrennen kann die trans-Hyposalpetrige Säure mit HCl-Gas in Ether wieder gelöst werden:
+
+  
+    
+      
+        
+          A
+          
+            g
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          H
+          C
+          
+            l
+            
+              (
+              g
+              )
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          A
+          g
+          C
+          l
+          ↓
+        
+      
+    
+    {\displaystyle \mathrm {Ag_{2}N_{2}O_{2}+2\,HCl_{(g)}\longrightarrow H_{2}N_{2}O_{2}+2\,AgCl\downarrow } }trans-Hyposalpetrige Säure ist ein farbloser Feststoff, der in Form von zerfließlichen Kristallblättchen vorliegt und eine sehr schwache Säure darstellt. Er ist sehr explosiv, verpufft schon beim Reiben mit einem Glasstab und zersetzt sich spontan auch ohne erkennbaren Anlass und auch bei Kühlung auf −6 °C. Er ist sehr leicht löslich in Wasser und in Ethanol, leicht auch in Ether, Benzol und Trichlormethan, jedoch schwer in Ligroin.Es existieren eine cis- und eine stabilere trans-Hyposalpetrige Säure.
+
+Von der cis-Form sind nur die Salze bekannt; die trans-Form lässt sich in Substanz isolieren.Mit Alkalimetallen bildet die Hyposalpetrige Säure Salze, die Hyponitrite:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          N
+          a
+          ⟶
+          N
+          
+            a
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          ↑
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}N_{2}O_{2}+2\,Na\longrightarrow Na_{2}N_{2}O_{2}+H_{2}\uparrow } }
+  Die schwach saure wässrige Lösung der Säure zerfällt bereits bei Zimmertemperatur zu Distickstoffmonoxid und Wasser:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            N
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}N_{2}O_{2}\longrightarrow H_{2}O+N_{2}O} }
+  Die Reaktion ist nicht umkehrbar; Distickstoffmonoxid ist also nur formal Anhydrid der hyposalpetrigen Säure.Sie eignet sich auch als Reaktionspartner für Hetero-Diels-Alder-Reaktionen.
+
+
+== Einzelnachweise ==

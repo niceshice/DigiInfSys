@@ -1,0 +1,70 @@
+Allgemein ist eine Konstante (von lateinisch constans „feststehend“) ein Zeichen beziehungsweise ein Sprachausdruck mit einer „genau bestimmte[n] Bedeutung, die im Laufe der Überlegungen unverändert bleibt“. Die Konstante ist damit ein Gegenbegriff zur Variablen.Logische Konstanten oder logische Partikeln sind Zeichen beziehungsweise Ausdrücke, die die logische Struktur von Aussagen bestimmen. So haben die beiden Aussagen „Es ist nicht der Fall, dass es regnet“ und „Es ist nicht der Fall, dass die Erde ein Würfel ist“ dieselbe syntaktische und semantische Struktur – es handelt sich um Verneinungen. Der Sprachausdruck „Es ist nicht der Fall, dass...“ ist in diesen beiden strukturgleichen Aussagen die logische Konstante.
+Als logische Konstanten unumstritten sind Ausdrücke für die Verneinung (zum Beispiel die Formulierung „Es ist nicht der Fall, dass...“), die logische Konjunktion („...und...“), die logische Disjunktion („...oder...“), das logische Konditional und andere Aussageverknüpfungen sowie Ausdrücke für die Quantoren („alle“, „jede/r“ …) der Prädikatenlogik erster Stufe. Während ebenso unumstritten ist, dass Ausdrücke wie „Erde“ oder „es regnet“ keine Konstanten sind, gibt es zwischen diesen Extremen einen überaus weiten Bereich, der Gegenstand von Untersuchungen ist und Raum für zahlreiche unterschiedliche Meinungen bietet. Umstritten ist zum Beispiel der Status von Ausdrücken wie „wahr“ oder „...ist Element von...“ und von Quantoren höherer Stufe („es gibt ein Prädikat, für das gilt...“).
+Weniger problematisch ist die Unterscheidung zwischen logischen Konstanten und logischen Variablen innerhalb künstlicher Sprachen, wenn diese interpretiert sind, das heißt, wenn für sie formale Semantiken angegeben werden. Eine häufig genutzte Definition wurde 1976 von Christopher Peacocke vorgeschlagen:
+In diesem Sinne sind die logischen Konstanten der Aussagenlogik die Junktoren; jene der Prädikatenlogik der ersten Stufe die Quantoren erster Stufe sowie die Junktoren; jene der Modallogik die Modalausdrücke wie „es ist notwendig, dass...“ und „es ist möglich, dass...“.In der Prädikatenlogik betrachtet man neben den oben genannten logischen Konstanten noch weitere nicht-logische Symbole, die zur Formulierung mathematischer Sachverhalte erforderlich sind, und kommt so zu einer um diese Symbole ergänzte Sprache.  Als nicht-logische Symbole kommen hier Konstantensymbole, Funktionensymbole und Relationensymbole in Frage. Die Konstantensymbole zeichnen sich gegenüber den anderen nicht-logischen Symbolen dadurch aus, dass sie beim Termaufbau an dieselben Stellen wie die Variablen treten können.
+Ein typisches Beispiel ist die Symbolmenge 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        ,
+        +
+        ,
+        ⋅
+        }
+      
+    
+    {\displaystyle \{0,1,+,\cdot \}}
+  , die zur Formulierung der Ringtheorie verwendet werden kann. Wir haben hier zwei Konstantensymbole 0 und 1, deren intendierte Interpretation das Null- und das Einselement eines Ringes sind, und zwei Funktionssymbole, die für Addition und Multiplikation stehen. Mittels dieser Konstanten lassen sich Terme und Gleichungen aufbauen. So bedeutet etwa
+
+  
+    
+      
+        1
+        +
+        …
+        +
+        1
+        =
+        0
+      
+    
+    {\displaystyle 1+\ldots +1=0}
+  , wobei hier 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   Einsen addiert werden sollen, 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   Primzahl,dass der Ring die Charakteristik 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   hat.
+Nimmt man diese aus Konstanten aufgebaute Aussage zur Menge der Ringaxiome hinzu, kommt man zur Theorie der Ringe mit Charakteristik 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .
+Ein wichtiges Beweisverfahren ist die sogenannte Konstantenexpansion. Dabei erweitert man eine betrachtete Sprache um eine Menge von neuen Konstanten, um für Beweiszwecke hinreichend viele von ihnen in der so erweiterten Sprache zur Verfügung zu haben.

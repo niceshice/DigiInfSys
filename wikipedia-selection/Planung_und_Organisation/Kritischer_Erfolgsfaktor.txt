@@ -1,0 +1,231 @@
+Ein kritischer Erfolgsfaktor (KEF) ist eine Eigenschaft einer Organisation, die bei ausreichend guten Werten das Erreichen der Ziele der Organisation ermöglicht, beispielsweise Gewinnmaximierung, Kommunikation, Qualität, Kostenführerschaft etc.
+Die Methode der Kritischen Erfolgsfaktoren (KEF) basiert auf einem Informationsbedarfsermittlungsverfahren von Rockart.
+Man erhält die kritischen Erfolgsfaktoren, indem man mit dem Topmanagement eines Unternehmens bestimmt, was für den Erfolg der Unternehmung entscheidend ist. Anhand der KEF können dann z. B. Projekte aufgesetzt oder priorisiert werden, die den Unternehmenszielen förderlich sind.
+Kritische Erfolgsfaktoren beziehen sich auf eine begrenzte Anzahl von Arbeitsbereichen. Gute Resultate in diesen Bereichen sind ausschlaggebend für ein Individuum, eine Abteilung oder eine Organisation, um erfolgreich im Wettbewerb zu bestehen.Die KEF werden klassischerweise aus den vier Bereichen Service, Kommunikation, Personal und Positionierung erhoben. Beispielhafte KEF im Bereich Kommunikation könnten Innerbetriebliche Kommunikation, Zwischenbetriebliche Kommunikation und Benutzerschulung sein.
+Die Bewertung der einzelnen KEF findet anhand von Fragebögen von Experten und/oder Mitarbeitern statt. Es sind Priorität P(K), Leistung L(K) und Gesamterfolg E(K) zu bewerten.  Die Skala geht von P(K)=1 irrelevant bis P(K)=7 sehr entscheidend und L(K)=1 sehr schlecht bis L(K)=7 ausgezeichnet. Die kumulierten Werte drücken aus, ob die KEFs ausreichend unterstützt sind.
+Der Erfolg E(K) eines KEF errechnet sich mit der Formel
+
+  
+    
+      
+        E
+        (
+        K
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  T
+                  =
+                  1
+                
+                
+                  t
+                
+              
+              (
+              P
+              (
+              K
+              ,
+              T
+              )
+              ⋅
+              L
+              (
+              K
+              ,
+              T
+              )
+              )
+            
+            
+              
+                ∑
+                
+                  T
+                  =
+                  1
+                
+                
+                  t
+                
+              
+              P
+              (
+              K
+              ,
+              T
+              )
+            
+          
+        
+      
+    
+    {\displaystyle E(K)={\frac {\sum _{T=1}^{t}(P(K,T)\cdot L(K,T))}{\sum _{T=1}^{t}P(K,T)}}}
+  ,
+wobei sich zeigt, dass E(K) umso größer ist, je höher Priorität und Leistung beurteilt wurden.
+Die Formel
+
+  
+    
+      
+        E
+        (
+        T
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  K
+                  =
+                  A
+                
+                
+                  Z
+                
+              
+              (
+              P
+              (
+              K
+              ,
+              T
+              )
+              ⋅
+              L
+              (
+              K
+              ,
+              T
+              )
+              )
+            
+            
+              
+                ∑
+                
+                  K
+                  =
+                  A
+                
+                
+                  Z
+                
+              
+              P
+              (
+              K
+              ,
+              T
+              )
+            
+          
+        
+      
+    
+    {\displaystyle E(T)={\frac {\sum _{K=A}^{Z}(P(K,T)\cdot L(K,T))}{\sum _{K=A}^{Z}P(K,T)}}}
+  
+zeigt den Erfolg für Teilnehmer T und alle Erfolgsfaktoren.
+
+  
+    
+      
+        D
+        (
+        K
+        )
+        =
+        
+          
+            1
+            t
+          
+        
+        
+          ∑
+          
+            T
+            =
+            1
+          
+          
+            t
+          
+        
+        P
+        (
+        K
+        ,
+        T
+        )
+        −
+        
+          
+            1
+            t
+          
+        
+        
+          ∑
+          
+            T
+            =
+            1
+          
+          
+            t
+          
+        
+        L
+        (
+        K
+        ,
+        T
+        )
+      
+    
+    {\displaystyle D(K)={\frac {1}{t}}\sum _{T=1}^{t}P(K,T)-{\frac {1}{t}}\sum _{T=1}^{t}L(K,T)}
+  
+ergibt die Leistungsdifferenz zwischen Priorität und Leistung. Somit zeigt sich die Reihenfolge der zu verbessernden KEF. D(K) liegt rechnerisch zwischen −6 und +6. Bei negativen Werten ist eine Verminderung des Ressourceneinsatzes zu empfehlen, bei positiven vice versa.
+Das Vorgehen bei KEF-Analyse besteht aus sieben typischen Punkten:
+1. Identifizieren der KEF
+KEF sollten alle Eigenschaften der Informationsinfrastruktur, die für den Unternehmenserfolg wichtig sind, berücksichtigen. Diese sollten im Unternehmensfachjargon spezifiziert sein.
+2. Festlegung der Befragungsteilnehmer
+Die Teilnehmer sollten, wenn möglich, alle Benutzer, sonst eine repräsentative Stichprobe sein, die mit den KEF in Berührung kommen. Die Teilnehmer können zusätzlich noch nach Fachbereichen gruppiert werden.
+3. Formulierung des Fragebogens
+4. Durchführung der Datenerhebung
+5. Auswertung und Darstellung der Erhebungsdaten
+Die Auswertung erfolgt nach den vorgestellten Formeln. Die Erfolgsfaktoren sollten nach Priorität und Leistung abhängig von den Teilnehmergruppen klassifiziert und nach Dringlichkeit der Leistungsdifferenz sortiert werden.
+6. Interpretation der Ergebnisse
+7. Präsentation
+Zur Präsentation eignet sich besonders die Darstellung in zweiachsigen Portfolios.Bei der Einführung eines IT-Projekts können kritische Erfolgsfaktoren sein:
+
+Professionelles Projektmanagement
+Frühzeitiges Erkennen von Risiken
+Ausreichende Planung vor der Implementierung
+Weitere, projektspezifische FaktorenIn einem Einzelhandelsbetrieb etwa:
+
+Lage des Ladengeschäfts (z. B. in einer Fußgängerzone oder Einkaufspassage)
+Sortiment für mittlere bis gehobene Ansprüche
+Kompetentes VerkaufspersonalFür einen neuen Standort eines markteingeführten Discounters:
+
+Gute Verkehrsanbindung
+Ausreichend Parkplätze
+Genügend großer Verkaufsraum für das Sortiment
+Großes EinzugsgebietFür eine Baumarktkette:
+
+Ausreichendes Sortiment
+Laufendes Angebot von "Schnäppchen"
+Intensive Werbung, möglichst an jedem Standort einmal pro Woche in der Lokalzeitung
+
+
+== Quellen ==

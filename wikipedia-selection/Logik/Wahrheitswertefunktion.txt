@@ -1,0 +1,803 @@
+Eine Wahrheitswertefunktion, auch kurz Wahrheitsfunktion, ist eine mathematische Funktion, die Wahrheitswerte auf Wahrheitswerte abbildet. Der Definitionsbereich einer n-stelligen Wahrheitsfunktion ist die Menge aller n-Tupel von Wahrheitswerten, ihr Wertebereich die Menge der Wahrheitswerte. In der klassischen Logik umfasst die zugrunde liegende Wahrheitswertemenge {w, f} nur die beiden Werte "wahr" (w) und "falsch" (f); Wahrheitsfunktionen auf dieser Basis heißen daher genauer n-stellige zweiwertige.
+Die Wahrheitswertefunktionen spielen in der formalen Logik eine zentrale Rolle, da sie die (extensionale) Form der logischen Verknüpfung einer Zusammenstellung von Komponenten eindeutig bestimmt angeben, und können als Junktoren zusammengesetzter Aussagen wie auch als Gatter in Zusammensetzungen von Schaltelementen interpretiert werden.Der Wahrheitswert des gesamten Satzes „Peter kommt und die Queen kommt“ ist abhängig von den Wahrheitswerten der Teilsätze "Peter kommt" (p) und "die Queen kommt" (q). Der Satz "p und q" ist dann wahr, wenn sowohl p als auch q wahr sind, ansonsten falsch. Als Modell für die hier durch und ausgedrückte Konjunktion kann also eine Funktion mit zwei Argumenten (p,q) dienen, die dem Tupel <w,w> – beide Argumente sind wahr – den Funktionswert w zuordnet – der Satz ist wahr – und den drei anderen möglichen 2-Tupeln je den Wert f (als Werteverlauf im Schema: wfff). Diese Wahrheitsfunktion heißt AND(p,q) oder auch et-Funktion et(p,q).
+Das Exempel verallgemeinernd lassen sich nun 16 verschiedene 2-stellige Wahrheitsfunktionen definieren, indem jedem der vier 2-Tupel – das sind: <w,w>, <w,f>, <f,w>, <f,f> – je einer der beiden Wahrheitswerte zugeordnet wird. Siehe dazu die Tabelle unten.
+Mit dieser Definition kann einer bestimmten Abbildung aller vier 2-Tupel – beispielsweise: <w,w>, <f,f> sind wahr, die beiden übrigen falsch (im Schema: wffw) – eindeutig eine logische Verknüpfungsform zweier Teilsätze – beispielsweise "p genau dann, wenn q" in dem Satz „Peter kommt genau dann, wenn die Queen kommt“ – zugewiesen werden. Die Wahrheitsfunktion des letzteren Beispiels wird auch äq-Funktion äq(p,q) genannt, da sie der (materialen) Äquivalenz entspricht, dem Bikonditional.
+Damit können auch mögliche Junktoren als Wahrheitsfunktion aufgefasst werden; dies kennzeichnet die klassische Aussagenlogik und setzt sie zum Beispiel von der modalen Aussagenlogik ab.
+Vermöge der Zuordnung w→1 und f→0 (oder alternativ w→0 und f→1, siehe Logikpegel) entspricht jede Wahrheitswertefunktion einer Booleschen Funktion, die sich in einer Schaltalgebra darstellen lässt.Der Wahrheitswert des Satzes "Peter kommt, weil die Queen kommt" ist keine Funktion der Wahrheitswerte seiner Teilsätze – da selbst wenn beide Teilsätze wahr sind, damit ja noch nicht feststeht, dass Peter kommt, weil die Queen kommt, aus ebendiesem Grund. Diese Kausalität ist nicht als wahrheitsfunktionale Verknüpfung der Teilsätze darzustellen. Für die kausale Begründung braucht es daher einen weiteren Zusammenhang.
+Die Paradoxien der materialen Implikation motivierten dazu, nach Alternativen zur klassischen Logik zu suchen. Entweder durch Entwicklung mehrwertiger Logiken oder durch Verzicht auf Wahrheitsfunktionen "im üblichen Sinne" bei der semantischen Begründung eines Logikkalküls (vgl. Modallogik).Eine einfache Möglichkeit, eine Wahrheitswertefunktion für endlich viele Wahrheitswerte zu definieren, ist die Wahrheitstabelle.
+Die nachstehende Tafel gibt alle 1-stelligen zweiwertigen Wahrheitsfunktionen an. Eine Wahrheitsfunktion bildet stets alle Tupel ihres Definitionsbereichs – hier beide 1-Tupel <w> und <f> in Spalte p des Arguments – in der Wahrheitswertemenge ab. Dabei sind 
+  
+    
+      
+        
+          f
+          
+            1
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{1}^{1}}
+   und 
+  
+    
+      
+        
+          f
+          
+            4
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{4}^{1}}
+   konstante Funktionen; 
+  
+    
+      
+        
+          f
+          
+            2
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{2}^{1}}
+   ist die identische einstellige Wahrheitsfunktion; 
+  
+    
+      
+        
+          f
+          
+            3
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{3}^{1}}
+   ist die Negationsfunktion non(p), auch kurz Negation.
+
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              
+                
+                  f
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    3
+                  
+                  
+                    1
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    4
+                  
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+                w
+              
+              
+                w
+              
+              
+                w
+              
+              
+                f
+              
+              
+                f
+              
+            
+            
+              
+                f
+              
+              
+                w
+              
+              
+                f
+              
+              
+                w
+              
+              
+                f
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{|c||c|c|c|c|}\hline p&f_{1}^{1}\ &f_{2}^{1}\ &f_{3}^{1}\ &f_{4}^{1}\\\hline w&w&w&f&f\\f&w&f&w&f\\\hline \end{array}}}
+  
+Die folgende Übersicht zeigt die 16 möglichen Belegungsmuster 2-stelliger zweiwertiger Wahrheitswertefunktionen durch die Werte 1 und 0 (mit der Zuordnung w→1 und f→0). Die oben besprochene et-Funktion oder AND ist hier die Funktion 
+  
+    
+      
+        
+          f
+          
+            8
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{8}^{2}}
+  ; die äq-Funktion oder XNOR ist die Funktion 
+  
+    
+      
+        
+          f
+          
+            7
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{7}^{2}}
+  .
+Des Weiteren ist 
+  
+    
+      
+        
+          f
+          
+            10
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{10}^{2}}
+   die aut-Funktion oder XOR; 
+  
+    
+      
+        
+          f
+          
+            2
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{2}^{2}}
+   ist die vel-Funktion oder OR; 
+  
+    
+      
+        
+          f
+          
+            15
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{15}^{2}}
+   ist die Peirce-Funktion oder NOR; 
+  
+    
+      
+        
+          f
+          
+            9
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{9}^{2}}
+   ist die Sheffer-Funktion oder NAND; 
+  
+    
+      
+        
+          f
+          
+            5
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{5}^{2}}
+   ist die seq-Funktion und entspricht dem Konditional oder der materialen Implikation.
+
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              
+                q
+              
+              
+                
+                  f
+                  
+                    1
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    2
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    3
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    4
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    5
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    6
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    7
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    8
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    9
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                  f
+                  
+                    10
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  f
+                  
+                    11
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  f
+                  
+                    12
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  f
+                  
+                    13
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  f
+                  
+                    14
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  f
+                  
+                    15
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  f
+                  
+                    16
+                  
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                0
+              
+              
+                1
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                0
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{|c|c||c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}\hline p&q&f_{1}^{2}\ &f_{2}^{2}\ &f_{3}^{2}\ &f_{4}^{2}\ &f_{5}^{2}\ &f_{6}^{2}\ &f_{7}^{2}\ &f_{8}^{2}\ &f_{9}^{2}\ &f_{10}^{2}&f_{11}^{2}&f_{12}^{2}&f_{13}^{2}&f_{14}^{2}&f_{15}^{2}&f_{16}^{2}\\\hline 1&1&1&1&1&1&1&1&1&1&0&0&0&0&0&0&0&0\\1&0&1&1&1&1&0&0&0&0&1&1&1&1&0&0&0&0\\0&1&1&1&0&0&1&1&0&0&1&1&0&0&1&1&0&0\\0&0&1&0&1&0&1&0&1&0&1&0&1&0&1&0&1&0\\\hline \end{array}}}
+  
+
+  
+    
+      
+        
+          f
+          
+            1
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{1}^{2}}
+   und 
+  
+    
+      
+        
+          f
+          
+            16
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{16}^{2}}
+   sind dabei konstante Funktionen, die für alle möglichen Eingaben stets den gleichen Wert liefern: 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   beziehungsweise 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  ; sie werden auch als Tautologie beziehungsweise als Kontradiktion interpretiert (und daher gelegentlich Verum bzw. Falsum genannt).
+Weniger übersichtlich würden sich die möglichen Belegungsmuster dreiwertiger Wahrheitswertefunktionen zeigen lassen. Der Aussage (p) wäre dann neben "w" und "f" noch ein dritter Wert zuordenbar – beispielsweise "u" für unbestimmt – und gleiches gilt für die möglichen Funktionswerte. Daraus ergeben sich 33 = 27 verschiedene 1-stellige dreiwertige Wahrheitswertefunktionen. Für die Angabe 2-stelliger dreiwertiger müssten in den beiden Spalten p und q anstatt der 22 = 4 dann 32 = 9 Zeilen abgetragen werden. In den folgenden Spalten wären 39 = 19.683 mögliche Variationen der Wahrheitswerte zu tabellieren für alle 2-stelligen dreiwertigen Wahrheitsfunktionen (gegenüber den oben aufgeführten 16 aller 2-stelligen zweiwertigen).
+Die Anzahl 3-stelliger Wahrheitswertefunktionen beträgt auf zweiwertiger Basis 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle 2^{2^{3}}}
+   = 28 = 256 und auf dreiwertiger dann 
+  
+    
+      
+        
+          3
+          
+            
+              3
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle 3^{3^{3}}}
+   = 327 = 7.625.597.484.987 (welche sich hier noch weniger übersichtlich zeigen ließen).
+
+
+== Einzelnachweise ==

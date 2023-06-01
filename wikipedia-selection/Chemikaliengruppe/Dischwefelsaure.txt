@@ -1,0 +1,115 @@
+Dischwefelsäure (auch Pyroschwefelsäure) ist eine Oxosäure des Schwefels und gehört zu den anorganischen Säuren. Sie leitet sich von der Schwefelsäure ab und lässt sich formal als Zusammenlagerung zweier Schwefelsäuremoleküle unter Abspaltung von Wasser darstellen. Dischwefelsäure ist stark hygroskopisch und hochreaktiv, vor allem mit Wasser und organischen Materialien kommt es zu sehr heftigen Reaktionen. Die Salze der Dischwefelsäure werden Disulfate oder Pyrosulfate genannt. Sie können durch Erhitzen von Hydrogensulfaten unter Abspaltung von Wasser erhalten werden.
+Dischwefelsäure wird oft mit Oleum gleichgesetzt, dies ist formal jedoch nur für 45%iges Oleum richtig. Bei Oleum (auch rauchende Schwefelsäure genannt) handelt es sich um eine Lösung von Schwefeltrioxid (SO3) in Schwefelsäure (H2SO4) mit veränderlichen Anteilen an Schwefeltrioxid, die je nach Konzentration im Konzentrationsbereich bis 45 % als Gemisch von Schwefelsäure und Dischwefelsäure vorliegen. Die für Oleum angegebenen Konzentrationen bedeuten jeweils den Anteil an „freiem“ SO3 bezogen auf die Oleum-Menge.
+Jedoch stellt Oleum in diversen Konzentrationen die im Handel vorherrschende Form von Dischwefelsäure dar, weswegen in diesem Artikel auf dieses Stoffgemisch eingegangen wird.Großtechnisch fällt Dischwefelsäure in Form von Oleum bei der Herstellung von Schwefelsäure nach dem Kontaktverfahren an. Um das Zwischenprodukt Schwefeltrioxid gemäß dem Massenwirkungsgesetz aus dem Reaktionsgleichgewicht zu entfernen, wird bei der Oleumproduktion diese Zwischenabsorption zweistufig ausgeführt. In der ersten Stufe wird ein Teil des SO3 in Oleum absorbiert, das mit konzentrierter Schwefelsäure auf die erforderliche Oleumkonzentration verdünnt wird. In der zweiten Stufe der Zwischenabsorption wird das restliche SO3 in konzentrierter Schwefelsäure absorbiert. Hierbei nutzt man die Eigenschaft von SO3 aus, sich gut in konzentrierter Schwefelsäure zu lösen.
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          S
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SO_{4}+SO_{3}\longrightarrow H_{2}S_{2}O_{7}} }
+  Das Produkt ist eine farblose ölige (eigentlich: schwere, viskose) Flüssigkeit, in der Schwefelsäure-, Dischwefelsäure- sowie Trischwefelsäuremoleküle vorliegen. Das Verhältnis der Komponenten (SO3 und H2SO4) bestimmt die molekulare Zusammensetzung und die physikalisch-chemischen Eigenschaften:
+
+Dichte
+
+20 % SO3: 1,90 g/cm3
+80 % SO3: 1,94 g/cm3Schmelzpunkt
+
+20 % SO3: −11 °C
+45 % SO3: 35 °CDischwefelsäure ist stark hygroskopisch und zerfällt bei Anwesenheit von Wasser sehr schnell und unter starker Hitzeentwicklung zu Schwefelsäure (Hydrolyse) und reagiert als solche stark sauer. Zu dieser Reaktion kommt es schon mit dem in der Luft vorhandenen Wasser, wodurch sich ein dichter Nebel aus Schwefelsäuretröpfchen bildet. Dies ist zum Beispiel beim Oleum der Fall, weshalb dieses auch den Namen „rauchende Schwefelsäure“ trägt.
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}S_{2}O_{7}+H_{2}O\longrightarrow 2\ H_{2}SO_{4}} }Dischwefelsäure und Oleum sind sehr gefährlich. Sie sind stark ätzend und reagieren besonders mit organischen Stoffen sehr heftig. Beispielsweise kommt es bei Kontakt mit Haut oder Kleidungsstücken zu starkem Wasserentzug, sogar unter Spaltung von Molekülen wie etwa Kohlenhydraten. Dadurch verfärbt sich die betroffene Stelle gelb bis schwarz. Durch die starke Hitzeentwicklung bei der eintretenden Hydrolyse kann sich organisches Material leicht entzünden und es kann sogar zur Explosion kommen. Oleum reagiert so heftig mit Wasser, dass es nur verdünnt werden kann, indem man es langsam auf Eis schüttet. Außerdem vermag es, anders als Schwefelsäure, sogar Plastikgefäße und Neoprenhandschuhe zu zerstören. Eine zusätzliche Gefahr stellen entweichende Schwefeltrioxiddämpfe dar.
+
+
+== Einzelnachweise ==

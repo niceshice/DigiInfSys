@@ -1,0 +1,49 @@
+DMAIC (Define – Measure – Analyse – Improve – Control, lautsprachlich: di-meɪk, zu dt. Definieren – Messen – Analysieren – Verbessern – Steuern) steht für die Phasen eines Prozessmanagement-Prozesses. DMAIC ist der Kernprozess des Qualitätsmanagement-Ansatzes Six Sigma und wird eingesetzt, um Prozesse so zu gestalten, dass diese stabil ein vorgegebenes 6 Sigma-Leistungsniveau halten. DMAIC wird für die Verbesserung von bestehenden Produkten verwendet. Für neue Produkte gibt es DMADV, für neue Prozesse DMAEC (E = Engineering).Definiert wird, wer die Kunden (Kunden werden hier sehr weit definiert) des Prozesses sind und welche Kundenbedürfnisse der Prozess erfüllen soll. Darauf aufbauend werden die Leistungsmerkmale des Prozesses definiert, die kritisch für die Erfüllung der Kundenerwartungen sind.In der Datenerhebungsphase müssen Methoden und Instrumente zur Sammlung von Daten über die derzeitige Ausprägung der Leistungsmerkmale gefunden werden. Mittels dieser Instrumente werden Daten über die Funktionalität des Prozesses erfasst.
+Nach Abschluss der Phase liegen vor:
+
+Datenerfassungsplan
+Datenerfassungsblatt
+Qualitätsregelkarten
+Häufigkeitsdiagramm (Histogramme)
+Messsystemanalyse (R&R-Bewertung; Gauge R&R; Prüfmittelfähigkeitsuntersuchung)
+Paretodiagramme
+Prioritätsmatrix
+FMEA
+Prozessfähigkeit (Cp, Cpk)
+Prozess Sigma (charakteristische Prozesssteuerung)
+Stichproben
+Datensicherung
+ZeitlaufsdiagrammeZiel der Analysephase ist es, die Ursachen der Abweichung von den definierten Leistungszielen zu identifizieren. Das Ergebnis dieser Phase führt u. U. dazu, dass Änderungen der Problembeschreibung oder des gesamten Projektrahmens vorgenommen werden müssen.
+Die in der Analyse-Phase am häufigsten benutzten Werkzeuge sind:
+
+Affinitätsdiagramm
+Brainstorming
+Ursache-Wirkungs-Diagramm
+Regelkarten
+Datensammlungsformular/Fehlersammelkarte
+Statistische Versuchsplanung (DoE: Design of Experiments)
+Flussdiagramm
+Häufigkeitsdiagramm
+Hypothesentests
+Paretodiagramm
+Regressionsanalyse
+Response Surface Methodology (RSM)
+Stichprobennahme
+StreudiagrammIn der Verbesserungsphase sollen Lösungsmöglichkeiten für die in der Analyse-Phase identifizierten und ausgewählten Probleme gefunden werden. Da es mehrere Lösungen gibt, sind Kriterien festzulegen, nach denen die Lösungsansätze bewertet werden.
+Die in der Verbesserungsphase am häufigsten benutzten Werkzeuge sind:
+
+Brainstorming
+Konsens
+Kreativitätstechniken
+Statistische Versuchsplanung (DoE: Design of Experiments)
+Flussdiagramme
+FMEAZuletzt müssen die gefundenen Verbesserungen und neuen Verfahren im Alltagsbetrieb verankert werden. Wichtig ist es hier, die Verantwortung für den Prozess an den Prozesseigentümer zu übergeben bzw. zurückzugeben. Der Prozess wird im weiteren Verlauf mit den entwickelten Messsystemen fortdauernd überwacht. Für zu erwartende Abweichungen des Prozesses werden geeignete Korrekturmaßnahmen etabliert.
+In dieser Phase finden folgende Werkzeuge Anwendung:
+
+Regelkarten
+Datensammlung
+Flussdiagramm
+Häufigkeitsdiagramme
+Paretodiagramme
+QM-Prozessdiagramm
+StandardisierungDer DMAIC fasst bekannte Vorgehensweisen und Methoden zu einem systematischen Ansatz zusammen. Ähnliche Ansätze gibt es schon lange, der älteste dürfte der von Grochla sein (siehe auch Vorgehensmodell). Allerdings bietet der DMAIC den Vorteil, dass die Werkzeuge über die einzelnen Phasen miteinander verknüpft sind und die Projektarbeit dadurch chronologisch strukturiert und systematisiert wird.

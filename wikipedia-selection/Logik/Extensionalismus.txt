@@ -1,0 +1,69 @@
+Unter Extensionalismus versteht man in der Sprachphilosophie, Logik und Semantik die Auffassung, dass alle Sprachen (bzw. schwächer: alle Wissenschaftssprachen) in letzter Konsequenz extensional sind (bzw. sein sollten). Das bedeutet, dass
+
+die Angabe der Extension der atomaren Ausdrücke einer Sprache genügt, um deren Bedeutung zu charakterisieren;
+die Extension eines komplexen Ausdrucks allein von der Extension seiner Teilausdrücke und der Art und Weise ihrer Zusammensetzung abhängt.Der Extensionalismus kann als normative Verschärfung des Extensionalitätsprinzips betrachtet werden, dem zufolge die Extensionalität nur für einige Sprachen bzw. Sprachsegmente, aber nicht notwendigerweise für alle gilt (bzw. gelten sollte). Die meisten modernen Semantikerinnen und Semantiker akzeptieren die Intension als zentralen Begriff der Semantik und widersprechen damit dem Extensionalismus. Für Vertreter des Extensionalismus ist die Intensionalität mancher Ausdrücke in natürlichen Sprachen ein Oberflächenphänomen, das durch eingehende logische Analyse zum Verschwinden gebracht werden kann.Seit der Logik von Port-Royal (1662) ist es üblich, an sprachlichen Ausdrücken ihren Gegenstandsbezug (Referenz oder Extension) und ihren Inhalt (Bedeutung oder Intension) zu unterscheiden. In der auf Gottlob Freges Aufsatz Über Sinn und Bedeutung (1892) aufbauenden, im Wesentlichen auf Alfred Tarski und Rudolf Carnap zurückgehenden modernen Semantik hat sich folgende Zuordnung als Standard etabliert:
+
+Willard Van Orman Quine, zeitlebens Verfechter des Extensionalismus, hat bereits in seinem Aufsatz Zwei Dogmen des Empirismus (1951) geltend gemacht, dass das intensionale Vokabular zu einer Familie von Begriffen gehört, die sich nur im Rückgriff aufeinander definieren lassen, so dass man sich letztlich in einem Definitionszirkel bewegt, wenn man versucht, diese Begriffe zu erklären. Damit zusammenhängend sind die Identitätsbedingungen intensionaler Objekte wie Propositionen oft nicht zweifelsfrei klar; beispielsweise kann man im Zweifel sein, ob die Sätze „Der erste Mensch auf dem Mond war US-Amerikaner“ und „Neil Armstrong war US-Amerikaner“ dieselbe oder unterschiedliche Propositionen ausdrücken.Unter einem extensionalen Kontext wird seit Bertrand Russells und Alfred North Whiteheads Principia Mathematica (1910) ein sprachliches Gebilde verstanden, dessen Extension nur von der Extension seiner Teilausdrücke abhängt, also beispielsweise ein gewöhnlicher, nicht kontextabhängiger Satz wie
+
+(1) Es regnet oder es schneit am 19. November 2014 um 18:07 Uhr in Bingen am Rhein.Kriterium für Extensionalität ist die Substituierbarkeit extensionsgleicher Teilausdrücke salva extensione, d. h. im Falle von Aussagesätzen salva veritate. So verändert sich der Wahrheitswert (die Extension) des eben genannten Beispielsatzes nicht, wenn „Bingen am Rhein“ durch einen Ausdruck mit derselben Extension ersetzt wird:  Der Satz „Es regnet oder es schneit an dem Tag, der auf den 18. November 2014 folgt, um 18:07 Uhr in der Stadt, in der 2008 die rheinland-pfälzische Landesgartenschau stattfand“ ist dann und nur dann wahr, wenn (1) wahr ist.
+Der Ausdruck „intensionaler Kontext“ (auch: „referentiell opaker Kontext“) wird meist einfach als kontradiktorischer Gegensatz zu „extensionaler Kontext“ verwendet, beispielsweise in Carnaps Logischer Syntax der Sprache:
+
+„Intensional“ soll dasselbe bedeuten wie „nicht extensional“ (in den verschiedenen Zusammenhängen). („Intensional“ bedeutet bei uns nichts weiter, besonders nicht so etwas wie „auf Sinn bezogen“ od. dgl. […].)Schließt man sich dieser Terminologie an, dann ist jeder sprachliche Ausdruck entweder extensional oder intensional. Gelegentlich, so z. B. von Carnap selbst in Bedeutung und Notwendigkeit, wird der Ausdruck „intensional“ jedoch in einem engeren Sinne gebraucht und auf die Fälle eingeschränkt, „in denen die Bedingung der Extensionalität nicht, aber die analoge Bedingung mit Rücksicht auf Intension erfüllt wird.“ (Beispiele hierfür wären modale Kontexte.) Sprachliche Kontexte, die weder intensional in diesem letzteren Sinne noch extensional sind, werden oft als „hyperintensional“ bezeichnet. Hierzu zählen besonders Sätze über propositionale Einstellungen, also Sätze, die mit „A glaubt, dass …“, „A befürchtet, dass …“ usw. beginnen. In solchen Kontexten können auch intensional äquivalente Ausdrücke nicht salva veritate füreinander substituiert werden, weil das Subjekt A der propositionalen Einstellung nicht zwingend um die intensionale Äquivalenz weiß. (Wäre A ein allwissendes, logisch perfektes Wesen, so wäre ein Satz der Form „A glaubt, dass …“ jedoch ein extensionaler Kontext.)Es scheint offensichtlich, dass in der Alltagssprache häufig intensionale (bzw. nicht extensionale) Kontexte vorkommen. Typischerweise werden drei bis vier Gruppen unterschieden:
+
+Anführungen,
+Berichte über propositionale Einstellungen sowie indirekte Rede,
+modale Kontexte,
+nicht wahrheitsfunktionale Satzoperatoren wie „weil“.Beispiele und Reinterpretation:
+
+(2) „Giorgione“ ist dreisilbigInnerhalb von Anführungen kann ersichtlich nicht salva veritate substituiert werden, weil oftmals auf die sprachliche Form dessen Bezug genommen wird, was zwischen den Anführungszeichen steht: Der Satz
+
+(3) „Giorgio Barbarelli da Castelfranco“ ist dreisilbigist offensichtlich falsch, während (2) wahr ist.
+Etwas komplizierter liegt der Fall bei
+
+(4) Giorgione wurde wegen seiner Größe so genannt,weil (4) zunächst von dem Maler Giorgione und nicht von seinem Namen handelt. Dennoch ist
+
+(5) Barbarelli wurde wegen seiner Größe so genanntfalsch und sogar unverständlich: Die Endung „-one“ ist im Italienischen ein Augmentativsuffix, und das anaphorische „so“ in Satz (4) bezieht sich auf das sprachliche Objekt.
+Wird die Anapher aufgelöst, so entsteht aber der wahre (stilistisch freilich etwas unbeholfene) Satz
+
+(6) Giorgione wurde wegen seiner Größe „Giorgione“ genannt,in dem das erste, referentiell transparente Vorkommnis von „Giorgione“ salva veritate durch einen extensionsgleichen Ausdruck ersetzt werden kann:
+
+(7) Der Renaissancemaler Giorgio Barbarelli wurde wegen seiner Größe „Giorgione“ genannt.Allgemein gesprochen darf innerhalb von Anführungszeichen nie substituiert werden, weil durch Anführungszeichen eingeschlossene Ausdrücke für sich selbst stehen und ihre gewöhnliche Bedeutung verlieren. Tarski und Quine haben deshalb vorgeschlagen, in kanonischer Notation statt Anführungszeichen funktorielle Terme zu verwenden, die Ausdrücke als Konkatenationen (Verkettungen) von Buchstaben oder anderen Zeichen beschreiben:
+
+(8) 
+  
+    
+      
+        G
+        ∘
+        i
+        ∘
+        o
+        ∘
+        r
+        ∘
+        g
+        ∘
+        i
+        ∘
+        o
+        ∘
+        n
+        ∘
+        e
+      
+    
+    {\displaystyle G\circ i\circ o\circ r\circ g\circ i\circ o\circ n\circ e}
+   ist dreisilbig.Der Konkatenationsfunktor ist extensional.Ein Beispiel für die Zuschreibung einer propositionalen Einstellung ist
+
+(9) Chiara glaubt, dass Giorgione ein Renaissancemaler war.Aus (9) folgt jedoch nicht, dass Chiara glaubt, Giorgio Barbarelli sei ein Renaissancemaler gewesen, denn wenn sie ihr gesamtes Wissen über Giorgione aus einem Buch über die italienische Renaissance hat, in dem er ausschließlich „Giorgione“ genannt wird, kann sie diesen Schluss nicht ziehen. Auch hier versagt die Substitutivität, die wie gesagt Kriterium der Extensionalität ist. Eine Bezugnahme auf Propositionen (Satzinhalte) als Gegenstände des Glaubens, Bezweifelns usw. steht Extensionalisten im Allgemeinen auch nicht offen, weil Propositionen intensional sind.
+Eine triviale Rückführung auf den Fall der Anführung nach dem Muster
+
+(10) Chiara glaubt: „Giorgione war ein Renaissancemaler“verbietet sich unter anderem deshalb, weil Chiara, falls sie kein Deutsch versteht, kaum in einer solchen Beziehung zu einem deutschen Satz stehen kann.Quines Schüler Donald Davidson hat in seinem Aufsatz On Saying That versucht, die indirekte Rede und propositionale Einstellungen einer parataktischen Analyse zu unterziehen, die vom Grundansatz her als extensionalistisch betrachtet werden kann.Einer der Hauptvertreter des Extensionalismus war der frühe Rudolf Carnap, eines der führenden Mitglieder des Wiener Kreises. In seinem ersten Hauptwerk Der logische Aufbau der Welt (1928) schrieb er (S. 63):
+
+Alle Aussagen sind extensional. In jedem Satz darf das Zeichen des von der Aussage beurteilten Gegenstandes […] ersetzt werden durch jedes Zeichen von gleicher Bedeutung, auch wenn dieses einen anderen Sinn hat.Hier ist zu beachten, dass Carnap sich an die Terminologie Freges aus Über Sinn und Bedeutung anlehnt; d. h. „Bedeutung“ bedeutet hier so viel wie „Extension“, „Sinn“ so viel wie „Intension“.
+In Carnaps zweitem Hauptwerk Logische Syntax der Sprache von 1934 heißt es (S. 188):
+
+Eine universale Sprache der Wissenschaft kann extensional sein, genauer: zu jeder vorgegebenen intensionalen Sprache S1 lässt sich eine extensionale Sprache S2 derart konstituieren, dass S1 in S2 übersetzbar ist.In seinem dritten Hauptwerk Meaning and Necessity (1947) gab Carnap den Extensionalismus jedoch auf und vertrat die Ansicht, dass extensionale und intensionale Systeme gleichberechtigt nebeneinanderstehen.
+Quine, der zumindest in seinen frühen Jahren stark durch Carnap beeinflusst war, schrieb:
+
+Ich bezweifle, dass ich jemals irgendetwas voll und ganz verstanden habe, was ich nicht in einer extensionalen Sprache erklären konnte.

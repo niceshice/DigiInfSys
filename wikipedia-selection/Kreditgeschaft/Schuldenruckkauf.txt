@@ -1,0 +1,15 @@
+Ein Schuldenrückkauf (auch Bürger-Bailout oder kurz BBO) bezeichnet eine kreditfinanzierte Umschuldung der Staatsschulden auf einen Bail-out-Debitor, dem es als Kreditor der Umschuldung ermöglicht wird, die Debitorzinsen mit den Kreditorzinsen zu begleichen.
+Ähnlich wie bei einer Umschuldung, werden bei einem Schuldenrückkauf die bestehenden Schuldverhältnisse eines Schuldners so verändert, dass die bestehenden Zins- und/oder Tilgungslasten zu keiner Zahlungsunfähigkeit oder Überschuldung führen können. 
+Am Schuldenrückkauf beteiligt sind zumindest: 
+
+ein Schuldner, der die bestehende Schuldenlast trägt und beabsichtigt, die Schulden mit Kredit zurückzukaufen.
+ein Gläubiger, der die bestehenden Forderungen hält und bereit ist, sie zu verkaufen.
+ein Bail-out-Debitor, der beim Bail-out-Kreditor einen Kredit nimmt und das Kreditgeld an den Schuldner weiterverleiht bzw. dessen Anleihen kauft.
+ein Bail-out-Kreditor, der dem Bail-out-Debitor Kredit gewährt.Dem Bail-out-Debitor kommt eine besondere und privilegierte Rolle zu, weil er sowohl als Debitor gegenüber dem Bail-out-Kreditor als auch als Kreditor gegenüber dem Schuldner auftritt. Dies ermöglicht eine vertragliche Konstruktion einer strukturellen Bonität, die den Bail-out-Debitor (unabhängig von seiner tatsächlichen Bonität) uneingeschränkt kreditfähig macht. Die strukturelle Bonität des Bail-out-Debitors ist gegeben, wenn vertraglich vereinbart wird, dass die Debitorzinsen immer niedriger angesetzt werden als die Kreditorzinsen. Refinanziert sich der Bail-out-Kreditor ebenso mit Kreditgeld, müssen die Debitorzinsen höher ausfallen als die Refinanzierungszinsen (z. B. die Leitzinsen der Notenbank) des Bail-out-Kreditors.
+Ein Schuldenrückkauf ist erfolgreich, wenn sich der Schuldner mit den Bail-out-Partnern (Bail-out-Debitor und Bail-out-Kreditor) vertraglich auf die Bedingungen der strukturellen Bonität des Bail-out-Debitors einigen – es muss gelten: Bail-out-Kreditorzinsen > Bail-out-Debitorzinsen > Kreditor-Refinanzierungszinsen – und die Gläubiger bereit sind, ihre Forderungen an den Schuldner zu verkaufen. 
+Mit den Zinsspannen zwischen den Refinanzierungszinsen und den Bail-out-Debitorzinsen bzw. den Bail-out-Kreditorzinsen und den Bail-out-Debitorzinsen finanzieren die Bail-out-Partner ihre Aufwendungen. Der Schuldner verringert seine Rückzahlungsbelastungen und profitiert mitunter vom günstigen Preis seiner verzinslichen Wertpapiere am Markt.
+Der öffentliche Schuldenrückkauf ist ein adäquates Finanzierungsmodell bei größeren Verwerfungen im Finanzsystem, um eine drohende Zahlungsunfähigkeit eines oder mehrerer Staaten abzuwenden oder die gesamte Staatsfinanzierung in ein Umlageverfahren überzuführen. Auch ein privater Schuldenrückkauf eines Unternehmens mit zwei Bail-out-Partnern ist denkbar. 
+Je nachdem, ob bei einem öffentlichen Schuldenrückkauf Banken oder gleichberechtigte Bürger die privilegierte Rolle des Bail-out-Debitors übernehmen, spricht man von einem:
+
+griechischen Schuldenrückkauf oder einem
+Bürger-Bailout (engl. Citizen- oder Public-Bail-out).

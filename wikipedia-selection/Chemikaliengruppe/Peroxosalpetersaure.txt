@@ -1,0 +1,130 @@
+Die Peroxosalpetersäure ist eine Sauerstoffsäure des Stickstoffs mit der Summenformel NO2(OOH) = HNO4. Die sehr unbeständige Verbindung wird zu den Photooxidantien gezählt.Peroxosalpetersäure lässt sich im Labor durch Einwirkung von trockenem Wasserstoffperoxid (H2O2) auf kristallines Distickstoffpentoxid (N2O5, das Anhydrid der Salpetersäure) bei einer Temperatur von −80 °C herstellen:
+
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          N
+          
+            O
+            
+              2
+            
+          
+          (
+          O
+          O
+          H
+          )
+          +
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {N_{2}O_{5}+H_{2}O_{2}\longrightarrow NO_{2}(OOH)+HNO_{3}} }
+  Aufgrund ihrer hohen Instabilität zerfällt sie bereits bei −30 °C explosionsartig. Als schwach konzentrierte Lösung ist sie bei 20 °C für einige Zeit haltbar, zerfällt dann jedoch in H2O2 und HNO3. Bei pH-Werten > 5 zerfällt das Peroxonitration in ein Nitrit-Ion und ein Sauerstoffmolekül:
+
+  
+    
+      
+        
+          N
+          
+            O
+            
+              4
+            
+            
+              −
+            
+          
+          ⟶
+          N
+          
+            O
+            
+              2
+            
+            
+              −
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{4}^{-}\longrightarrow NO_{2}^{-}+O_{2}} }In der Erdatmosphäre kann es durch intensive Sonneneinstrahlung zur (kurzfristigen) Bildung von Peroxosalpetersäure durch Reaktion von Stickstoffdioxid (NO2) mit einem HOO·-Radikal kommen:
+
+  
+    
+      
+        
+          H
+          O
+          O
+          ⋅
+          +
+          N
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          N
+          
+            O
+            
+              2
+            
+          
+          (
+          O
+          O
+          H
+          )
+        
+      
+    
+    {\displaystyle \mathrm {HOO\cdot +NO_{2}\longrightarrow NO_{2}(OOH)} }
+  Aufgrund ihrer Instabilität zerfällt sie auch wiederum und reagiert unter anderem zu den oben beschrieben Produkten.

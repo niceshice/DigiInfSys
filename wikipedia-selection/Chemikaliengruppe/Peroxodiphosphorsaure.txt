@@ -1,0 +1,191 @@
+Peroxodiphosphorsäure ist eine Oxosäure des Phosphors. Ihre Salze heißen Peroxodiphosphate. Sie ist neben der Peroxomonophosphorsäure eine der beiden bekannten Peroxophosphorsäuren.Die beiden Peroxophosphorsäuren wurden 1910 erstmals von Julius Schmidlin und Paul Massini hergestellt und beschrieben. Hier wurde sie mit schlechter Ausbeute aus hochkonzentrierter Diphosphorsäure und Wasserstoffperoxid erhalten.
+
+  
+    
+      
+        
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          →
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              8
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{4}P_{2}O_{7}+H_{2}O_{2}\rightarrow H_{4}P_{2}O_{8}+H_{2}O} }Peroxodiphosphorsäure kann durch die Umsetzung von Phosphorsäure mit Fluor erhalten werden, wobei als Nebenprodukt auch Peroxomonophosphorsäure entsteht.
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            F
+            
+              2
+            
+          
+          →
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              8
+            
+          
+          +
+          2
+          
+          H
+          F
+        
+      
+    
+    {\displaystyle \mathrm {2\,H_{3}PO_{4}+F_{2}\rightarrow H_{4}P_{2}O_{8}+2\,HF} }
+  Die Verbindung ist nicht kommerziell verfügbar und muss vor der Anwendung hergestellt werden. Peroxodiphosphate werden durch eine anodische Oxidation von Phosphatlösungen gewonnen.Peroxodiphosphorsäure stellt eine vierbasige Säure dar. Die vier Säurekonstanten betragen pKS1 ≈ −0,3, pKS2 ≈ 0,5, pKS3 = 5,2 und pKS4 = 7,6. In wässriger Lösung erfolgt beim Erwärmen eine Disproportionierung zu Peroxomonophosphorsäure und Phosphorsäure.
+
+  
+    
+      
+        
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              8
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇌
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{4}P_{2}O_{8}+H_{2}O\rightleftharpoons H_{3}PO_{5}+H_{3}PO_{4}} }
+  
+
+
+== Einzelnachweise ==

@@ -1,0 +1,27 @@
+Ziel der Business-Analyse (BA oder auch Business Analysis) ist es, Strukturen, Geschäftsregeln sowie Kommunikations- und Geschäftsprozesse eines Unternehmens zu verstehen. Es sollen Lösungen empfohlen werden, die es dem Unternehmen ermöglichen, diese Strukturen, Geschäftsregeln und Prozesse zu verbessern. Beispiele dafür sind optimierte Arbeitsabläufe, Änderungen der Aufbauorganisation und insbesondere der Einsatz von IT-Tools. Die Business-Analyse ermittelt dazu Anforderungen und Erwartungen unterschiedlicher Personen und Personengruppen (Stakeholder) innerhalb und außerhalb des Unternehmens.Für Business-Analyse ist es notwendig zu verstehen,
+
+wie ein Unternehmen funktioniert,
+welche Ziele ein Unternehmen verfolgt,
+wie es seine Ziele erreicht,
+welche Anforderungen die Stakeholder haben,
+in welcher Beziehung die Anforderungen zu den Unternehmenszielen stehen,
+welche Maßnahmen und Lösungen geeignet sind, um die Ziele zu erreichen,
+welche Potenziale ein Unternehmen braucht, um externen und internen Stakeholdern Produkte und Dienstleistungen anbieten zu können,
+wie verschiedene Organisationseinheiten sowie interne und externe Zielträger (Stakeholder) dabei zusammenwirken.Business-Analyse kann den Istzustand eines Unternehmens analysieren und beschreiben, und/oder Anforderungen an einen zukünftigen Sollzustand ermitteln. Business-Analysten erheben, ordnen und verarbeiten dazu Anforderungen unterschiedlichster Personen und Personengruppen (z. B. Kunden, Mitarbeiter, IT-Experten und Führungskräfte). Dabei spielt häufig die Sicherstellung und die Verbesserung der Kommunikation zwischen den verschiedenen Beteiligten eine wesentliche Rolle.
+Anschließend werden Lösungen erarbeitet und bewertet, um die Anforderungen zu erfüllen und die Ziele zu erreichen. Häufig sind diese Lösungen IT-unterstützt oder direkt IT-Lösungen (z. B. neue oder verbesserte Software, Einsatz von Workflow-Systemen). Daher sind die Anforderungen der internen Fachabteilungen und externen Kunden mit den Möglichkeiten, die die IT bereitstellt, abzugleichen. Weil in Fachbereichen und IT-Abteilung unterschiedliche (Fach-)Begriffe verwendet werden, dienen Business-Analysten häufig als „Dolmetscher“.Die Aufgabengebiete der Business-Analyse sind:
+Strategische Analyse: den Istzustand des Unternehmens ermitteln und mögliche Lösungen als Verbesserungen für den Sollzustand skizzieren (vorhandene Probleme/Chancen beschreiben, Ziele definieren, Lösungsansätze entwerfen, Lösungsumfang festlegen, Business-Case erstellen).
+Erhebung und Zusammenarbeit: Anforderungen der Stakeholder ermitteln.
+Anforderungsanalyse und Design-Definition: Anforderungen priorisieren, strukturieren (Auswahl von Text, Grafik und/oder Modell zur Dokumentation von Anforderungen), spezifizieren (Anforderungen in Textform dokumentieren), modellieren (Anforderungen mit Grafiken/Modellen dokumentieren), verifizieren (auf inhaltliche Qualität prüfen), validieren (auf Übereinstimmung mit den Zielen prüfen).
+Management des Anforderungs-Lebenszyklus: Anforderungen verwalten (Anforderungen zur Genehmigung vorbereiten, Anforderungsänderungen managen).
+Planung und Überwachung der Business-Analyse: Planung der Business-Analyse-Arbeit (Planung der zu erledigenden Aufgaben, der Kommunikation, des Informationsmanagements).
+Lösungsbewertung: vorgeschlagene oder eingesetzte Lösungen prüfen, ob sie die ermittelten Anforderungen abdecken.
+Basiskompetenzen: mündliche und schriftliche Kommunikationsfähigkeiten einsetzen, analytische Kenntnisse verwenden, Unternehmens- und Branchenwissen nutzen.Personen, die Business-Analyse oder verwandte Aufgaben durchführen, werden bezeichnet als:
+
+Business-Analytiker, englisch Business Analyst
+Fach-IT-Koordinator
+(Business) System-Analyst
+Requirements Engineer
+Unternehmensarchitekt
+Managementberater
+OrganisatorBusiness-Analyse kann in Deutschland berufsbegleitend an der Steinbeis-Hochschule studiert werden und in der Schweiz an der Hochschule für Wirtschaft Zürich. Der Abschluss ist jeweils ein Master. Daneben schulen und zertifizieren Trainingsanbieter in Business-Analyse.
+Grundsätzlich ist für die Tätigkeit eines Business-Analysten allerdings keine spezielle Ausbildung erforderlich, wenngleich ein Wirtschaftsstudium oder eine wirtschaftsnahe Berufsausbildung sinnvoll sind.

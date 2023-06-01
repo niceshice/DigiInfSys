@@ -1,0 +1,185 @@
+Die Inferenzoperation ist eine Funktion in der Logik, die einer (gegebenenfalls leeren) Formelmenge 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   (den Annahmen oder Prämissen) die Menge aller Formeln zuordnet, die logisch aus 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   folgen.Ist eine Ableitbarkeitsrelation 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   gegeben, so ist die zugehörige Inferenzoperation wie folgt zu definieren: 
+  
+    
+      
+        C
+        n
+        (
+        Γ
+        )
+      
+    
+    {\displaystyle Cn(\Gamma )}
+   = 
+  
+    
+      
+        {
+        
+          A
+        
+        ∣
+        Γ
+        ⊢
+        
+          A
+        
+        }
+      
+    
+    {\displaystyle \{\mathrm {A} \mid \Gamma \vdash \mathrm {A} \}}
+  . Umgekehrt kann man bei gegebener Inferenzoperation die Ableitbarkeitsrelation so festlegen:
+  
+    
+      
+        Γ
+        ⊢
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \vdash \mathrm {A} }
+   gdw. 
+  
+    
+      
+        
+          A
+        
+        ∈
+        C
+        n
+        (
+        Γ
+        )
+      
+    
+    {\displaystyle \mathrm {A} \in Cn(\Gamma )}Ebenso wie es unterschiedliche Ableitbarkeitsrelationen für unterschiedliche Logiken (Aussagenlogik, Prädikatenlogik, intuitionistische Logik, Modallogik usw.) gibt, gibt es also auch unterschiedliche Inferenzoperationen.
+Obwohl es also unterschiedliche Inferenzoperationen gibt, gibt es doch eine Reihe von Eigenschaften, die allen (oder doch den meisten) Inferenzoperationen zukommen. Diese sind zuerst von dem Logiker Alfred Tarski untersucht worden. Tarski nennt die folgenden Eigenschaften
+
+Extensivität: 
+  
+    
+      
+        Γ
+        ⊆
+        C
+        n
+        (
+        Γ
+        )
+      
+    
+    {\displaystyle \Gamma \subseteq Cn(\Gamma )}
+  , besagt, dass Annahmen immer auch Folgerungen sind, alternativ: dass man jede Aussage, die man annimmt, auch folgern darf.
+Idempotenz: 
+  
+    
+      
+        C
+        n
+        (
+        C
+        n
+        (
+        Γ
+        )
+        )
+        ⊆
+        C
+        n
+        (
+        Γ
+        )
+      
+    
+    {\displaystyle Cn(Cn(\Gamma ))\subseteq Cn(\Gamma )}
+  , besagt, dass Folgerungen aus Folgerungen immer schon Folgerungen sind, alternativ: wenn man eine Aussage, die aus den Annahmen folgt, annimmt, so bekommt man dadurch keine zusätzlichen Folgerungen.
+Monotonie Wenn 
+  
+    
+      
+        Γ
+        ⊆
+        Δ
+      
+    
+    {\displaystyle \Gamma \subseteq \Delta }
+  , dann 
+  
+    
+      
+        C
+        n
+        (
+        Γ
+        )
+        ⊆
+        C
+        n
+        (
+        Δ
+        )
+      
+    
+    {\displaystyle Cn(\Gamma )\subseteq Cn(\Delta )}
+  , besagt, wenn zwei Annahmenmengen ineinander enthalten sind, sind auch die entsprechenden Konsequenzenmengen ineinander enthalten, alternativ: folgt aus einer Menge von Annahmen eine Aussage, so folgt dieselbe Aussage immer noch, wenn weitere Annahmen hinzugenommen werden. (Wird die Monotonieeigenschaft aufgegeben, spricht man von nichtmonotoner Logik.)
+Kompaktheit: 
+  
+    
+      
+        C
+        n
+        (
+        Γ
+        )
+        =
+        ∪
+        {
+        C
+        n
+        (
+        Δ
+        )
+        ∣
+        Δ
+      
+    
+    {\displaystyle Cn(\Gamma )=\cup \{Cn(\Delta )\mid \Delta }
+   ist endlich und 
+  
+    
+      
+        Δ
+        ⊆
+        Γ
+        }
+      
+    
+    {\displaystyle \Delta \subseteq \Gamma \}}
+  , besagt, dass Folgerungen aus unendlichen Annahmenmengen sich immer schon aus einer endlichen Untermenge der Annahmenmenge folgern lassen.Die ersten drei Eigenschaften machen die Inferenzoperation zu einem Hüllenoperator.

@@ -1,0 +1,17 @@
+Apache Directory Server bzw. ApacheDS ist ein quelloffener und freier Verzeichnisdienst-Server der Apache Software Foundation und zu LDAPv3 kompatibel.Im Oktober 2002 startete Alex Karasulu bei SourceForge.net das LDAPd-Projekt. LDAPd wurde in Java mit dem Avalon-Framework geschrieben und sollte einbettbar und zum LDAP-Standard kompatibel sein. Im Oktober 2003 übergab Karasulu das Projekt an die Apache Software Foundation zur Aufnahme in den Apache Incubator. Nach der erfolgreichen Inkubationsphase wurde LDAPd im Oktober 2004 als Apache Top Level Project Directory eingerichtet und in Apache Directory Server umbenannt. Die Veröffentlichung der vollständig LDAPv3-kompatiblen Version 1.0 erfolgte im Oktober 2006.Anlaufstelle für die Open-Source-Community bietenFörderung einer sprachunabhängigen Umgebung sowohl für clientseitige als auch für serverseitige Zwecke.
+Die Plattform für alle Verzeichnis- und Namensanforderungen auf jeder Plattform oder Sprache
+Client-APIs
+Clients, z. B. Apache Directory Studio
+JNDI-Anbieter in Java und andere Namespaces.
+In Zukunft LDAP-Validierung und Stresstest-Werkzeug
+Server mit einbettbarer Konfiguration bereitstellen
+Server als Unix- oder Windows-Dienst zur Verfügung stellen
+einen einbett-/integrierbaren Verzeichnisdienst für andere Apache-Produkte zur Verfügung stellen: httpd, Slide, Tomcat, James und Geronimo.LDAPv3-konform
+X500-Autorisierung
+integrierter Kerberos-Server
+Multi-Master-Replikation
+Unterstützung von Passwortregeln
+LDIF-basierte KonfigurationDer Verzeichnisdienst kann als Metaverzeichnis im Bereich des Identitätsmanagements eingesetzt werden, als Beispiel RDS von IBM.
+
+
+== Einzelnachweis ==

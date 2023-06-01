@@ -1,0 +1,320 @@
+Die Hoover-Ungleichverteilung ist das einfachste aller Ungleichverteilungsmaße. Sie beschreibt die relative Abweichung vom Mittelwert. Sie ist „direkt“, weil sie zum Beispiel bei einer Ungleichverteilung von Geld einfach den Anteil des gesamten Geldes beschreibt, der umverteilt werden müsste, um aus einer Ungleichverteilung eine Gleichverteilung zu machen. Andere Bezeichnungen für die Hoover-Ungleichverteilung sind Hoover-Koeffizient, Hoover-Index, Balassa-Hoover-Index, Hoover concentration index und Segregations- und Dissimilaritätsindex.Die Hoover-Ungleichverteilung lässt sich – wie der Gini-Koeffizient – für Einkommensverteilungen, für Vermögensverteilungen und andere Verteilungen berechnen. Wie man die Hoover-Ungleichverteilung berechnet, zeigt das folgende Beispiel anhand der Verteilung eines „Gesamtvermögens“ von etwa 10 Billionen Deutschen Mark in Deutschland (1995):
+
+50 Prozent der Bevölkerung (A1) besaß  2,5 Prozent des Vermögens (E1).
+40 Prozent der Bevölkerung (A2) besaß 47,5 Prozent des Vermögens (E2).
+ 9 Prozent der Bevölkerung (A3) besaß 27,0 Prozent des Vermögens (E3).
+ 1 Prozent der Bevölkerung (A4) besaß 23,0 Prozent des Vermögens (E4).
+
+In einem ersten Schritt werden die Daten „normalisiert“ dargestellt (Egesamt=Agesamt=1):
+
+A1 = 0,50     E1 = 0,025
+A2 = 0,40     E2 = 0,475
+A3 = 0,09     E3 = 0,270
+A4 = 0,01     E4 = 0,230
+
+Im zweiten Schritt werden die absoluten Differenzen aufsummiert:
+
+abs(E1 - A1) = 0,475
+abs(E2 - A2) = 0,075
+abs(E3 - A3) = 0,180
+abs(E4 - A4) = 0,220
+       Summe = 0,950
+
+Die Hälfte der Summe ist die Hoover Ungleichverteilung:
+
+Hoover Ungleichverteilung: Summe/2 = 0,475 = 47,5 %
+
+Andere Ungleichverteilungsmaße „interpretieren“ Ungleichverteilungen. Ein Beispiel sind einige Entropie­maße (z. B. nach Theil, Atkinson, Kullback und Leibler usw.), die Bezug zu Gleichverteilungen von Zustandsgrößen in der statistischen Physik nehmen. Der Hoover-Koeffizient ist dagegen sehr einfach zu verstehen und zu berechnen. Er beschreibt direkt den Anteil einer ungleichverteilten Ressource, der umverteilt werden müsste, sollte eine Gleichverteilung dieser Ressource erzielt werden. Im Beispiel hätten also 47,5 % des Vermögens umverteilt werden müssen, wenn Alle gleich viel hätten besitzen sollen. (Die Ungleichverteilung innerhalb der vier durch Quantile mit unterschiedlichem Abstand abgegrenzten Bereiche mit unterschiedlicher Breite wäre dabei allerdings unberücksichtigt geblieben.)
+Der Wertebereich dieses relativen Ungleichsverteilungsmaßes liegt zwischen 0 und 1 (bzw. zwischen 0 % und 100 %). Die Hoover-Ungleichverteilung gehört in die Gruppe der Konzentrationsmaße.Die vollständige Formel der Hoover-Ungleichverteilung lautet:
+
+  
+    
+      
+        H
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          
+            |
+            
+              
+                
+                  
+                    
+                      E
+                    
+                    
+                      i
+                    
+                  
+                  
+                    
+                      E
+                    
+                    
+                      gesamt
+                    
+                  
+                
+              
+              −
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      i
+                    
+                  
+                  
+                    
+                      A
+                    
+                    
+                      gesamt
+                    
+                  
+                
+              
+              
+            
+            |
+          
+          
+            .
+          
+        
+      
+    
+    {\displaystyle H={\frac {1}{2}}\sum _{i=1}^{N}\color {Blue}\left|\color {Black}{\frac {{E}_{i}}{{E}_{\text{gesamt}}}}-{\frac {{A}_{i}}{{A}_{\text{gesamt}}}}\color {Blue}\right|\color {Black}.}
+  In der Formel wird eine Notation verwendet, in der die Anzahl 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   der mit Quantilen (mit gleichem oder unterschiedlichen Abstand) abgegrenzten Bereiche (mit gleicher oder unterschiedlicher Breite) in den Formeln nur als obere Grenze der Summenbildung erscheint. Damit können auch Ungleichverteilungen berechnet werden, bei denen die Bereiche eine unterschiedliche Breite 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   haben: 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+   sei das Einkommen im i-ten Bereich und 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+   sei die Anzahl (oder der prozentuale Anteil) der Einkommensbezieher im i-ten Bereich. 
+  
+    
+      
+        
+          E
+          
+            gesamt
+          
+        
+      
+    
+    {\displaystyle E_{\text{gesamt}}}
+   sei die Summe der Einkommen aller N Bereiche und 
+  
+    
+      
+        
+          A
+          
+            gesamt
+          
+        
+      
+    
+    {\displaystyle A_{\text{gesamt}}}
+   sei die Summe der Einkommensbezieher aller N Bereiche (oder 100 %). (Natürlich sind auch andere Zuordnungen möglich: Beispielsweise kann 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   auch Vermögen repräsentieren. Oder 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   steht für eine Art von Molekülen in einem Gemisch und 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   für eine andere Art von Molekülen.)
+In der Hoover-Ungleichverteilung werden die einzelnen Abweichungen von der Parität nur mit ihrem eigenen Vorzeichen (also dem Faktor +1 oder −1) gewichtet. Zum Vergleich betrachte man den symmetrierten Theil-Index 
+  
+    
+      
+        
+          T
+          
+            s
+          
+        
+      
+    
+    {\displaystyle T_{s}}
+  . Im Theil-Index werden die einzelnen Abweichungen von der Parität mit ihrem eigenen Informationsgehalt gewichtet:
+
+  
+    
+      
+        
+          T
+          
+            s
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          ln
+          ⁡
+          
+            
+              
+                
+                  E
+                
+                
+                  i
+                
+              
+              
+                
+                  A
+                
+                
+                  i
+                
+              
+            
+          
+          
+            (
+            
+              
+                
+                  
+                    
+                      E
+                    
+                    
+                      i
+                    
+                  
+                  
+                    
+                      E
+                    
+                    
+                      gesamt
+                    
+                  
+                
+              
+              −
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      i
+                    
+                  
+                  
+                    
+                      A
+                    
+                    
+                      gesamt
+                    
+                  
+                
+              
+              
+            
+            )
+          
+          
+            .
+          
+        
+      
+    
+    {\displaystyle T_{s}={\frac {1}{2}}\sum _{i=1}^{N}\color {Blue}\ln {\frac {{E}_{i}}{{A}_{i}}}\left(\color {Black}{\frac {{E}_{i}}{{E}_{\text{gesamt}}}}-{\frac {{A}_{i}}{{A}_{\text{gesamt}}}}\color {Blue}\right)\color {Black}.}

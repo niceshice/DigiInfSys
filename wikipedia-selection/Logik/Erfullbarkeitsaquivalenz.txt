@@ -1,0 +1,418 @@
+Erfüllbarkeitsäquivalenz ist eine Eigenschaft, die zwischen zwei prädikatenlogischen Formeln gelten kann.
+Zwei Formeln F und G sind genau dann erfüllbarkeitsäquivalent, wenn gilt:
+
+F ist erfüllbar 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   G ist erfüllbarOder umgekehrt:
+
+F ist unerfüllbar 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   G ist unerfüllbarDie beiden Formeln brauchen nicht äquivalent zu sein und brauchen auch nicht durch dieselben Interpretationen erfüllt zu werden. Erfüllbarkeitsäquivalenz ist somit eine recht schwache Eigenschaft.
+Relevant ist die Erfüllbarkeitsäquivalenz bei Nachweis der Unerfüllbarkeit einer prädikatenlogischen Formel mittels der Herbrand-Theorie. Dazu muss die Formel erst in die Skolemform umgeformt werden, die zur Ausgangsformel lediglich erfüllbarkeitsäquivalent ist.Es sei 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   eine Formel (mit der Bedingung, dass sie weder eine Tautologie noch unerfüllbar ist). Dann sind die Formeln 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   und 
+  
+    
+      
+        ¬
+        X
+      
+    
+    {\displaystyle \neg X}
+   erfüllbarkeitsäquivalent, aber nicht äquivalent.Zu jeder Formel in m-KNF, d. h. der Form 
+  
+    
+      
+        
+          ⋀
+          
+            i
+          
+        
+        
+          (
+          
+            
+              Y
+              
+                i
+                ,
+                1
+              
+            
+            ∨
+            .
+            .
+            .
+            ∨
+            
+              Y
+              
+                i
+                ,
+                
+                  k
+                  
+                    i
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \bigwedge _{i}\left(Y_{i,1}\vee ...\vee Y_{i,k_{i}}\right)}
+   mit 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+        ≤
+        m
+      
+    
+    {\displaystyle k_{i}\leq m}
+   also höchstens 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   Literalen pro Disjunktion, kann in Polynomialzeit eine erfüllbarkeitsäquivalente Formel in 3-KNF konstruiert werden.
+Sei dazu 
+  
+    
+      
+        Ψ
+        =
+        
+          C
+          
+            1
+          
+        
+        ∧
+        .
+        .
+        .
+        ∧
+        
+          C
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Psi =C_{1}\wedge ...\wedge C_{n}}
+   mit 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+        =
+        
+          Y
+          
+            i
+            ,
+            1
+          
+        
+        ∨
+        .
+        .
+        .
+        ∨
+        
+          Y
+          
+            i
+            ,
+            
+              m
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle C_{i}=Y_{i,1}\vee ...\vee Y_{i,m_{i}}}
+  . Solange 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   noch eine Klausel 
+  
+    
+      
+        
+          m
+          
+            i
+          
+        
+        ≥
+        3
+      
+    
+    {\displaystyle m_{i}\geq 3}
+   besitzt, ersetze dieses 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+      
+    
+    {\displaystyle C_{i}}
+   durch 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+        =
+        
+          C
+          
+            i
+          
+          ′
+        
+        ∧
+        
+          C
+          
+            i
+          
+          ″
+        
+      
+    
+    {\displaystyle C_{i}=C'_{i}\wedge C''_{i}}
+   mit
+
+  
+    
+      
+        
+          C
+          
+            i
+          
+          ′
+        
+        =
+        
+          Y
+          
+            i
+            ,
+            1
+          
+        
+        ∨
+        
+          Y
+          
+            i
+            ,
+            2
+          
+        
+        ∨
+        X
+      
+    
+    {\displaystyle C'_{i}=Y_{i,1}\vee Y_{i,2}\vee X}
+  
+
+  
+    
+      
+        
+          C
+          
+            i
+          
+          ″
+        
+        =
+        ¬
+        X
+        ∨
+        
+          Y
+          
+            i
+            ,
+            3
+          
+        
+        ∨
+        .
+        .
+        .
+        ∨
+        
+          Y
+          
+            i
+            ,
+            
+              m
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle C''_{i}=\neg X\vee Y_{i,3}\vee ...\vee Y_{i,m_{i}}}
+  
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   ist dabei eine neue Variable. Jede Interpretation, die 
+  
+    
+      
+        
+          C
+          
+            i
+          
+          ′
+        
+      
+    
+    {\displaystyle C'_{i}}
+   und 
+  
+    
+      
+        
+          C
+          
+            i
+          
+          ″
+        
+      
+    
+    {\displaystyle C''_{i}}
+   erfüllt, erfüllt auch 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+      
+    
+    {\displaystyle C_{i}}
+  . Jede Interpretation, die 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+      
+    
+    {\displaystyle C_{i}}
+   erfüllt, kann zu einer Interpretation, welche 
+  
+    
+      
+        
+          C
+          
+            i
+          
+          ′
+        
+      
+    
+    {\displaystyle C'_{i}}
+   und 
+  
+    
+      
+        
+          C
+          
+            i
+          
+          ″
+        
+      
+    
+    {\displaystyle C''_{i}}
+   erfüllt umgeformt werden.

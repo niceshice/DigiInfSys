@@ -1,0 +1,69 @@
+Ein Notleidender Kredit, auch Problemkredit, toxischer Kredit oder umgangssprachlich fauler Kredit (englisch non-performing loan, abgekürzt NPL), ist ein Kredit, bei dem der Schuldner mit dem Schuldendienst in Rückstand gerät und sich deshalb im Schuldnerverzug befindet, so dass der Kredit vom Gläubiger einzelwertberichtigt werden muss.Eine deutsche Legaldefinition des Begriffes existiert nicht. Die Bezeichnung notleidender Kredit ist im Kreditwesen üblich, wird aber auch allgemein für alle Forderungen verwendet, bei denen der Schuldner in Zahlungsverzug gerät. Da die Bezeichnung im Bankwesen von besonderer Bedeutung ist, wird die bankrechtliche und bankbetriebliche Einordnung dargestellt. Die Bankenaufsichtsbehörde BaFin definiert einen Kredit seit dem Jahr 2009 als notleidend, wenn dieser „in Verzug geraten ist oder wertberichtigt wurde“. Der Internationale Währungsfonds definiert einen Kredit als notleidend, wenn ein Verzug von Zins- oder Tilgungszahlungen seit mindestens 90 Tagen vorliegt oder bei einem Verzug von weniger als 90 Tagen gute Gründe vorliegen, die eine Nichtzahlung befürchten lassen.Selbst bei Beachtung aller möglichen Kreditrisiko-Faktoren (Kreditfähigkeit, Kreditwürdigkeit) während der Kreditwürdigkeitsprüfung kann ein Kreditinstitut oder sonstiger Gläubiger nicht vollständig ausschließen, dass der eingeräumte Kredit bei Fälligkeit vom Kreditnehmer nicht zurückgeführt wird oder werden kann. Ein Kredit wird notleidend, wenn sich nach der Kreditgewährung herausstellt, dass mit der planmäßigen Zahlung des Schuldendienstes (Kreditzins und Tilgung) nicht mehr gerechnet werden kann. Als erste Indikatoren hierfür werden Überziehungen des Girokontos ohne Kreditlinie oder über die Kreditlinie hinaus, Rückgabe von Lastschriften, Änderung des Zahlungsverhaltens, verspätete oder unvollständige Einreichung von geforderten Kreditunterlagen (Einkommensnachweise, Bilanzen) oder Häufung von Auskunftsanfragen genannt.
+Auch andere Kreditereignisse wie cross-default oder eine signifikante Verschlechterung des Ratings können Anzeichen von zunehmenden Kreditrisiken sein.Oberbegriff für alle Kredite, bei denen mit dem fristgerechten und vollständigen Schuldendienst nicht mehr gerechnet werden kann, ist das englisch distressed debt. Dazu gehören die Sub-Performing Loans (SPL) und die notleidenden Kredite. Bei SPL (auch: englisch under-performing oder gefährdete Kredite) liegt zwar eine Verschlechterung der Vermögensverhältnisse vor, jedoch sind die Voraussetzungen für eine Kreditkündigung noch nicht erfüllt. Insbesondere kommt es hierbei noch zur begrenzten Zahlung des Schuldendienstes, möglicherweise allerdings nicht fristgerecht.Hauptursache ist die wesentliche Verschlechterung der Vermögensverhältnisse oder der Werthaltigkeit der Kreditsicherheiten nach § 490 Abs. 1 und Abs. 3 BGB. Diese kann bei Privathaushalten durch Arbeitslosigkeit, Arbeitsunfähigkeit, Krankheit, Scheidung, unversicherte Schadenshaftungen, unerwartete Nachzahlungen (Betriebskosten oder Steuern), durch überhöhten Kapitaldienst bei Krediten infolge von Überschuldung oder sonstige allgemeine Lebensrisiken ausgelöst werden. Bei Unternehmen können Unternehmenskrisen zur Illiquidität führen.Es gibt bei notleidenden Krediten zivilrechtliche und bankenaufsichtsrechtliche Folgen.Die Kündigungsvoraussetzungen bei Zahlungsverzug für Ratenzahlungskredite und immobilienbesicherte Kredite richten sich nach § 498 Abs. 1 bzw. § 498 Abs. 3 BGB. Unabhängig vom Zahlungsverzug steht der Bank ein außerordentliches Kündigungsrecht zu. Kreditforderungen der Kreditinstitute sind fristlos und außerordentlich nach § 490 Abs. 1 oder Abs. 3 BGB in Verbindung mit Nr. 26 Abs. 2 AGB-Sparkassen bzw. Nr. 19 Abs. 3 AGB-Banken kündbar, wenn eine wesentliche Verschlechterung der Vermögensverhältnisse des Kreditnehmers und/oder der Kreditsicherheiten eingetreten ist oder einzutreten droht und eine angemessene Frist zur Bestellung oder Verstärkung von Kreditsicherheiten erfolglos verstrichen ist. Abzustellen ist dabei auf eine bestehende Kündigungsmöglichkeit und nicht auf eine bereits erfolgte Kündigung. Bei diesen ist ein Zahlungsverzug des Kreditnehmers (noch) nicht eingetreten.
+In den Kreditverträgen sind meist feste Termine für die Zahlung von Kreditzins und Tilgung vorgesehen. Können die Kreditnehmer diese Zeitpunkte wegen Zahlungsschwierigkeiten nicht einhalten, geraten sie automatisch – und ohne Mahnung – nach § 286 Abs. 2 BGB in Zahlungsverzug. An diese Tatsache knüpft der Status des notleidenden Kredits an. Bei notleidenden Krediten wurde eine Kreditkündigung ausgesprochen oder kann ausgesprochen werden.Die Kapitaladäquanzverordnung (englische Abkürzung CRR) verlangt von den Kreditinstituten durch die gesetzlich vorgeschriebenen Risikoparameter (insbesondere die Ausfallverlustquote und ihr Komplement Erlösquote) eine ständige Ausfall- und Verlustschätzung auch im Kreditgeschäft. Gemäß Art. 128 Abs. 1 CRR sind mit besonders hohem Risiko verbundene Risikopositionen mit einem Risikogewicht von 150 % zu berücksichtigen, das gilt auch nach Art. 128 Abs. 3 CRR für Positionen mit einem hohen Verlustrisiko wegen Ausfalls des Schuldners. Nach Art. 178 Abs. 1 CRR wird ein Ausfall (englisch default) unwiderlegbar vermutet, wenn die Rückzahlung eines Kredits – ohne die Verwertung von Kreditsicherheiten – unwahrscheinlich wird oder eine wesentliche Verbindlichkeit des Schuldners mehr als 90 Tage überfällig ist. Etwaige Kreditsicherheiten dürfen beim Ausfallstatus nicht berücksichtigt werden. Ist also der Schuldendienst eines durch Bankguthaben vollständig besicherten Kredits mehr als 90 Tage überfällig, liegt ein Ausfall vor, auch wenn in diesem Fall die Erlösquote 100 % beträgt. Ansonsten ist jedoch eine sehr niedrige Erlösquote ein Indiz für ausfallgefährdete Kredite.
+Diese Vorschriften haben aufsichtsrechtlich zur Folge, dass die Banken „faule“ Kredite mit mehr Eigenmitteln unterlegen müssen als normale Kredite und bankbetrieblich, dass das Kreditrisiko gestiegen ist. Die Risikopolitik von Kreditinstituten hat meist ein Kreditportfolio mit tragbaren Kreditrisiken zum Ziel, so dass notleidende Kredite nach Möglichkeit veräußert werden.Seit 2003 veräußern Kreditinstitute immer mehr Kreditforderungen an andere Finanzdienstleister. So übertrug die Hypo-Real-Estate-Bank im Dezember 2003 ein NPL-Portfolio von 490 Millionen Euro an Lonestar, im September 2004 folgten weitere 3,6 Mrd. Euro. Die Deutsche Bundesbank schätzte das Volumen für das Jahr 2004 auf 12 Milliarden Euro. Insgesamt gehen Schätzungen davon aus, dass der NPL-Markt in Deutschland 2012 etwa 300 Milliarden Euro umfasste, also 5 % des vorhandenen Kreditvolumens.Notleidende Kredite müssen als zweifelhafte Forderungen von Kreditinstituten zu Lasten ihres Gewinnes oder verlusterhöhend wertberichtigt werden. Um einen Verlust aus dem Kreditengagement zu vermeiden bzw. möglichst gering zu halten, haben Banken bei der Behandlung notleidender Kredite folgende Handlungsmöglichkeiten:
+
+Kreditsanierung
+Kreditabwicklung
+Verkauf der notleidenden Kredite
+Verbriefung
+Auslagerung in eine Bad BankForderungen gelten als notleidend, wenn eine hinreichende Ausfallwahrscheinlichkeit besteht. Bei notleidenden Forderungen ist mit dem Ausfall der Zins- und/oder Tilgungsleistungen zu rechnen, so dass der Schuldendienst gefährdet erscheint. Je nach Kreditart ist dann eine Einzelwertberichtigung (bei Geldleihe) oder Rückstellung (Kreditleihe) zu bilden. Im Fall von Krediten, die überfällig oder wertgemindert sind, müssen nach IFRS 7.37 analytische Angaben im Jahresabschluss gemacht werden.
+Generell lassen sich Kredite mindestens in vier Bonitätsgrade einteilen: Kredite ohne erkennbare Ausfallrisiken, anmerkungsbedürftige Kredite, notleidende Kredite und uneinbringliche Kredite. Anmerkungsbedürftige stehen unter besonderer Beobachtung, bedürfen aber noch keiner Einzelwertberichtigung, die erst bei notleidenden erforderlich ist. Uneinbringliche Kredite sind als Forderungsausfall vollständig abzuschreiben. Seit der Prüfungsberichtsverordnung vom November 2009 gehören auch die in Verzug geratenen Kredite, für die noch keine Einzelwertberichtigung besteht, zu den notleidenden Krediten.Zur Ermittlung der notleidenden Vermögensteile (englisch non-performing assets, NPA) werden die notleidenden Kredite, notleidenden Leasing­forderungen und anderen notleidenden zinstragenden Produkte (insbesondere Wertpapiere) addiert. Sodann werden die hierauf gebildeten Wertberichtigungen/Rückstellungen davon abgesetzt, woraus sich die Netto-NPA ergibt:
+
+  
+    
+      
+        
+          Netto-NPA
+        
+        =
+        
+          
+            
+              
+                Notleidende Kredite
+              
+              +
+              
+                Leasingforderungen
+              
+              +
+              
+                andere zinstragende Produkte
+              
+              +
+              
+                notleidende Wertpapiere
+              
+              −
+              
+                Wertberichtigungen
+              
+            
+            Bilanzsumme
+          
+        
+        ⋅
+        100
+        
+        %
+      
+    
+    {\displaystyle {\text{Netto-NPA}}={\frac {{\text{Notleidende Kredite}}+{\text{Leasingforderungen}}+{\text{andere zinstragende Produkte}}+{\text{notleidende Wertpapiere}}-{\text{Wertberichtigungen}}}{\text{Bilanzsumme}}}\cdot 100\,\%}
+  Je höher bei Banken die Netto-NPA ausfällt, umso höher ist das Risiko einer Bankenkrise.Einem Bericht der Europäischen Bankenaufsichtsbehörde EBA zufolge weisen in allen EU-Mitgliedstaaten notleidende Kredite einen Anteil von 5,6 % an der Bilanzsumme auf, kleinere Banken sind mit 18 % überproportional vertreten, während Großbanken lediglich 4 % besitzen. Die EBA schließt sich für die Definition der „non-performing exposure“ in ihrem Bericht der Legaldefinition des Ausfalls der CRR an und zählt auch beeinträchtigte (englisch impaired) Kredite und sämtliche Kredite, die nach nationalen Rechnungslegungs- oder Aufsichts-Vorschriften als in Verzug gelten, zu den notleidenden Krediten. Bei Nichtbanken lag die NPL-Rate mit 10 % am höchsten, 4,8 % bei Privathaushalten und lediglich 2,2 % bei Finanzinstitutionen außerhalb der Kreditinstitute, nahe null liegt sie bei Kommunalkrediten (0,3 %) und Kreditinstituten (0,2 %). Nach Ländern führte mit einer Quote von 48,6 % Zypern, mit Abstand insbesondere gefolgt von Slowenien (28,4 %), Spanien (21,5 %), Italien (16,7 %), Portugal (16,3 %), Österreich (8,0 %), Spanien (7,1 %) oder Deutschland (3,4 %). Die niedrigsten NPL-Quoten weisen die nordischen Länder Finnland (1,7 %), Norwegen (1,4 %) und Schweden (1,1 %) auf.Das Marktpotenzial beschreibt das (geschätzte) Volumen am Bestand notleidender Kredite. Das tatsächlich gehandelte Volumen weicht deutlich nach unten ab, da die Banken in der Vergangenheit regelmäßig nur einen kleinen Anteil ihrer notleidenden Kredite tatsächlich verkauft haben. Die Erweiterung der Begrifflichkeit des notleidenden Kredits seit 2009 führt tendenziell zu einem höheren Ausweis an notleidenden Krediten. Die Zahlen seit 2009 sind somit nur eingeschränkt mit den historischen Volumina vergleichbar. Das Marktpotenzial für notleidende Kredite seit dem Jahr 2003 in Deutschland entwickelte sich wie folgt:Das weltweite Marktpotenzial notleidender Kredite ist überwiegend Ausdruck der nationalen Bonität der Schuldner.
+Die Europäische Bankenaufsichtsbehörde (EBA) veröffentlicht regelmäßig Daten zu notleidenden Krediten in der Europäischen Union (EU). Sie weist für Ende 2017 ein Volumen notleidender Kredite von 813 Mrd. Euro aus.
+Frankreich
+Im Jahr 2008 galten Kredite in Höhe von ca. 50 Milliarden Euro als notleitend. 2009 stieg dieser Wert auf etwa 80 Milliarden Euro und bis 2010 auf ca. 88 Milliarden Euro.
+Zum Ende 2017 bezifferte die EBA den Wert notleitender Kredite für Frankreichs Banken auf 135,5 Milliarden Euro.
+Italien
+Wie in anderen Ländern stieg in Italien seit dem Krisenjahr 2008 das Volumen notleidenden Kredite stark an.
+2008 waren es 40 Milliarden Euro und 2010 80 Milliarden Euro.
+Zum Ende 2017 bezifferte die EBA den Wert notleitender Kredite für Italiens Banken auf 186,7 Milliarden Euro.
+Spanien
+Im Jahr 2008 galten Kredite in Höhe von ca. 70 Milliarden Euro als notleitend. 2009 stieg dieser Wert auf ca. 100 Milliarden Euro, 2011 auf ca. 130 Milliarden Euro. Bis Ende 2017 schrumpfte die Summe auf 106,2 Milliarden Euro.
+Vereinigtes Königreich
+Während in den Jahren von 2001 bis 2006 das Volumen an NPL unter 40 Milliarden Euro lag, lag dieser Wert im Jahr 2007 bei ca. 50 Milliarden Euro und stieg in den Jahren 2008 und 2009 auf über 80 Milliarden Euro bzw. knapp 160 Milliarden Euro.
+In den Jahren 2010 und 2011 waren mit Volumina von ca. 160 Milliarden Euro ähnliche Werte zu verzeichnen.China
+Da nur wenige chinesische Banken europäischen oder US-amerikanischen börslichen oder gesetzlichen Publizitätspflichten unterliegen, veröffentlicht nur eine Minderheit Daten zu Kreditausfällen.
+Schätzungen reichen von 400 Milliarden bis 572 Milliarden US-Dollar.USA
+Das Marktpotenzial für das Jahr 2012 wird auf ca. 300 Milliarden US-Dollar geschätzt.

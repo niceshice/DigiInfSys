@@ -1,0 +1,6 @@
+James (Initialwort für „Java Apache Mail Enterprise Server“) ist ein freier Mailserver, der von der Apache Software Foundation entwickelt wird. Er ist eines ihrer Hauptprojekte.
+Das besondere an der Software-Architektur des Servers ist die Implementierung sogenannter Mailets. Ähnlich Servlets sind Mailets kleine, austauschbare Programmteile, die verschiedene Dienste anbieten können. Auf diese Weise kann beispielsweise Benutzern ermöglicht werden, James durch E-Mails zu steuern.James unterstützt die Protokoll SMTP, LMTP, POP 3, IMAP, NNTP, Sieve und das JSON Meta Application Protocol JMAP.
+Zur Administration kann neben dem Terminal auch JME verwendet werden.Am 15. Februar 2006 wurde Version 2.3.0a1 veröffentlicht, die neben einigen Patches unter anderem auch Unterstützung für SMTP Pipelining enthielt, noch im selben Jahr erschien am 23. Oktober 2006 Version 2.3.1.Im Juli 2017 wurde Version 3.0.0 veröffentlicht, die erstmals Sieve und JMAP unterstützte.
+
+
+== Einzelnachweise ==

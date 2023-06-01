@@ -1,0 +1,120 @@
+Tellursäure ist eine sehr schwache Säure des Tellurs. Die geringe Acidität ist auf die  Struktur zurückzuführen. Die negative Ladung im Anion kann nicht delokalisiert werden. Tellur hat in der Verbindung die Oxidationsstufe VI.Tellursäure erhält man aus feinverteiltem Tellur und wässriger Chlorsäure-Lösung, durch Oxidation von Tellurdioxid mit Kaliumpermanganat in Salpetersäure, durch Oxidation von Tellur oder Tellurdioxid mit Wasserstoffperoxid oder durch Oxidation von Tellur mit Salpetersäure und Chromtrioxid.
+
+  
+    
+      
+        
+          5
+          
+          
+            TeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            KMnO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          6
+          
+          
+            HNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          12
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          5
+          
+          
+            H
+            
+              6
+            
+            
+              
+            
+          
+          
+            TeO
+            
+              6
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            KNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          Mn
+          
+            
+              (
+              
+                NO
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {5 TeO2 + 2 KMnO4 + 6 HNO3 + 12 H2O -> 5 H6TeO6 + 2 KNO3 + 2 Mn(NO3)2}}}Tellursäure ist oktaedrisch aufgebaut und wird daher auch Orthotellursäure genannt. Sie bildet farblose und wasserlösliche Kristalle. Da bereits die 1. Dissoziationsstufe von Tellursäure sehr klein ist und die letzte (6.) demnach verschwindend klein, existieren die meisten Tellurate (Salze) nur als Hydrogentellurate, jedoch existiert Silbertellurat, Ag6TeO6. Das Anhydrid der Tellursäure, Tellurtrioxid (TeO3), ist ein gelbes Kristallpulver.
+Tellursäure und (wasserlösliche) Tellurate sind giftig und wirken sehr stark oxidierend. Tellursäure kommt in einer monoklinen Modifikation und einer kubischen Modifikation vor. Große Kristalle sind gewöhnlich monoklin, während das mikrokristalline Pulver häufig aus einer Mischung beider Formen besteht. Beim Erhitzen geht die Verbindung zwischen 100 und 220 °C in feste, wasserunlösliche Polymetatellursäure über, die oberhalb 220 °C in Tellurtrioxid und ab 400 °C in Tellurdioxid und Sauerstoff zerfällt. In einem geschlossenen Rohr schmilzt Tellursäure bei etwa 136 °C unter Bildung einer konzentrierten wässrigen Lösung von Polymetatellursäure und etwas Orthosäure.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,4 @@
+Ein Application Delivery Controller (ADC, deutsch Anwendungsauslieferungskontroller) ist ein Netzwerkgerät, welches mehrere Sicherheitsfunktionen in einem Rechnernetz, insbesondere im Cloud Computing, übernimmt. Ein ADC wird hierbei zwischen der Firewall und der Demilitarized Zone (DMZ) eingesetzt.Die Aufgaben eines ADC umfassen typischerweise die Sicherheit in der Transport- oder Anwendungsschicht, Schutz vor Distributed Denial of Service-Angriffen, diversen Routingstrategien, Server-Health-Monitoring, Load Balancing.Ein ADC dient zudem der Beschleunigung der Auslieferung von Webseiten. Hierzu kann die TLS-Verschlüsselung, Dynamic Site Acceleration (DSA), Front-End Optimization (FEO), die Auslieferung von Mobile Content (z. B. AMP/CPP), Caching und Datenkompression von der ADC übernommen werden.
+
+
+== Quellen ==

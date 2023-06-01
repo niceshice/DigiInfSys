@@ -1,0 +1,531 @@
+Ein Hilfssatz oder Lemma (altgriechisch λῆμμα lēmma ‚Einnahme‘, ‚Annahme‘; Plural: „Lemmata“) ist eine mathematische oder logische Aussage, die im Beweis eines Satzes verwendet wird, der aber selbst nicht der Rang eines Satzes eingeräumt wird. Die Unterscheidung von Sätzen und Lemmata ist fließend und nicht objektiv. Der Begriff „Lemma“ lässt sich auch mit „Stichwort“ oder auch „Hauptgedanke“ übersetzen. Dies signalisiert, dass es sich um einen Schlüsselgedanken handelt, der in vielen Situationen nützlich ist.Lemmata tragen häufig die Namen ihres Entdeckers. Beispiele hierfür sind:
+
+Lemma von Zorn
+Lemma von Sperner
+Lemma von Euklid
+Lemma von Gauß
+Lemma von Itō
+Lemma von Zassenhaus (auch Schmetterlingslemma) über subnormale Reihen von Gruppen
+Lemma von Margulis (häufiger Lemma von Margulis-Zassenhaus oder Lemma von Margulis, auch Lemma von Kazhdan-Margulis-Zassenhaus) über MatrizengruppenWeitere Beispiele finden sich in der Liste mathematischer Sätze.Man kann beispielsweise zeigen, dass 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   irrational ist (als Satz), wenn man voraussetzen kann, dass Quadrate gerader Zahlen wieder gerade sind, Quadrate ungerader Zahlen jedoch stets ungerade Zahlen ergeben (diese Aussage entspräche dem Lemma). Um strukturierter vorzugehen, beweist man die beiden Tatsachen einzeln, wobei die Tatsache des Hilfssatzes (des Lemmas) später auf weitere Fälle oder Beweise angewendet werden kann, wohingegen der „Satz“ eine spezielle Aussage liefert.
+Um das vorangegangene Beispiel umzusetzen, ginge man (zum Beispiel in einer Vorlesung) folgendermaßen vor.
+Lemma: Quadrate gerader und ungerader ganzer Zahlen sind stets gerade bzw. ungerade.
+Beweis: Sei 
+  
+    
+      
+        x
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle x\in \mathbb {Z} }
+   vorgegeben. Zu zeigen ist, dass 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+   der entsprechenden Behauptung genügt, d. h. wenn 
+  
+    
+      
+        x
+        =
+        2
+        y
+      
+    
+    {\displaystyle x=2y}
+   (gerade) bzw. 
+  
+    
+      
+        x
+        =
+        2
+        y
+        +
+        1
+      
+    
+    {\displaystyle x=2y+1}
+   (ungerade) für ein 
+  
+    
+      
+        y
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle y\in \mathbb {Z} }
+   ist, dann ist 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+   gerade bzw. ungerade.
+Beide Fälle werden separat behandelt. Im ersten Fall (
+  
+    
+      
+        x
+        =
+        2
+        y
+      
+    
+    {\displaystyle x=2y}
+  ) hat man 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        (
+        2
+        y
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          2
+          
+            2
+          
+        
+        ⋅
+        
+          y
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}=(2y)^{2}=2^{2}\cdot y^{2}}
+   (gemäß den Potenzrechenregeln) 
+  
+    
+      
+        =
+        2
+        ⋅
+        2
+        
+          y
+          
+            2
+          
+        
+      
+    
+    {\displaystyle =2\cdot 2y^{2}}
+  , also eine gerade Zahl. Im anderen Fall (
+  
+    
+      
+        x
+        =
+        2
+        y
+        +
+        1
+      
+    
+    {\displaystyle x=2y+1}
+  ) ergibt sich 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        (
+        2
+        y
+        +
+        1
+        
+          )
+          
+            2
+          
+        
+        =
+        (
+        2
+        y
+        
+          )
+          
+            2
+          
+        
+        +
+        2
+        ⋅
+        2
+        y
+        ⋅
+        1
+        +
+        
+          1
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}=(2y+1)^{2}=(2y)^{2}+2\cdot 2y\cdot 1+1^{2}}
+   (nach Binomischer Formel) 
+  
+    
+      
+        =
+        2
+        ⋅
+        (
+        2
+        
+          y
+          
+            2
+          
+        
+        +
+        2
+        y
+        )
+        +
+        1
+      
+    
+    {\displaystyle =2\cdot (2y^{2}+2y)+1}
+  , also eine ungerade Zahl.
+Satz: 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   ist irrational, also gilt 
+  
+    
+      
+        
+          
+            2
+          
+        
+        ∈
+        
+          R
+        
+        ∖
+        
+          Q
+        
+      
+    
+    {\displaystyle {\sqrt {2}}\in \mathbb {R} \setminus \mathbb {Q} }
+  .
+Beweis: Die behauptete Aussage wird bewiesen, indem die Annahme, das Gegenteil sei richtig, zum Widerspruch geführt wird (Widerspruchsbeweis).
+Es wird angenommen, es gelte 
+  
+    
+      
+        
+          
+            2
+          
+        
+        ∈
+        
+          Q
+        
+      
+    
+    {\displaystyle {\sqrt {2}}\in \mathbb {Q} }
+  . Dann gibt es zueinander teilerfremde 
+  
+    
+      
+        a
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle a\in \mathbb {Z} }
+   und 
+  
+    
+      
+        b
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle b\in \mathbb {N} }
+   mit 
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}={\frac {a}{b}}}
+  . Quadriert man diese Gleichung und multipliziert beide Seiten mit 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b^{2}}
+  , erhält man 
+  
+    
+      
+        2
+        ⋅
+        
+          b
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 2\cdot b^{2}=a^{2}}
+  . Weil die linke Seite gerade ist, ist auch die rechte gerade. Nach dem vorausgegangenen Lemma ist dann auch 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   gerade (denn wäre 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   ungerade, wäre 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a^{2}}
+   ungerade) und es gibt ein 
+  
+    
+      
+        c
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle c\in \mathbb {Z} }
+   mit 
+  
+    
+      
+        a
+        =
+        2
+        c
+      
+    
+    {\displaystyle a=2c}
+  . Aus der Gleichung folgt 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              (
+              2
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        =
+        2
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b^{2}={\frac {a^{2}}{2}}={\frac {(2c)^{2}}{2}}=2c^{2}}
+  , woraus man erkennt, dass 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b^{2}}
+   und damit auch 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   (wieder wegen des Lemmas) gerade sind. Dies widerspricht der Annahme, dass 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   und 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   teilerfremd gewählt worden sind. Damit ist die Annahme, 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   sei rational, falsch und der Satz ist bewiesen.
+Beim Beweis wurde zweimal das vorausgehende Lemma benutzt.

@@ -1,0 +1,4 @@
+Google AI (oder Google.ai) ist eine Abteilung von Google, die sich ausschließlich der künstlichen Intelligenz widmet. Sie wurde auf der Google I/O 2017 vom CEO Sundar Pichai angekündigt.Hauptaufgabe von Google AI ist die Betreuung von Cloud-basierten Tensor Processing Units (TPUs) zur Entwicklung von Maschineller Lernsoftware. In diesem Sinne wurde auch TensorFlow entwickelt.Die TensorFlow Research Cloud stellt Forschern ein kostenloses Cluster von 1000 Cloud-TPUs zur Verfügung, auf denen sie maschinelles Lernen erforschen können. Dies geschieht unter der Bedingung, dass sich es um Open Source Forschung handelt und sie ihre Ergebnisse in Wissenschaftlichen Fachzeitschriften veröffentlichen.Auf der Website von Google AI lassen sich mittlerweile über 5500 solcher wissenschaftlichen Publikationen abrufen.
+
+
+== Einzelnachweise ==

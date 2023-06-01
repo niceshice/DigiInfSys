@@ -1,0 +1,498 @@
+Notwendige Bedingung und hinreichende Bedingung sind Begriffe aus der mathematischen Beweisführung, welche Bedingungen in zwei verschiedene Typen unterteilt. Die unterschiedlichen Beziehungen zwischen Bedingendem und Bedingtem werden  in der Logik, vor allem in der Aussagenlogik, behandelt.Die Gültigkeit einer hinreichenden Bedingung 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   sorgt zwangsläufig für die Gültigkeit der Konsequenz 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Dieser Zusammenhang wird durch die symbolische Schreibweise 
+  
+    
+      
+        B
+        ⇒
+        K
+      
+    
+    {\displaystyle B\Rightarrow K}
+   ausgedrückt, sprich „die Bedingung 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   impliziert die Konsequenz 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  “ oder „aus 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   folgt 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  “. Der Pfeil, der den Zusammenhang symbolisiert, steht für die Schlussfolgerung (Implikation). Es kann andere hinreichende Bedingungen geben, die ebenfalls die Gültigkeit der Aussage 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   nach sich ziehen.
+Aussagenlogisch betrachtet: Hat eine Aussage 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   mehrere hinreichende Bedingungen 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+        ,
+        
+          B
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle B_{1},B_{2},\dotsc }
+  , d. h. gelten die Subjunktionen  
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+        ⇒
+        K
+        ,
+        
+          B
+          
+            2
+          
+        
+        ⇒
+        K
+        ,
+        …
+      
+    
+    {\displaystyle B_{1}\Rightarrow K,B_{2}\Rightarrow K,\dotsc }
+  , so genügt es, dass mindestens eine erfüllt ist (logische Disjunktion), damit 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   gilt: 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+        ∨
+        
+          B
+          
+            2
+          
+        
+        ∨
+        ⋯
+        ⇒
+        K
+      
+    
+    {\displaystyle B_{1}\lor B_{2}\lor \dotsb \Rightarrow K}
+  .Die Aussage 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   ist eine notwendige Bedingung  für die Aussage 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  , wenn sie zwingend wahr (erfüllt) sein muss, wenn 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   wahr ist. Der Zusammenhang wird durch die symbolische Schreibweise 
+  
+    
+      
+        ¬
+        B
+        ⇒
+        ¬
+        K
+      
+    
+    {\displaystyle \lnot B\Rightarrow \lnot K}
+   ausgedrückt, sprich „nicht 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+    impliziert nicht 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  “ oder „wenn 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   nicht wahr ist, dann ist auch 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   nicht wahr“. Es kommt also nicht vor, dass 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   erfüllt ist, ohne dass 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   gilt. Somit kann die Notwendigkeit der Bedingung 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   auch durch die (hinreichende) Implikation 
+  
+    
+      
+        K
+        ⇒
+        B
+      
+    
+    {\displaystyle K\Rightarrow B}
+   ausgedrückt werden. Gibt es mehrere notwendige Bedingungen 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+        ,
+        
+          B
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle B_{1},B_{2},\dotsc }
+   für eine Aussage 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  , d. h. gilt 
+  
+    
+      
+        K
+        ⇒
+        
+          B
+          
+            1
+          
+        
+        ,
+        K
+        ⇒
+        
+          B
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle K\Rightarrow B_{1},K\Rightarrow B_{2},\dotsc }
+  , so müssen alle gleichzeitig erfüllt sein, wenn 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   erfüllt ist. Also gilt dann auch  
+  
+    
+      
+        K
+        ⇒
+        
+          B
+          
+            1
+          
+        
+        ∧
+        
+          B
+          
+            2
+          
+        
+        ∧
+        ⋯
+      
+    
+    {\displaystyle K\Rightarrow B_{1}\land B_{2}\land \dotsb }
+   (logische Konjunktion).
+Gibt es verschiedene, voneinander logisch unabhängige, notwendige Bedingungen, sodass für alle Paare von Bedingungen 
+  
+    
+      
+        ¬
+        (
+        
+          B
+          
+            j
+          
+        
+        ⇒
+        
+          B
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle \lnot (B_{j}\Rightarrow B_{k})}
+   mit 
+  
+    
+      
+        j
+        ≠
+        k
+      
+    
+    {\displaystyle j\neq k}
+   gilt, so kann keine für sich allein hinreichend sein, da dies dem widerspräche, dass die anderen notwendig sind. Eine notwendige Bedingung ist also unersetzlich für das Eintreten eines Ereignisses. Wenn sie aber nicht zugleich hinreichend ist, genügt sie allein nicht, damit das Ereignis eintritt. Mit anderen Worten: Ohne sie geht es nicht (daher auch der Ausdruck lateinisch conditio sine qua non, siehe auch Conditio-sine-qua-non-Formel), für das Eintreten von 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   ist aber eventuell noch etwas anderes nötig.Falls eine Aussage 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   sowohl eine hinreichende als auch eine notwendige Bedingung für die Aussage 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   ist, d. h. 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   impliziert 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   und 
+  
+    
+      
+        ¬
+        B
+      
+    
+    {\displaystyle \lnot B}
+   impliziert 
+  
+    
+      
+        ¬
+        K
+      
+    
+    {\displaystyle \lnot K}
+  , werden die Aussagen 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   und 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   äquivalent genannt. Aussagenlogisch ist dafür das Kürzel iff – engl. if and only if üblich; deutschsprachige Entsprechungen sind g. d. w., abgekürzt für genau dann, wenn und dann und nur dann. Dass die Notwendigkeit von 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   auch durch die Implikation  
+  
+    
+      
+        B
+        ⇐
+        K
+      
+    
+    {\displaystyle B\Leftarrow K}
+   ausgedrückt werden kann,  erklärt die symbolische Darstellung 
+  
+    
+      
+        B
+        ⇔
+        K
+      
+    
+    {\displaystyle B\Leftrightarrow K}
+   für die Äquivalenz von 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   und 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  .Die INUS-Bedingung des australischen Philosophen John Leslie Mackie stellt ein geschachteltes Konzept dar: Gemeint ist ein nicht hinreichender, aber notwendiger Teil einer nicht notwendigen, aber hinreichenden Bedingung. Dieses Konzept soll insbesondere der Erkenntnis gerecht werden, dass selten äquivalente Bedingungen für empirische Ereignisse ausgemacht werden können, selbst unter ceteris paribus-Klauseln.

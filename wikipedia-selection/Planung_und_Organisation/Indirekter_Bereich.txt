@@ -1,0 +1,27 @@
+Als indirekter Bereich  des Unternehmens werden alle Tätigkeitsbereiche bezeichnet, die unterstützende Leistungen für die Hauptleistung erbringen. Die unterstützenden Leistungen können den verkauften Produkten (Kosten- und Erlösträgern) nicht direkt als Einzelkosten zugerechnet werden. Die Kosten des indirekten Bereichs sind somit Gemeinkosten.
+Zum indirekten Bereich gehören beispielsweise
+
+Geschäftsleitung
+Controlling und Revision
+Unternehmenskommunikation
+Rechtsabteilung
+Personalwesen
+Marketing und Werbung
+Organisationsabteilung
+Beschaffung und ArbeitsvorbereitungDie indirekten Bereiche können in folgende Spannungsfeldern eingeordnet werden:
+
+produktionsnahe und produktionsferne Bereiche
+kundennahe und kundenferne Bereiche
+produktnahe und produktferne BereicheDie Bezeichnung indirekt zielt dabei auf die Ermittlung des jeweiligen Beitrags zum Markterfolg. Kunden- und produktnahe Bereiche, welche direkt eine umsatz- oder deckungsbeitragswirksame Leistung erbringen, können als Profitcenter geführt werden. Bereiche deren Leistungen nur indirekt auf die Produktkosten verrechnen, können als Servicecenter geführt werden. Hierzu können Leistungsverrechnung, Prozesskostenverrechnung oder Zuschlagsverfahren zu Anwendung kommen.
+Bereiche, die ihr Wirken fern vom einzelnen Kundengeschäft entfalten, werden in der Regel als Costcenter geführt. Ein kausale Verrechnung ihrer Leistungen auf die einzelne am Markt abgesetzte Sach- oder Dienstleistung ist nahezu unmöglich.
+Produktions-, Handels- und Industriebetriebe haben aufgrund eines stetig wachsenden Verwaltungsaufwandes (beispielsweise durch Qualitätsmanagement, Marketing etc.) mit einem stark wachsenden indirekten Bereich zu kämpfen. Diese Kosten sollen nicht nur erfasst, sondern auch positiv beeinflusst werden. Das strategische Kostenmanagement bedient sich dabei insbesondere folgender Methoden:
+
+Kostenniveaumanagement
+Kostenverlaufsmanagement
+KostenstrukturmanagementHier erweisen sich insbesondere folgende Ansätze der Kostenrechnung als sinnvoll:
+
+Gemeinkostenmanagement (Fixkostenmanagement)
+Prozesskostenrechnung
+Target Costing (Zielkostenrechnung)
+Lebenszykluskosten
+Cost Benchmarking

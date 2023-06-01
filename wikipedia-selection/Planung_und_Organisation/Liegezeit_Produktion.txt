@@ -1,0 +1,82 @@
+Liegezeit ist in der Produktionswirtschaft und im Arbeitsstudium die ungewollte Wartezeit eines Arbeitsobjektes innerhalb des Produktionssystems.Die REFA-Methodenlehre kennt viele Zeitbegriffe, zu denen unter anderem auch die Vorgabezeit (oder Hauptzeit, Tätigkeitszeit) und Zwischenzeit (einschließlich Wartezeit) gehören; aus Vorgabe- und Zwischenzeit zusammen ergibt sich die Grundzeit. Die Liegezeit gehört dabei zur Zwischenzeit und ist Teil der Durchlaufzeit.
+Unter Liegezeit versteht man alle Zeiten, die ein Arbeitsobjekt ablaufbedingt oder störungsbedingt nicht bearbeitet, geprüft oder transportiert wird. Liegezeiten sind deshalb arbeitsablaufbedingt, prozessbedingt oder störungsbedingt und müssen mindestens vergehen, bis das Fertigungsmaterial im nächsten Ablaufabschnitt weiterverarbeitet werden kann und dabei zwischen mindestens zwei Ablauffolgen unbearbeitet bleibt.Man unterscheidet zwischen der Liegezeit vor Bearbeitung 
+  
+    
+      
+        L
+        
+          Z
+          
+            V
+            B
+          
+        
+      
+    
+    {\displaystyle LZ_{VB}}
+   und der Liegezeit nach Bearbeitung 
+  
+    
+      
+        L
+        
+          Z
+          
+            N
+            B
+          
+        
+      
+    
+    {\displaystyle LZ_{NB}}
+  :
+Liegezeit vor Bearbeitung ist die Zeitspanne zwischen der Lieferung des Materials und dem Beginn seiner Bearbeitung;
+Liegezeit nach Bearbeitung ist die Zeitspanne zwischen dem Ende der Bearbeitung und dem Transport zum nächsten Arbeitsplatz.Beide Arten ergeben die gesamte Liegezeit 
+  
+    
+      
+        L
+        Z
+      
+    
+    {\displaystyle LZ}
+  :
+
+  
+    
+      
+        L
+        Z
+        =
+        L
+        
+          Z
+          
+            V
+            B
+          
+        
+        +
+        L
+        
+          Z
+          
+            N
+            B
+          
+        
+      
+    
+    {\displaystyle LZ=LZ_{VB}+LZ_{NB}}
+  .Liegezeiten und Transportzeiten ergeben zusammen die Übergangszeit.
+Während bei der ablaufbedingten Liegezeit eine Veränderung des Arbeitsobjektes im Arbeitsablauf nicht vorgesehen ist (etwa Tätigkeiten des Arbeiters an Betriebsmitteln wie Reparatur), entsteht eine störungsbedingte Liegezeit durch Betriebsstörungen an Betriebsmitteln. Während der Lagerungszeit befindet sich das Arbeitsobjekt noch nicht, nicht mehr oder nicht wieder in der Fertigung; die personalbedingte Liegezeit wird durch Arbeiter ausgelöst, die eine Erholungszeit benötigen.Von ablaufbedingtem Liegen spricht man, wenn das Liegen nach den Arbeitsbedingungen nicht vermeidbarer Teil des Arbeitsprozesses ist. Typische ablaufbedingte Liegezeiten sind:
+
+Arbeitsobjekte im Puffer,
+bei losweiser Verarbeitung die vor und hinter dem Arbeitssystem liegenden Teile, die gerade nicht bearbeitet werden,
+Wartezeiten beim Rüsten des Arbeitssystems,
+erholungsbedingtes Unterbrechen der Tätigkeit.Von zusätzlichem Liegen spricht man unter anderem, wenn das Liegen aufgrund von Störungen stattfindet:
+
+Energieausfall,
+Ungeplanter Ausfall von Maschinen und technischen Anlagen,
+Organisationsfehler,
+persönlich bedingtes Unterbrechen der Tätigkeit.Von dynamischer Liegezeit wird gesprochen, wenn die Ablauffolge gestört ist, weil die für die Weiterbearbeitung erforderlichen Produktionsfaktoren zum Produktionszeitpunkt unerwartet nicht zur Verfügung stehen (etwa durch Lieferengpass fehlendes Fertigungsmaterial oder streikendes Personal). Nicht immer gelingt es, dies durch eine entsprechende Disposition zu verhindern (etwa Redundanzen bei Lieferanten, Springer beim Personal).Ablaufbedingte Liegezeiten entstehen, wenn ein Arbeitsobjekt vor dem nächsten Arbeitsplatz warten muss, bis die dort abzuarbeitenden Arbeitsobjekte fertiggestellt sind. Um eine ablaufbedingte Liegezeit handelt es sich auch dann, wenn ein Arbeitsobjekt an einem Arbeitsplatz auf seinen Transport warten muss, der es zum nächst folgenden Arbeitsplatz bringen soll. Liegezeiten sind zu minimieren, was zur Verkürzung der Durchlaufzeiten und damit zur Kostensenkung beitragen kann.

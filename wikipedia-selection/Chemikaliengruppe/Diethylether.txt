@@ -1,0 +1,348 @@
+Diethylether ist der wichtigste Vertreter der organisch-chemischen Verbindungsklasse der Ether und wird deshalb häufig auch einfach als Ether (standardsprachlich und in der älteren wissenschaftlichen Literatur Äther) bezeichnet. Aufgrund der Herstellung aus Ethanol und Schwefelsäure ist eine historische Bezeichnung Schwefeläther, obwohl Diethylether keinen Schwefel enthält.
+Die erstmalige Herstellung wird Valerius Cordus (1535) zugeschrieben, aus Umsetzung von Alkohol mit Schwefelsäure, wiederentdeckt um 1730 von August Sigmund Frobenius in London. Paracelsus soll, wie er 1540 schrieb, die betäubende Wirkung des Äthers im Tierversuch erkannt haben. Der erste Einsatz zur modernen Narkose bzw. Anästhesie erfolgte 1842 durch Crawford W. Long.Diethylether lässt sich aus Ethanol und konzentrierter Schwefelsäure unter Wasserabspaltung herstellen, wobei portionsweise der Alkohol zur Schwefelsäure gegeben und das Produkt destillativ aus dem Reaktionsgemisch abgetrennt wird. Bei dieser sauren Veretherung bildet sich erst Ethylschwefelsäure in einer Kondensationsreaktion:
+
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          C
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          H
+          
+           
+          +
+          
+           
+          H
+          O
+          
+            −
+          
+          S
+          
+            O
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}C{-}CH_{2}{-}OH\!\ +\!\ HO{-}SO_{2}{-}OH} }
+  
+
+  
+    
+      
+        
+          ⟶
+          
+           
+          
+            H
+            
+              3
+            
+          
+          C
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          
+            −
+          
+          S
+          
+            O
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          H
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {\longrightarrow \!\ H_{3}C{-}CH_{2}{-}O{-}SO_{2}{-}OH+H_{2}O} }
+  Das Alkylsulfat setzt sich mit Ethanol zu Diethylether um, die Schwefelsäure wird wieder freigesetzt:
+
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          C
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          
+            −
+          
+          S
+          
+            O
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          H
+          
+           
+          +
+          
+           
+          
+            H
+            
+              3
+            
+          
+          C
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}C{-}CH_{2}{-}O{-}SO_{2}{-}OH\!\ +\!\ H_{3}C{-}CH_{2}{-}OH} }
+  
+
+  
+    
+      
+        
+          ⟶
+          
+           
+          
+            H
+            
+              3
+            
+          
+          C
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          C
+          
+            H
+            
+              3
+            
+          
+          
+           
+          +
+          
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\longrightarrow \!\ H_{3}C{-}CH_{2}{-}O{-}CH_{2}{-}CH_{3}\!\ +\!\ H_{2}SO_{4}} }
+  Hauptquelle für Diethylether ist heute die Synthese von Ethanol aus Ethen, bei der Diethylether als Nebenprodukt auftritt. Im ersten Schritt bildet sich auch hier Ethylschwefelsäure:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            =
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+           
+          +
+          
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          
+           
+          ⟶
+          
+           
+          
+            H
+            
+              3
+            
+          
+          C
+          
+            −
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          
+            −
+          
+          S
+          
+            O
+            
+              2
+            
+          
+          
+            −
+          
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}C{=}CH_{2}\!\ +\!\ H_{2}SO_{4}\!\ \longrightarrow \!\ H_{3}C{-}CH_{2}{-}O{-}SO_{2}{-}OH} }
+  Hydrolyse des Zwischenprodukts führt zu Ethanol, ein Teil des Ethanols reagiert – wie oben bei der Synthese aus Ethanol – mit Ethylschwefelsäure zu Diethylether.Diethylether ist bei Raumtemperatur eine farblose, leicht flüchtige und hochentzündliche Flüssigkeit, davon abgesehen aber sehr reaktionsträge. Seine Dämpfe sind schwerer als Luft. Durch Einwirkung von Licht in Anwesenheit von Luft-Sauerstoff bilden sich jedoch organische Peroxide, die leicht und explosionsartig zerfallen können. Darum wird Ether in dunklen Flaschen aufbewahrt. Um eine Ansammlung von Peroxiden zu vermeiden, kann Diethylether über Kaliumhydroxid gelagert werden. Die Peroxide bilden dann schwerlösliche Kaliumperoxide. Dennoch muss vor Verwendung (Destillation) auf das Vorhandensein von Peroxiden geprüft werden.Diethylether bildet leicht entzündliche Dampf-Luft-Gemische. Die Verbindung hat einen Flammpunkt von −40 °C. Der Explosionsbereich liegt zwischen 1,7 Vol.‑% (50 g/m3) als untere Explosionsgrenze (UEG) und 39,2 Vol.‑% (1210 g/m3) als obere Explosionsgrenze (OEG). Entsprechend der Dampfdruckfunktion ergibt sich ein unterer Explosionspunkt von −45 °C. Der maximale Explosionsdruck beträgt 10 bar. Die Grenzspaltweite wurde mit 0,87 mm bestimmt. Es resultiert damit eine Zuordnung in die Explosionsgruppe IIB. Mit einer Mindestzündenergie von 0,19 mJ sind Dampf-Luft-Gemische extrem zündfähig. Die Zündtemperatur beträgt 175 °C. Der Stoff fällt somit in die Temperaturklasse T4.Das Inhalieren der Dämpfe ruft in geringen Dosen rauschhafte Zustände mit starker emotionaler Erregung, veränderter Bewusstseinswahrnehmung und wirren, psychotisch anmutenden Gedankengängen hervor. Auch sehr unangenehme, teils traumatisierende Angstzustände sind nicht selten. Bei höheren Dosierungen tritt der Konsument in einen apathischen Zustand über, in dem er nicht mehr ansprechbar ist (Narkotisierung). Nebenwirkungen des Konsums sind beim Schnüffeln gereizte Schleimhäute und beim Trinken Magenschleimhautentzündung.
+Bei Inhalation wird Diethylether im Körper schnell resorbiert und zu ca. 90 Prozent über die Atemluft unverändert wieder ausgeschieden. Nicht ausgeschiedener Diethylether wird durch eine Cytochrom-P450-abhängige Monooxygenase zum Hydroxy-Diethylether und danach mithilfe einer Desalkylierung zu Ethanal und Ethanol umgesetzt.Diethylether wurde von John Collins Warren 1805 in Form der Ätherinhalation bei Patienten mit Lungenentzündung im Endstadium angewendet und war früher verbreitet als Stärkungsmittel (Hoffmannstropfen). Von Michael Faraday wurde 1818 die einschläfernde Wirkung des „Schwefeläthers“ beschrieben. Diethylether wurde seit 1846 auch routinemäßig als Inhalationsnarkotikum bei der Narkose im Rahmen chirurgischer Eingriffe eingesetzt. Die erste dokumentierte Äthernarkose führte, kurz nachdem William E. Clarke (* 1818) in Rochester/NY zur Behandlung eines kariösen Zahnes der Patientin Hobbie durch den Zahnarzt Elija Pope zur Zahnextraktion zum ersten Mal (vor 1842?) eine Äthernarkose durchgeführte hatte, Crawford Williamson Long am 30. März 1842 durch. (Veröffentlicht wurde diese Anwendung jedoch erst im Dezember 1849). Deshalb wird in den USA seit 1991 der 30. März jährlich als Doctor’s Day zelebriert. Wenige Jahre später wurde am 16. Oktober 1846 die erste öffentliche Äthernarkose von William Thomas Green Morton im Massachusetts General Hospital in Boston bei einer chirurgischen Operation ausgeführt. Morton hatte, einem Ratschlag von Charles Thomas Jackson, der Versuche mit Äther an Hunden und sich selbst gemacht hatte, folgend, bereits Ende September 1846 die Narkose mit Schwefeläther bei einem Patienten durchgeführt. Mit dem 16. Oktober 1846 (Ether Day genannter Beginn der Schwefeläthernarkose) verfügt die moderne Anästhesie über ein „offizielles Geburtsdatum“. Die Entdeckung der narkotisierenden Eigenschaften revolutionierte die Medizin und insbesondere die Chirurgie. Statt wie bisher nur unzureichend mit Spirituosen wie Whisky oder mit Opiaten betäubten Patienten, konnte man nun mit wesentlich mehr Zeit die besinnungslosen Patienten erheblich einfacher und vor allem ohne Schmerzen operieren.
+Von dem Würzburger chirurgischen Assistenzarzt und späteren Augenarzt Robert Ritter von Welz, der bereits im Januar 1847 die Wirkungen des Äthers als Narkosemittel erforschte, wurde die Diethylether-Inhalation auch zur Dämpfung der Atemnot bei einem sterbenden Tuberkulosepatienten angewendet. Welz beschreibt das folgendermaßen: „Es gelang mir bei ihm, den Todeskampf, der aus Mangel an Luft sich zur furchtbarsten Angst gesteigert hatte, durch eine zwanzig Minuten lang fortgesetzte Aetherinhalation in einen heitern und schmerzlosen Zustand zu verwandeln. Der Sterbende wurde während dieser Inhalation nicht nur von keinem Husten befallen, sondern konnte im Gegentheil tiefere Inspirationen machen und den in den Bronchialstämmen rasselnden eitrigen Schleim wieder expektorieren. Bald darauf verschied er bei vollem Bewusstsein, aber von heiteren Bildern umgeben [...].“ 1847 wurde Äther von dem Geburtshelfer Walter Channing (1786–1876) zur Behandlung von Krämpfen bei Schwangeren eingesetzt.Der leichtflüchtige Äther wurde zunächst – wie bei Robert Ritter von Welz beschrieben – über ein Inhaliersystem verabreicht, wobei der flüssige Äther von einem Schwamm aufgenommen wurde und dann über eine Schlauchleitung dem Patienten zugeführt wurde. Ab 1908 wurde von dem französischen Kinderchirurgen und Orthopäden Louis Ombrédanne (1871–1956) ein weiteres Narkosesystem eingeführt, dessen Weiterentwicklungen bis zur Entstehung geschlossener Narkose-Systeme – erstmals 1923 durch Ralph Milton Waters (1883–1979) – führten. Die insbesondere aus hygienischen Gründen eingeführte Schimmelbusch-Maske, bei der Äther auf ein Tuch getropft wird, war eine weitere Möglichkeit, das Anästhetikum zuzuführen.Aufgrund seiner langen Abklingzeit, häufiger, unangenehmer Nachwirkungen (u. a. Erbrechen, Unruhe) sowie der Explosionsgefahr (vor allem in Anwesenheit elektrischer Geräte) bei der Bildung von Äther-Luft-Gemischen wird Diethylether jedoch heute i. d. R. nicht mehr zur Narkose benutzt. Beispielsweise in den 1930er Jahren kam es in der Charité bei Benutzung eines Glühkauters zur Entzündung von Ätherdämpfen bei der Operation eines zwölfjährigen Jungen und dadurch auch zu einem Bersten einer Sauerstoffflasche, wobei der junge Patient getötet und mehrere Personen verletzt wurden. Jedoch war Äther noch bis zu Beginn der 1950er Jahre (in Kombination mit Sauerstoff und Lachgas) das Hauptnarkotikum bei (meist mit einem Barbiturat eingeleiteten) Narkosen.Ein weiteres medizinisches Anwendungsgebiet des Diethylethers (als apolares Lösungsmittel) ist seine Funktion als Lösungsvermittler bei der Herstellung von Tinkturen etc., deren Wirkstoffe sich in polareren Lösungsmitteln wie Alkohol oder Glycerin nicht oder nur schwer lösen lassen, z. B. bei der Herstellung von Arningscher Tinktur.Diethylether ist aufgrund seiner geringen Reaktivität und seines großen Flüssigkeitsbereiches eines der wichtigsten Lösemittel in der präparativen Chemie. Besonders Reaktionen mit Metallorganylen wie Grignard-Verbindungen werden in wasserfreiem Ether durchgeführt. Auch zur Flüssig-Flüssig-Extraktion kann Diethylether verwendet werden.
+Die Verwendung als Lösemittel in industriellen Prozessen ist rückläufig. Inzwischen wird immer häufiger Methyl-tert-butylether (MTBE) verwendet, bei dem die Bildung explosiver Peroxide ausgeschlossen ist, der aber trotzdem sehr ähnliche Eigenschaften zeigt.Diethylether wird auch als Rauschmittel konsumiert. Von Mitte bis Ende des 19. Jahrhunderts war Diethylether in Irland auf Grund hoher Alkoholpreise das am häufigsten verwendete Rauschmittel und wurde in Läden verkauft. Dabei wurde der Ether zusammen mit Wasser getrunken. Der Gebrauch von Diethylether sank ab 1890, als er als Gift eingestuft wurde und nur noch zum Verkauf an Chemiker oder Apotheker zugelassen wurde. Außer in Irland war das Ethertrinken auch in Schottland, Russland und Norwegen verbreitet. In Frankreich wurde Ether mit Cognac, in Michigan (USA) mit Whiskey getrunken.Diethylether wird unter anderem als Starthilfespray zum Anlassen von Verbrennungsmotoren verwendet.Diethylether wurde 2017 von der EU gemäß der Verordnung (EG) Nr. 1907/2006 (REACH) im Rahmen der Stoffbewertung in den fortlaufenden Aktionsplan der Gemeinschaft (CoRAP) aufgenommen. Hierbei werden die Auswirkungen des Stoffs auf die menschliche Gesundheit bzw. die Umwelt neu bewertet und ggf. Folgemaßnahmen eingeleitet. Ursächlich für die Aufnahme von Diethylether waren die Besorgnisse bezüglich Verbraucherverwendung, Umweltexposition, hoher (aggregierter) Tonnage, anderer gefahrenbezogener Bedenken und weit verbreiteter Verwendung sowie der möglichen Gefahren durch krebsauslösende, mutagene und reproduktionstoxische Eigenschaften. Die Neubewertung soll ab 2020 von Frankreich durchgeführt werden.Victor Nicolaus Kronser: Der Schwefel-Aether. Seine chemische Bereitung, Eigenschaft und Anwendung, nebst ausführlichem Berichte der ersten und interessantesten in Wien u. a. O. damit gemachten Versuche bei Operationen und in verschiedenen Krankheitsfällen, sowie über deren Verlauf und Nachbehandlung. Jasper, Hügel & Manz, Wien 1847 (urn:nbn:de:hbz:061:2-7479).
+Matthew Turner: An account of the extraordinary medical fluid, called aether. London (J. Wilkie) 1843. Volltext im Project Gutenberg (für Nutzer aus Deutschland derzeit i.d.R. nicht abrufbar)

@@ -1,0 +1,23 @@
+Ritter und Knappen ist ein Logikrätsel von Raymond Smullyan.
+Auf einer fiktiven Insel sind alle Einwohner entweder Ritter, die immer die Wahrheit sagen, oder Knappen (auch Schurken genannt), die immer lügen. Im Logik-Puzzle kommt ein Besucher auf die Insel und trifft einige Einwohner. Üblicherweise muss dieser aus den Aussagen der Bewohner schließen, zu welcher Sorte sie gehören, manchmal aber auch etwas anderes herausfinden. Es gibt auch Puzzle, bei denen der Besucher eine Ja-Nein-Frage finden muss, die ihm ermöglicht herauszufinden, was er wissen will.
+Ein frühes Beispiel dieses Typs beinhaltet drei Bewohner A, B und C. Der Besucher fragt A, was er ist, hört aber die Antwort nicht. Dann sagt B: „A sagte, er sei ein Knappe“, und C: „Glaube dem B nicht, er lügt!“ Um das Puzzle zu lösen, muss man wissen, dass kein Einwohner sagen kann, er sei ein Knappe. Daher ist die Aussagen von B falsch, er ist also ein Knappe. Damit ist die Aussage von C korrekt, er ist also ein Ritter. Da A gesagt hat „Ich bin ein Ritter“, ist es unmöglich herauszufinden, was er ist.
+In einigen Varianten gibt es auch Einwohner, die Alterniere sind, also abwechselnd lügen und die Wahrheit sagen, oder Spione, die sagen, was sie wollen. Eine andere mögliche Komplikation ist, dass die Einwohner Ja-Nein-Fragen in ihrer eigenen Sprache beantworten, während der Besucher nur weiß, dass „bal“ und „da“ „ja“ und „nein“ heißen, aber nicht in welcher Reihenfolge. Dieser Typ von Puzzle inspirierte das schwierigste Rätsel der Welt.Eine große Klasse elementarer Logik-Puzzle können mittels der Booleschen Algebra und logischen Wahrheitstabellen gelöst werden. Die Boolesche Algebra und ihr Simplifizierungsprozess hilft beim Verständnis der folgenden Beispiele.
+Johannes und Wilhelm sind beide Einwohner der Insel der Ritter und Knappen.Johannes sagt: Wir sind beide Knappen.
+Wer ist was?Johannes: Wenn und nur dann wenn Wilhelm ein Knappe ist, bin ich ein Knappe.
+Wilhelm: Wir sind verschiedenen Typs.
+Wer ist wer?Hier ist die beliebteste Variante von Ritter und Knappen:
+Johannes und Wilhelm stehen an einer Weggabelung. Der Besucher weiß, dass einer von ihnen Knappe, der andere Ritter ist, aber nicht welcher. Er weiß auch, dass ein Weg zum Tode, der andere in die Freiheit führt. Mit welcher Ja-Nein-Frage findet er den Weg in die Freiheit?
+Diese Version des Puzzles wurde popularisiert in einer Szene des Fantasy-Films Labyrinth, in dem Sarah (Jennifer Connelly) zwei Türen findet, die beide jeweils von einem zweiköpfigen Ritter bewacht werden. Eine Tür führt ins Zentrum der Burg, die anderen in den sicheren Untergang.Johannes' Aussage ist äquivalent zu:
+„Johannes ist ein Knappe und Wilhelm ist ein Knappe.“
+Wäre Johannes ein Ritter, so sagte er nicht, ein Knappe zu sein, weil er dabei löge. Also ist die Behauptung „Johannes ist ein Knappe“ wahr.
+Da Knappen lügen und eine Aussage wahr ist, muss die andere Aussage falsch sein. Also ist die Behauptung „Wilhelm ist ein Knappe“ notwendig falsch, ergo muss Wilhelm ein Ritter sein.
+Lösung: Johannes ist ein Knappe und Wilhelm ist ein Ritter.Johannes ist ein Knappe und Wilhelm ist ein Ritter.
+In diesem Szenario sagt Johannes das Äquivalent von „Wir sind nicht verschiedenen Typs“ (also beide Ritter oder beide Knappen). Wilhelm sagt das Gegenteil. Da beide sich widersprechen, muss einer lügen, der andere die Wahrheit sagen, also einer ein Ritter und einer ein Knappe sein. Da letztere das ist, was Wilhelm sagte, ist Wilhelm der Ritter, somit ist Johannes der Knappe.Um herauszufinden, welcher Weg in die Freiheit führt, soll die folgende Frage gestellt werden: „Wird mir der andere Mann sagen, ob dein Weg zur Freiheit führt?“
+Sagt der Mann „ja“, dann führt sein Weg nicht zur Freiheit, sagt er „nein“, dann tut er es.
+Wird die Frage dem Ritter gestellt, dessen Weg zur Freiheit führt, wird er „nein“ sagen, denn dies ist die Wahrheit, dass der Knappe lügen und „nein“ sagen würde. Führt des Ritters Wegs nicht zur Freiheit, wird er „ja“ sagen, da dies der Knappe sagen würde.
+Stellt man die Frage dem Knappen, dessen Weg zur Freiheit führt, wird er „nein“ sagen und damit lügen, da der Ritter „ja“ sagen würde. Führt sein Weg nicht zur Freiheit, sagte der Knappe „ja“, da der Ritter „nein“ sagen würde.
+Zu dieser Lösung müssen Knappe und Ritter voneinander ihre Identität kennen.
+Eine andere Lösung ist die Frage: „Was wäre deine Antwort, fragte ich dich, ob dein Weg zur Freiheit führt?“
+Antwortet der Gefragte „ja“, dann führt sein Weg zur Freiheit, antwortet er „nein“, dann nicht.
+Der Ritter sagt die Wahrheit darüber, dass er die Wahrheit sagen würde.
+Der Knappe müsste darüber, dass er lügen würde, lügen.

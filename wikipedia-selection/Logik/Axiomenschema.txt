@@ -1,0 +1,16 @@
+Der Begriff Axiomenschema bezeichnet in der Mathematischen Logik eine metasprachliche Konstruktionsvorschrift zur Darstellung von erststufigen Axiomensystemen, die nicht durch eine endliche Anzahl von Axiomen angegeben werden können oder angegeben werden sollen.
+Ein derartiges Axiomensystem muss nicht als eine unendliche Menge aufgefasst werden.
+Es muss aber entscheidbar sein, ob ein gegebener Ausdruck ein Axiom des Systems ist.Ein Axiomenschema (Plural: Axiomenschemata) wird durch eine rekursive Definition beschrieben.
+Die zu erzeugenden Axiome werden in der Rekursionsvorschrift durch Formeln gegeben, in denen (ein oder mehrere) metasprachliche Platzhalter (Schema-Variablen) vorkommen.
+Da die Schema-Variablen in vielen Fällen über Formeln (bzw. über Terme etc.) variieren, wird die Rekursion dabei auch oft über den (rekursiven) Aufbau der Formeln geführt. In der Praxis ist mitunter die eigentliche Rekursion nicht ganz treffend auch als intuitive Ersetzung etc. formuliert.
+Eine Theorie, die ein endliches Axiomensystem besitzt, wird endlich axiomatisierbar genannt.
+Diese Axiomensysteme werden in der Regel als eleganter empfunden, selbst wenn mitunter Beweise in ihnen weniger elegant sind.Bekannte Axiomenschemata sind:
+
+Das Induktionsschema der erststufigen Formulierung der Peano-Axiome, die ein wohlbekanntes Axiomensystem für die Arithmetik der natürlichen Zahlen bilden.
+Das Ersetzungsschema des Axiomensystems ZFC der Mengenlehre.Da weder das Ersetzungsschema von ZFC noch das Induktionsschema der Peano-Arithmetik durch eine endliche Anzahl von Axiomen ersetzt werden können, sind beide zugehörige Theorien nicht endlich axiomatisierbar.Die ebenfalls erststufige Von-Neumann-Bernays-Gödel-Mengenlehre (NBG) spricht generell über Klassen.
+Es muss in NBG angegeben werden, wenn über eine Menge und nicht allgemein über eine Klasse geredet wird.
+In ZFC und NBG sind über Mengen die gleichen Aussagen beweisbar, trotzdem besitzt NBG aber ein endliches Axiomensystem.
+Die Axiomenschemata von ZFC sind gewissermaßen in Formulierungen mit geeigneten Klassen verlagert worden.
+Innerhalb der Prädikatenlogik zweiter Stufe sind Axiomenschemata eliminierbar, wenn die vorkommenden Schema-Variablen wesentlich Platzhalter für (ein- oder mehrstellige) Relationen sind.
+Die Prädikatenlogik höherer Stufe erlaubt Quantifizierung über Relationen.
+Allerdings gelten (Satz von Lindström) in einer Prädikatenlogik höherer Stufe, die ausdrucksfähiger als die Prädikatenlogik erster Stufe ist, nicht zugleich der Kompaktheitssatz und der Satz von Löwenheim-Skolem.

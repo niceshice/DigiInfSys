@@ -1,0 +1,22 @@
+Kompatible Solute ist in der Zellbiologie die Bezeichnung für organische Verbindungen hoher Löslichkeit in Wasser und geringer molarer Masse, die damit den osmotischen Zustand einer Zelle beeinflussen, bei physiologischem pH-Wert jedoch elektrisch neutral und mit dem Zellstoffwechsel gut verträglich (kompatibel) sind.Mit der Bezeichnung kompatible Solute wird auf die Eigenschaft dieser Osmolyte verwiesen, auch bei hohen osmotisch wirksamen cytoplasmatischen Konzentrationen nicht mit dem Stoffwechsel zu interferieren.
+Zu den kompatiblen Soluten zählen Verbindungen verschiedener Stoffklassen, die unter anderem für die unterschiedliche Salztoleranz des jeweiligen Organismus kennzeichnend sind:
+Zucker (Trehalose und Saccharose),  und Schwefelverbindungen (z. B. Dimethylsulfoniopropionat) sind typisch für nicht halophile und halotolerante Mikroorganismen. Solute dieser Gruppe werden durch Synthese in cytoplasmatischen Konzentrationen bis zu etwa 500 mM akkumuliert. Insbesondere Trehalose wird als allgemeiner Stressmetabolit angesehen und wird auch von E. coli akkumuliert. Wenn Trehalose in hyperthermophilen Archaeen als Stressmetabolit gebildet wird, ist das hauptsächlich vorkommende kompatible Solut meist Mannosylglycerat und Di-myo-inositol-phosphat.Glucosylglycerol
+Glucosylglycerat in Mykobakterien, manchen mesophilen Bakterien und halophilen Archaeen
+Mannosylglycerat in Rotalgen, thermophilen Bakterien und hyperthermophilen Archaeen
+Polyole
+Glycerol tritt bei halophilen Pilzen sowie bei salz-toleranten Pflanzen auf
+Arabitol tritt bei halophilen Pilzen sowie bei salz-toleranten Pflanzen auf
+Inositol tritt bei halophilen Pilzen sowie bei salz-toleranten Pflanzen auf
+Zyklisches 2,3-Bis(di)phosphoglycerat in Methanogenen
+Diglycerolphosphat in Archaeoglobus fulgidus
+Di-myoinositol-phosphat in hyperthermophilen Archaeen und Bakterien
+Di-mannosyl-di-myo-inositol-phosphat in Thermotoga sp.
+Aminosäuren und Aminosäurederivate sind für Organismen mit erhöhter Salztoleranz charakteristisch und können in Konzentrationen über 500 mM akkumuliert werden. Dazu gehören
+Glutaminsäure und β-Glutaminsäure
+Prolin
+die Tetrahydropyrimidinderivate Ectoin und Hydroxyectoin
+Glycinbetain
+acetylierte Diaminosäuren und Glutaminderivate.Die Anreicherung des Zytoplasmaraumes mit kompatiblen Soluten kann durch de-novo-Synthese oder durch Aufnahme aus dem Medium geschehen. Wenn beide Möglichkeiten offenstehen, wird die Aufnahme der Solute bevorzugt, da sie energetisch günstiger ist. Stehen effektive Transportsysteme für kompatible Solute zur Verfügung, reduziert sich die für die Osmoadaptation aufzuwendende Energie deutlich, wenn brauchbare Verbindungen in der Umgebung vorhanden sind. Beide Mechanismen, de novo-Synthese und Aufnahme aus dem Medium, werden sowohl von halotoleranten als auch halophilen Organismen verwirklicht. So konnten in Glycinbetain produzierenden Cyanobakterien effiziente Glycinbetain-Transporter nachgewiesen werden. Vergleichbare Glycinbetain-Transportersysteme wurden auch in Halorhodospira halochloris sowie in salz-toleranten und salzabhängigen methanogenen Archaea gefunden.
+
+
+== Einzelnachweise ==

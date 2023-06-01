@@ -1,0 +1,4 @@
+BINAP [2,2'–Bis(diphenylphosphino)–1,1'–binaphthyl] ist ein bidentater Diphosphinligand mit axialer Chiralität, dessen reines (R)- oder (S)-Enantiomer in einer Vielzahl Übergangsmetall-katalysierter Reaktionen, speziell asymmetrische Hydrierungen, außergewöhnliche Eigenschaften bezüglich Enantioselektivität und Aktivität zeigt. Erstmals wurde BINAP 1980 von Noyori et al. vorgestellt. Bis dato ist BINAP einer der wenigen Liganden, die industrielle Bedeutung besitzen, z. B. im Takasago-Menthol-Prozess.Hergestellt wird BINAP aus BINOL durch Umsetzung mit Bromtriphenylphosphoniumbromid zur entsprechenden Dibromverbindung und anschließende Umsetzung mit Magnesium zu einem Di-Grignard-Reagenz, welches schließlich mit ClPPh2 zu BINAP reagiert.
+
+
+== Einzelnachweise ==

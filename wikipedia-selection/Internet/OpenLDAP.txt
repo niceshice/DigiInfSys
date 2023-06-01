@@ -1,0 +1,17 @@
+OpenLDAP ist eine Implementierung des LDAP, die als freie Software unter der der BSD-Lizenz ähnlichen OpenLDAP Public License veröffentlicht wird. OpenLDAP ist Bestandteil der meisten aktuellen Linux-Distributionen und läuft auch unter verschiedenen Unix-Varianten, macOS und verschiedenen Windows-Versionen.
+Da OpenLDAP den LDAP-Standard umsetzt, ist es mit OpenLDAP möglich, eine zentrale Benutzerdatenverwaltung aufzubauen und zentral zu warten.Da OpenLDAP die Referenzimplementierung des Protokolls ist, werden Schemadateien sorgfältig auf Protokollkonformität geprüft. Dies führt gelegentlich zu Fehlermeldungen, wenn mangelhafte Schemadateien, die von Directory Server Agents (DSA) anderer Hersteller akzeptiert werden, in ein OpenLDAP-System übertragen werden.
+Durch die Bereitstellung unterschiedlicher Backends und Overlays lassen sich Protokollerweiterungen und erweiterte Operationen (extended operations) sehr leicht realisieren.
+Das SQL-Backend leitet die Suchergebnisse einer RDBM-Suche an den DSA weiter, so dass der auftraggebende LDAP-Client ein protokollgerechtes Datenpaket empfängt.Das Softwarepaket umfasst neben dem Server auch weitere Werkzeuge zur Konfiguration und benötigte Bibliotheken. Es besteht hauptsächlich aus folgenden Bestandteilen:
+
+slapd – stand-alone LDAP daemon
+backends – über diese wird der eigentliche Zugriff auf die Daten realisiert
+overlays – ermöglichen das Verhalten der Backends und damit des slapd zu modifizieren, ohne diese(n) selbst zu ändern
+syncrepl – Synchronisation und Replikation gemäß RFC 4533
+Bibliotheken, die das LDAP-Protokoll bereitstellen
+Werkzeuge, Hilfsmittel und BeispieleFolgender Dienst wird nicht mehr mit ausgeliefert, da die Replikation jetzt über die Syncrepl ausgeführt wird.
+
+slurpd – stand-alone LDAP update replication daemonDie Konfigurationsdateien für die OpenLDAP-Clients sind unter Linux (siehe auch die Manual Page ldap.conf(5)):
+
+ldap.conf – Basiseinstellungen für ClientsAuf vielen Unix- bzw. Linux-Systemen gibt es zwei Dateien mit der Bezeichnung ldap.conf, üblicherweise in /etc/ldap.conf und /etc/openldap/ldap.conf. Die Datei /etc/ldap.conf dient ausschließlich der Konfiguration von pam_ldap. Die systemweite Client-Konfiguration ist /etc/openldap/ldap.conf.~/.ldaprc – anwenderspezifische Konfigurationsdatei für ClientsDie OpenLDAP-Server-Konfigurationsdateien sind:
+
+slapd.conf – Konfiguration des Slapd-Daemon (dies ist aber eine veraltete Methode und wird nur eingesetzt, falls Konfigurationsparameter benötigt werden, die nicht vom Konfigurationsbackend cn=config erkannt werden. Dies sind z. B. in Version OpenLDAP-2.3.34 alle SQL-Backends und einige Overlays).Das Verzeichnis slapd.d/ wird für die Online-Konfiguration verwendet. Der slapd kann dort die gesamte Konfiguration als LDIF-Datei ablegen, so dass slapd.conf nicht mehr benötigt wird. Diese Dateien sollten nicht selbst verändert werden, die Konfiguration des openldap erfolgt über das LDA-Protokoll.

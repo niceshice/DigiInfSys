@@ -1,0 +1,50 @@
+Eine Bedingung oder Kondition (lateinisch condicio, englisch condition) ist die mit wenn, falls (konditional) oder weil (kausal) verbundene Teilaussage eines Satzes, die eine so bedingte Folgerung oder Wirkung hervorruft.
+Das deutsche Wort „Bedingung“ gibt es nachweislich spätestens seit Martin Luther.Die (konditionale und hinreichende) Bedingung ist der Vordersatz einer Subjunktion oder einer Implikation.
+Es wird unterschieden zwischen
+
+notwendiger und
+hinreichender Bedingung:Ist ein Sachverhalt A Voraussetzung (notwendige Bedingung) dafür, dass ein anderer Sachverhalt B eintreten kann, so folgt aus dem bloßen Vorliegen von A noch nicht, dass B auch wirklich eintritt. Ist jedoch A eine hinreichende Bedingung für B, dann tritt B beim Vorliegen von A sicher ein.
+Die notwendige Bedingung A für eine Folge B heißt auch Replikation. Es gilt: Wenn B dann A.
+Beispiel aus der Differentialrechnung bei der Bewertung der ersten Ableitung:
+Eine notwendige Bedingung für das Vorliegen eines lokalen Extremwerts einer Funktion 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   an einer Stelle 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   ist, dass die erste Ableitung der Funktion null (
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        a
+        )
+        =
+        0
+      
+    
+    {\displaystyle f'(a)=0}
+  ) ist. Es ist dies jedoch noch keine hinreichende Bedingung für das Vorliegen eines Extremwerts: Erst durch die Untersuchung des Krümmungsverhaltens der ersten Ableitung (oder manchmal schon durch Untersuchung der zweiten Ableitung) weiß man, ob es dort wirklich einen lokalen Extremwert gibt, ob also die hinreichende Bedingung erfüllt ist.Hauptartikel: Bedingte WahrscheinlichkeitBedingte Wahrscheinlichkeit (auch konditionale Wahrscheinlichkeit) ist die Wahrscheinlichkeit des Eintretens eines Ereignisses A unter der Bedingung, dass ein Ereignis B eintritt.In bestimmten Zusammenhängen (fachsprachlich meist in den Naturwissenschaften) wird die Bedingung auch kausal (mit weil statt wenn) verwendet.
+Die Bedingung ist dann die sprachliche Formulierung der Ursache (causa) einer Wirkung.
+
+In den biologischen und medizinischen Wissenschaften sind frühere Entwicklungsstadien die Bedingung für spätere: Das Wachsen des Embryos ist Bedingung für die Geburt eines Menschen.
+In der Physik und anderen Naturwissenschaften ist eine Ausgangssituation und die Geltung von Naturgesetzen die Bedingung für die Entstehung von Folgesituationen.Hauptartikel: Bedingung (Recht)Auch das menschliche Handlungsvermögen (fachsprachlich meist in den Geisteswissenschaften) ist von Bedingungen abhängig.
+Wird Arbeit (zum Beispiel in einem Arbeitsvertrag) von einer Geldzahlung abhängig gemacht, so ist sie die Bedingung für diese Zahlung.
+Im Strafrecht wird ein Täter für eine Tat verantwortlich gemacht, wenn sie eine notwendige Bedingung (condicio sine qua non) für den Straftatbestand war.In der Scholastik beschrieb man den hinreichenden Zusammenhang einer Bedingung so:
+Steht eine Bedingung fest, so stimmt auch das Bedingte, und ist die Bedingung aufgehoben, so enthebt sich auch das Bedingte. (Posita conditione ponitur conditionatum, et sublata conditione tollitur conditionatum.)
+Gott ist im Mittelalter das einzig unbedingte Absolute. Er ist die (unendliche) Bedingung der (endlichen) bedingten Schöpfung.
+Der Philosoph Immanuel Kant fragt in seiner Transzendentalphilosophie nach der Bedingung der Möglichkeit von Erfahrung. Dieser Sprachgebrauch ist auch für andere Zusammenhänge inzwischen in die Umgangssprache aufgenommen worden.

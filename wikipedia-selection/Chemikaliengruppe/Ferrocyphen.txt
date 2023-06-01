@@ -1,0 +1,312 @@
+Bei Ferrocyphen handelt es sich um komplex gebundenes Eisen(II), welches von zwei (1,10)-Phenanthrolin-Liganden und zwei Cyanidionen koordiniert wird. Damit bildet sich ein elektrisch neutraler Chelatkomplex.
+Ferrocyphen dient bei Redox-Titrationen (z. B. Nitritometrie) als Redoxindikator, da sich die Farbe des Komplexes durch Oxidation von gelb (Fe2+, Ferrocyphen) nach violett (Fe3+, Ferricyphen) verändert.Weitere Anwendung findet es in der Titration schwacher Basen in nichtwässrigen Medien sowie für aromatische Diazotierungs-Titrationen.Die Darstellung im Labor verläuft am besten über die Verdrängung von 1,10-Phenanthrolin-Liganden (phen) aus dem Tris(1,10-Phenanthrolin)eisen(II)-Kation durch Cyanid-Ionen.
+  
+    
+      
+        
+          Fe
+          
+            
+              (
+              
+                NH
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              (
+              
+                SO
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          ⋅
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          3
+          
+          
+            (
+            phen
+            ⋅
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            O
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {Fe(NH4)2(SO4)2*6 H2O + 3 (phen*H2O)}}}
+   
+
+  
+    
+      
+        
+          ⟶
+          
+            [
+            Fe
+            
+              
+                (
+                phen
+                )
+              
+              
+                3
+              
+              
+                
+              
+            
+            
+              SO
+              
+                4
+              
+              
+                
+              
+            
+            ]
+          
+          +
+          
+            
+              (
+              
+                NH
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          9
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {-> [Fe(phen)3SO4] + (NH4)2SO4 + 9 H2O}}}
+  
+  
+    
+      
+        
+          
+            [
+            Fe
+            
+              
+                (
+                phen
+                )
+              
+              
+                3
+              
+              
+                
+              
+            
+            ]
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          2
+          
+          KCN
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {[Fe(phen)3]SO4 + 2 KCN + 3 H2O}}}
+  
+
+-> 
+  
+    
+      
+        
+          
+            [
+            Fe
+            
+              
+                (
+                phen
+                )
+              
+              
+                2
+              
+              
+                
+              
+            
+            
+              
+                (
+                CN
+                )
+              
+              
+                2
+              
+              
+                
+              
+            
+            ]
+          
+          ⋅
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            (
+            phen
+            ⋅
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            O
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {[Fe(phen)2(CN)2]* 2 H2O + K2SO4 + (phen * H2O)}}}
+  Andere Wege, wie die Verdrängung von Cyanidionen durch Phenanthrolin verlaufen deutlich langsamer, sowie in geringerer Ausbeute. Die direkte Kombination einer Eisen(II)-Lösung mit äquimolaren Mengen von Kaliumcyanid und 1,10-Phenanthrolin liefert zunächst einen Mix verschiedener Komplexe, deren Umlagerung zum gewünschten Produkt zu lange dauert, um praktikabel zu sein.

@@ -1,0 +1,84 @@
+Die Beschwerde ist in der Wirtschaft die negative Äußerung von Kunden, Lieferanten oder Dritten über ein Unternehmen, dessen Produkte/Dienstleistungen oder Personal.Das Präfixverb „beschweren“ stammt aus dem Mittelhochdeutschen und bedeutet so viel wie „schwerer machen, belasten, drücken, belästigen“. Unter der Beschwerde im weitesten Sinn werden alle potenziellen Verhaltensreaktionen von Kunden auf Unzufriedenheit (siehe Kundenzufriedenheit) verstanden. Im engeren Sinne sind Beschwerden alle „unternehmensgerichteten Kundenartikulationen nach dem Kauf von Produkten oder Dienstleistungen, die darauf abzielen, subjektiv wahrgenommene Kundenprobleme, die in direktem Zusammenhang mit dem Kauf und/oder der Nutzung der Produkte oder Dienstleistung stehen, zu beseitigen.“Beschwerden können mündlich (z. B. Telefon) oder schriftlich (z. B. E-Mail) erfolgen. sie können gerichtet sein an
+
+die verursachende Stelle,
+Verantwortliche im verursachenden Unternehmen (Vorgesetzte, Vorstand, Revision) oder
+externe Stellen (z. B. Ombudsmänner, Datenschutzbeauftragter, Gewerbeaufsicht, Verbraucherorganisation).Beschwerden werden in Großunternehmen im Beschwerdemanagement bearbeitet, ansonsten von der Kundenbetreuung oder dem Vertrieb. Der Inhalt einer Beschwerde betrifft ein Unternehmen allgemein, dessen Personal oder Produkte/Dienstleistungen:
+
+Beschwerden über Unternehmen allgemein können unter anderem deren Marktverhalten, Öffentlichkeitsarbeit, Regallücken, Technologien, Umweltmanagement oder Unternehmenspolitik betreffen und deren Image oder Reputation gefährden.
+Beschwerden über Personal können sich auf die unfreundliche Bedienung, die mangelhafte oder fehlende Beratung, den mangelhaften oder fehlenden Kundendienst oder Warteschlangen beziehen.
+Beschwerden über Produkte/Dienstleistungen betreffen lediglich Nebenpflichten wie den mangelhaften Lieferservice; die Verletzung von Hauptpflichten aus dem Liefervertrag löst dagegen Reklamationen aus.Beschwerden ergeben sich nur, wenn die Kundenerwartung höher war als die tatsächlich eingetretene Situation. Das Beschwerdemanagement hat zunächst zu prüfen, ob Beschwerden berechtigt sind oder nicht.  
+Die Beschwerdequote gibt an, wie hoch die Anzahl der sich beschwerenden Kunden 
+  
+    
+      
+        
+          K
+          
+            b
+          
+        
+      
+    
+    {\displaystyle K_{b}}
+   im Verhältnis zur Gesamtkundenzahl 
+  
+    
+      
+        
+          K
+          
+            g
+          
+        
+      
+    
+    {\displaystyle K_{g}}
+   ist:
+
+  
+    
+      
+        B
+        e
+        s
+        c
+        h
+        w
+        e
+        r
+        d
+        e
+        q
+        u
+        o
+        t
+        e
+        =
+        
+          
+            
+              K
+              
+                b
+              
+            
+            
+              K
+              
+                g
+              
+            
+          
+        
+        ⋅
+        100
+        
+        %
+      
+    
+    {\displaystyle Beschwerdequote={\frac {K_{b}}{K_{g}}}\cdot 100\,\%}
+  .Diese betriebswirtschaftliche Kennzahl gibt den Grad der Unzufriedenheit von Kunden an. Eine hohe Beschwerdequote erfordert eine Schwachstellenanalyse und die nachfolgende Beseitigung von Schwachstellen. Zwecks Erhöhung der Kundenbindung ist anzustreben, die Quote so gering wie möglich zu halten.Beschwerden von Kunden sind
+
+ein Zeichen des aktiven Kundeninteresses an dem Unternehmen und seinen Produkten,
+ein wertvolles Feedback bezüglich Verbesserungspotenzialen im Unternehmen und
+eine Chance, die Kundenbeziehung durch eine schnelle, sachgerechte und kulante Regelung zu stärken.Beschwerden von Kunden können einerseits zur Messung, andererseits auch zur Steigerung der Kundenzufriedenheit dienen und sind somit ein wichtiges Instrument im Qualitätsmanagement. Ein Mangel an Sensibilität für die Wirkung von Kundenbeschwerden hat negative Konsequenzen für ein Unternehmen, welche von Unternehmen jedoch oft unterschätzt werden. Wenn beispielsweise Kundenbeschwerden nicht oder schlecht behandelt werden, beschweren sich Kunden nicht mehr, sondern wechseln kommentarlos den Anbieter.Grundsätzlich ist es sinnvoll, zwischen den eigentlichen Beschwerden und Reklamationen, die routinemäßig bearbeitet werden, zu unterscheiden. Reklamationen sind aus einer Hauptleistungspflicht resultierende Leistungsstörungen, Beschwerden betreffen dagegen lediglich Nebenpflichten des Vertrags wie etwa die unfreundliche Bedienung. Für Reklamationen ist charakteristisch, dass der Verkäufer für Sachmängel haftet. Im Beschwerdemanagement werden nicht nur Reklamationen, sondern sämtliche Rückmeldungen der Kunden systematisch gesammelt und ausgewertet.

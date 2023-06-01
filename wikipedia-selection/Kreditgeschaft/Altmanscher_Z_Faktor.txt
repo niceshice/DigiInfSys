@@ -1,0 +1,298 @@
+Das 1968 veröffentlichte Z-Faktor-Modell von Altman (original englisch Altman’s Z-Score bzw. kurz Z-Score) ist das erste multivariate Insolvenzprognoseverfahren für Unternehmen. Für Privatpersonen hingegen wurden zu diesem Zeitpunkt multivariate Analyseverfahren bereits angewendet.
+In der finanzwissenschaftlichen Literatur wird es heute noch als Benchmark zur Beurteilung der Prognosequalität von Ratingsystemen herangezogen und bildet die Grundlage kommerzieller Ratingverfahren.
+Derzeit existieren drei Versionen des Z-Faktor-Verfahrens, die mit Z-, Z'- und Z"-Modell bezeichnet werden. Neuere empirische Studien zeigen übereinstimmend, dass keine der Modellversionen des Z-Faktor-Verfahrens gut für die Prognose von Unternehmensinsolvenzen geeignet ist. Besser geeignete Kennzahlenverfahren sind jedoch öffentlich verfügbar.Das Altmansche Z-Faktor-Verfahren wurde mittels der Multivariaten Linearen Diskriminanzanalyse parametrisiert und ordnet die zu beurteilenden Unternehmen in zwei Gruppen ein ("voraussichtlich solvent" vs. "voraussichtlich insolvent"). In der Praxis wird der Z-Faktorwert auch ordinal interpretiert.
+Auf Basis einer Stichprobe von 33 insolventen und 33 solventen Unternehmen gelang es Altman (1968) bei einem Prognosehorizont von einem Jahr, 31 der insolventen und 32 der nicht-insolventen Unternehmen richtig zu klassifizieren. Die Zuordnung basierte auf der Diskriminanzfunktion:
+
+  
+    
+      
+        Z
+        =
+        1
+        
+          ,
+        
+        2
+        
+          X
+          
+            1
+          
+        
+        +
+        1
+        
+          ,
+        
+        4
+        
+          X
+          
+            2
+          
+        
+        +
+        3
+        
+          ,
+        
+        3
+        
+          X
+          
+            3
+          
+        
+        +
+        0
+        
+          ,
+        
+        6
+        
+          X
+          
+            4
+          
+        
+        +
+        0,999
+        
+          X
+          
+            5
+          
+        
+      
+    
+    {\displaystyle Z=1{,}2X_{1}+1{,}4X_{2}+3{,}3X_{3}+0{,}6X_{4}+0{,}999X_{5}}
+  Legende:
+
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+      
+    
+    {\displaystyle X_{1}}
+   = (Umlaufvermögen – kurzfristige Verbindlichkeiten) / Bilanzsumme,
+
+  
+    
+      
+        
+          X
+          
+            2
+          
+        
+      
+    
+    {\displaystyle X_{2}}
+   = einbehaltene Gewinne / Bilanzsumme,
+
+  
+    
+      
+        
+          X
+          
+            3
+          
+        
+      
+    
+    {\displaystyle X_{3}}
+   = Ergebnis vor Zinsen und Steuern (EBIT)/ Bilanzsumme,
+
+  
+    
+      
+        
+          X
+          
+            4
+          
+        
+      
+    
+    {\displaystyle X_{4}}
+   = Marktwert des Eigenkapitals / Summe der Verbindlichkeiten,
+
+  
+    
+      
+        
+          X
+          
+            5
+          
+        
+      
+    
+    {\displaystyle X_{5}}
+   = Umsatz / BilanzsummeUnternehmen mit einem Z-Faktor-Wert von weniger als 1,81 gelten gemäß diesem Verfahren auf Einjahressicht als hochgradig insolvenzgefährdet, Unternehmen mit einem Z-Score-Wert größer als 2,99 als ungefährdet.Um das Z-Faktorverfahren auch auf nicht-börsennotierte Unternehmen anwenden zu können, wurde in einer späteren Modellüberarbeitung bei der Kennzahlendefinition für 
+  
+    
+      
+        
+          X
+          
+            4
+          
+        
+      
+    
+    {\displaystyle X_{4}}
+   der Marktwert des Eigenkapitals durch dessen Buchwert ersetzt und alle Koeffizienten neu geschätzt:
+
+  
+    
+      
+        
+          Z
+          ′
+        
+        =
+        0,717
+        
+          X
+          
+            1
+          
+        
+        +
+        0,847
+        
+          X
+          
+            2
+          
+        
+        +
+        3,107
+        
+          X
+          
+            3
+          
+        
+        +
+        0,420
+        
+          X
+          
+            4
+          
+          ′
+        
+        +
+        0,998
+        
+          X
+          
+            5
+          
+        
+      
+    
+    {\displaystyle Z'=0{,}717X_{1}+0{,}847X_{2}+3{,}107X_{3}+0{,}420X_{4}'+0{,}998X_{5}}
+  Legende:
+
+  
+    
+      
+        
+          X
+          
+            4
+          
+          ′
+        
+      
+    
+    {\displaystyle X_{4}'}
+   = Buchwert des Eigenkapitals / Summe der Verbindlichkeitenfür die übrigen Variablen siehe oben
+Bei Z' über 2,9 besteht keine Insolvenzgefahr, Unternehmen mit Z' kleiner 1,23 sind insolvenzgefährdet.Da die Kennzahl 
+  
+    
+      
+        
+          X
+          
+            5
+          
+        
+      
+    
+    {\displaystyle X_{5}}
+   als zu branchenabhängig angesehen wurde, wurde sie im Rahmen einer dritten Modellversion entfernt, deren Ziel es war, das Modell auch auf Unternehmen außerhalb des Verarbeitenden Gewerbes anzuwenden. Die Koeffizienten der übrigen Variablen wurden erneut geschätzt:
+
+  
+    
+      
+        
+          Z
+          ″
+        
+        =
+        6
+        
+          ,
+        
+        56
+        
+          X
+          
+            1
+          
+        
+        +
+        3
+        
+          ,
+        
+        26
+        
+          X
+          
+            2
+          
+        
+        +
+        6
+        
+          ,
+        
+        72
+        
+          X
+          
+            3
+          
+        
+        +
+        1
+        
+          ,
+        
+        05
+        
+          X
+          
+            4
+          
+          ′
+        
+      
+    
+    {\displaystyle Z''=6{,}56X_{1}+3{,}26X_{2}+6{,}72X_{3}+1{,}05X_{4}'}
+   Legende: siehe Z’-Faktorverfahren
+Gemäß diesem Modell gelten Unternehmen mit einem Z"-Wert kleiner als 1,10 als insolvenzgefährdet.In einer Metauntersuchung von zehn empirischen Studien, bei denen jeweils mehrere tausend Unternehmen einbezogen wurden, wurden die Prognoseleistungen der verschiedenen Z-Faktorverfahren gemessen.
+Auch wenn das Z-Faktor-Modell ursprünglich auf US-amerikanische Aktiengesellschaften mit Daten von (aus heutiger Sicht) 40 bis 60 Jahre alten Jahresabschlüssen angepasst wurde, sind die univariaten Prognoseleistungen der verwendeten Kennzahlen (mit Ausnahme der Kennzahl X5, die ab dem Z"-Faktorverfahren nicht mehr verwendet wurde) bei aktuellen Jahresabschlüssen internationaler bzw. deutscher oder österreichischer mittelständischer Unternehmen keineswegs schlecht.
+Schlechter ist jedoch die Kalibrierung der Koeffizienten. Mit Ausnahme der Originalstudie Altmans (1968) und dessen späteren Untersuchungen zeigen die empirischen Ergebnisse durchgehend unterdurchschnittliche Prognoseleistungen der drei Z-Faktorverfahren. Dies gilt nicht nur im Vergleich zu den von den jeweiligen Autoren selbst entwickelten Modellen – sondern auch im Vergleich zu den (univariaten) Prognoseleistungen einzelner Kennzahlen, wie der Gesamtkapitalrendite (Jahresüberschuss/Bilanzsumme) oder der Eigenkapitalquote (Eigenkapital/Bilanzsumme).

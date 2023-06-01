@@ -1,0 +1,443 @@
+Die Presburger-Arithmetik ist eine in der Prädikatenlogik erster Stufe formulierte mathematische Theorie der natürlichen Zahlen mit Addition.
+Sie ist benannt nach Mojżesz Presburger, der sie im Jahre 1929 einführte.
+Die Signatur der Presburger-Arithmetik enthält nur Addition, nicht jedoch die Multiplikation.
+Zum Axiomensystem gehört auch ein Axiomenschema der vollständigen Induktion.
+Die Presburger-Arithmetik ist erheblich schwächer als die Peano-Arithmetik, in der sowohl Addition als auch Multiplikation formalisiert werden.
+Im Gegensatz zur Peano-Arithmetik ist die Presburger-Arithmetik eine entscheidbare Theorie, d. h., es lässt sich für jede in der Sprache der Presburger-Arithmetik formulierte Aussage effektiv entscheiden, ob sie aus den Axiomen der Theorie beweisbar ist oder nicht.
+Allerdings ist die asymptotische Laufzeit eines entsprechenden Algorithmus laut einer Arbeit von Fischer und Rabin doppelt exponentiell.Die Sprache der Presburger-Arithmetik enthält Konstanten 0 und 1 sowie eine binäre Operation +, die als Addition zu interpretieren ist.
+In dieser Sprache lauten die Axiome der Presburger-Arithmetik wie folgt:
+
+  
+    
+      
+        0
+        +
+        1
+        =
+        1
+      
+    
+    {\displaystyle 0+1=1}
+  
+
+  
+    
+      
+        ∀
+        x
+        :
+        ¬
+        (
+        x
+        +
+        1
+        =
+        0
+        )
+      
+    
+    {\displaystyle \forall x\colon \neg (x+1=0)}
+  
+
+  
+    
+      
+        ∀
+        x
+        ,
+        y
+        :
+        (
+        x
+        +
+        1
+        =
+        y
+        +
+        1
+        →
+        x
+        =
+        y
+        )
+      
+    
+    {\displaystyle \forall x,y\colon (x+1=y+1\rightarrow x=y)}
+  
+
+  
+    
+      
+        ∀
+        x
+        :
+        x
+        +
+        0
+        =
+        x
+      
+    
+    {\displaystyle \forall x\colon x+0=x}
+  
+
+  
+    
+      
+        ∀
+        x
+        ,
+        y
+        :
+        (
+        x
+        +
+        y
+        )
+        +
+        1
+        =
+        x
+        +
+        (
+        y
+        +
+        1
+        )
+      
+    
+    {\displaystyle \forall x,y\colon (x+y)+1=x+(y+1)}
+  
+Sei 
+  
+    
+      
+        P
+        (
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle P(x,y_{1},\ldots ,y_{k})}
+   eine Formel in der Sprache der Presburger-Arithmetik mit freien Variablen 
+  
+    
+      
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x,y_{1},\ldots ,y_{k}}
+  . Dann ist folgende Aussage ein Axiom:
+  
+    
+      
+        ∀
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        :
+        (
+        (
+        P
+        (
+        0
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        ∧
+        ∀
+        x
+        :
+        (
+        P
+        (
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        →
+        P
+        (
+        x
+        +
+        1
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        )
+        )
+        →
+        ∀
+        x
+        :
+        P
+        (
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle \forall y_{1},\ldots ,y_{k}\colon ((P(0,y_{1},\ldots ,y_{k})\land \forall x\colon (P(x,y_{1},\ldots ,y_{k})\rightarrow P(x+1,y_{1},\ldots ,y_{k})))\rightarrow \forall x\colon P(x,y_{1},\ldots ,y_{k}))}
+  Letzteres ist ein Axiomenschema der vollständigen Induktion und steht für unendlich viele Einzelaxiome. Diese dem Schema (6) entsprechenden Axiome lassen sich nicht durch endlich viele Axiome ersetzen, so dass die Presburger-Arithmetik insgesamt nicht endlich axiomatisierbar ist.Die Presburger-Arithmetik kann Konzepte wie Teilbarkeit oder Primzahlen nicht formalisieren, geschweige denn die Multiplikation, denn dann müsste die Presburger-Arithmetik wie die Peano-Arithmetik unvollständig und unentscheidbar sein.
+Individuelle Instanzen der Teilbarkeit können aber durchaus formalisiert werden, etwa „
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   ist gerade“ durch 
+  
+    
+      
+        G
+        (
+        x
+        )
+        :⇔
+        ∃
+        z
+        :
+        z
+        +
+        z
+        =
+        x
+      
+    
+    {\displaystyle G(x):\Leftrightarrow \exists z\colon z+z=x}
+  ; hiermit ausdrückbare wahre Aussagen wie
+
+  
+    
+      
+        ∀
+        x
+        ,
+        y
+        :
+        (
+        G
+        (
+        x
+        )
+        ∧
+        G
+        (
+        y
+        )
+        →
+        G
+        (
+        x
+        +
+        y
+        )
+        )
+      
+    
+    {\displaystyle \forall x,y\colon (G(x)\land G(y)\rightarrow G(x+y))}
+  
+(„Die Summe zweier gerader Zahlen ist gerade“)sind dann beweisbare Sätze.Mojżesz Presburger wies folgende Eigenschaften seiner Arithmetik nach:
+Konsistenz: Es gibt keine in ihrer Sprache formulierte Aussage 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , für die sowohl 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   als auch 
+  
+    
+      
+        ¬
+        P
+      
+    
+    {\displaystyle \neg P}
+   aus den Axiomen hergeleitet werden kann.
+Vollständigkeit: Für jede in der Sprache der Presburger-Arithmetik formulierte Aussage 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   ist entweder 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   oder die Verneinung 
+  
+    
+      
+        ¬
+        P
+      
+    
+    {\displaystyle \neg P}
+   aus den Axiomen herleitbar.
+Entscheidbarkeit: Es gibt einen Algorithmus, der zu jeder gegebenen Aussage der Presburger-Arithmetik entscheiden kann, ob sie wahr oder falsch ist.Die Entscheidbarkeit der Presburger-Arithmetik lässt sich durch Quantorenelimination und die Betrachtung arithmetischer Kongruenzen nachweisen.Die Peano-Arithmetik, also Presburger-Arithmetik zuzüglich Multiplikation, ist dagegen nicht entscheidbar.
+Gemäß Gödels Unvollständigkeitssatz ist sie auch unvollständig und ihre Konsistenz nicht (intern) beweisbar.
+Das Entscheidungsproblem für die Presburger-Arithmetik ist ein interessantes Beispiel der Komplexitätstheorie. Sei 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   die Länge einer Aussage der Presburger-Arithmetik. Dann hat der Entscheidungsalgorithmus für die Presburger-Arithmetik laut einer Arbeit von Fischer und Rabin mindestens doppelt-exponentielle Laufzeit, d. h., im worst case beträgt die Laufzeit mindestens 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                c
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle 2^{2^{cn}}}
+   für eine gewisse positive Konstante 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  .
+Andererseits gibt es eine dreifach-exponentielle obere Abschätzung für die Laufzeit.
+Es handelt sich also um ein Entscheidungsproblem, das nachweislich nicht in exponentieller (geschweige denn polynomieller) Zeit gelöst werden kann.
+Fischer und Rabin zeigten auch, dass für jede (in einem von ihnen präzisierten Sinne) vernünftige Axiomatisierung Sätze beliebiger Länge existieren, deren kürzester Beweis von doppelt-exponentieller Länge ist. Intuitiv bedeutet dies, dass es praktische Grenzen für Computerbeweise gibt.
+Aus der Arbeit von Fischer und Rabin ergibt sich ferner, dass mit der Presburger-Arithmetik Formeln definiert werden können, die einen beliebigen Algorithmus korrekt nachbilden, solange die Eingaben gewisse – verhältnismäßig hohe – Grenzen nicht überschreiten. Diese Grenzen können durch den Übergang zu anderen Formeln jeweils noch erhöht werden.Es existieren auch tatsächlich Computerbeweissysteme, die Algorithmen zur Entscheidung von Formeln in Presburger-Arithmetik gebrauchen.
+Beispielsweise enthält Coq Beweistaktiken in dieser Richtung.
+Die doppelt-exponentielle Komplexität begrenzt zwar die praktische Einsetzbarkeit für komplizierte Formeln, jedoch tritt dieses Verhalten nur bei verschachtelten Quantoren auf: Oppen und Nelson beschreiben ein auf dem Simplex-Verfahren beruhendes automatisches Beweissystem für eine erweiterte Presburger-Arithmetik ohne verschachtelte Quantoren. Die Worst-case-Laufzeit des Simplexverfahrens ist (einfach) exponentiell. Tatsächlich wird exponentielle Laufzeit sogar nur für speziell konstruierte Fälle beobachtet, während es in Alltagsfällen erheblich effizienter arbeitet. Hierdurch ist dieser Ansatz durchaus für den praktischen Einsatz geeignet.
+Die Presburger-Arithmetik lässt sich um die Multiplikation mit Konstanten erweitern, da es sich hierbei um wiederholte Addition handelt.
+In der Programmiertechnik betrifft dies beispielsweise die Berechnung von Feldindizes.
+Dieser Ansatz ist Grundlage von mindestens fünf Systemen für den Korrektheitsbeweis von Computerprogrammen, angefangen beim Stanford Pascal Verifier aus den späten 1970er Jahren bis hin zu Microsofts Spec# von 2005.

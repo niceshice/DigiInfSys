@@ -1,0 +1,306 @@
+Selenige Säure ist ein wasserlöslicher kristalliner Feststoff mit der Summenformel H2SeO3. Sie ist eine zweiprotonige Säure des Selens. Ihre Salze heißen Selenite. Selenige Säure ist giftig.Selenige Säure kann aus der Umsetzung von Selendioxid und Wasser oder Salpetersäure mit Selen erhalten werden.
+
+  
+    
+      
+        
+          S
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SeO_{2}+H_{2}O\longrightarrow H_{2}SeO_{3}} }
+  
+
+  
+    
+      
+        
+          S
+          e
+          +
+          4
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Se+4\ HNO_{3}\longrightarrow H_{2}SeO_{3}+4\ NO_{2}+H_{2}O} }Selenige Säure ist sehr gut wasserlöslich und wirkt stark hygroskopisch.
+In Wasser gelöst reagiert sie stark sauer (pKs-Wert der ersten Protolysestufe:  2,62 und der zweiten Protolysestufe: 8,32).
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          ⇌
+           
+          
+            H
+            
+              +
+            
+          
+          +
+          H
+          S
+          e
+          
+            O
+            
+              3
+            
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SeO_{3}\rightleftharpoons \ H^{+}+HSeO_{3}^{-}} }
+  
+
+  
+    
+      
+        
+          H
+          S
+          e
+          
+            O
+            
+              3
+            
+            
+              −
+            
+          
+          ⇌
+           
+          
+            H
+            
+              +
+            
+          
+          +
+          S
+          e
+          
+            O
+            
+              3
+            
+            
+              2
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HSeO_{3}^{-}\rightleftharpoons \ H^{+}+SeO_{3}^{2-}} }
+  Sie ist eine schwächere Säure als die Schweflige Säure, ist aber im Gegensatz zu dieser in Form von Kristallen isolierbar. Sie zeigt praktisch keine reduzierende Eigenschaften. Von Schwefeldioxid,  Schwefelwasserstoff, Iodwasserstoff und Hydrazin wird sie zu rotem Selen reduziert.
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          H
+          I
+           
+          →
+           
+          S
+          e
+          +
+          2
+           
+          
+            I
+            
+              2
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SeO_{3}+4\ HI\ \rightarrow \ Se+2\ I_{2}+3\ H_{2}O} }
+  Von  Wasserstoffperoxid, Kaliumpermanganat oder Chlorsäure wird sie zu Selensäure oxidiert.
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+           
+          →
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SeO_{3}+H_{2}O_{2}\ \rightarrow \ H_{2}SeO_{4}+H_{2}O} }Selenige Säure wird als Katalysator zur Synthese von 1,2-Dialdehyden verwendet.In der Industrie dient sie zur Farbveränderung von metallischen Werkstoffen. Vor allem in der Waffenindustrie ist ein "blueing" genanntes Verfahren bekannt, mit dem Stahloberflächen gefärbt werden. Ähnliche Verfahren verwendet die Chemische Industrie zur Oberflächenverfärbung, beispielsweise von Kupfer. In den Vereinigten Staaten gibt es Drogentests, deren Schlüsselreagenz selenige Säure ist.Selenige Säure ist wie viele Selenverbindungen toxisch für den menschlichen Körper.
+Nach deutschem Wasserrecht ist die Verbindung mit der Wassergefährdungsklasse 3 gekennzeichnet.
+Die mittlere Letale Konzentration für Fische beträgt 6,61  g·m−3. Es liegen Anzeichen für eine mögliche karzinogene Wirkung der Verbindung vor.
+Der biologische Grenzwert beträgt 150 µg· l−1.Selenige Säure wirkt auf Haut, Atemwege und Schleimhäute stark reizend. Sie ist in der Lage, in hohen Konzentrationen lebendes Gewebe zu zerstören (Verätzung). Aussetzung mit der Verbindung über einen längeren Zeitraum kann schwere physiologische Schäden verursachen. Selenige Säure ist bereits in kleinsten Mengen hoch giftig. Bei Intoxikationen mit Selenverbindungen muss mit bleibenden Schäden gerechnet werden.
+
+
+== Einzelnachweise ==

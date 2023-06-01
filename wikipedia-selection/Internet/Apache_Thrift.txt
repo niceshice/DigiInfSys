@@ -1,0 +1,17 @@
+Apache Thrift ist eine Schnittstellenbeschreibungssprache bzw. ein Kommunikationsprotokoll für interoperable und skalierbare Services. Es kombiniert einen Software-Protokollstapel mit einer Generatorkomponente zur Erstellung von Services, die nahtlos zwischen ActionScript, C, C++, C#, Cappuccino, Cocoa, Delphi, Erlang, Go, Haskell, Java, Node.js, Objective-C, OCaml, Perl, PHP, Python, Ruby und Smalltalk sowie anderen Sprachen operieren können.Das Projekt fand seinen Ursprung bei der Social-Network-Plattform Facebook, um die Entwicklung von hochskalierbaren Backend-Services zu unterstützen. Das Apache-Thrift-Projekt ist ein Software-Entwicklungsprojekt der Apache Software Foundation und wird unter der Apache-2.0-Lizenz veröffentlicht.
+Durch eine einfache und geradlinige Schnittstellenbeschreibungssprache (Interface Definition Language, IDL) werden verschiedene Thrift-Typen definiert. Die Verarbeitung dieser Thrift-IDL-Dateien erfolgt durch einen implementierten Codegenerator, welcher den betreffenden Code für die verschiedenen Zielsprachen produziert.
+Im Zuge der steigenden Bedürfnisse und einer Analyse durch Entwickler der Social-Network-Plattform Facebook wurden Funktionen gesucht, die bereits Bestehenden an Interoperabilität, Effizienz, Datenverkehrsleistung und Einfachheit übertreffen sollten. Aus dieser Notwendigkeit heraus entwickelten Facebook-Ingenieure effizientere Protokolle und Dienste, die in weiterer Folge zu Thrift wurden. Das soziale Netzwerk Facebook nutzt nun Thrift für seine Back-End-Services.Thrift beinhaltet einen kompletten Software-Protokollstapel für die Erstellung von Clients und Servern. Der obere Teil des Stapel-Codes wird aus der Thrift-Definitionsdatei generiert, wodurch diese den benötigten Client- und Prozessorcode beinhalten. Die gesendeten Datenstrukturen, ausgenommen integrierten Typen, sind ebenfalls in erzeugtem Code inkludiert. Protokoll und Transport sind Teile der Thrift-Laufzeitbibliothek.
+Die in Thrift beinhaltete Server-Infrastruktur fügt Protokolle und Transporte zusammen und bindet diese aneinander. Der Basiswert I/O als Abschnitt des Stapels hängt von der betreffenden Sprache ab. Für Java- und Python-Netzwerke werden die implementierten Bibliotheken genutzt, während für C++-Implementierungen eine eigene Umsetzung erfolgt.Thrift unterstützt sowohl Textprotokolle als auch binäre Protokolle. Die binären Protokolle verfügen über eine höhere Bewertung als die sekundären Text Protokolle. Textprotokolle werden jedoch zum Beispiel bei der Fehlersuche angewendet. Einige der Protokolle die Thrift unterstützt:
+
+TBinaryProtocol
+Eine Binärformat-Codierung, die numerische Werte binär darstellt, anstelle von Textkonvertierungen.
+TCompactProtocol
+Eine effiziente Compact-Codierung, die die betreffenden Daten komprimiert.
+TDenseProtocol
+Ähnlich dem TCompactProtocol, jedoch entfernt dieses die Metainformationen der übertragenen Daten und fügt diese wieder bei der Übertragung an den Empfänger ein.
+TJSONProtocol
+Dieses Protokoll verwendet JSON für die Codierung der Daten.
+TSimpleJSONProtocol
+Ein Schreibprotokoll mit JSON. Geeignet für das Parsen von Skriptsprachen.
+TDebugProtocol
+Dieses Protokoll formatiert in lesbare Textformate für das Debugging.

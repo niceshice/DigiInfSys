@@ -1,0 +1,49 @@
+Das Äquivalenzeinkommen (ÄE) ist das Einkommen, das jedem Mitglied eines Haushalts, wenn es erwachsen wäre und alleine leben würde, den gleichen (äquivalenten) Lebensstandard ermöglichen würde, wie es ihn innerhalb der Haushaltsgemeinschaft hat. Dazu wird das Einkommen des gesamten Haushalts addiert und anschließend aufgrund einer Äquivalenzskala gewichtet. Die Gewichtung richtet sich nach Anzahl und Alter der Personen der Haushaltsgemeinschaft. Meist wird es als Nettoäquivalenzeinkommen (NÄE) gerechnet. Das Äquivalenzeinkommen ist ein Pro-Kopf-Einkommen. Zu unterscheiden ist das NÄE vom Pro-Kopf-Einkommen als ungewichteter arithmetischer Durchschnitt und vom verfügbaren Einkommen.Als Nettoeinkommen gelten hier alle Einkünfte aus selbständiger und nichtselbständiger Arbeit, Unterhalt und Vermögen sowie Transfereinkommen (beispielsweise Wohngeld) zuzüglich Mietwert selbst genutzten Wohneigentums, abzüglich Steuern und Pflichtbeiträgen zu Sozialversicherungen. Das monatliche Nettoäquivalenzeinkommen bezeichnet dann nach der Gewichtung der Personen den pro Kopf in einem Monat fiktiv verfügbaren Geldbetrag.
+Die Gewichtung (Konsumäquivalent gegenüber einem Einpersonenhaushalt) kann auf unterschiedliche Art und Weise erfolgen. Die relevanteste ist die Gewichtung der OECD, die für internationale Vergleiche meist verwendet wird: die neue und alte OECD-Skala. Bei der aktuellen Skala wird für den ersten Erwachsenen im Haushalt – der Person mit dem höchsten Beitrag zum Haushaltsnettoeinkommen – ein Gewicht von 1,0 zugeordnet, weiteren Erwachsenen und Jugendlichen (ab 14 Jahren) ein Gewicht von 0,5, und jedem Kind (unter 14 Jahren) ein Gewicht von 0,3 (50 Prozent respektive 30 Prozent eines alleinstehenden Erwachsenen).
+
+  
+    
+      
+        
+          Nettoäquivalenzeinkommen
+        
+        =
+        
+          
+            Summe der Nettoeinkommen
+            Summe der Personengewichte
+          
+        
+         
+        
+          [
+          
+            
+              
+                Euro
+                Kopf
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle {\text{Nettoäquivalenzeinkommen}}={\frac {\text{Summe der Nettoeinkommen}}{\text{Summe der Personengewichte}}}\ \left[{\tfrac {\text{Euro}}{\text{Kopf}}}\right]}
+  Weil die Gewichtesumme der Personen immer kleiner ist als die Summe der Personen, ist die Summe der Äquivalenzeinkommen immer größer als die Summe der Nominaleinkommen.
+So hätten in einem Haushalt mit einem Verdiener mit 40.000 € Jahreseinkommen, einem Verdiener mit 15.000 € und zwei schulpflichtigen Kindern (15 und 13) alle vier Personen jeweils ein Jahres-Äquivalenzeinkommen von 55.000 € ÷ 2,3 ≈ 24.000 €, also in etwa den (einkünftebezogenen) Lebensstandard eines Alleinstehenden mit gut 24.000 € Jahreseinkommen.
+Mithilfe der Äquivalenzskala werden die Einkommen nach Haushaltsgröße und Zusammensetzung vergleichbar. Grund dafür ist, dass die Einkommen von Personen, die in unterschiedlich großen Haushalten leben, nicht miteinander vergleichbar sind, da in größeren Haushalten Skaleneffekte auftreten (z. B. durch gemeinsame Nutzung von Wohnraum und Haushaltsgeräten).Das Äquivalenzeinkommen wird vor allem für die Berechnung von Einkommensverteilung, Einkommensungleichheit und Armut verwendet.
+Mit dem Nettoäquivalenzeinkommen ist der Lebensstandard für einen einzelnen Bürger im Allgemeinen nur grob überschlagsmäßig ermittelt, meist wird damit die Gesamtwohlfahrt einer Stadt, einer Region oder eines Staates ermittelt. Es wird somit eine Wohlfahrtsfunktion bestimmt. Triviale und daher oft verwendete Funktionen sind der arithmetische Mittelwert (Durchschnitt) und der Median (Mittel) oder die Wohlfahrtsfunktion nach Sen und Foster mit Gini-Koeffizient oder Theil-Index. Durch Verwendung verschiedener Ungleichverteilungsmaße können weitere Wohlfahrtsfunktionen bestimmt werden.
+Das Nettoäquivalenzeinkommen wird zur Definition der relativen Armut verwendet. In der EU wird seit 2001 der Median des Nettoäquivalenzeinkommens zur Definition der relativen Armutsgrenze wie folgt verwendet: Personen mit einem verfügbaren Einkommen von 60 % oder weniger dieses Betrages gelten in Relation zur Gesamtbevölkerung als armutsgefährdet. Es gibt keine allgemeingültige Armutsdefinition. Die Verwendung einer relativen Armutsgrenze wird zum Teil kritisiert, weil sie sich durch eine gleichmäßige Verbesserung oder Verschlechterung des Einkommens aller Bevölkerungsschichten auch dann nicht ändern würde, wenn die Preise unverändert blieben. Die Verwendung des Medians (jeweils die Hälfte der Personen) bildet auch nicht die Einkommensschere ab. Der dafür entwickelte Gini-Koeffizient bildet diese ab.
+Umstritten ist auch die meist verwendete neue OECD-Skala. Insbesondere die unterstellten deutlich niedrigeren Bedarfe für Kinder werden als zu niedrig kritisiert, zumal in der sozialstaatlichen Praxis geringere oder gar keine Einsparungen im Vergleich mit einem zusätzlichen Erwachsenen angenommen werden.Hauptkritikpunkt gegenüber dieser Kritik ist, dass die Definition des Äquivalenzeinkommens und insbesondere die Gewichte der OECD ursprünglich nur als grob überschlagsmäßige, schnelle Methode für eine volkswirtschaftliche statistische Gesamtrechnung gedacht waren, also für eine Abschätzung des Zustands der Wohlfahrt im Ganzen, nicht aber für die Beurteilung eines individuellen Haushaltes – und schon gar nicht seines tatsächlichen Wohlstandes oder seiner konkreten Armutsgefährdung.
+Für einen Vergleich zwischen verschiedenen Gegenden muss das Nettoäquivalenzeinkommen noch in Relation zum Wert des Geldes, der Kaufkraft, in Bezug gesetzt werden (Preisbereinigung). Diese Rechnung ist aufwändig, und es existieren regional und weltweit verschiedene Vergleichsansätze.In der amtlichen Statistik der EU (Eurostat) wird meist über den Kaufkraftstandard (KKS) in Form einer fiktiven Währung verglichen, die den Euro in nationalen Geldwert (das Preisniveau) umrechnet.
+
+Anmerkungen
+Quelle: SILC/EUROSTAT
+2. Spalte: EU-Mitglieder
+Index: EU = 100 (die Daten für EU/EURO 2013 sind von Eurostat geschätzt)
+Die Spalte zwischen 2009 und 2013 zeigt einen Zeitreihenbruch (Umstellung der Bemessung)
+± % Euro/KKS: Veränderung in Prozent (bemessen auf 2008). Die Tabelle zeigt also auch die Auswirkungen der weltweiten Wirtschaftskrise ab 2007 und der Eurokrise; der hohe Anstieg (in Euro) in der Schweiz, Schweden und Norwegen ist die Abwertung gegenüber dem Franken und den Kronen, die Diskrepanz der Veränderung in Euro und KKS bei Großbritannien derjenige zum Pfund bei gleichzeitiger Konjunkturschwäche.Das Median-Nettoäquivalenzeinkommen (MNÄE) hängt immer auch von der betrachteten Bevölkerung ab. Meist wird ganz Deutschland betrachtet. Dabei unterscheiden sich hier die Regionen deutlich voneinander. Betrachtet man die Bundesländer, dann ist das MNÄE von Baden-Württemberg am höchsten und zwar 9 Prozent über dem bundesdeutschen und das von Mecklenburg-Vorpommern am niedrigsten und zwar 13 bis 18 Prozent niedriger als das bundesdeutsche. Schaut man sich noch feiner die 39 NUTS-II-Regionen an, dann liegt das MNÄE in Oberbayern am höchsten, und zwar 18 bis 20 Prozent über dem bundesdeutschen, Mecklenburg-Vorpommern ist auch die NUTS-II-Region mit dem geringsten MNÄE.
+Teilt man Deutschland in etwa 100 kleinere Teilbereiche auf, dann sind die Regionen
+Mecklenburgische Seenplatte und Vorpommern, beide in Mecklenburg-Vorpommern, die mit dem geringsten MNÄE und zwar 20 bis 24 Prozent unter dem bundesdeutschen, München hat mit 25 bis 27 Prozent über dem bundesdeutschen MNÄE das höchste. Betrachtet man nur die Städte, hat München das höchste MNÄE und Leipzig mit 13 bis 19 Prozent unter dem Bundes-MNÄE das niedrigste.
+Schaut man sich jeweils einzelne besondere Bevölkerungsgruppen an, dann variiert der Anteil stark: Er beträgt 70 % bei Personen, die mehr als die Hälfte des Jahres arbeitslos waren, er beträgt unter 10 % bei Personen, die mehr als die Hälfte des Jahres arbeiteten, einen hohen Bildungsstand hatten oder Wohneigentum besaßen.Der Anteil der Menschen in Deutschland, die von weniger als 60 % des Median-Nettoäquivalenzeinkommen (MNÄE) leben müssen – oft als „relative Armut“, Armutsgefährdungsquote oder Armutsquote bezeichnet –, ist von 1998 mit 10,6 % stetig bis 2009 auf 15,16 % gestiegen. Jeder sechste lebte in Armut, das waren etwa 12,5 Millionen Menschen. 2012 lag die Armutsquote bei knapp 15 %. Laut Wissenschaftlern der Hans-Böckler-Stiftung in ihrer Studie 2016 zur Ungleichverteilung von Einkommen und Vermögen in Deutschland „habe sich trotz ‚guter konjunktureller Lage‘ und ‚steigender Erwerbstätigkeit‘ an den Verhältnissen kaum etwas geändert.“

@@ -1,0 +1,7 @@
+Das Gesetz der doppelten Negation (auch Prinzip der doppelten Negation, oder lateinisch duplex negatio affirmat – die doppelte Verneinung bekräftigt/bejaht) ist ein Gesetz der klassischen Logik, wonach die Verneinung eines verneinten (Aussage-)Satzes gleichbedeutend ist mit der Bejahung des Satzes, ein doppelt verneinter Satz ¬¬A also denselben Wahrheitswert hat wie der unverneinte Satz A.
+Die doppelte Negation im Sinne der Logik ist zu unterscheiden von der Negation der Negation im Sinne der Dialektik (Hegels).
+Die Geltung des Gesetzes der doppelten Negation besteht uneingeschränkt in der klassischen Logik, da dort das Bivalenzprinzip gilt. In der intuitionistischen Logik ist das Gesetz nicht gültig. In dieser gilt nur A → ¬¬A, aber nicht ¬¬A → A.Als Schlussregeln lassen sich die Doppelte-Negations-Einführung und die Doppelte-Negations-Beseitigung anführen.
+Die Regel der Doppelten-Negations-Einführung besagt: Wenn aus einer Menge von Annahmen X der Satz A gefolgert werden kann, dann kann aus derselben Menge X auch die doppelte Negation von A gefolgert werden, also ¬¬A.Die Regel der Doppelten-Negations-Beseitigung besagt: Wenn man aus einer Menge von Annahmen X die doppelte Negation von A – also ¬¬A folgern kann, dann kann man aus dieser Menge X ebenfalls auf A schließen.Ob eine doppelte Verneinung in einer natürlichen Sprache die erste Verneinung aufhebt (Deutsch, Latein) oder sie verstärkt (Englisch, Französisch, Spanisch), hängt von der jeweiligen Sprache ab.
+
+
+== Quellen ==

@@ -1,0 +1,83 @@
+Der Ausdruck infiniter Regress (auch unendlicher Regress oder Endlosrekursion; regressus in/ad infinitum) beschreibt einen "endlose[n] Rückgang in einer unendlichen Reihe". Er wird allgemein in der Philosophie, insb. in der Logik und Argumentationstheorie sowie in der Mathematik und Informatik verwendet.Der infinite Regress ist ein Sonderfall des Regresses im logischen Sinn. Dabei wird in der Regel an eine lineare und nicht an eine zirkuläre Reihe (vgl. Zirkelbeweis) gedacht. Bei der Reihe kann es sich insbesondere um eine Reihe von Ursachen und Wirkungen, Bedingten und Bedingenden, Begriffen und Sätzen handeln. 
+Ein infiniter Regress ist in diesem Sinn tatsächlich nicht möglich. 
+Führt eine Argumentation zu einem infiniten Regress, gilt sie nach dem Schema der reductio ad absurdum als widerlegt.
+Aristoteles nutzte das Argument des infiniten Regresses um darzulegen, dass "bei der Beschränkung auf ausschließlich deduktive Begründungsverfahren unbeweisbare Sätze angenommen werden müssen." Siehe dazu auch: Gödelscher Unvollständigkeitssatz.
+In der Philosophie ist der unendliche Regress der zweite der Fünf Tropen des Agrippa und somit eine der drei unerwünschten Alternativen im Münchhausen-Trilemma (jede Begründung muss wiederum begründet werden, ohne dass diese Folge jemals zu einem Ende kommt). Teilweise spielt die Annahme eines unmöglichen infiniten Regresses eine Rolle bei der Diskussion des Konzeptes eines unendlichen Progresses.
+Laut Karl Popper habe Fris darauf hingewiesen, dass man Sätze immer nur auf Sätze zurückführen kann, wenn man stets nach einer logischen Begründung fragt und die Sätze nicht dogmatisch einführen will. Wenn man sowohl den Dogmatismus als auch den unendlichen Regress vermeiden will, bleibe alleine die Annahme übrig, dass man Sätze auch auf Wahrnehmungserlebnisse zurückführen kann (Psychologismus). Die Wahrnehmungserlebnisse werden in einem Beobachtungssatz festgehalten.In der Mathematik und Informatik bezeichnet „infiniter Regress“ einen endlosen Selbstaufruf. Ein infiniter Regress entsteht beispielsweise durch eine Funktion, die auf sich selbst verweist (Rekursion), ohne dass eine gültige Abbruchbedingung den Prozess jemals beendet.
+Beispielsweise ist die Fibonacci-Folge rekursiv, jedoch entsteht hier kein infiniter Regress. Diese ist definiert als:
+
+  
+    
+      
+        f
+        (
+        1
+        )
+        =
+        0
+        ;
+        f
+        (
+        2
+        )
+        =
+        1
+      
+    
+    {\displaystyle f(1)=0;f(2)=1}
+  
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        f
+        (
+        n
+        −
+        1
+        )
+        +
+        f
+        (
+        n
+        −
+        2
+        )
+      
+    
+    {\displaystyle f(n)=f(n-1)+f(n-2)}
+  d. h., es werden die ersten zwei Folgenglieder zu Eins definiert, und das n-te als die Summe der zwei vorherigen Folgenglieder. Ein Beispiel für eine infinit regressive Folge wäre
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        f
+        (
+        n
+        )
+      
+    
+    {\displaystyle f(n)=f(n)}
+  .Möchte man hier das n-te Folgenglied berechnen, so tritt nach Funktionsvorschrift dieser Prozess in eine Endlosschleife. Die Funktion 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   ruft sich dabei ständig selbst auf, ohne – wie bei der Fibonacci-Folge – das Resultat auf eine der Anfangsbedingungen zurückzuführen.
+Zur Erkennung und Vermeidung von infinitem Regress, insbesondere von Computerprogrammen, bedient man sich der semantischen Verifikation von rekursiven Funktionen. Der Beweis, dass kein infiniter Regress vorliegt, wird dann zumeist mittels einer Schleifeninvariante geführt (siehe auch Invariante). Dieser Beweis ist allerdings nicht immer nach einem bestimmten Verfahren möglich (siehe Halteproblem).
+
+
+== Einzelnachweise ==

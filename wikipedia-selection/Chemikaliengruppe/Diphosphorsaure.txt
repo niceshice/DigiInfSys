@@ -1,0 +1,124 @@
+Diphosphorsäure (auch Pyrophosphorsäure) ist eine Oxosäure des Phosphors und gehört zu den anorganischen Säuren. Sie leitet sich von der Phosphorsäure ab und lässt sich als Zusammenlagerung zweier Phosphorsäuremoleküle unter Abspaltung von Wasser darstellen.
+
+  
+    
+      
+        
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+           
+          
+            
+              →
+              
+                △
+              
+            
+          
+           
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ H_{3}PO_{4}\ {\xrightarrow {\triangle }}\ H_{4}P_{2}O_{7}+H_{2}O} }
+  Diphosphorsäure ist stark hygroskopisch und eine mittelstarke anorganische Säure. Mit Wasser hydrolysiert Diphosphorsäure exotherm zu Phosphorsäure.
+Die Salze und Ester der Diphosphorsäure werden Diphosphate oder Pyrophosphate genannt.Diphosphorsäure wird entsprechend obiger Formel durch Dehydratisierung von Phosphorsäure bei 200–300 °C hergestellt. Reine Diphosphorsäure entsteht aus Phosphorsäure und Phosphoroxychlorid:
+
+  
+    
+      
+        
+          5
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+          +
+          P
+          O
+          C
+          
+            l
+            
+              3
+            
+          
+          ⟶
+          3
+           
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          3
+           
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {5\ H_{3}PO_{4}+POCl_{3}\longrightarrow 3\ H_{4}P_{2}O_{7}+3\ HCl} }

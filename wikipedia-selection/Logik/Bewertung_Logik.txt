@@ -1,0 +1,8 @@
+Bewertung wird in der Logik die Zuordnung von Wahrheitswerten zu den Aussageformeln einer Sprache auf der Grundlage einer Belegung genannt.
+Von „Bewertung“ spricht man in der Aussagenlogik. Analog spricht man in der Prädikatenlogik von „Interpretation“.
+Eine Belegung V der Sätze der Sprache S heißt eine Bewertung, wenn gilt:
+(a) V (¬ A) = w gdw. V (A) = f
+(b) V (A → B) = w gdw. V (A) = f oder V (B) = w.Wird die Aussagenformel A durch alle Bewertungen erfüllt, so ist A aussagenlogisch wahr, allgemein gültig oder tautologisch.Wird die Konklusion B eines Schlusses A → B durch alle Bewertungen erfüllt, die auch die Prämisse A erfüllt, so ist auch der Schluss aussagenlogisch gültig.
+
+
+== Einzelnachweise ==

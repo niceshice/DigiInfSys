@@ -1,0 +1,16 @@
+Apache Tomcat ist ein Open-Source-Webserver und Webcontainer, der die Spezifikation für Jakarta Servlets (früher: Java Servlets) und Jakarta Server Pages (JSP, früher: JavaServer Pages) implementiert und es damit erlaubt, in Java geschriebene Web-Anwendungen auf Servlet- beziehungsweise JSP-Basis auszuführen.Tomcat besteht aus dem eigentlichen Servlet-Container Catalina, der JSP-Engine Jasper und dem Connector-Framework Coyote. Mittels verschiedener Connectoren unterstützt Tomcat diverse Kommunikationsprotokolle und kann mit dem HTTP-Connector entweder als eigenständiger Webserver betrieben oder mittels des AJP-Connectors in andere Webserver wie Apache Web-Server oder Microsoft IIS integriert werden. Mit der gegenwärtig existierenden AJP-Implementierung (Version 1.3) ist es möglich, den Servlet-Container auf einem gesonderten Host-Rechner zu betreiben, um den Webserver zu entlasten; insbesondere erlaubt es die Lastverteilungsfunktionalität, bei entsprechendem Leistungsbedarf dem Webserver einen Cluster aus mehreren Servlet-Containern zur Seite zu stellen.Die Verzeichnishierarchie einer Tomcat 6.x/7.x/8.x/9.x Installation umfasst:
+
+bin
+startup, shutdown und andere Skripte und ausführbare Dateien
+conf
+(XML-)Konfigurationsdateien
+lib
+Allgemeine Bibliotheken, die von Catalina und anderen Webapplikationen benutzt werden können
+logs
+Catalina- und Anwendungslogs
+temp
+temporäre Dateien
+webapps
+Verzeichnis der Webapplikationen
+work
+Verzeichnis zum Aufbewahren kompilierter JSP-/jspx-Dateien, persistierter Sessions etc.Die Entwicklung von Tomcat startete ursprünglich als Projekt von James Duncan Davidson bei Sun Microsystems als Referenz-Implementierung für die Java-Servlet- und JavaServer-Pages-Spezifikationen. Sun übertrug 1999 die Codebasis von Tomcat auf die Apache Software Foundation, die das Projekt unter dem Dach ihres Top-Level-Projekts Jakarta als Open-Source-Projekt weiterführte. Im Jahr 2005 wurde Tomcat selbst zu einem eigenen Apache-Top-Level-Projekt und hat seitdem seine eigene Organisations- und Management-Struktur.Vor Übernahme des Tomcat-Projekts unterhielt die Apache Software Foundation bereits einen Servlet-Container namens JServ. Die Entwicklung von JServ wurde zugunsten von Tomcat im Jahr 2000 eingestellt. Lediglich der Connector, der Tomcat an andere Webserver über das AJP-Protokoll anbinden kann, wurde aus der Codebasis von JServ heraus in Tomcat übernommen. Im Jahr 2001 erfolgte mit der Tomcat-Version 4 ein tiefgreifendes Redesign der Tomcat-Struktur und weite Teile der Codebasis wurden neu erstellt.Tomcat findet auch in einer Reihe von JavaEE-Anwendungsservern Anwendung, so ist er beispielsweise Bestandteil von Apache Geronimo und Apache TomEE.

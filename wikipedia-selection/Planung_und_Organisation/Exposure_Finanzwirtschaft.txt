@@ -1,0 +1,39 @@
+Das Exposure (englisch Engagement, Kreditinanspruchnahme, Risiko) ist im Bankwesen ein Anglizismus für offene Risikopositionen von Finanzinstrumenten und Basiswerten innerhalb des Geschäftsvolumens.Der Begriff des Exposures hat sich zunächst bei Nichtbanken erstmals für offene Fremdwährungspositionen durchgesetzt. Das Exposure sollte innerhalb der Finanz- und Liquiditätsplanung eines Unternehmens grundsätzlich als offene Tagesposition je Währung ermittelt werden. Zur Ermittlung des Exposure sind alle bis zum Planungshorizont erwarteten Zahlungsströme zu prognostizieren. Der Begriffsinhalt dehnte sich später auf alle Risikopositionen eines Unternehmens aus und gelangte schließlich in die Finanzwirtschaft. In der neueren Fachliteratur werden die Begriffe Kreditäquivalent oder Kreditexposition manchmal gleichgesetzt.Als Bezugswerte kommen bei Kreditinstituten Basiswerte und Finanzinstrumente in Frage, insbesondere Kreditgeschäfte, Wertpapiere, Devisen, Sorten, Edelmetalle, Derivate oder Commodities. Ihre Bestandshaltung führt zu Kreditrisiken, Marktrisiken (Kursrisiko, Währungsrisiko) und/oder Zinsänderungsrisiken. Diese Risiken sind nach der Kapitaladäquanzverordnung (englische Abkürzung CRR) mit Eigenmitteln des bilanzierenden Kreditinstituts zu unterlegen. Ausgangspunkt für die Berechnung ist nach Art. 111 Abs. 1 CRR der Risikopositionswert. Um diese Eigenmittelbindung zu vermeiden, werden die Kreditinstitute mittelbar im Eigenhandel gezwungen, diese offenen Positionen möglichst glattzustellen. Glattgestellte Positionen sind nicht mit Eigenmitteln zu unterlegen.
+Bestimmungsgrößen des Kreditrisikos sind im von der Kapitaladäquanzverordnung gewählten Ansatz die Ausfallwahrscheinlichkeit, das Ausfallvolumen und die Ausfallverlustquote:
+Die Ausfallwahrscheinlichkeit ist die Eintrittswahrscheinlichkeit eines Kreditereignisses,
+Das Ausfallvolumen bemisst die Höhe des in Zukunft vom Kreditausfall bedrohten Kreditbetrags. Von entscheidender Bedeutung hierfür sind Kreditlinien und Fazilitäten, deren Inanspruchnahme im Zeitverlauf schwanken kann. Zwischen dem Rating des Kreditnehmers und der Inanspruchnahme derartiger Kreditlinien besteht eine positive Korrelation, so dass bei sich verschlechternder Bonität die Wahrscheinlichkeit einer höheren Kreditinanspruchnahme zunimmt.
+Die Ausfallverlustquote (oder kürzer Verlustquote) ist der Anteil des zum Ausfallzeitpunkt nicht wieder eintreibbare Kreditbetrags, dessen Komplementärwert die Erlösquote (Rückzahlungsquote auch aus der Verwertung von Kreditsicherheiten) darstellt.Das Ausfallvolumen steht hierbei für das „Exposure-Risiko“. Entsprechend spricht man im Aktienhandel von einem Aktienexposure, im Devisenhandel vom Devisenexposure usw., worunter die Marktwerte dieser Bilanzpositionen zu verstehen sind. Bei Kreditversicherungen ist das Exposure der vom Zahlungsausfall oder Zahlungsverzug bedrohte Betrag, das Exposure-Risiko ist entsprechend die ungewisse Schadensbelastung im Zeitpunkt des Versicherungsfalls.Es gibt das Transaktions-Exposure (englisch transaction exposure), Umrechnungs-Exposure (englisch translation exposure) und die strategische Exposure (englisch strategic exposure).
+Das transaction exposure bezieht sich auf Währungsrisiken, die aus Auf- oder Abwertungen von Fremdwährungsverbindlichkeiten oder -forderungen resultieren.
+Das translation exposure ist die Gefahr, dass sich Fremdwährungen durch den Wechselkurs bei der Bilanzierung am Bilanzstichtag ungünstig entwickeln.
+Das strategische Exposure ist bei Nichtbanken die Gefahr, dass sich Wechselkursänderungen negativ auf die Exporte oder Importe auswirken.Offene Positionen sind alle aktivischen (passivischen) Risikopositionen, denen keine ebenso hohe und kongruente passivische (aktivische) Position gegenübersteht. Eine offene Position liegt auch dann vor, wenn künftigen Auszahlungen (Einzahlungen) nicht zeitgleich Einzahlungen (Auszahlungen) gegenüberstehen (Liquiditätsrisiko). 
+Eine offene aktivische Position heißt auch „Long“- oder Plusposition, eine offene passivische wird in der Fachsprache entsprechend als „Short“- oder Minusposition bezeichnet. Eine Bank, die in ihrem gesamten Devisenbestand 120 % „Long“ und 50 % „Short“-Positionen aufweist, besitzt eine Netto-Exposure von 70 %. Die Netto-Exposure ist ein Risikomaß für das im Portfolio vorhandene Marktrisiko:
+
+  
+    
+      
+        
+          Marktrisiko des Netto-Exposure
+        
+        =
+        
+          
+            
+              
+                Long-Positionen
+              
+              −
+              
+                Short-Positionen
+              
+            
+            Eigenmittel
+          
+        
+        ⋅
+        100
+        
+        %
+      
+    
+    {\displaystyle {\text{Marktrisiko des Netto-Exposure}}={\frac {{\text{Long-Positionen}}-{\text{Short-Positionen}}}{\text{Eigenmittel}}}\cdot 100\,\%}
+  Bei Banken brauchen lediglich die Netto-Exposures mit Eigenmitteln unterlegt zu werden (Art. 204 Abs. 1 CRR). Sind alle Positionen glattgestellt, fällt mithin keine Eigenmittelunterlegung an. Als Brutto-Exposure (englisch gross-exposure) bezeichnet man die Addition von „Long“- und „Short“-Positionen, um die Summe aller offenen Positionen erkennen zu können. Der obige Devisenbestand weist mithin eine Brutto-Exposure von 170 % auf.Durch Hedging werden offene Positionen glattgestellt und der Eigenmittelbelastung entzogen. Es erfordert bei Währung, Betrag und Laufzeit deckungsgleiche Gegengeschäfte. Beim Netting werden die zu verrechnenden Positionen saldiert, so dass als Überschuss ein Netto-Exposure verbleibt. Dieses kann eine „Short“- oder „Long“-Position sein, die durch Hedging glattgestellt werden kann. Das Netting ist zur Ermittlung der tatsächlichen Exposure von großer Bedeutung. Bestandshaltungen sind in die IFRS-Kategorien Held to Maturity, Held for Trading oder Available for Sale zuzuordnen.Zunächst wird am Bilanzstichtag die Exposure jedes Finanzinstruments bestimmt. Dabei gibt es Instrumente mit einem stabilen Exposure (die Exposure liegt nahe bei pari wie bei Floatern) und mit einem marktabhängigen variablen Exposure (etwa festverzinsliche Anleihen). Danach sind die etwaigen ratingbedingten Wertänderungen zu berücksichtigen. Sodann werden die Volatilitäten der Finanzinstrumente zusammengefasst und eine aggregierte Portfoliovolatilität errechnet, aus der der Value at Risk abgeleitet werden  kann.Nach der Marktbewertungsmethode sind alle offenen Positionen derivativer Finanzinstrumente entweder mit den aktuellen Wiederbeschaffungskosten (englisch current exposure) oder mit einem Add-on, einem laufzeitbezogenen Zuschlag als künftige Wiederbeschaffungskosten (potential exposure) zu bewerten. Das bankinterne Erfüllungsrisiko (pre-settlement-risk) ist eine Exposure, die sich aus den aktuellen Marktwerten (current exposure) und der über die gesamte Laufzeit erwarteten maximalen Wertveränderung (potential exposure) zusammensetzt. Damit werden vom Begriff des Exposures im Rahmen des Erfüllungsrisikos auch die Wiederbeschaffungskosten erfasst.

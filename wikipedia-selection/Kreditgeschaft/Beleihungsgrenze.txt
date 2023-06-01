@@ -1,0 +1,153 @@
+Unter Beleihungsgrenze (auch Beleihungssatz) versteht man im Bankwesen einen bestimmten Prozentsatz des Beleihungswerts von Kreditsicherheiten, bis zu dem Kreditinstitute maximal Kredit gewähren dürfen. Im Regelfall limitiert also nicht der Beleihungswert die Kredithöhe, sondern die niedrigere Beleihungsgrenze.Kreditsicherheiten dienen dazu, bei notleidenden Krediten im Verwertungsfall einen Verwertungserlös zu erbringen, der ausreicht, um die offene Kreditforderung der Bank abzudecken. Aus diesem Grund ist bei der Hereinnahme einer Kreditsicherheit im Rahmen der Sicherheitenbewertung deren Wert zu ermitteln. Dieser Wert heißt Beleihungswert und ist nach der Legaldefinition des Art. 4 Abs. 1 Nr. 74 Kapitaladäquanzverordnung (englische Abkürzung CRR) der Wert einer Immobilie, „der bei einer vorsichtigen Bewertung ihrer künftigen Marktgängigkeit unter Berücksichtigung ihrer langfristigen dauerhaften Eigenschaften, der normalen und örtlichen Marktbedingungen, der derzeitigen Nutzung sowie angemessener Alternativnutzungen bestimmt wird.“ Es handelt sich um einen bankintern aufgrund vorliegender, objektiver Informationen ermittelten Wert, der bei der Verwertung der Immobilie ohne Zeitdruck erzielt werden kann und zur Deckung eines notleidenden Kredits ausreicht. Die CRR befassen sich intensiv mit grundpfandrechtlich gesicherten Immobilienfinanzierungen, doch können die Grundaussagen hierüber auch auf andere Kreditsicherheiten analog angewandt werden. Die Ermittlung des Beleihungswerts dient ausschließlich der Frage, ob der – bei der Hereinnahme noch ungewisse – Erlös einer bestimmten Kreditsicherheit ausreicht, um im Verwertungsfall die offenen Kreditforderungen abzudecken.Der auf dem Marktwert beruhende Beleihungswert berücksichtigt noch nicht individuelle Wertschwankungsgefahren und Verwertungsrisiken einer bestimmten Kreditsicherheit und auch nicht deren mehr oder weniger schnelle Liquidierbarkeit. Zu diesen Wertrisiken gehören allgemeine konjunkturelle Wertschwankungsgefahren, individuelle Wertschwankungsgefahren bei Marktpreisen und Börsenkursen, Bonitäts­schwankungen bei Emittenten von Wertpapieren und sonstigen dritten Schuldnern und die Marktliquidität. Diesen Wertrisiken soll mit der Beleihungsgrenze angemessen begegnet werden. Vom Beleihungswert wird deshalb ein prozentualer Abschlag vorgenommen, der diesen Wertrisiken Rechnung tragen soll. Damit steht die Beleihungsgrenze in einer festen Relation zum Beleihungswert und gibt den höchstmöglichen Teil des Beleihungswerts an, den der Kredit ausschöpfen kann. Beleihungswert und Beleihungsgrenze zielen darauf ab, den Kreditbetrag unter Einbeziehung der Risikofaktoren nach dem Wert des Beleihungsobjekts festzulegen. Die Beleihungsgrenze soll den Erlös anzeigen, der bei der Verwertung der Kreditsicherheit mit hoher Wahrscheinlichkeit nicht unterschritten wird.Je höher die Wertrisiken sind, umso niedriger fällt die Beleihungsgrenze aus und umgekehrt. Werden etwa Bundesanleihen beliehen, so gibt es absehbar keine Wertrisiken, denn ein Bonitätsrisiko des Schuldners Bundesrepublik Deutschland ist mit der besten Ratingnote nahezu ausgeschlossen, während einem zinsbedingten Kursrisiko durch Verwertung erst bei Fälligkeit der Anleihe begegnet werden kann. Folge ist eine Beleihungsgrenze von 100 % des Beleihungswerts. Höchste Wertrisiken hingegen weisen beispielsweise volatile Aktien auf einem engen Markt in Fremdwährung mit schlechtem Rating auf, da neben dem hohen Kursrisiko auch noch ein – hiervon unabhängiges – Währungsrisiko vorhanden ist (siehe Risikoklasse). Außerdem ist ein Emittentenrisiko vorhanden. Aus diesen Gründen kann es sein, dass ihre Beleihungsgrenze bei 0 % liegt und sie mithin nicht als Kreditsicherheit in Frage kommen.Die seit Januar 2014 geltende Kapitaladäquanzverordnung (englische Abkürzung CRR) erkennt Kreditsicherheiten im Rahmen der so genannten Kreditrisikominderungstechniken an. Dabei unterscheidet die CRR generell zwischen zwei Verfahren, nämlich dem Kreditrisikostandardansatz (KSA) und dem IRB-Ansatz (mit zwei Unterformen). Neben einem weitaus größeren Kreis berücksichtigungsfähiger finanzieller Sicherheiten und anerkannter Gewährleistungsgeber werden sowohl Personalsicherheiten als auch Sachsicherheiten risikomindernd anerkannt.
+Um Kreditrisikominderungstechniken bei der Berechnung der Eigenmittel­unterlegung berücksichtigen zu dürfen, müssen die Institute bestimmte qualitative Mindestanforderungen einhalten. Sach- oder Realsicherheiten gehören nach Art. 4 Abs. 1 Nr. 58 CRR zur „Besicherung mit Sicherheitsleistung“, bei der sich das mit Bankkrediten verbundene Kreditrisiko dadurch vermindert, dass das Institut das Recht hat, bei Ausfall des Kreditnehmers oder bei bestimmten anderen Kreditereignissen „bestimmte Vermögenswerte oder Beträge zu verwerten, ihren Transfer oder ihre Bereitstellung zu erwirken oder sie einzubehalten oder aber den Risikopositionsbetrag auf die Differenz zwischen diesem und dem Betrag einer Forderung gegen das Institut herabzusetzen bzw. diesen durch diese Differenz zu ersetzen“.
+Die Art. 192 ff. CRR enthalten weitere Bestimmungen zu den Anforderungen an anerkennungsfähige Kreditsicherheiten und deren risikomindernde Wirkung. Dabei müssen nach Art. 194 Nr. 1 CRR die Sicherheiten in allen relevanten Rechtsräumen rechtswirksam und durchsetzbar sein; nach Art. 194 Nr. 2 CRR sind von Banken alle erforderlichen Maßnahmen zu ergreifen, um die Wirksamkeit der Besicherung zu gewährleisten und die damit verbundenen Risiken anzugehen. Die Sicherheiten müssen nach Art. 194 Nr. 3b CRR ausreichend liquide sein und ihr Wert im Zeitablauf muss ausreichend stabil bleiben; eine zeitnahe Verwertung oder Einbehaltung muss gewährleistet sein (Art. 194 Nr. 4 CRR). Die positive Korrelation zwischen den Sicherheiten und der Kreditnehmerbonität darf nicht sehr hoch sein (Art. 194 Nr. 4 CRR). Das betrifft beispielsweise die Kreditgewährung an eine Aktiengesellschaft, die durch die Verpfändung von deren Aktien besichert werden soll. Positive Korrelation bedeutet hierbei, dass mit der Verschlechterung der Bonität der Gesellschaft im Regelfall auch ein Kursverfall der verpfändeten Aktien einhergeht.
+Anerkannt werden im Standardansatz nach Art. 197 Nr. 1a Bareinlagen beim kreditgebenden Institut, Staatsanleihen oder Schuldverschreibungen von Zentralbanken mit einer Mindestbonitätsstufe von 4 (Art. 197 Nr. 1b CRR), sonstige Anleihen mit einer Mindestbonitätsstufe von 3 (Art. 197 Nr. 1c-e CRR), Aktien oder Wandelanleihen im Hauptindex (Art. 197 Nr. 1f CRR), Gold (Art. 197 Nr. 1g CRR) und Verbriefungen mit einer Mindestbonitätsstufe 3 (Art. 197 Nr. 1h CRR). Eine Beleihungsgrenze für die einzelnen Arten wird gesetzlich nicht vorgegeben. Nach Art. 193 Abs. 4 CRR gelten auch „Barmittel, Wertpapiere oder Waren, die im Rahmen eines Pensions- oder Wertpapier- bzw. Warenleihgeschäfts erworben, geliehen oder eingeliefert werden“ als Kreditsicherheiten. Die Vermögenswerte des Sicherungsgebers können in Form der Verpfändung (§§ 1204 ff. BGB) von Bankguthaben bei dritten Instituten oder Wertpapieren, der Sicherungsabtretung (§§ 398 ff. BGB) von Forderungen und sonstigen Rechten, der Sicherungsübereignung von beweglichen Sachen allgemein und der Sicherungsübereignung von Kraftfahrzeugen (§§ 929, § 930 BGB) berücksichtigt werden. Nach Art. 229 Abs. 1 CRR ist dann der der Marktwert für diese Kreditsicherheiten der Beleihungswert, bei Forderungen deren Nennwert.
+Kreditinstitute berechnen nach Art. 223 Abs. 2 CRR den zu berücksichtigenden volatilitäts­angepassten Wert der Sicherheit 
+  
+    
+      
+        
+          C
+          
+            V
+            A
+          
+        
+      
+    
+    {\displaystyle C_{VA}}
+   wie folgt:
+
+  
+    
+      
+        
+          C
+          
+            V
+            A
+          
+        
+        =
+        C
+        ⋅
+        (
+        1
+        −
+        
+          H
+          
+            C
+          
+        
+        −
+        
+          H
+          
+            f
+            x
+          
+        
+        )
+      
+    
+    {\displaystyle C_{VA}=C\cdot (1-H_{C}-H_{fx})}
+  Dabei entspricht
+
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   dem Beleihungswert der Sicherheit,
+
+  
+    
+      
+        
+          H
+          
+            C
+          
+        
+      
+    
+    {\displaystyle H_{C}}
+   der nach den Artikeln 224, 227 CRR berechneten, der Sicherheit angemessenen Volatilitätsanpassung (Beleihungsgrenze oder „haircut“),
+
+  
+    
+      
+        
+          H
+          
+            f
+            x
+          
+        
+      
+    
+    {\displaystyle H_{fx}}
+   der nach den Artikeln 224, 227 CRR berechneten, der Währungsinkongruenz angemessenen Volatilitätsanpassung (wenn Kredit und Sicherheit in verschiedenen Währungen denominiert sind).Beträgt beispielsweise die Ausfallkredithöhe (EaD) 800.000 Euro, der Beleihungswert (Kurswert) der Sicherheit 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   900.000 Euro, der Standard-Haircut 
+  
+    
+      
+        
+          H
+          
+            C
+          
+        
+      
+    
+    {\displaystyle H_{C}}
+   25 % (Beleihungsgrenze für Aktien im Nebenindex) und liegt keine Währungsinkongruenz vor (
+  
+    
+      
+        
+          H
+          
+            f
+            x
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle H_{fx}=0}
+  ), beträgt die – mit Eigenmitteln zu unterlegende – Kredithöhe nach Kreditrisikominderung 
+  
+    
+      
+        
+          C
+          
+            V
+            A
+          
+        
+      
+    
+    {\displaystyle C_{VA}}
+   125.000 Euro (Risikopositionswert):
+
+   Ausfallkredithöhe (EaD):                               800.000 Euro
+   Beleihungswert verpfändete Aktien:     900.000 Euro
+   − Beleihungsgrenze (Haircut) 25 %:     675.000 Euro
+   Kredithöhe nach Kreditrisikominderung:                 125.000 EuroUnter bestimmten bankaufsichtsrechtlichen Voraussetzungen dürfen im Einzelfall Wohnimmobilien, die vom Eigentümer selbst genutzt oder vermietet sind, mit einer Beleihungsgrenze von 80 % des Beleihungs- oder Marktwerts (Art. 125 Nr. 2d CRR) und bei Gewerbeimmobilien 60 % des Beleihungswerts oder 50 % des Marktwerts beliehen werden (Art. 126 Nr. 2d CRR). Diese höhere Beleihungsgrenze gilt in Deutschland jedoch nicht für Realkredite. Nach § 14 PfandBG beträgt die Beleihungsgrenze für Realkredite in Deutschland 60 % des Beleihungswerts; hierbei handelt es sich um die einzige gesetzlich festgelegte Beleihungsgrenze. Deshalb dürfen Hypothekenbanken, Pfandbriefbanken, Sparkassen, Genossenschaftsbanken und Geschäftsbanken im Rahmen des Realkredits maximal 60 % des Beleihungswertes von Wohnimmobilien finanzieren. In Einzelfällen dürfen bei bonitätsmäßig einwandfreien Kreditnehmern auch Kredite gewährt werden, die über diese Beleihungsgrenze hinausgehen und 80 % des Beleihungswerts betragen. Der über 60 % hinausgehende Betrag gilt im Kreditrisikostandardansatz als Blankodarlehen, der allein auf die Bonität des Kreditnehmers abgestellt ist. Es handelt sich hierbei um ein so genanntes „Realkreditsplitting“, das weiterhin möglich ist. Der die Beleihungsgrenze übersteigende Personalkredit­teil ist in der entsprechenden Forderungsklasse als Blankokredit zu berücksichtigen.Während die Beleihungsgrenzen bei Immobilien bei allen Institutsgruppen noch weitgehend konstant sind, gibt es – mangels gesetzlicher Vorgaben – deutliche Unterschiede bei den Beleihungsgrenzen für Wertpapiere. Beleihungsgrenzen bei Wertpapieren spielen insbesondere bei Effektenlombardkrediten eine Rolle. Die Beleihungsgrenzen werden dort im Kreditvertrag offengelegt, damit der Kreditnehmer die maximale Kreditobergrenze selbst ermitteln kann. Mögliche Werte sind:Über Wertpapiere hinaus können noch andere Sachen beliehen werden; deren mögliche Beleihungsgrenzen sind:Der Beleihungswert einer deutschen, am geregelten Markt gehandelten Aktie ist regelmäßig identisch mit ihrem Kurswert. Bei der Verpfändung von Aktien in einem Depot ergebe sich ein Kurswert von EUR 50.000, so dass der Beleihungswert ebenfalls bei EUR 50.000 liegt. Die vorgegebene Beleihungsgrenze von 60 % des Beleihungswerts beträgt somit EUR 30.000. Die Bank kann dann auf diese verpfändeten Aktien einen Kredit von maximal EUR 30.000 gewähren. In der relativ niedrigen Beleihungsgrenze von 60 % kommt das Kursschwankungsrisiko zum Ausdruck, das bei Aktien im Vergleich zu anderen Sicherheitenarten als hoch eingestuft werden muss. Der Aktienkurs darf mithin nicht mehr als 40 % sinken, bevor der Kredit nicht mehr einwandfrei gesichert ist und Nachbesicherungs- oder Rückzahlungsregelungen greifen (siehe wesentliche Verschlechterung der Vermögensverhältnisse).Die Beleihungsgrenze (engl. loan-to-value cap) ist ein Beitrag zur Verlustbegrenzung im Ausfallszenario. Sie ist ein tragfähigkeitsbezogenes Instrument des Kreditportfolios und trägt damit zur Verminderung des Kreditrisikos bei. Aus diesem Grund führen Kreditsicherheiten unter den genannten Voraussetzungen zu Anrechnungserleichterungen. Wenn Wohnimmobilien die Voraussetzungen der CRR vollständig erfüllen, wird ihnen ein Risikogewicht von 35 % des Kredits zugewiesen (Art. 125 Nr. 1a CRR), bei Gewerbeimmobilien gilt ein Risikogewicht von 50 % (Art. 126 Nr. 1a CRR). Diese Risikogewichte sorgen für eine geringere Eigenkapitalunterlegung der Immobilienkredite, was niedrigere Kreditmargen zur Folge hat.
+Bei Anwendung der Unterform des fortgeschrittenen IRB-Ansatzes ist der Kreis der berücksichtigungsfähigen Kreditsicherheiten unbeschränkt, soweit ein Institut zuverlässige Schätzungen zu deren Werthaltigkeit nachweisen kann. In diesem Fall führt die Kreditbesicherung auch bei anderen Kreditsicherheiten zu einer geringeren Eigenmittelunterlegung als es bei reinen Blankokrediten der Fall wäre.
+
+
+== Einzelnachweise ==

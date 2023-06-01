@@ -1,0 +1,357 @@
+Tetrahydroxydiboron ist eine anorganische chemische Verbindung, die der Gruppe der Diboronverbindungen zugeordnet sowie auch als eine Borsäure betrachtet werden kann. Diboronverbindungen können formal als Bor(II)-Verbindungen gesehen werden.Die Verbindung wurde erstmals 1937 von Egon Wiberg und Wilhelm Ruschmann als neue Borsäure (Unterborsäure) beschrieben. Die Synthese ging vom Bortrichlorid aus, welches durch eine Umsetzung mit einer unterstöchiometrischen Menge an Methanol in den Diester umgewandelt wurde.
+
+  
+    
+      
+        
+          B
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          2
+          
+          C
+          
+            H
+            
+              3
+            
+          
+          O
+          H
+          →
+          B
+          (
+          O
+          C
+          
+            H
+            
+              3
+            
+          
+          
+            )
+            
+              2
+            
+          
+          C
+          l
+          +
+          2
+          
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {BCl_{3}+2\,CH_{3}OH\rightarrow B(OCH_{3})_{2}Cl+2\,HCl} }
+  In der folgenden Reduktion mit Natrium wurde analog zu einer Wurtzschen Synthese im gebildeten Tetramethoxydiboron die Bor-Bor-Bindung geknüpft.
+
+  
+    
+      
+        
+          2
+          
+          B
+          (
+          O
+          C
+          
+            H
+            
+              3
+            
+          
+          
+            )
+            
+              2
+            
+          
+          C
+          l
+          +
+          2
+          
+          N
+          a
+          →
+          
+            B
+            
+              2
+            
+          
+          (
+          O
+          C
+          
+            H
+            
+              3
+            
+          
+          
+            )
+            
+              4
+            
+          
+          +
+          2
+          
+          N
+          a
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {2\,B(OCH_{3})_{2}Cl+2\,Na\rightarrow B_{2}(OCH_{3})_{4}+2\,NaCl} }
+  Das Tetrahydroxydiboron wurde dann durch die Verseifung des Tetramethoxydiborons erhalten.
+
+  
+    
+      
+        
+          
+            B
+            
+              2
+            
+          
+          (
+          O
+          C
+          
+            H
+            
+              3
+            
+          
+          
+            )
+            
+              4
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          
+            B
+            
+              2
+            
+          
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          +
+          4
+          
+          C
+          
+            H
+            
+              3
+            
+          
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {B_{2}(OCH_{3})_{4}+4\,H_{2}O\rightarrow B_{2}(OH)_{4}+4\,CH_{3}OH} }Neben der Herstellung aus ihren Estern wurden in den 1950er Jahren von T. Wartik und E.F. Apple Synthesen aus Tetrachlordiboron und von R. Brotherton aus Tetra(dimethylamino)diboron beschrieben.Tetrahydroxydiboron bildet farblose Kristalle, die in einem monoklinen Kristallgitter mit der Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14 auftreten. Im Kristallgitter sind die Moleküle über Wasserstoffbrücken zweidimensional verknüpft.Analog zur Borsäure B(OH)3, deren Entwässerung das Bortrioxid B2O3 ergibt, führt die Entwässerung von Tetrahydroxydiboron zum Bor(II)-oxid (BO)x.
+
+  
+    
+      
+        
+          
+            B
+            
+              2
+            
+          
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          →
+          2
+          
+            /
+          
+          x
+          
+          (
+          B
+          O
+          
+            )
+            
+              x
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {B_{2}(OH)_{4}\rightarrow 2/x\,(BO)_{x}+2\,H_{2}O} }
+  Die Wasserabgabe startet schon bei 90 °C, wobei für eine vollständige Umsetzung ein mehrstündiges Erhitzen auf 220 °C notwendig ist.Die Verbindung wirkt als starkes Reduktionsmittel. So wird eine Kaliumpermanganatlösung entfärbt bzw. aus einer Silbernitratlösung Silber abgeschieden. Die wässrige Lösung ist nicht stabil. Schon bei Raumtemperatur erfolgt ein langsamer Zerfall zur Borsäure unter Wasserstoffentwicklung.
+
+  
+    
+      
+        
+          
+            B
+            
+              2
+            
+          
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          2
+          
+          B
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {B_{2}(OH)_{4}+2\,H_{2}O\rightarrow 2\,B(OH)_{3}+H_{2}} }
+  In Gegenwart von Luftsauerstoff wird innerhalb von zwei Stunden direkt Borsäure gebildet.
+
+  
+    
+      
+        
+          
+            B
+            
+              2
+            
+          
+          (
+          O
+          H
+          
+            )
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          1
+          
+            /
+          
+          2
+          
+          
+            O
+            
+              2
+            
+          
+          →
+          2
+          
+          B
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {B_{2}(OH)_{4}+H_{2}O+1/2\,O_{2}\rightarrow 2\,B(OH)_{3}} }In der organischen Synthese wird die Verbindung zur Einführung einer Borsubstitution am aktivierten Kohlenstoff im Molekül benutzt. Eine direkte Boronierung von Aromaten mit Palladium-Katalyse unter Bildung der entsprechenden Phenylboronsäuren ist möglich.
+In Gegenwart von Kaliumhydrogendifluorid bildung der entsprechenden Trifluorphenylboraten
+Die Phenylboronsäuren sowie die Trifluorphenylborate dienen als Edukte bei Suzuki-Kupplungen.
+
+
+== Einzelnachweise ==

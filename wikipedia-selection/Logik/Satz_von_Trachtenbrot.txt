@@ -1,0 +1,340 @@
+Der Satz von Trachtenbrot, benannt nach Boris Trachtenbrot, ist ein Satz aus der mathematischen Logik. Er wurde 1950 bewiesen und besagt, dass die in allen endlichen Modellen allgemeingültigen Sätze der Prädikatenlogik erster Stufe nicht rekursiv aufzählbar sind. Daraus ergeben sich Konsequenzen für die Prädikatenlogik zweiter Stufe.Es sei 
+  
+    
+      
+        
+          S
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle S_{\infty }}
+   die Symbolmenge mit abzählbar unendlich vielen Konstantensymbolen und für jede Stelligkeit abzählbar unendlichen vielen Funktions- und Relationssymbolen. Weiter sei 
+  
+    
+      
+        
+          Φ
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \Phi _{a}}
+   die Menge aller 
+  
+    
+      
+        
+          L
+          
+            I
+          
+          
+            
+              S
+              
+                ∞
+              
+            
+          
+        
+      
+    
+    {\displaystyle L_{I}^{S_{\infty }}}
+  -Sätze der Prädikatenlogik erster Stufe, die in allen endlichen 
+  
+    
+      
+        
+          S
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle S_{\infty }}
+  -Strukturen erfüllt sind. Dann gilt:
+
+  
+    
+      
+        
+          Φ
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \Phi _{a}}
+   ist nicht rekursiv aufzählbar.Kurzfassung: Die im Endlichen allgemeingültigen Sätze erster Stufe sind nicht rekursiv aufzählbar.Weiter sei 
+  
+    
+      
+        
+          Φ
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \Phi _{e}}
+   die Menge aller 
+  
+    
+      
+        
+          L
+          
+            I
+          
+          
+            
+              S
+              
+                ∞
+              
+            
+          
+        
+      
+    
+    {\displaystyle L_{I}^{S_{\infty }}}
+  -Sätze, zu denen es eine 
+  
+    
+      
+        
+          S
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle S_{\infty }}
+  -Struktur gibt, in der sie erfüllt sind. Dann gilt:
+
+  
+    
+      
+        
+          Φ
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \Phi _{e}}
+   ist nicht entscheidbar.Kurzfassung: Die im Endlichen erfüllbaren Sätze erster Stufe sind nicht entscheidbar.Die zweite Formulierung wird auf die Unlösbarkeit des Halteproblems zurückgeführt, in dem man ausnutzt, das sich Turing-Maschinen in endlichen Modellen beschreiben lassen. Daraus ergibt sich dann die zuerst genannte Fassung, denn die im Endlichen allgemeingültigen Sätze sind genau die Negationen der im Endlichen nicht erfüllbaren Sätze.Als Anwendung zeigen wir, wie aus dem Satz von Trachtenbrot die Unvollständigkeit der Prädikatenlogik zweiter Stufe folgt.
+Es sei 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   die Menge der Sätze der Prädikatenlogik zweiter Stufe, die in allen Modellen gültig sind. Dann gilt:
+
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   ist nicht rekursiv aufzählbar.Diesen Sachverhalt nennt man die Unvollständigkeit der Prädikatenlogik zweiter Stufe. Zum Beweis sei 
+  
+    
+      
+        
+          φ
+          
+            e
+            n
+            d
+            l
+          
+        
+      
+    
+    {\displaystyle \varphi _{endl}}
+   ein Satz der Prädikatenlogik zweiter Stufe, der genau in endlichen Modellen gilt, etwa
+
+  
+    
+      
+        
+          φ
+          
+            e
+            n
+            d
+            l
+          
+        
+        =
+        ∀
+        X
+        
+        (
+        (
+        ∀
+        x
+        
+        
+          ∃
+          
+            1
+          
+        
+        y
+        
+        X
+        x
+        y
+        
+        ∧
+        
+        ∀
+        x
+        y
+        z
+        
+        (
+        X
+        x
+        z
+        ∧
+        X
+        y
+        z
+        →
+        x
+        ≡
+        y
+        )
+        )
+        →
+        ∀
+        y
+        
+        ∃
+        x
+        
+        X
+        x
+        y
+        )
+      
+    
+    {\displaystyle \varphi _{endl}=\forall X\,((\forall x\,\exists ^{1}y\,Xxy\,\land \,\forall xyz\,(Xxz\land Xyz\rightarrow x\equiv y))\rightarrow \forall y\,\exists x\,Xxy)}
+  ,d. h. für alle 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   gilt, wenn 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   eine Funktion ist und 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   injektiv ist, dann ist 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   surjektiv. 
+Wäre nun 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   rekursiv aufzählbar, so starte man ein Aufzählungsverfahren und immer dann, wenn dieses eine Aussage der Form 
+  
+    
+      
+        
+          φ
+          
+            e
+            n
+            d
+            l
+          
+        
+        →
+        φ
+      
+    
+    {\displaystyle \varphi _{endl}\rightarrow \varphi }
+   mit einem 
+  
+    
+      
+        
+          L
+          
+            I
+          
+          
+            
+              S
+              
+                ∞
+              
+            
+          
+        
+      
+    
+    {\displaystyle L_{I}^{S_{\infty }}}
+  -Satz 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   der  Prädikatenlogik erster Stufe
+erzeugt, gebe man 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   aus. Auf diese Weise werden alle im Endlichen allgemeingültigen Sätze erster Stufe aufgezählt, was dem Satz von Trachtenbrot widerspricht.
+
+
+== Einzelnachweise ==

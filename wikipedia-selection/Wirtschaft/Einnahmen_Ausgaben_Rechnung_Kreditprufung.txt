@@ -1,0 +1,28 @@
+Die Einnahmen-Ausgaben-Rechnung ist ein wesentlicher Teil der Kreditwürdigkeitsprüfung von Kreditinstituten bei der Prüfung eines Kreditantrags von Privathaushalten.Hierbei werden die nachhaltig erzielbaren Einkünfte den Ausgaben (Pfändungsfreigrenzen) gegenüber gestellt und so ein „freies Einkommen“ („pfändbares Einkommen“) ermittelt. Der Schuldendienst (Kreditzinsen und Tilgung) ist nur dann vom Kreditnehmer tragbar, wenn er niedriger ist als das freie Einkommen. Dazu ermitteln Kreditinstitute bei ihrer Kreditanalyse den Schuldendienstdeckungsgrad.Die Einnahmen-Ausgaben-Rechnung findet insbesondere im Privatkundengeschäft bei Ratenkrediten und Baufinanzierungen Anwendung.
+Auch im Bereich der Finanzierungen von Selbstständigen und Unternehmen werden Einnahmen-Ausgaben-Rechnungen durchgeführt. Da jedoch die (künftigen) Einkommen ungewiss sind, ist hier eine Kreditwürdigkeitsprüfung vorzuziehen.
+Keine Anwendung findet die Einnahmen-Ausgaben-Rechnung bei Lombardkrediten und anderen Krediten, die ausschließlich auf den Wert der Kreditsicherheiten abgestellt sind.Die Einnahmen-Ausgaben-Rechnung ergibt sich wie folgt:
+
+Summe der nachhaltig erzielbaren Einnahmen
+- Summe der Ausgaben
+= Freies Einkommen
+- Schuldendienst
+= Freies Einkommen nach Abzug des Schuldendienstes
+
+Dieses freie Einkommen muss höher sein als der vorgesehene Schuldendienst. Je höher das freie Einkommen nach Abzug des Schuldendienstes ist, umso geringer ist die Ausfallwahrscheinlichkeit beim Kreditrisiko.
+Schwierig ist jedoch, das nachhaltig erzielbare Einkommen sowie die Ausgaben des Kreditnehmers zu ermitteln.Basis der Einnahmen-Ausgaben-Rechnung sind die Angaben in der Selbstauskunft, sonstigen Kreditunterlagen und den Einkommensnachweisen. Die dort nachgewiesenen Einkommen werden von der Bank jedoch nur insofern in die Einnahmen-Ausgaben-Rechnung übernommen, als sie nachhaltig (d. h. mindestens während der Laufzeit des Kredites) erzielbar sind. Hierbei legen die einzelnen Banken unterschiedliche Maßstäbe an. Als nicht nachhaltig erzielbar werden oftmals in Abzug gebracht:
+
+Spesenerstattungen, z. B. Fahrtkosten, da diesen Erstattungen entsprechende Ausgaben der Kreditnehmer gegenüberstehen.
+Trinkgelder,
+Überstundenentgelte (sofern nicht arbeitsvertraglich ein Recht auf Überstunden vereinbart ist),
+Boni und freiwillige Leistungen,
+Schwarzgeldeinnahmen.Ebenfalls bewerten manche Banken Arbeitseinkommen als nicht nachhaltig erzielbar, wenn
+
+der Arbeitsvertrag befristet ist (befristetes Arbeitsverhältnis),
+der Aufenthaltstitel befristet ist.Kindergeld und Sozialleistungen werden teilweise nur befristet gezahlt und werden ggf. als nicht nachhaltig klassifiziert, wenn der Kredit länger läuft als die entsprechenden Leistungen.Während die Einnahmen nachgewiesen werden können, sind Banken bei der Feststellung der Ausgaben auf die Angaben der Kunden und eigene Erfahrungen angewiesen. Es besteht oftmals das Risiko, dass Kreditkunden (gerade bei Ratenkrediten) ihre eigenen Ausgaben unterschätzen und zu hohe Kreditraten zu akzeptieren bereit sind. Um derartige Fehleinschätzungen zu vermeiden, verlangen Kreditinstitute vom Kreditnehmer die Erstellung einer privaten Liquiditätsrechnung.
+Meist gehen Banken daher so vor, dass große und stabile Ausgabenpositionen (Miete, Versicherungsprämien) einzeln in Ansatz gebracht werden und die eigentlichen Lebenshaltungskosten mit Pauschalen abgedeckt werden. Diese Pauschalen orientieren sich in der Praxis an den Sozialhilfesätzen (als Mindestbetrag) oder werden als Prozentsatz des Einkommens ermittelt.Entsprechend der Einnahmen-Ausgaben-Rechnung kann auch das pfändbare Einkommen ermittelt werden:
+
+Summe der nachhaltig erzielbaren Einnahmen
+- Pfändungsfreigrenzen
+= Pfändbares Einkommen
+
+Für den Fall der Kreditkündigung besteht die Möglichkeit, Einkommen in dieser Höhe durch Lohnpfändung zu pfänden. Bereits vorher können sich Kreditinstitute die Zahlung des Nettoeinkommens durch Lohn- und Gehaltsabtretung sichern. Je höher das pfändbare Einkommen ist, umso geringer ist die Ausfallwahrscheinlichkeit für den Kredit.

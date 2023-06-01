@@ -1,0 +1,8 @@
+Das Epicherem (manchmal auch Epicheirem) ist eine Schlussfigur der traditionellen Rhetorik. Formal handelt es sich beim Epicherem um einen Syllogismus, bei dem für jede Prämisse eine ausdrückliche Begründung angegeben wird.
+
+Da beim Epicherem jede Prämisse ausdrücklich begründet wird, kann man jede Prämisse als Stellvertreter für einen eigenen Syllogismus betrachten. Im obigen Beispiel lässt sich die erste Prämisse, „Alle Menschen sind sterblich, weil sie Organe haben, die dem Verschleiß unterliegen“ als verkürzte Darstellung des folgenden eigenständigen Syllogismus auffassen:
+
+Entsprechend lässt sich die zweite Prämisse, „Sokrates ist ein Mensch, weil seine Eltern Menschen sind“, als verkürzende Darstellung des folgenden Syllogismus auffassen:
+
+Entwickelt wurde das Epicherem von Cicero in seinem Werk De inventione, das sich mit der gerichtlichen Rhetorik befasst.
+Als Gegenstück zum Epicherem wird das Enthymem betrachtet, bei dem der zugrunde liegende Syllogismus nicht durch zusätzliche Begründungen rhetorisch angereichert, sondern im Gegenteil durch Weglassen einer Prämisse rhetorisch verkürzt wird.

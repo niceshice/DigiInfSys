@@ -1,0 +1,11 @@
+Diacetonalkohol (DAA) ist eine organische Verbindung und gehört zu den Hydroxyketonen. Der Reinstoff ist eine farblose Flüssigkeit mit leicht süßlichem Geruch.DAA wird aus Aceton hergestellt, indem man unter dem Einfluss basischer Reagenzien je zwei Acetonmoleküle in einer Aldolreaktion dimerisieren lässt.
+
+Im Labor erfolgt die Darstellung oft mittels einer Soxhlet-Hülse über Calciumhydroxid. Diacetonalkohol bildet sich stets aus Aceton bei der Chromatographie auf Aluminiumoxid.Er wird als Lösungsmittel z. B. für Natur- und Kunstharzlacke sowie für Farbstoffe verwendet. Als Lösemittel ist es nicht sonderlich langzeitstabil, wenn der typisch süßliche Geruch allmählich von einer dumpf riechenden Komponente (Mesityloxid) überdeckt wird.
+
+Diacetonalkohol ist Vorstufe für die Mesityloxid- und Methylisobutylketon-Produktion.Es sind einige Komplexe bekannt, die DAA als Liganden enthalten, z. B. die polymeren Komplexe
+
+[CoCl2DAA]n,
+[FeCl2DAA]n,
+[ZnCl2DAA] oder auch
+[MnBr2(DAA)2] und
+[Mn(DAA)3] 2+[MnI4]2− · DAA

@@ -1,0 +1,49 @@
+Das Logical (engl. „logisch“) oder deutsch Logikrätsel ist eine Logikrätselgattung, deren Rätsel mittels Deduktion, einer Form des logischen Schlussfolgerns, gelöst werden. Ihre Angabe besteht aus einer Beschreibung, in der Gruppen mit gleich vielen Elementen vorgegeben werden, sowie einer Reihe von Hinweisen, die direkt oder indirekt Aussagen darüber enthalten, welche Elemente miteinander verbunden sind und welche nicht. Die Aufgabe des Rätslers ist es, jedem Element einer Gruppe widerspruchsfrei genau ein Element jeder anderen Gruppe zuzuordnen. Die Lösung des Rätsels kann in einer Tabelle dargestellt werden, in der die zusammengehörigen Elemente zeilen- oder spaltenweise aufgelistet werden. Logicals lassen sich systematisch mit Lösungsschemata lösen, in denen durch Abhaken zusammengehörige Elemente logisch und grafisch ermittelt werden können.Beschreibung:
+
+Andreas, Brunhilde, Cornelia und Daniel essen heute ihre Leibspeise; Jeder mag ein anderes Gericht: Zur Auswahl stehen Kartoffelsuppe, Labskaus, Maultaschen und Nudelauflauf; Wer bevorzugt welches Essen?Hinweise:
+
+Brunhilde mag keinen Nudelauflauf und Cornelia hasst Maultaschen
+Andreas hat eine Schwäche für Labskaus.
+Die Anfangsbuchstaben der Lieblingsgerichte von Cornelia und Daniel folgen im Alphabet unmittelbar aufeinanderLösungsschema:
+X = gehört zusammen, – = gehört nicht zusammen
+1. Hinweis:
+
+2. Hinweis: Da Andreas Labskaus isst und jede Leibspeise nur einer Person zugeordnet ist, fällt die Option "Labskaus" für die anderen Personen weg:
+
+3. Hinweis : Da die Anfangsbuchstaben der Lieblingsgerichte von Cornelia und Daniel im Alphabet zusammenstehen, kann keiner von ihnen Kartoffelsuppe (K) bevorzugen, denn (L) Labskaus ist schon an Andreas vergeben.
+
+Damit bleiben für Cornelia nur Nudelauflauf und für Daniel nur Maultaschen als Leibspeise übrig;
+
+Lösung: Für Brunhilde bleibt dann nur noch Kartoffelsuppe:Dieses Beispiel ist folgendes Rätsel von Johannes Susen: Gut Holz! In: Deutsche Rätselverlag GmbH (Hrsg.): LOGICALS. Nr. 33. Deutscher Rätselverlag, Ismaning 2016, S. 3. 
+Beschreibung:
+
+Vier Freunde sind Mitglieder in einem Kegelklub. Der Vorsitzende des Klubs möchte aufgrund ihrer Angaben ihre Vor- und Nachnamen, das jeweilige Alter sowie die gefallenen Kegel des letzten Wurfs herausfinden. Ist ihm das möglich?Hinweise:
+
+Herr Hausmann ist ein Jahr älter als Nick und ein Jahr jünger als der Mann, der alle Kegel abräumte.
+Bastian räumte einen Kegel mehr ab als Herr Bergmann und einen Kegel weniger als der 29-Jährige.
+Tobias ist nicht 32 Jahre alt.
+Bei Jannis' Wurf fielen nicht neun Kegel um.
+Tobias' Nachname lautet nicht Kolbe.Lösungsschema:
+X = gehört zusammen, – = gehört nicht zusammen
+
+3., 4. und 5. Hinweis:
+
+1. Hinweis: Herr Hausmann, Nick und der, der alle Kegel abräumte, sind drei verschiedene Personen.
+
+1. Hinweis: Da der, der alle Kegel abräumte, zwei Jahre älter als Nick ist, kann Nick weder der älteste noch der zweitälteste sein. Außerdem kann der, der alle Kegel abräumte, weder der jüngste noch der zweitjüngste sein. Bei Herrn Hausmann verhält es sich ähnlich mit den beiden anderen Herren, wodurch er weder der älteste noch der jüngste sein kann.
+
+2. Hinweis: Ähnlich wie im ersten Hinweis mit dem Alter verhält es sich im zweiten Hinweis mit den Punkten.
+
+9 Punkte kann nur Tobias geworfen haben. Alles was für Tobias gilt, gilt aufgrund der eindeutigen Zuordnung jetzt auch für den, der 9 Punkte warf und umgekehrt. Dasselbe gilt für die Zuordnung 29 Jahre / 8 Punkte.
+
+Es sind wieder eindeutige Zuordnungen möglich. Was bei einer eindeutigen Zuordnung für das eine gilt, muss auch für das andere gelten und umgekehrt.
+
+Lösung:
+
+Kontrolle:
+
+Herr Hausmann ist tatsächlich ein Jahr älter als Nick und ein Jahr jünger als der, der alle Kegel abräumte.
+Bastian räumte tatsächlich einen Kegel mehr ab als Herr Bergmann und einen Kegel weniger als der 29-Jährige.
+Tobias ist tatsächlich nicht 32 Jahre alt.
+Bei Jannis' Wurf fielen tatsächlich nicht neun Kegel um.
+Tobias' Nachname lautet tatsächlich nicht Kolbe.

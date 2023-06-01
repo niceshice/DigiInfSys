@@ -1,0 +1,38 @@
+Apache Tapestry ist ein Open-Source-Framework für die Programmiersprache Java, mit dem Webanwendungen erstellt werden können. Es ist kein eigenständiger Server, sondern läuft im Kontext eines Servlet-Containers wie dem Web-Server Tomcat. Tapestry ist seit 2006 ein Toplevel-Projekt der Apache Software Foundation.Tapestry-Anwendungen bestehen aus Seiten, wobei eine Seite aus wiederverwendbaren und konfigurierbaren Komponenten besteht. Komponenten wiederum können durch sogenannte Mixins erweitert werden.
+In Tapestry besteht eine Seite aus zwei Bestandteilen: Eine XML-Vorlage (.tml) und eine Javaklasse (.java). Innerhalb der XML-Vorlage können sowohl HTML-Tags als auch spezifische Tapestry-Tags für den dynamischen Inhalt verwendet werden. Diese Tapestry-Tags werden über den im Wurzelelement spezifizierten Namespace eingebunden. Die Javaklasse wird zur Verarbeitung von Ereignissen wie zum Beispiel den Klick auf einen Tapestry-Link oder das Absenden eines Formulars eingesetzt.
+Die jeweils aufzurufenden Methoden können entweder über ein vorgegebenes Namensschema oder über eine Annotation festgelegt werden. Die beiden im Folgenden aufgeführten Methoden würden so beispielsweise auf das Auslösen des Links mit der ID MyLink reagieren.
+
+Mit seiner komponentenbasierten Architektur, der Trennung von Darstellung (HTML, XML) und Code ähnelt Tapestry konzeptuell WebObjects, ohne mit diesem kompatibel zu sein. Zusammen mit Apache Cayenne eingesetzt ist es durchaus als freier WebObjects-Ersatz verwendbar. Der Wechsel von einem Framework zum anderen sollte für mit einem der beiden Frameworks erfahrenen Entwickler aufgrund der Ähnlichkeiten reibungslos vonstattengehen.Live Class Reloading
+Tapestry überwacht im Entwicklungsmodus alle Dateien und übernimmt Änderungen an Seiten, Komponenten, Service-Implementierungen sowie HTML Templates und Properties Dateien automatisch. Dadurch lässt sich die Produktivität von Entwicklern deutlich steigern, da die Anwendung nicht nach jeder Änderung neugestartet werden muss.
+Komponenten-basiert
+Einzelne Seiten lassen sich in Tapestry aus kleinen, wiederverwendbaren Komponenten bauen. Jede Komponente hat dabei ihre eigene Java-Klasse und ihr eigenes Template. Tapestry lässt sich dabei leicht durch eigenen Komponenten erweitern.
+Konvention vor Konfiguration
+Tapestry nutzt, anstatt XML-Dateien, Namenskonventionen und Annotations, um eine Anwendung zu konfigurieren.
+Geringer Einsatz der HttpSession
+Tapestry verzichtet weitestgehend auf den Einsatz der HttpSession um auch im Clusterbetrieb möglichst effizient zu sein.
+Post/Redirect/Get
+Formulare in Tapestry folgen dem Post/Redirect/Get-Prinzip. Damit wird verhindert, dass Benutzer ein Formular aus Versehen mehrfach absenden. Darüber hinaus funktionieren die Vor- und Zurück-Button im Browser wie gewohnt und Urls lassen sich problemlos speichern.
+Inversion of Control (IOC)
+Tapestry basiert auf seinem eigenen Inversion of Control Framework, ähnlich Google Guice. Es wurde jedoch mit dem Ziel entwickelt, alle Teile einer Anwendung ersetzbar und konfigurierbar zu machen und kann auch außerhalb von Webanwendungen verwendet werden. Tapestry IoC kann gegebenenfalls auch durch Spring IoC ersetzt werden.Tapestry ist dazu gedacht, die Entwicklung von Java-Web-Anwendungen zu vereinfachen. Das Framework wurde so entworfen, dass es einfacher möglich ist, robuste Anwendungen zu erzeugen, die wiederum einfacher zu installieren, zu debuggen und zu warten sind als herkömmliche Servlet-Anwendungen. Es nimmt dem Entwickler die Sorgen über Multithreading ab. Durch die klare Trennung von HTML- und Anwendungscode können Java- und HTML-Entwickler gemeinsam an einem Projekt arbeiten. Tapestry unterstützt darüber hinaus die Internationalisierung von Anwendungen sowie die Validierung von Benutzereingaben und bietet eine Reihe von vorgefertigten GUI-Komponenten wie Kalender, sortierbare Tabellen und Bäume. Der Funktionsumfang kann über das Erstellen eigener Komponenten erweitert werden.
+Ein weiterer Vorteil von Tapestry ist die Tatsache, dass Java-Klassen zu Webseiten gewöhnlich einfache POJOs sind. Es ist also nicht nötig, von Superklassen zu erben oder vorgeschriebene Interfaces zu implementieren. Dafür werden Annotations verwendet, mit denen die Vererbung indirekt hergestellt wird. Ohne projektfremde Imports kommt auch Tapestry nicht aus.In Tapestry bis zur Version 4 findet die Übertragung von Daten mit Hilfe eines Formulars in drei Schritten statt: Im ersten Schritt wird die HTML-Seite mit dem Formular gerendert. Der Nutzer editiert im zweiten Schritt die Eingabefelder des Formulars und startet schließlich die dritte Phase, indem er die Submit-Schaltfläche betätigt.
+Der Vorgang hat zwei Request-Zyklen zur Folge. Im ersten Zyklus wird die HTML-Seite angefordert und das Formular wird in diesem Zyklus gerendert. Der zweite Request-Zyklus wird beim Betätigen der Submit-Schaltfläche angestoßen.
+In diesem Zyklus muss Tapestry die folgenden Aktionen ausführen:
+
+die Werte aus den Eingabefeldern sind zu extrahieren
+diese Werte sind manchmal zu konvertieren (String in Integer)
+die konvertierten Werte sind den richtigen Page/Componenten-Properties zuzuweisenDa in Tapestry die Zuordnung der Properties zu den Eingabefeldern während des Rendering erfolgt, nutzt Tapestry eine ungewöhnliche Herangehensweise: Es ermittelt genau diese Beziehungen, indem die Seite erneut gerendert wird. Diese Phase wird auch Rewind-Phase genannt.
+In dieser Phase wird jede Komponente in der Form in der gleichen Reihenfolge besucht, wie es beim initialen Rendern geschieht und es werden die oben beschriebenen Aktionen ausgeführt. Im Unterschied zum initialen Rendervorgang wird die Listener-Methode der Submit-Form nur in der Rewinding-Phase aufgerufen.
+In Tapestry 5 wurde der fragile Rewind Mechanismus durch generierte Hidden Fields abgelöst, diese beinhalten nun die Information die für die Submit Verarbeitung notwendig sind.Im Folgenden ist eine einfache Tapestry-Webseite aufgeführt. Innerhalb dieser Seite wird ein globales Layout (t:layout) verwendet. Dieses hat den Parameter title. Um die Internationalisierung der Seite zu gewährleisten, wird in der Seitenbeschreibung nicht explizit der gewünschte Titel, sondern  ein Key für die jeweilige Übersetzungsdatei angegeben. Je nach gewählter Sprache wird die Variable ${message:title} nun durch einen beliebigen Text ersetzt. Dieser wird in der zur Seite gehörigen properties-Datei festgelegt.
+Darüber hinaus wird hier ein einfacher Tapestry-Pagelink auf die Index-Seite eingesetzt.
+Die eigentliche Webseite About.tml
+
+Die zugehörige Java-Klasse sieht wie folgt aus:
+
+Deutsche Properties Datei:
+
+Englische Properties Datei:Mehrfach verwendeter Code kann in einzelne Komponenten ausgegliedert werden. Diese bestehen normalerweise wie eine gewöhnliche Webseite aus einer Java-Klasse, einer TML-Datei und den zugehörigen Übersetzungen.
+Die hier aufgeführte Komponente enthält einen Parameter und erstellt für diesen einen Link mit zugehörigen Text.
+
+Die zugehörige Java-Klasse:
+
+Einsatz der Komponente:

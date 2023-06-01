@@ -1,0 +1,72 @@
+Beleihungsauslauf ist ein Begriff aus dem Kreditgeschäft der Kreditinstitute, nämlich der Quotient aus dem Darlehensbetrag und dem Beleihungswert einer Kreditsicherheit. Er soll das Beleihungsrisiko eines bestimmten Kredits darstellen.Der Beleihungsauslauf steht im Rahmen der Sicherheitenbewertung bei der Beleihung von Kreditsicherheiten in rechnerischem Zusammenhang mit dem Beleihungswert und der Beleihungsgrenze. Während der – am Verkehrs- oder Marktwert orientierte – Beleihungswert die theoretisch maximale Beleihbarkeit einer Kreditsicherheit repräsentiert, wird mit dem Beleihungsauslauf das gesamte Kreditrisiko im Vergleich zur beliehenen Kreditsicherheit dargestellt. Bei der Beleihung von Immobilien repräsentiert der Beleihungsauslauf das Verhältnis aller Fremdfinanzierungsmittel (auch der als Vorlasten zu Gunsten anderer Gläubiger eingetragenen Grundpfandrechte) zum Beleihungswert des beliehenen Objektes.
+Der Beleihungsauslauf wird in Prozent des Beleihungswerts angegeben. Je niedriger der errechnete Prozentwert ausfällt, desto geringer ist für den Kreditgeber das Verlustrisiko, das nach einem potenziellen Ausfall des Kreditnehmers durch die Verwertung des Sicherungsgegenstands entsteht. Orientierungsgröße für den Beleihungsauslauf ist die prozentuale Beleihungsgrenze, die für eine bestimmte Sicherheitenart festgelegt wurde. Eine Kreditgewährung ist im Regelfall von ihrer absoluten Höhe nur gerechtfertigt, wenn der Beleihungsauslauf nicht höher liegt als die Beleihungsgrenze.Eine Bank gewährt dem Eigentümer einer Wohnimmobilie ein Darlehen über EUR 17 Mio. Der Verkehrswert dieser als Kreditsicherheit dienenden Immobilie beläuft sich auf EUR 22 Mio., während die Bank den Beleihungswert auf EUR 20 Mio. festgelegt hat. Dann beträgt der (anfängliche) Beleihungsauslauf für dieses Darlehen 85 % des Beleihungswerts. Dies ist ein relativ hohes Kreditrisiko aus Sicht der Bank, weil die Beleihungsgrenze für wohnlich genutzte Gebäude bei Banken meist bei 80 % des Beleihungswertes liegt (beim Realkredit sogar nur bei 60 %). Der Beleihungsauslauf von 85 % signalisiert nun, dass das Risiko um 5 Prozentpunkte bzw. gar 6,25 % (relativ) über der bankinternen Beleihungsgrenze liegt. Durch spätere Tilgungen sinkt dann der anfängliche Beleihungsauslauf, weil sie – bei konstant bleibendem Beleihungswert – das Beleihungsrisiko mindern.
+Ist im Beispiel das Wohngebäude bereits mit einer erstrangigen Grundschuld in Höhe von EUR 1 Mio. zugunsten einer anderen Bank belastet, würde sich der Beleihungsauslauf nach folgender Formel auf 90 % verschlechtern:
+
+  
+    
+      
+        
+          Beleihungsauslauf
+        
+        =
+        
+          
+            
+              
+                kapitalisierbare Vorlasten
+              
+              +
+              
+                eigenes Darlehen
+              
+            
+            Beleihungswert
+          
+        
+      
+    
+    {\displaystyle {\text{Beleihungsauslauf}}={\frac {{\text{kapitalisierbare Vorlasten}}+{\text{eigenes Darlehen}}}{\text{Beleihungswert}}}}
+  Der Grund für das noch höher eingeschätzte Beleihungsrisiko liegt darin, dass im Falle einer Zwangsversteigerung der Immobilie die nachrangige Bank als betreibender Gläubiger fungieren müsste und dadurch der vorrangig abgesicherten Bank bei der Verteilung der Verwertungserlöse vorab die erste Million zusteht. Erst dann wird der Rest der Erlöse der nachrangigen Bank übertragen. Dieses Verteilungsrisiko zugunsten vorrangig abgesicherter Gläubiger ist im Beleihungsauslauf zu berücksichtigen, um das gesamte Beleihungsrisiko darzustellen.Die seit Januar 2014 geltende Kapitaladäquanzverordnung (englische Abkürzung CRR) stellt einen reziproken Beleihungsauslauf vor. Für die Ausfallverlustquote (LGD) gelten im IRB-Basisansatz die von der Bankenaufsicht vorgegebenen Werte. Kredite, welche die Mindestanforderungen erfüllen und bei denen das Verhältnis vom Wert (= Beleihungswert) der Sicherheiten 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   zum Nominalbetrag des Kredits 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   unter die Schwelle von 30 % (= reziproker Beleihungsauslauf 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  ) fällt, wird der LGD für unbesicherte Kredite bzw. bei nicht-anerkennungsfähigen Sicherheiten in Höhe von 50 % zugeordnet, weil die Verwertungskosten die Verwertungserlöse übersteigen könnten. Kredite, bei denen das Verhältnis vom Wert der Sicherheiten zum Nominalbetrag des Kredits zwischen 30 % und 140 % liegt, wird eine LGD von 50 % zugewiesen. Kredite, bei denen das Verhältnis vom Wert der Sicherheiten zum Nominalbetrag des Kredits 140 % übersteigt, erhalten eine LGD in Höhe von 40 %.Es gilt mithin:
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            C
+            E
+          
+        
+      
+    
+    {\displaystyle {\text{B}}={\frac {\text{C}}{\text{E}}}}
+  Für Gewerbe- und Wohnimmobilien gelten abweichende Regelungen. Wohnimmobilien erhalten im Mengengeschäft einen LGD von 10 % und Gewerbeimmobilien von 15 % (Art. 164 Abs. 4 CRR). Vorrangigen Blankokrediten wird ein LGD von 45 % (Art. 161 Abs. 1a CRR), nachrangigen Blankokrediten von 75 % (Art. 161 Abs. 1b CRR) zugewiesen, die Laufzeit wird einheitlich mit 2,5 Jahren unterstellt (Art. 162 Abs. 1 CRR).
+Nach § 14 Pfandbriefgesetz können von Pfandbriefbanken als Deckung für Hypothekenpfandbriefe nur Immobilienfinanzierungen innerhalb der erstrangigen 60 % des ermittelten Beleihungswertes einer Immobilie genutzt werden (Realkredit-Beleihungsgrenze). Diese Grenze gilt unabhängig davon, ob es sich um ein wohnwirtschaftlich oder gewerblich genutztes Beleihungsobjekt handelt. Kredite mit einem Beleihungsauslauf von mehr als 60 % können zwar in die Deckungsmasse für Pfandbriefe aufgenommen werden, für die Deckungsrechnung wird aber lediglich der erstrangige Teil bis zur 60-Prozent-Grenze berücksichtigt, da im Insolvenzfall der Pfandbriefbank das Vorrecht der Pfandbriefgläubiger auf die Darlehen innerhalb der erstrangigen 60-Prozent-Grenze begrenzt ist. Die Pfandbriefbanken sind verpflichtet, für die Deckungsmasse ihrer Hypothekenpfandbriefe den durchschnittlichen Beleihungsauslauf regelmäßig zu ermitteln und zu melden.Auch für kleine Versicherungsunternehmen (unter dem Regime Solvabilität I) und Pensionskassen in Deutschland gilt bei Hypotheken und Grundschulden grundsätzlich die Beleihungsgrenze von 60 %.Ein Kredit, dessen Beleihungsauslauf sich innerhalb der Beleihungsgrenze befindet, kann wegen des – aus der Kreditsicherheit resultierenden – durchschnittlichen Kreditrisikos zu Normalkonditionen vergeben werden. Günstigere Konditionen gibt es bei Krediten gegen risikolose Sicherheiten (Verpfändung von Bankguthaben oder Staatsanleihen mit hoher Bonität). Dagegen ist ein Kredit mit einem Beleihungsauslauf von 100 % teurer, weil bei Immobilien beispielsweise das Eigenkapital fehlt und das Kreditrisiko der Bank höher ist.Die im englischen Sprachraum übliche Bezeichnung Loan-To-Value Ratio (LTV) berücksichtigt nur das Verhältnis des Kreditbetrages zum Verkehrs- oder Marktwert eines Objektes. Der Beleihungswert heißt im englischsprachigen Bankbereich loan-to-value cap.

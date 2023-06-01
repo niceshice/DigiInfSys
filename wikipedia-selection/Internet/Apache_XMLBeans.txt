@@ -1,0 +1,22 @@
+XMLBeans ist ein Softwarepaket für Java, das es ermöglicht, Daten aus einem XML-Schema heraus automatisch an Java-Klassen zu binden. Diesen Vorgang nennt man XML-Datenbindung. Dies ermöglicht ein Arbeiten mit XML-Dokumenten, ohne dass der Programmierer Schnittstellen zur Verarbeitung von XML wie SAX oder DOM verwenden muss. XMLBeans ist ein Teil des Apache XML-Projekts.Apache XMLBeans verwendet eine XML-Schema-Definition, um Java-Klassen und -Schnittstellen zu generieren. Falls das XML-Schema nicht vorhanden sein sollte, kann Apache XMLBeans ein Schema basierend auf einem XML-Dokument erzeugen.
+Die von Apache XMLBeans generierten Java-Klassen und -Schnittstellen können – wie bei den JavaBeans geläufig – mittels Getter- und Setter-Methoden bearbeitet werden. Darüber hinaus kann von Java aus auch auf den Rest der XML-Informationen wie die Reihenfolge der Elemente im XML-Dokument zugegriffen werden. XMLBeans beherrscht dabei alle Fähigkeiten von XML-Schemas.
+Apache XMLBeans bietet neben den Entwicklungswerkzeugen zum Generieren von XML-Dokumenten und Java-Klassen folgende drei Programmierschnittstellen:
+
+XmlObject
+Die aus dem XML-Schema generierten Java-Klassen sind von XmlObject abgeleitet. Sie enthalten streng typisierte Getter- und Setter-Methoden für alle im XML-Dokument definierten Elemente. Komplexe XML-Typen sind Referenzen auf andere XmlObjekte. XmlObject selbst bietet Methoden, um das Objekt (inklusive seiner Referenzen) zu validieren, zu durchsuchen oder in ein XML zu verwandeln.
+XmlCursor
+Repräsentiert eine Position im XML-Dokument und bietet die Möglichkeit, auf das XML-Infoset zuzugreifen. Mit Hilfe des XmlCursors ist es etwa möglich, XQuery und XPath auf das XML-Dokument anzuwenden, das XML-Dokument selbst durch Einfügen, Verschieben, Kopieren oder Löschen von XML-Elementen zu verändern oder auf ganze Container-Elemente, Attribute, Processing Instructions oder Kommentare zuzugreifen.
+SchemaType
+Repräsentiert das hinter den XmlObjects liegende XML-Schema als Objekt. Damit lassen sich beispielsweise XML-Dokumente erzeugen oder die Reihenfolge der Elemente auslesen.Das folgende Beispiel basiert auf einer XML-Schema-Definition für die Beschreibung eines Landes:
+
+Aus diesem Schema können jetzt mit den XMLBeans-Werkzeugen scomp (Schema Compiler) oder xmlbeans (ein Ant-Task) Java-Klassen erzeugt werden, welche XML-Daten, die dem gegebenen Schema entsprechen, erzeugen und manipulieren können. Der folgende Java-Code zeigt, wie damit ein XML-Dokument erzeugt und validiert werden kann:
+
+Die aus dem XML-Schema generierten Klassen Country und Iso können auch mittels org.apache.xmlbeans.XmlBeans.compileXsd dynamisch zur Laufzeit erzeugt werden.Apache XMLBeans wurde 2003 unter dem Namen XMLBeans von David Bau gegründet, als dieser für BEA Systems arbeitete. Es basierte auf XMLMaps, dem früheren XML-Binding-Framework des BEA WebLogic-Servers. XMLBeans war ursprünglich ein proprietärer Bestandteil des Frameworks „BEA WebLogic Workshop“. Am 27. Januar 2003 wurde es erstmals als Vorschauversion vorgestellt. Am 24. September desselben Jahres spendete BEA XMLBeans der Apache Software Foundation, wo es als Apache Incubator-Projekt angenommen wurde.
+Am 23. April 2004 wurde die Version 1.0.2 als erste Version bei Apache fertiggestellt. Am 25. Juni desselben Jahres wurde XMLBeans ein Apache Top-Level-Projekt. Am 30. Juni wurde die Version 2.0 veröffentlicht. Sie enthielt unter anderem folgende Verbesserungen: Verbesserte Integration von XQuery und XPath, Unterstützung von DOM Level 2, verbesserte Fehlerbehandlung, Möglichkeiten, die generierten XMLBeans zu erweitern, Performanceverbesserungen, Unterstützung der mit Java 5 veröffentlichten Generics, Generierung von XML-Dokumenten aus XML-Schemas und umgekehrt.Die aktuelle Version ist Apache XMLBeans 2.6 vom 14. August 2012. Sie brachte unter anderem einfaches Mappen von simplen Typen auf beliebige Java-Klassen sowie viele kleine Erweiterungen und Fehlerbehebungen.Am 23. Mai 2014 wurde die Weiterentwicklung eingestellt.Die folgenden Frameworks für das XML-Binding in Java können als Alternative zu Apache XMLBeans verwendet werden:
+
+Java Architecture for XML Binding (JAXB)
+Castor (Framework)
+JiBX
+CookXML
+XStream
+Apache Commons Betwixt

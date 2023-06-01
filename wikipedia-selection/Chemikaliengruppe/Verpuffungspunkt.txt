@@ -1,0 +1,12 @@
+Der Verpuffungspunkt ist eine empirische, sicherheitstechnische Kenngröße zur Charakterisierung von Explosivstoffen. Er entspricht der Temperatur, bei der eine kleine Sprengstoffprobe durch ein äußerliches Erhitzen im Prüfglas eine Entflammung, Verpuffung oder Explosion zeigt. Die Vergleichbarkeit der Kenngröße für verschiedene Stoffe wird durch eine definierte Prüfmethode gewährleistet. Hierzu wird eine Probe des zu prüfenden Stoffes von 0,5 g (bei potentiellen Initialsprengstoffen von 0,01 g) in einem Prüfglas, welches 2 cm tief in ein Heizbad taucht, beginnend bei 100 °C mit einer Heizrate von 20 K·min−1 aufgeheizt. Diese Prüfvorschrift ist auch in den Eisenbahnverkehrsverordnungen festgelegt.
+Beispiele:
+
+Diazodinitrophenol  180–200 °C
+Hexamethylentriperoxiddiamin   200 °C
+Kupfer(II)-azid   203–205 °C
+Tetryl   230 °C
+Bleistyphnat   275 °C
+Bleiazid   340 °C
+
+
+== Einzelnachweise ==

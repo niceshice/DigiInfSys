@@ -1,0 +1,84 @@
+Das Kallmann-Syndrom (KS) ist eine angeborene Erkrankung mit einer Kombination von Entwicklungsstörung der Keimdrüsen (Gonaden) und vermindertem bis fehlendem Geruchssinn (Anosmie). Die Störung der Hoden- bzw. Eierstockfunktion ist bedingt durch einen Mangel an Gonadoliberin (Gonadotropin-Releasing-Hormon, GnRH) mit der Folge eines hypogonadotropen Hypogonadismus. Die Störung der Riechfunktion ist verursacht durch eine Hypo- oder Aplasie der Riechkolben.Synonyme sind: Olfaktogenitales Syndrom; de Morsier-Sy; Síndrome de Maestre-Kallman-Morsier
+Benannt ist das Syndrom nach dem Psychiater Franz Josef Kallmann.Die weitere Namensbezeichnung bezieht sich auf den schweizerischen Neurologen Georges de Morsier.Die erste Erwähnung fand das Syndrom im Jahre 1856 in einer Veröffentlichung von Aureliano Maestre de San Juan (1828–1890). In spanischsprachigen Teilen der Welt ist das Syndrom immer noch nach diesem benannt.Die Prävalenz wird auf 1/8.000 bzw. 1 zu 10.000 im männlichen oder 1 zu 86.000 und 1/40.000 im weiblichen Geschlecht geschätzt.
+Das Kallmann-Syndrom ist bei Männern (1:10.000) häufiger als bei Frauen (1:50.000).Die meisten Fälle sind sporadisch, jedoch wurden auch familiäre Formen beschrieben.
+Ferner kann es im Rahmen von Syndromen vorkommen:
+
+Brachytelephalangie – Dysmorphien – Kallmann-Syndrom
+Kallmann-Syndrom – KardiopathieUrsächlich für das Kallmann-Syndrom sind Mutationen, die Proteine betreffen, welche bei der Entwicklung des Bulbus olfactorius und bestimmter Kerngebiete des Hypothalamus eine entscheidende Rolle spielen. Bleibt die pulsatile Sekretion von GnRH aus, kommt es nicht zur Ausschüttung von LH und FSH.
+Dadurch kommt es in der Pubertät nicht zur Produktion von Sexualhormonen in den Gonaden, ebenfalls bleibt die Reifung der Keimdrüsen (ohne Substitution mit Gonadotropinen) aus.
+Je nach Vererbungsgang und zugrundeliegender Mutation kann unterschieden werden zwischen:
+
+Typ 1, x-chromosomal-rezessiv, Mutationen im KAL1-Gen an Genort p22.31, welches für das Protein Anosmin-1 (ein 95 kD Glykoprotein)  kodiert, das eine Schlüsselrolle bei der Wanderung von GnRH-Neuronen und olfaktorischen Neuronen spielt.
+Typ 2, autosomal-dominant, häufigere Form, Mutationen im FGFR1-Gen im Chromosom 8 an p11.23, Funktionsverlust des Fibroblasten-Wachstumsfaktors, meist Haploinsuffizienz
+Typ 3, autosomal-dominant, Mutationen im PROKR2-Gen im Chromosom 20 an p12.3 im Prokineticin Rezeptor
+Typ 4, autosomal-dominant, Mutationen im PROK2-Gen im Chromosom 3 an p13 im Ligand für den Prokineticin Rezeptor
+Typ 5, autosomal-dominant, Mutationen im CHD7-Gen im Chromosom 8 an q12.2
+Typ 6, autosomal-dominant, Mutationen im FGF8-Gen im Chromosom 10 an q24.32. Möglicherweise verstärken FGF Signale die Wirkung von Anosmin-1 auf einer sehr frühen Stufe der Entwicklung des Bulbus olfactorius
+Typ 7, autosomal-rezessiv, Mutationen im GNRHR-Gen im Chromosom 4 an q13.2
+Typ 8, autosomal-rezessiv, Mutationen im KISS1R-Gen im Chromosom 19 an p13.3
+Typ 12, autosomal-rezessiv, Mutationen im GNRH1-Gen im Chromosom 8 an p21.2
+Typ 23, autosomal-rezessiv, Mutationen im LHB-Gen im Chromosom 19 an p13.33Ob evtl. weitere Gene an der Genese des KS beteiligt sind, ist noch nicht geklärt.Klinische Kriterien sind (unbehandelt):
+Gonadotropinmangel aufgrund Mangels an hypothalamischem GnRH
+symptomlos bei Kindern vor der Pubertät
+beim männlichen Geschlecht kleine Hoden, eventuell Kryptorchismus (mit erhöhtem Risiko maligner Erkrankungen), spärliche sekundäre Geschlechtsmerkmale (Stimmbruch, Körperbehaarung, Bartwuchs), ausbleibende oder verzögerte Pubertät und eunuchoide Körperproportionen bei spät begonnener Substitution
+beim weiblichen Geschlecht geringe Entwicklung östrogen bedingter sekundärer Geschlechtsmerkmale, primäre Amenorrhoe
+Unfruchtbarkeit
+Hyp- bis Anosmie, oft das einzige beobachtbare Symptom, kann zu subjektiv peinlichen und manchmal gefährlichen Situationen (Brände, Lebensmittelvergiftung) führen
+normale geistige Entwicklung und Intelligenz
+normale Lebenserwartung.Bei Typ 1 und Typ 2 können weitere Anomalien vorliegen wie:
+Hypodontie bis Fehlen der Zahnanlagen (bei Typ 2)
+Lippen-Kiefer-Gaumenspalte (bei Typ 2)
+kraniofaziale Asymmetrie (Abweichungen von der normalen Symmetrie des Gesichtsschädels)
+Corpus-callosum-Agenesie
+Nierenagenesie (bei Typ 1, etwa in 30 %)
+Schallempfindungsstörung (selten)
+Zerebellare Ataxie, Synkinesien (gleichartige Bewegung der Hände) (selten)
+Contiguous gene syndrome (Mikrodeletion) (bei Typ 1)Im Krankheitsverlauf können weitere (sekundäre) Symptome auftreten wie:
+
+Anämie (häufig)
+Osteoporose, insbesondere bei zu später Substitution, verstärkt durch größere Ermüdbarkeit und dadurch mangelhafte sportliche Betätigung
+Gynäkomastie (selten)Die klinische Diagnose erfolgt bei spät einsetzenden oder wenig offensichtlichen Symptomen oft verzögert, mitunter erst in der dritten Lebensdekade. Im Zentrum der Diagnose steht die olfaktorische und endokrinologische Symptomatik. Ein Kryptorchismus oder ein Leistenhoden kann ebenso wie eine verzögerte oder fehlende Pubertät (Pubertas tarda) erster Hinweis sein.
+In der Blutuntersuchung finden sich verminderte oder niedrig-normale Serumspiegel von LH und FSH und vorpubertäre der Geschlechtshormone.
+Mit medizinischer Bildgebung kann im Röntgenbild das verzögerte Skelettalter, in der Magnetresonanztomographie der fehlende Bulbus olfactorius nachgewiesen werden.
+Nachweis der Mutation und der normalen Geschlechtschromosomen in der humangenetischen Untersuchung, ebenso wie Humangenetische Beratung auf Wunsch des Betroffenen.
+Eine Riechprüfung (Olfaktometrie) ist erst ab einem Alter von etwa fünf Jahren durchführbar.Abzugrenzen sind andere Ursachen eines Hypogonadismus, der Isolierte kongenitale Gonadotropin-Mangel (ohne Riechstörung) und das CHARGE-Syndrom.Ferner:
+Amenorrhoe anderer Ursache
+Börjeson-Forssman-Lehmann-Syndrom
+Empty-Sella-Syndrom
+Erektile Dysfunktion
+Histiozytose X
+Hypophyseninsuffizienz bei Mutationen in Transkriptionsfaktoren (PROP-1, Pou1f1 (Pit-1), Hesx 1, Lhx 3, Lhx 4, Sox 2, Sox 3
+Hypophysitis
+isolierter FSH-Mangel
+isolierter LH-Mangel
+Klinefelter-Syndrom
+Konstitutionelle Entwicklungsverzögerung
+Laurence-Moon-Biedl-Bardet-Syndrom
+LEOPARD-Syndrom
+Lowe-Syndrom
+Martsolf-Syndrom
+Polyzystisches Ovar-Syndrom
+Prader-Willi-Syndrom
+Rothmund-Thomson-Syndrom
+Sertoli-cell-only-Syndrom
+Störungen des FSH
+Turner-Syndrom
+UnfruchtbarkeitDie wichtigsten Punkte bei der Therapie des KS sind Hormonsubstitution und Prophylaxe der Osteoporose.
+Obwohl beim KS eigentlich die normale pulsatile Ausschüttung von GnRH und damit FSH und LH defekt ist, substituiert man aus wirtschaftlichen und medizinischen Gründen mit dem eigentlichen Erfolgshormon Testosteron beim Mann (in manchen Fällen auch humanes Choriongonadotropin) bzw. mit den analogen Sexualhormonen (Östrogene, Progesteron) bei der Frau. Von Injektionen über Gele, Pflaster (transdermale Systeme) gibt es viele Möglichkeiten der Applikation. Mit Hilfe dieser Substitutionstherapie (Ersatztherapie) wird eine normale Pubertät eingeleitet und die Betroffenen können ein einigermaßen normales Leben führen, unter Umständen auch Kinder zeugen bzw. bekommen. Eine Longitudinalstudie berichtete von fünf Patienten mit KS, bei denen es nach mehreren Jahren der Hormonsubstitution zu einer spontanen Reversibilität des hypogonadotropen Hypogonadismus kam.Bei einem Kinderwunsch wird der Patient mit Gonadotropinen substituiert. In vielen Fällen kommt es dadurch zu einer normalen Spermatogenese bzw. Abschluss der Oogenese.
+Es sind auch Fälle von Kindszeugungen ohne vorangehende Substitution bekannt.Zitat eines 50- bis 60-jährigen anonymen Patienten mit KS:
+
+Wie alle anderen genetischen Belastungen fordert auch das KS besondere Anpassungsfähigkeiten des Betroffenen. Diese Anpassungsleistung wird dadurch schwieriger, da eine Kondition, die mit Hypogonadismus einhergeht, die Intimsphäre und Sexualität des Menschen berührt und eine Kommunikation mit anderen nicht ohne weiteres Vertrauen möglich ist. Eine soziale Unterstützung ist dadurch erst einmal nicht gegeben. Bezüglich des KS gibt es aber keine sexuellen Funktionseinschränkungen, wenn erst einmal adäquat substituiert worden ist. Bei Betroffenen ist bekannt, dass sie aufgrund des höheren Anpassungsvermögens, das eine genetische Belastung fordert, zwischenmenschlich sehr kreativ sein können. Diese Kreativität kann sich natürlich auch auf partnerschaftliche und sexuelle Bereiche erstrecken.
+Falls der Verdacht auf ein Kallmann-Syndrom vorliegt sollte nach den notwendigen diagnostischen Maßnahmen eher früher als später mit einer Substitution begonnen werden, um psychologischen und sozialen Nachteilen entgegenzuwirken. Im Alter von 16 Jahren ist „Spätzünder“ keine adäquate medizinische Diagnose!
+Der Psychologe P. Neemuchwala nennt folgende möglichen Komplikationen:
+
+Schaden für das Selbstbild und das Selbstwertgefühl
+Bei einer verzögerten Pubertät bis zum Beginn einer Hormonsubstitution kann das Selbstwertgefühl leiden. Der Patient startet mit einem positiven Selbstwertgefühl, das sich schließlich ins Negative verkehrt, wenn er von seinen Altersgenossen in der Entwicklung abgehängt wird. Das Selbstbild mag sich, abhängig von den Umständen, von gut zu neutral zu ungenügend ändern. Dies kann langandauernde Folgen für das persönliche Verhalten und die Fähigkeit, sich selbst zu genießen, haben. Exzessives Rauchen, Trinken, Workaholismus, mürrisches Verhalten bis hin zu psychosomatischen Beschwerden (Kopfschmerzen, Schlaflosigkeit etc.)Chronisches Warten, Selbstablehnung und kompensatorisches Verhalten resultierend aus der Tatsache, dass die Betroffenen jünger als ihr Alter aussehen. Probleme durch andauernde kränkende Bemerkungen oder Unverständnis der Umwelt.Nach P. Neemuchwala: "Es ist nicht so als könnte man die Pubertät erzwingen, wenn man sich nur mehr anstrengt. Ich kann mir die Komplikationen und Frustration nur vorstellen, die die Tatsache mit sich bringt, fünf Jahre jünger als das chronologische Alter auszusehen". Die Entwicklungsverzögerung kann Schwierigkeiten im Umgang mit Gleichaltrigen mit sich bringen. Dies kann bereits im Alter von zwölf Jahren eintreten und zumindest solange andauern, bis eine entsprechende Behandlung begonnen wird. Nimmt dies überhand, oder lässt eine Behandlung zu lange auf sich warten, kann lange nach dem Verstummen der Kränkungen etwas eintreten, was psychologisch als Internalisierung des Aggressors umschrieben wird. Diese Internalisierung kann nach Meinung vieler Psychologen seelische Beeinträchtigungen nach sich ziehen z. B. [Depression] etc.
+Kompensatorisches Verhalten, etwa der Beste in der Schule, in bestimmten Tätigkeiten, Sportarten zu sein, kann ebenfalls eine mögliche Folge sein.
+
+Schwierigkeiten mit Vertrauen und Intimität
+Viele Patienten berichten von einem Mangel an Vertrauen und Intimität, von physischer Intimität ganz zu schweigen. Es scheint einen Verlust an Glauben und Vertrauen zu geben, besonders wenn die Diagnose einige Jahre zu spät gestellt wurde. Einige Patienten berichten aber auch von erfüllten Partnerschaften und Familienleben.Tendenz zur Schüchternheit
+Besonders in der Pubertät ist die Kontaktaufnahme zum Gegengeschlecht extrem durch KS bestimmt. Die meisten Erkrankten haben nicht den Mut einer potentiellen Partnerin von ihrer „Abnormalität“ zu erzählen und bleiben lange partnerlos.Niedriges sexuelles SelbstvertrauenIatrogene Stimmungsschwankungen verursacht durch die Hormonsubstitution
+Die iatrogenen (durch ärztliches Eingreifen) verursachten Stimmungsschwankungen bei der Hormonersatztherapie hängen mit den momentanen Hormonspiegeln zusammen. Kurz nach der Injektion gibt es ein sogenanntes „Hoch“ bei dem Libido und Aktivität zwar erhöht sind, der Betroffene sich aber auch impulsiver, nervöser und aggressiver fühlen kann. Beim Abfall der Spiegel kann es ein sogenanntes „Tief“ mit Begleiterscheinungen von Ineffektivität, Traurigkeit etc. geben, das sich bei ungünstiger Stimmungslage bis zur Depression auswächst. Umgehen kann man dies Betroffenen und Endokrinologen zufolge im Einzelfall mit einem Wechsel der Substitutionstherapie, in Deutschland z. B. zu langwirksamen Retardpräparaten. Kleine Stimmungsschwankungen sind meist unvermeidbar, aber nach Meinung von Betroffenen unproblematisch solange Mitmenschen die Ursache kennen, und der/die Betroffene nicht einfach als „launisch“ etikettiert wird. Im Einzelfall sei an endokrinologische und psychologische Experten verwiesen.Ärger durch die Tatsache, als medizinische Kuriosität behandelt zu werden, denn als fühlendes menschliches Wesen
+Durch die zunehmende Spezialisierung der medizinischen Professionen und den Kostendruck im Gesundheitswesen, ist nicht viel Raum für emotionale Belange eines Patienten mit dem KS gegeben. Auf der anderen Seite wird dies von Betroffenen oft als unsensibles Verhalten von Ärzten wahrgenommen.Spezifische Ängste im Hinblick auf Begleiterscheinungen des Syndroms und Fragen bezüglich Kinderwunsch und Familienplanung sowie die Vermittelbarkeit dieser Fragen und Ängste an die Umwelt stellen eine zusätzliche Herausforderung dar.Da nach Meinung von Betroffenen und Psychologen diese seelischen Erscheinungen keine notwendige Folge des Syndroms sind, sondern aus dem Umgang der Betroffenen sowie Angehörigen und Bekannten mit dem Syndrom resultieren, ist eine psychologische Beratung und Aufklärung sinnvoll, denn weiter heißt es bei P. Neemuchwala:
+
+“It will work out in the end. You gotta believe.” Jimmy Scott

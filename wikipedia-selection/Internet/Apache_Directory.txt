@@ -1,0 +1,12 @@
+Apache Directory ist ein Projekt der Apache Software Foundation, das Lösungen rund um Verzeichnisdienste zur Verfügung stellt. Besonders relevante Technologien im Umfeld des Projektes sind LDAP und Kerberos; Apache Directory bietet für beide Protokolle freie Implementierungen in Java unter der Apache-Lizenz an.
+Zurzeit existieren folgende Unterprojekte:
+
+Apache Directory Server – ein in Java realisierter LDAP-Server
+Apache Directory Studio – Eclipse-basierte Werkzeuge rund um LDAP und Verzeichnisdienste
+Apache LDAP API – erweiterte LDAP Schnittstelle um die vorhandene JNDI zu ersetzen
+Apache Mavibot – Multi Version Concurrency Control (MVCC) soll ein Ersatz werden für das derzeitige JDBM-Backend
+Apache SCIMple – Implementierung des SCIM (System for Cross-domain Identity Management) Standards
+Apache Fortress – Ein auf Standards basierendes Access Managementsystem
+Apache Kerby – Kerberos Protokoll und KDC ImplementierungUrsprung des Projektes ist ein von Alex Karasulu im Jahre 2002 gegründetes SourceForge-Projekt namens LDAPd, das die Implementierung eines LDAP-Servers in Java zum Ziel hatte. Im Oktober 2003 wurden die Quellen in den Incubator der Apache Software Foundation übernommen, den sie 2005 erfolgreich als neues Apache-Projekt verließen.
+Im Oktober 2006 wurde die Version 1.0 des Apache Directory Server veröffentlicht. Es handelte sich um den ersten Open Source LDAP-Server, der durch die Open Group als standard-kompatibel zertifiziert wurde.
+Alex Karasulu ist immer noch als Architekt und Entwickler im Projekt involviert, steht ihm aber seit März 2007 nicht mehr vor.

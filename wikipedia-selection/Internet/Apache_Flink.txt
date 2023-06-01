@@ -1,0 +1,6 @@
+Apache Flink ist ein freies Streamprozessor-Framework, entwickelt von der Apache Software Foundation. Der Kern von Apache Flink bildet eine verteilte Datenfluss-Engine, die es erlaubt sowohl Datenströme als auch Stapeldaten zu verarbeiten.Apache Flink kann kontinuierliche Datenströme sowie Stapeldaten verarbeiten. Das Framework der Apache Software Foundation ist als Open-Source-Software verfügbar. Apache Flink hat sich aus einem Apache-Incubator-Projekt entwickelt und wurde zu einem Top-Level-Projekt.
+Apache Flink Version 1.0.0 wurde im Jahr 2016 veröffentlicht. Typische Anwendungsbereiche für Apache Flink sind:
+
+die Echtzeitkontrolle von Finanztransaktionen
+die Echtzeitauswertung des Kunden- oder Userverhaltens auf Internetseiten
+die Echtzeitverarbeitung großer Mengen von Sensordaten der automatisierten Prozesse der Industrie 4.0Bekannte Unternehmen, die Apache Flink einsetzen, sind beispielsweise Uber und Netflix.

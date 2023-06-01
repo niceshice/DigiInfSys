@@ -1,0 +1,248 @@
+Unter Gleichgewichtseinkommen versteht man das Nationaleinkommen bzw. das Inlandsprodukt Y, bei welchem die damit verbundene Nachfrage gleich diesem Inlandsprodukt ist.Unterstellt man ein keynesianisches Modell, dann führt eine bestimmte Produktion Y zu einem Einkommen Y, das wiederum eine Konsumnachfrage C auslöst. Diese Konsumnachfrage kann aber insgesamt zu einer Nachfrage führen, die größer oder kleiner als die Produktion/das Einkommen Y ist. Es lässt sich das Gleichgewichtseinkommen bestimmen, bei dem Produktion und Einkommen auf der einen Seite gleich der dadurch ausgelösten Nachfrage auf der anderen Seite sind.
+In einer geschlossenen Volkswirtschaft, also ohne Außenhandel, gilt:
+(1)                      
+  
+    
+      
+        Y
+        =
+        C
+        +
+        I
+        +
+        
+          A
+          
+            S
+            t
+          
+        
+      
+    
+    {\displaystyle Y=C+I+A_{St}}
+  
+Die Gesamtnachfrage Y setzt sich aus der Konsum-, der Investitionsnachfrage und den Staatsausgaben, der Nachfrage des Staates, zusammen.
+Es werden proportional zum Einkommen Y Steuern T erhoben:
+
+                       
+  
+    
+      
+        T
+        =
+        t
+        ⋅
+        Y
+      
+    
+    {\displaystyle T=t\cdot Y}
+  
+
+Für die keynesianische Konsumnachfrage C gilt:
+
+                      
+  
+    
+      
+        C
+        =
+        
+          C
+          
+            0
+          
+        
+        +
+        c
+        ⋅
+        (
+        Y
+        −
+        T
+        )
+      
+    
+    {\displaystyle C=C_{0}+c\cdot (Y-T)}
+  
+
+In Gleichung (1) steht also links Y, rechts kommt aber Y als Größe auch vor. Wie groß muss das Gleichgewichtseinkommen sein, dass das Gleichheitszeichen in (1) gilt?
+Das Gleichgewichtseinkommen Y* ist das Produkt aus Multiplikator und der Summe der einkommensunabhängigen Nachfragegrößen (autonome Nachfrage):
+
+  
+    
+      
+        
+          Y
+          
+            ∗
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              −
+              c
+              +
+              c
+              t
+            
+          
+        
+        (
+        
+          C
+          
+            0
+          
+        
+        +
+        I
+        +
+        
+          A
+          
+            S
+            t
+          
+        
+        )
+      
+    
+    {\displaystyle Y^{*}={\frac {1}{1-c+ct}}(C_{0}+I+A_{St})}
+  
+
+  
+    
+      
+        
+          C
+          
+            0
+          
+        
+      
+    
+    {\displaystyle C_{0}}
+  : einkommensunabhängiger (autonomer) privater Konsum 
+  
+    
+      
+        
+          A
+          
+            S
+            t
+          
+        
+      
+    
+    {\displaystyle A_{St}}
+  : Nachfrage nach Gütern durch den Staat 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  : Investitionen der Unternehmer
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  : Steuersatz 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  : marginale Konsumquote
+Fordert man, dass die Staatsausgaben voll durch Steuern finanziert werden sollen
+
+  
+    
+      
+        
+          A
+          
+            S
+            t
+          
+        
+        =
+        T
+      
+    
+    {\displaystyle A_{St}=T}
+  ,
+so dass dadurch auch die Staatsausgaben vom Einkommen Y abhängig werden (
+  
+    
+      
+        
+          A
+          
+            S
+            t
+          
+        
+        =
+        T
+        =
+        t
+        ⋅
+        Y
+      
+    
+    {\displaystyle A_{St}=T=t\cdot Y}
+  ), dann gilt:
+
+  
+    
+      
+        
+          Y
+          
+            ∗
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              −
+              c
+              +
+              c
+              t
+              −
+              t
+            
+          
+        
+        (
+        
+          C
+          
+            0
+          
+        
+        +
+        I
+        )
+      
+    
+    {\displaystyle Y^{*}={\frac {1}{1-c+ct-t}}(C_{0}+I)}
+  
+Dieses keynesianische Modell lässt sich verfeinern (nicht-lineare Konsumfunktion, Außenwirtschaft). Außerdem können natürlich statt keynesianischer Annahmen auch neoklassische Annahmen über das Investitions- oder Konsumverhalten getroffen werden mit entsprechend anderen Gleichgewichtslösungen für das Inlandsprodukt Y.
+Siehe auch: Wirtschaftskreislauf

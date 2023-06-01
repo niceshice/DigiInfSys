@@ -1,0 +1,12 @@
+Berlin Commercial Internet Exchange (BCIX) ist ein nichtkommerzieller Internet-Knoten in Berlin.Der BCIX e.V. ist ein eingetragener Verein und arbeitet nicht gewinnorientiert. Ziel des BCIX ist die Förderung und Verbesserung des regionalen Internet-Datenaustauschs im Wirtschaftsraum Berlin-Brandenburg sowohl für regional als auch international agierende Service Provider, Content Anbieter und Carrier. BCIX wurde im März 2002 als Standortinitiative kleinerer Berliner Internetunternehmen gegründet und betreibt seit 2002 den Berliner Internetknoten. Im Dezember 2003 hat die DENIC ihren elften Nameserver direkt am Berliner Internetknotenpunkt BCIX angeschlossen. 2012 wurde für den technischen Betrieb die BCIX Management GmbH ausgegründet.  Im November 2016 hatte der BCIX e.V. 50 Mitglieder, wovon 44 Mitglieder an einem der Peeringstandorte in Berlin mit Bandbreiten zwischen 100Mbit/s und 100Gbit/s angeschlossen sind. Heute (2019) betreibt der BCIX in neun Rechenzentren in Berlin eigene Switchinfrastrukturen, die über eine DarkFibre-Verbindung und DWDM-Systemen mit bis zu 300 Gbit/s untereinander verbunden sind. Der Datenaustausch zwischen den Providern erfolgt über IPv4, wobei eine zunehmende Anzahl von Providern zusätzlich IPv6 für das Peering verwenden.
+Die Mitglieder- und die Anzahl an Peering-Points hat sich von 11/2016 zu 07/2019 mehr als verdoppelt, mit Stand 7. September 2019 verfügt der BCIX über 114 Peering-Points mit einer Gesamtbandbreite von mehr als 3200Gbps (3,2Tbps).Die verteilte Switch-Infrastruktur ermöglicht Internetdienstanbietern kostenfrei Daten auszutauschen („Peering“). Die Anschaltung der Kunden erfolgt wahlweise über Gigabit-Ethernet-, 10-Gigabit-Ethernet- oder 100-Gigabit-Ethernet-Ports. Der BCIX setzt an den Core Colocation Standorten Switches von Arista Networks und Dell Force10 Networks ein.An folgenden Standorten können sich Provider an den BCIX anschließen:
+NTT (ehem. e-shelter), Nonnendammallee 15, 13599 Berlin
+CarrierColo (I/P/B/), Lützowstraße 105/106, 10785 Berlin
+DNS:NET, Lützowstraße 105/106, 10785 Berlin
+CarrierColo (I/P/B/), Kitzingstraße 15, 12277 Berlin
+Colt Rechenzentrum, Wiebestraße 46–49, 10553 Berlin
+euNetworks, Alboinstraße 36, 12103 Berlin
+Speedbone, Alboinstraße 36, 12103 Berlin
+CenturyLink (ehem. Level(3)), Gradestraße 60, 12347 Berlin
+3U Telecom, Lorenzweg 5, 12099 BerlinDer BCIX hat im  Februar 2020 einen Spitzendurchsatz von etwa 720 Gbit/s.
+Im Juli 2012 hatte BCIX noch einen Spitzendurchsatz von etwa 35 Gbit/s.

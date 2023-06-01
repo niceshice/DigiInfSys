@@ -1,0 +1,18 @@
+Unter funktionaler Organisation (Verrichtungsorganisation) versteht man eine Gliederung der Einheiten einer Organisation nach Aufgaben (z. B. Produktion, Vertrieb, Verwaltung) auf der zweiten Hierarchieebene unterhalb der Unternehmensleitung. Der Unternehmensleitung kommt die Aufgabe zu, die verschiedenen Bereiche zu koordinieren.
+Die Leitung erfolgt dabei nach dem Einliniensystem. Beispielsweise sind viele Klein- und Mittelbetriebe in die Bereiche Forschung & Entwicklung, Produktion, Marketing & Vertrieb und Verwaltung unterteilt. Diese Form der Primärorganisation ist die älteste Organisationsform in der Entwicklungsgeschichte der Industriebetriebe. Mit zunehmendem Wachstum der Organisation werden alternative Formen wie zum Beispiel die divisionale Organisation oder die Matrixorganisation relevant. In der Konfiguration von Henry Mintzberg entspricht die funktionale Organisation der Maschinenbürokratie oder bei sehr kleinen Unternehmen der Einfachstruktur. Die funktionale Organisation ist in Klein- und Mittelbetrieben sehr weit verbreitet, da sie sich für Organisationen in einem stabilen Umfeld mit einem überschaubaren, homogenen Produktprogramm eignet.
+Als Vorteile gelten:
+
+Spezialisierung
+Kostendegression (Skaleneffekte)
+Klare Aufgaben-, Kompetenz- und Verantwortungsbereiche
+Synergieeffekte
+Verhinderung von Redundanzen.Als Nachteile werden diskutiert:
+
+Erschwerte Zusammenarbeit zwischen den Abteilungen/Funktionsbereichen (großer Koordinationsaufwand)
+Übergewicht des Spezialistentums
+Fehlendes Verständnis für andere Funktionsbereiche/Bereichsegoismus (z. B. Konflikt zwischen Marketing und Produktion, Ressortdenken)
+Niedrige Produkt- und Marktorientierung
+Unklare Ergebnisverantwortung
+Einschränkung von Innovationspotential
+Großer Zeitbedarf bis zur Entscheidungsfindung.
+Mangelnder Informationsaustausch zwischen den Abteilungen.

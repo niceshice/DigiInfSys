@@ -1,0 +1,7 @@
+Die Bundescloud ist die private Cloud der deutschen Bundesverwaltung. Sie wird vom IT-Dienstleister des Bundes, dem Informationstechnikzentrum Bund (ITZBund), betrieben.Der Aufbau einer Cloud für die Bundesverwaltung wurde 2011 durch den Innenminister Hans-Peter Friedrich angekündigt.Am 20. Mai 2015 wurde im Rahmen der „IT-Konsolidierung Bund“ der Aufbau der Bundescloud vom Bundeskabinett beschlossen.
+Anfang 2016 wurde das ITZBund mit dem Aufbau der Bundescloud beauftragt.
+Am 30. Juni 2017 wurden die ersten Bundescloud-Services für die Behörden der Bundesverwaltung bereitgestellt.
+Am 17. April 2018 wurde bekanntgegeben, dass die deutsche Firma Nextcloud die Ausschreibung zur BundescloudBox gewonnen hat. Die Bekanntgabe der Nutzung einer Open-Source-Lösung durch die Bundesverwaltung hat zu einem starken Medienecho geführt.Am 2. April 2020 gab das ITZ Bund bekannt, dass den Behörden im Rahmen der Dienstekonsolidierung die BundescloudEntwicklungsplattform als „Platform as a Service“ (PaaS) zur Verfügung gestellt wird. Die BundescloudEntwicklungsplattform basiert auf einer Open-Source-Lösung der Cloudogu GmbH.Die Bundescloud ist Gegenstand zahlreicher Anfragen aus dem Deutschen Bundestag.
+
+
+== Einzelnachweise ==

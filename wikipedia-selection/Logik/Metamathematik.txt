@@ -1,0 +1,15 @@
+Metamathematik ist die mathematische Betrachtung der Grundlagen der Mathematik.
+Im Jahre 1920 stellte der Mathematiker David Hilbert die Forderung auf, die Mathematik auf die Grundlage eines vollständigen und widerspruchsfreien Axiomensystems zu stellen. Dieses Bestreben wurde als Hilbertprogramm bekannt. Für die Analyse der Grundlagen der Mathematik mit mathematischen Methoden prägte er den Begriff Metamathematik (in Anlehnung an Metaphysik).
+Das Hilbertprogramm schien zu scheitern, seit der Gödelsche Unvollständigkeitssatz zeigte, dass es kein Axiomensystem gibt, das allen Forderungen Hilberts entspricht. Insbesondere ist es nicht möglich, ein formales System zu entwickeln, in dem alle wahren Aussagen auch bewiesen werden können.
+Nach Widerspruchsfreiheitsbeweisen für Teile der Arithmetik durch Leopold Löwenheim, Albert Thoralf Skolem, Jacques Herbrand und Mojżesz Presburger gelang Gerhard Gentzen ein Widerspruchsfreiheitsbeweis für die Peano-Arithmetik erster Stufe, wobei er die so genannte transfinite Induktion benutzte. All diesen Beweisen ist allerdings gemeinsam, dass sie – gemäß dem Gödelschen Unvollständigkeitssatz – nicht innerhalb der Arithmetik selbst ausgeführt werden konnten.
+Über die Entscheidbarkeit gab es wichtige Ergebnisse von Alonzo Church, der die Unentscheidbarkeit der Quantorenlogik aller Stufen zeigen konnte. Der Begriff der Rekursivität ist dem der Berechenbarkeit äquivalent.
+Paul Lorenzen führte 1951 einen Widerspruchsfreiheitsbeweis für die verzweigte Typentheorie durch. Dieser Beweis liefert die Widerspruchsfreiheit von Teilen der klassischen Analysis. In seinem 1962 veröffentlichten Buch Metamathematik fasst er die Metamathematik als „Mathematik der Metatheorien“ auf, wobei eine Metatheorie eine (konstruktive oder axiomatische) Theorie über axiomatische Theorien darstellt. 
+Durch Verwendung der 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  -Regel (unendliche Induktion) erhält man einen vollständigen Halbformalismus (K. Schütte) der Arithmetik und so einen Widerspruchsfreiheitsbeweis der konstruktiven Mathematik durch Einbeziehung in den Gentzenschen Hauptsatz.

@@ -1,0 +1,110 @@
+Quantorenunverträglichkeit bezeichnet die Eigenschaft der Prädikatenlogik erster Stufe, dass der Allquantor 
+  
+    
+      
+        ∀
+      
+    
+    {\displaystyle \forall }
+   sich nicht mit der Disjunktion und der Existenzquantor 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   sich nicht mit der Konjunktion „versteht“ (es gilt kein Distributivgesetz für diese Quantoren und Operatoren):
+
+  
+    
+      
+        (
+        ∀
+        x
+        :
+        F
+        (
+        x
+        )
+        )
+        ∨
+        (
+        ∀
+        x
+        :
+        G
+        (
+        x
+        )
+        )
+        
+        ≢
+        
+        ∀
+        x
+        :
+        (
+        F
+        (
+        x
+        )
+        ∨
+        G
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle (\forall x\colon F(x))\lor (\forall x\colon G(x))\,\not \equiv \,\forall x\colon (F(x)\lor G(x))}
+  
+
+  
+    
+      
+        (
+        ∃
+        x
+        :
+        F
+        (
+        x
+        )
+        )
+        ∧
+        (
+        ∃
+        x
+        :
+        G
+        (
+        x
+        )
+        )
+        
+        ≢
+        
+        ∃
+        x
+        :
+        (
+        F
+        (
+        x
+        )
+        ∧
+        G
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle (\exists x\colon F(x))\land (\exists x\colon G(x))\,\not \equiv \,\exists x\colon (F(x)\land G(x))}Die Aussage
+
+Für jedes Auto gilt: es fährt oder es stehtist nicht gleichbedeutend mit der Aussage
+
+Jedes Auto steht oder jedes Auto fährt,weil im letzteren Fall entweder kein Auto fährt oder aber alle Autos fahren, aber kein Zwischenzustand möglich ist, wie
+
+Einige Autos fahren, andere nicht.

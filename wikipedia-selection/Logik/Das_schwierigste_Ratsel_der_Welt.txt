@@ -1,0 +1,29 @@
+Das schwierigste Rätsel der Welt ist ursprünglich ein logisches Rätsel Raymond Smullyans, das im Rahmen eines Artikels des US-amerikanischen Philosophen und Logikers George Boolos publiziert wurde. Zunächst 1992 veröffentlicht unter dem Titel L'indovinello più difficile del mondo in der italienischen Tageszeitung La Repubblica, erschien es 1996 in The Harvard Review of Philosophy unter dem englischen Titel The Hardest Logic Puzzle Ever erneut. Das Rätsel handelt von drei Göttern, von denen einer stets die Wahrheit sagt, einer immerzu lügt und ein weiterer zufällig die Wahrheit sagt oder lügt. In ihrer eigenen Sprache antwortend, gilt es die drei Götter mithilfe von nur drei Ja/Nein-Fragen zu identifizieren.Boolos würdigt in seinem Artikel den Logiker Raymond Smullyan als Urheber des Rätsels und John McCarthy für die zusätzliche Schwierigkeit, dass die Götter in ihrer eigenen Sprache antworten.
+Das Rätsel basiert auf den „Ritter und Knappen“-Geschichten. Als Schauplatz für letztere dient eine imaginäre Insel, die von Rittern und Knappen bewohnt wird. Ritter sagen dabei immer die Wahrheit und Knappen lügen stets. Ein Besucher dieser Insel muss ihnen einige Ja/Nein-Fragen stellen, um herauszufinden, was er wissen will. Daraus ergeben sich infolge mehrere Variationen dieses Rätsels, wovon eine durch den Fantasy-Film Labyrinth von 1986 bekannt wurde. Die Szene handelt von zwei Wächtern, die zwei Türen bewachen und von denen einer lügt und einer nicht. Außerdem führt eine Tür zum Schloss und die andere in den „sicheren Tod“. Es geht darum, von einem der Wächter durch Stellen einer Frage herauszufinden, welche Tür zum Schloss führt. So versucht dies die Protagonistin des Films, indem sie einen der beiden Wächter fragt: „Würde er [der andere Wächter] mir sagen, dass diese Tür zum Schloss führt?“
+Ähnliche Rätsel findet man in den Publikationen Smullyans wie z. B. What is the Name of This Book? (S. 149–156), in welchem er eine haitianische Insel beschreibt, auf der zur einen Hälfte Zombies (Lügner) und zur anderen Hälfte Menschen (sagen die Wahrheit) leben. Dazu erklärt er:
+„Die Situation ist extrem dadurch verkompliziert, dass zwar alle Eingeborenen perfekt Englisch verstehen, aber ein uraltes Tabu es ihnen verbietet, Wörter in einer anderen Sprache als in ihrer eigenen wiederzugeben. Immer dann, wenn Sie ihnen also eine Ja/Nein-Frage stellen, werden sie Ihnen mit „Bal“ oder „Da“ antworten – eine Antwort bedeutet Ja, die andere Nein. Das Problem ist, dass man nicht weiß, welcher Antwort Ja und welcher Nein entspricht.“„Hinter drei Personen A, B und C stecken die Götter der Wahrheit, der Lüge und des Zufalls. Der Gott der Wahrheit antwortet stets mit der Wahrheit, der Gott der Lüge dagegen kennt nur die Lüge und der Gott des Zufalls antwortet beliebig entweder mit der Wahrheit oder mit einer Lüge.  Ihre Aufgabe ist es, die Identitäten von A, B und C aufzudecken, indem Sie lediglich drei Ja/Nein-Fragen stellen. Jede Frage kann aber nur einem Gott gestellt werden. Zudem verstehen die Götter zwar Deutsch, sie werden Ihre Frage jedoch in ihrer eigenen Sprache beantworten, d. h. mit DA und BAL. Sie wissen dabei nicht, welche Antwort Ja und welche Nein bedeutet.“
+Boolos fügt noch folgende Hinweise hinzu:
+
+Sie können einem Gott mehrere Fragen stellen – oder einem Gott auch gar keine.
+Welchem Gott Sie die zweite Frage stellen sollten, kann von der Antwort auf die erste Frage abhängen. Dasselbe gilt für die dritte Frage.
+Die Antworten des Zufalls-Gottes können mit einem Münzwurf verglichen werden: Bei Kopf wird er die Wahrheit sagen, bei Zahl dagegen lügen.Zum besseren Verständnis soll zunächst die Vereinfachung DA = Ja und BAL = Nein betrachtet werden. Zudem seien im Folgenden W, F und Z der Gott der Wahrheit, der Gott der Lüge und der Gott des Zufalls. 
+Mögliche Fragen sind beispielsweise folgende:
+
+Mit der 1. Frage bestimmt man einen Gott G ≠ Z.
+
+Frage A: „Bist du der Gott der Wahrheit genau dann, wenn B der Gott des Zufalls ist?“Mit der 2. Frage bestimmt man, ob G = W oder G = F.
+
+Frage G: „Liegt Rom in Italien?“Mit der 3. Frage bestimmt man, ob A = Z oder A ≠ Z. 
+
+Frage G: „Ist A der Gott des Zufalls?“Nun soll der allgemeine Fall betrachtet werden. Man löst die zusätzliche Schwierigkeit der Sprache, indem obige Fragen erweitert werden:
+
+Mit der 1. Frage bestimmt man einen Gott G ≠ Z.
+
+Frage A: „Heißt DA Ja genau dann, wenn du genau dann, wenn B der Gott des Zufalls ist, der Gott der Wahrheit bist?“Mit der 2. Frage bestimmt man, ob G = W oder G = F.
+
+Frage G: „Heißt DA Ja genau dann, wenn Rom in Italien liegt?“Mit der 3. Frage bestimmt man, ob A = Z oder A ≠ Z.
+
+Frage G: „Heißt DA Ja genau dann, wenn X der Gott des Zufalls ist?“Der oben beschriebene Lösungsweg geht auf T.S. Roberts zurück. Verwendet wird dabei die Idee, dass man für jede Ja/Nein-Frage F mithilfe der Frage: „Würdest du mit DA antworten, wenn ich dich F fragen würde?“, die man dem Gott der Wahrheit oder dem Gott der Lüge stellt, die Antwort DA erhält, wenn die passende Antwort auf F Ja ist, und ansonsten BAL.
+
+
+== Einzelnachweise ==

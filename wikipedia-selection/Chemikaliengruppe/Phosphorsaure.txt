@@ -1,0 +1,321 @@
+Die Phosphor- oder Orthophosphorsäure ist die wichtigste Sauerstoffsäure des Phosphors und eine der wichtigsten anorganischen Säuren. Sie ist eine dreiprotonige Säure und reagiert bezüglich der ersten Deprotonierung als mittelstarke Säure. Ihre Salze und Ester heißen Phosphate, auch die Bezeichnung Organophosphate ist für Ester der Phosphorsäure geläufig. Der Phosphor hat in diesen Verbindungen die Oxidationsstufe V.
+Wichtige Arbeiten zur Aufklärung der Struktur leistete Thomas Graham.
+Von der Phosphorsäure leiten sich außerdem die Kondensate Diphosphorsäure, Meta- und Polyphosphorsäuren ab.
+Als Lebensmittelzusatzstoff wird Phosphorsäure als E 338 deklariert.Phosphorsäure kann aus Rohphosphat (meistens Apatit, Ca5(PO4)3X mit X = F, OH oder Cl) und Schwefelsäure, Salzsäure oder Salpetersäure hergestellt werden. Als Nebenprodukte fallen dabei CaSO4 (Phosphorgips, verunreinigter Gips) und H2[SiF6] (Hexafluorokieselsäure) an. Es wird Wasser zugegeben und der Gips wird durch Filtration zusammen mit anderen unlöslichen Materialien entfernt. Fluorid als Hexafluoridokieselsäure wird in einer weiteren Stufe durch Verdampfung entfernt.
+Obwohl die Reaktion in Stufen mit Calciumdihydrogenphosphat abläuft, kann die Gesamtreaktion wie folgt dargestellt werden:
+
+  
+    
+      
+        
+          C
+          
+            a
+            
+              3
+            
+          
+          (
+          P
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              2
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+          +
+          3
+           
+          C
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ca_{3}(PO_{4})_{2}+3\ H_{2}SO_{4}\longrightarrow 2\ H_{3}PO_{4}+3\ CaSO_{4}} }
+  Es gibt jedoch Nebenreaktionen, zum Beispiel mit Calciumfluorid und Calciumcarbonat im Gestein:
+
+  
+    
+      
+        
+          3
+           
+          C
+          a
+          
+            F
+            
+              2
+            
+          
+          +
+          S
+          i
+          
+            O
+            
+              2
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          S
+          i
+          
+            F
+            
+              6
+            
+          
+          +
+          3
+           
+          C
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ CaF_{2}+SiO_{2}+3\ H_{2}SO_{4}\longrightarrow H_{2}SiF_{6}+3\ CaSO_{4}+2\ H_{2}O} }
+  
+  
+    
+      
+        
+          C
+          a
+          C
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          C
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CaCO_{3}+H_{2}SO_{4}\longrightarrow CaSO_{4}+H_{2}O+CO_{2}} }
+  Fluorkieselsäure ist ein wichtiges Nebenprodukt bei der Herstellung von Fluorwasserstoff. Es kann mit Natriumhydroxid neutralisiert werden, um Natriumhexafluorsilicat zu bilden. Die Säure wird auch zur Herstellung von Aluminiumfluorid verwendet, das wiederum zur Herstellung von Aluminium verwendet wird.Alternativ lässt sich Phosphorsäure durch Verbrennung elementaren Phosphors zu Phosphorpentoxid, P4O10, und anschließende Hydrolyse herstellen (sogenannte thermische Phosphorsäure). Ein hochreines Produkt erhält man durch Konzentrieren einer handelsüblichen Phosphorsäurelösung auf einen Gehalt von über 90 Prozent und anschließende Kristallisation in einem genau eingehaltenen Temperaturbereich.Die Rohstoffe für diesen Prozess sind Phosphor und Sauerstoff:
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          +
+          5
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}+5\ O_{2}\longrightarrow 2\ P_{2}O_{5}} }
+  Zunächst wird Phosphor in den Ofen gesprüht und bei über 1500 °C an der Luft verbrannt. Bei den meisten Prozessen wird ungetrocknete Luft verwendet, und viele erfordern die Zugabe von Dampf zum Phosphorbrenner, um einen Film aus kondensierten Polyphosphorsäuren zu erzeugen und aufrechtzuerhalten, der den Brennerturm aus rostfreiem Stahl schützt. Die Produkte aus dem Brennerturm gelangen direkt in einen Hydratationsturm, in dem das gasförmige Phosphoroxid in recycelter Phosphorsäure absorbiert wird:
+
+  
+    
+      
+        
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{2}O_{5}+3\ H_{2}O\longrightarrow 2\ H_{3}PO_{4}} }
+  Alternativ kann der Phosphor in getrockneter Luft verbrannt werden. Das Phosphorpentoxid wird als weißes Pulver kondensiert und getrennt zu Phosphorsäure hydratisiert. Diese Methode ermöglicht die Rückgewinnung und Wiederverwendung von Wärme.Durch Urban Mining lässt sich Phosphorsäure aus dem Klärschlamm zurückgewinnen.Die wasserfreie Substanz ist stark hygroskopisch. Gewöhnlich kommt sie als 83–90-%ige wässrige Lösung in den Handel.Die Phosphorsäure ist eine dreiprotonige Säure, die ihre Protonen in drei Stufen an Wassermoleküle, unter Bildung von Oxonium (H3O+) und unter Bildung von Dihydrogenphosphat-, Hydrogenphosphat- bzw. Phosphat-Anionen, abgeben kann. Die zugehörigen pKs-Werte betragen pKs1 = 2,161; pKs2 = 7,207 und pKs3 = 12,325.
+Phosphorsäure ist ein zerfließender Feststoff, der im Allgemeinen als farblose, viskose wässrige Lösung auftritt. Sie ist schwach sauer mit drei möglichen aufeinanderfolgenden Deprotonierungsschritten, die Phosphate bilden. Sie kann wie Carbonsäuren über eine Dehydratisierungsreaktion zu Phosphoanhydriden dimerisieren. Sie wird als tribasisch bezeichnet, da sie drei mögliche Dissoziationsschritte aufweist.
+Eine der wichtigsten Reaktionen von Phosphorsäure und ihren Derivaten ist die Multimerisierung. Wie bei Carbonsäuren können sich zwei Phosphorsäuremoleküle unter Verlust von Wasser zu einem Diphosphatester verbinden, der auch als Pyrophosphat bezeichnet wird.Phosphorsäure dient als Ausgangsstoff zur Herstellung phosphathaltiger Dünger, von Waschmitteln, Rostentfernern bzw. von Rostumwandler sowie zur Passivierung von Eisen und Zink zum Schutz vor Korrosion.
+Sie wirkt als Rostumwandler beim direkten Auftragen auf rostigem Eisen, Stahl und anderen Metalloberflächen. Sie wandelt rotbraunes Eisen, also Eisen(III)-oxid, in schwarzes Eisen(III)-phosphat um. Nach dieser Behandlung kann die schwarze Eisenphosphatbeschichtung leicht abgewaschen werden, wodurch die darunter liegende frische Metalloberfläche freigelegt wird.
+Sie wird zur Herstellung von Pufferlösungen (siehe Phosphatpuffer) eingesetzt.
+Phosphorsäure ist in hoher Konzentration ätzend, verdünnt wird sie in der Lebensmittelindustrie als Konservierungsmittel, Säuerungsmittel, als Säureregulator und als Antioxidans (um das Ranzigwerden von Fetten und die Verfärbung von beispielsweise Fleisch, Wurst oder Kuchenfüllungen zu verhindern) eingesetzt (E 338). Phosphorsäure ist, bis auf ihre ätzende Wirkung, für den menschlichen Organismus ungiftig.Sie wird als Säuerungsmittel für Lebensmittel und Getränke, zum Beispiel Cola, verwendet. Diese besondere Verwendung von Phosphorsäure hat jedoch zu Kontroversen geführt, die viele Fragen hinsichtlich der möglichen gesundheitlichen Auswirkungen auf den menschlichen Körper aufgeworfen haben.
+In der Zahnmedizin wird Phosphorsäure mit Zinkpulver zu Zinkphosphat kombiniert, das als temporärer Zahnzement verwendet wird. Es wird auch in der Kieferorthopädie als Ätzlösung verwendet, um die Oberfläche der Zähne vor dem Einsetzen von Brackets und anderen zahnärztlichen Geräten zu reinigen und aufzurauen. Sie wird auch in vielen Zahnaufhellungslösungen verwendet, um Zahnbelag zu entfernen, der auf der Oberfläche der Zähne vorhanden sein kann.
+Sie wird als Elektrolyt in Phosphorsäurebrennstoffzellen verwendet. Sie wird auch als Reinigungsmittel im Baugewerbe eingesetzt, um mineralische Ablagerungen, Zementabstriche und hartes Wasser zu entfernen.
+Heiße Phosphorsäure wird in der Mikroelektronik zum Ätzen von Siliziumnitrid verwendet. Sie wird von Bastlern als Flussmittel verwendet, um den Lötprozess zu unterstützen. Sie wird auch in Hydrokultur-pH-Lösungen verwendet, um den pH-Wert von Nährlösungen zu senken.
+Phosphorsäure wird auch als Elektrolyt beim Elektropolieren von Kupfer zum Entgraten verwendet. Bei der Verarbeitung von Verbindungshalbleitern wird sie üblicherweise als Nassätzmittel verwendet.Phosphorsäureester und Polyphosphate spielen im Stoffwechsel eine zentrale Rolle, insbesondere als Energie- und Gruppenüberträger (siehe z. B. ATP bzw. GTP). Sie sind unter anderem integraler Bestandteil der DNA, der RNA und vieler Coenzyme.
+In der Medizin ist die Anreicherung der Nahrung mit Phosphorsäure (E 338) bei bestimmten Krankheitsbildern kontraindiziert. Krankheitsbilder wie beispielsweise chronische Niereninsuffizienz (auch bei Dialysebehandlung), Osteoporose und Urolithiasis (Calciumphosphatsteine) bedürfen einer phosphatarmen Ernährung. (s.a. Hauptartikel Hyperphosphatämie)
+Durch seinen Kreislauf in der Umwelt und im Körper ändert sich der Phosphatanteil nicht wesentlich. Wenn Phosphorsäure bei neutralem pH-Wert in Wasser gelöst wird, enthält die Lösung hauptsächlich das Dihydrogenphosphatanion und das Hydrogenphosphatdianion. Wenn es jedoch in verschiedene biologische Funktionen eingebaut wird, liegt es normalerweise in Form des Phosphations selbst vor, ohne Wasserstoffatome und drei negative Ladungen. Zusammen mit Calciumionen bildet es im Körper Hydroxylapatit, aus dem Knochen und Zähne bestehen. Der anorganische Teil der Knochen besteht zu etwa 40 Prozent aus Calcium und zu fast 60 Prozent aus Phosphat.
+Die Säure in der DNA ist eigentlich Phosphorsäure, aber sie hat zwei Protonen durch Kohlenstoffatome aus zwei verschiedenen Zuckern ersetzt, den Ribose-Teil. Es ist das Rückgrat der DNA, das die lange Kette mit kovalenten Bindungen zusammenhält, aber keine genetische Information überträgt.
+Adenosintriphosphat besteht aus Adenin, Ribose und drei Phosphaten. Dieses Molekül ist die universelle Energiewährung der biologischen Welt. Wenn es mit Wasser reagiert und ein Phosphation verliert (Hydrolyse), wird Energie freigesetzt. Durch komplizierte Mechanismen in unseren Enzymen kann diese Energie verwendet werden, um unzählige Prozesse in allen Lebewesen anzutreiben. Die meisten Fette, Zucker und Kohlenhydrate werden zum Aufbau von Adenosintriphosphat verwendet, wenn sie nicht in der einen oder anderen Form gelagert werden.Die Phosphorsäure und lösliche Phosphate lassen sich durch Fällung mit Ammoniumheptamolybdat zu gelbem Ammoniummolybdatophosphat, oder durch Fällung mit Magnesiumionen in ammoniakalischer Lösung zu MgNH4PO4 nachweisen.

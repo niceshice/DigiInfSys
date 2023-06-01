@@ -1,0 +1,37 @@
+Aari (auch Ari, Selbstbezeichnung afa-n ari) ist die Sprache des Volkes der Aari im südlichen Äthiopien.
+Es wird dem südlichen Zweig der omotischen Sprachen, einem der sechs Hauptzweige des afroasiatischen Sprachen zugeordnet. Gemäß Ethnologue (siehe Weblink) hat es etwa 110.000 Sprecher.In Hinblick auf die Phonologie fallen die Implosive ɓ, ɗ und das im Omotischen einzigartige ʱ auf. Das Aari ist eine Tonsprache, in der jedes Wort genau eine Silbe mit Hochton besitzt. Dieser ist bei Nomina lexikalisch und bei Verben grammatikalisch festgelegt.Nach der syntaktischen Funktion lassen sich verschiedene Reihen von Personalpronomina unterscheiden. Nominativpronomina treten in kurzen, abhängigen und langen, unabhängigen Formen auf; Possessivpronomina besitzen ebenfalls lange und kurze Formen; die langen werden dabei im Gegensatz zu den kurzen obligatorisch präfigiert. Akkusativformen werden durch die Affigierung von -m/-n an die abhängigen Pronomina gebildet. Nach Hayward 1990 (zitiert nach Bender 2002) haben die Personalpronomina folgende Formen:Substantive unterscheiden im Ari die folgenden Kategorien:
+
+Definitheit: definit, indefinit
+Kasus: Nominativ, Akkusativ, Genitiv
+Numerus: Singulativ (Singular), Kollektiv (Plural)
+Genus: Maskulinum, FemininumIndefinite Substantive sind hinsichtlich aller Kategorien außer dem Genitiv auf -ta/-te unmarkiert:
+
+fatír „Mais“
+tiilé „ein(en) Wasserkrug“
+ʔéed-te Mann+Genitiv „eines Mannes“Definite Substantive bilden einen Akkusativ auf -m, einen Genitiv auf -ta/-te oder -∅ und einen Vokativ auf -o. Als Subjekt, als Dativ und vor Postpositionen steht der unmarkierte Nominativ. Der Kollektiv ist nicht markiert, der nicht von allen Substantiven gebildete Singulativ weist im Maskulinum das Suffix -s- und im Femininum -ta- auf. Die Definitheit wird mit -(i)n(a/e)- markiert. Diese Suffixe folgen in folgender Reihenfolge auf den Stamm:
+
+Genus+Numerus
+Definitheit
+KasusBeispiele:
+
+fatir-ín Mais+∅+definit+∅ „der Mais“ (Kollektiv, Nominativ)
+fatir-in-ám Mais+∅+definit+Akkusativ „den Mais“ (Kollektiv, Akkusativ)
+baac-itá-n Henne+Femininum Singulativ+definit „die Henne“ (Singulativ, Nominativ)
+baac-ita-ná-m Henne+Femininum Singulativ+definit+Akkusativ „die Henne“ (Singulativ, Akkusativ)
+tiile-s-ín Wasserkrug+Maskulinum Singulativ+definit+∅ „der Wasserkrug“ (Singulativ, Nominativ)
+tiile-ná-m Wasserkrug+∅+definit+Akkusativ „die Wasserkrüge“ (Kollektiv, Akkusativ)
+et-s-in-o Mann+Maskulinum Singulativ+definit+Vokativ „O, Mann!“ (Singulativ, Vokativ)
+et-s-ina Mann+Maskulinum Singulativ+definit „dem Mann“ (Singulativ, Nominativ)Primäre Verbalwurzeln sind meist einsilbig, die Flexion erfolgt hauptsächlich durch Suffixe. Im Imperfekt finden reduplizierte Verbalwurzeln Anwendung: miks- „betteln“ 3. P. Sg. míksmiks-da, mímiksda. Die Personalendungen sind in den meisten Formen (Hayward 1990, zitiert nach Bender 2000):
+
+Mit ihnen werden folgende Tempora konjugiert:
+
+Durch Kombination von aaq mit verschiedenen Tempora lassen sich weitere Tempusformen bilden, beispielsweise ein habitatives oder duratives Perfekt: bábaʔ-d-it-aaq „ich brachte gewöhnlich“. Der Imperativ hat die Endungen Singular -ka, Plural -ket, negiert ʱáay. Der Jussiv wird in allen Personen mit -en markiert: ʔí báʔ-en „lass mich bringen“.
+Das Futur und mindestens ein Konverb haben eine abweichende Flexion:
+
+Darüber hinaus können verschiedene Nebensatzkonjugationen abgeleitet werden, darunter eine relative Konjugation mit -inda, z. B. Perfekt 1 šed-seqe-índa(a). In Entscheidungsfragen wird an das Verb -o suffigiert: báʔ-t-ek-o „haben sie gebracht?“. Infinitive werden mit dem Suffix -inti gebildet: díib-inti daqalí-ye „Stehlen ist schlecht.“. Auch einige weitere Typen deverbaler Nomina lassen sich mit Suffixen ableiten: zitsʾ „schließen“ – zitsʾ-i „Tür“, təc „schneiden“ – təc-mi „Messer“. Kausative Verben werden mit -is, -sis abgeleitet: wur „hören“ – wur-sis „hören lassen“; -er/-ar und -im markieren passive Verben: diib „stehlen“ – diib-er „gestohlen werden“, dəys „töten“ – dəys-im „getötet werden“.Die Kopula hat die Allomorphe -∅, -ye, -e:
+
+kooné yʱints-í-ye „das ist ein Kind“
+kooné yʱints-i „das ist ein Kind“
+ʔí-baab-e „er ist mein Vater“Zur Negation der Kopula dient dak-:
+
+ʔitá galtá dak-kít-e „ich bin kein alter Mann“

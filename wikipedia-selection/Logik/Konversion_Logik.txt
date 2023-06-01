@@ -1,0 +1,126 @@
+Konversion (Umkehrung) ist ein Ausdruck sowohl der traditionellen Logik als auch der modernen Relationenlogik.In der traditionellen Logik bezeichnet Konversion einen unmittelbaren Schluss durch Vertauschung des Subjekts und des Prädikats in kategorialen Sätzen (Aussagen, Urteilen).
+Man unterscheidet zwischen einfacher und eingeschränkter Konversion, wobei jeweils auf die kanonischen Sätze der aristotelischen Logik zurückgegriffen wird.Die einfache Konversion eines kategorischen Satzes entsteht dadurch, dass Subjekt und Prädikat in einem kategorialen Satz vertauscht werden.
+Nach den Gesetzen der Konversion führt dies zu gültigen Schlüssen bei den E- und bei den I-Sätzen:
+(1) S e P 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   P e S (Kein S ist P. 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   Kein P ist S.)
+Beispiel: Kein Mensch ist ein Vogel. 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   Kein Vogel ist ein Mensch.
+(2) S i P 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   P i S (Einige S sind P. 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   Einige P sind S.)
+Beispiel: Einige Menschen haben einen Vogel. 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   Einige, die einen Vogel haben, sind Menschen.Bei der eingeschränkten Konversion (auch: Konversion per accidens, akzidentelle Konversion) wird in einem allgemeinen kategorischen Satz das Subjekt mit dem Prädikat vertauscht und die Quantität des Satze ohne Beeinträchtigung ihrer Qualität verändert. Das "a" wird durch "i" bzw. "e" durch "o" ersetzt.(1) S a P ⇒ P i S.
+Beispiel: Alle Wale sind Säugetiere. ⇒ Einige Säugetiere sind Wale.
+Die eingeschränkte Konversion aus einem A-Satz ist nur dann zulässig, wenn das Subjekt des Satzes nicht leer ist.
+(2) S e P ⇒ P o S.
+Beispiel: Kein Mensch ist ein Fisch (= Alle Menschen sind kein Fisch) ⇒ Einige Fische sind keine Menschen.
+Die eingeschränkte Konversion aus einem E-Satz ist nur dann zulässig, wenn das Prädikat des Satzes nicht leer ist.Für einen partikulär verneinenden Satz (O-Satz) gilt kein Konversionsgesetz.In der Logik der Relationen ist die Konversion einer Relation (auch: die zur Relation R umgekehrte Relation, die Konverse, die Umkehrrelation) eine Relation, die zwischen den Gegenständen b und a besteht, wenn die Gegenstände in der Relation a und b zueinander stehen.
+Die Konverse wird verschieden symbolisiert, unter anderem durch "R´" oder durch "
+  
+    
+      
+        
+          R
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle R^{-1}}
+   " und kann dann symbolisiert definiert werden durch: 
+yR´x = xRy.
+Oder - mathematischer -: 
+für eine Relation 
+  
+    
+      
+        R
+        ⊆
+        A
+        ×
+        B
+      
+    
+    {\displaystyle R\subseteq A\times B}
+   wird die Konverse definiert als
+
+  
+    
+      
+        
+          R
+          
+            −
+            1
+          
+        
+        =
+        {
+        (
+        b
+        ,
+        a
+        )
+        ∈
+        B
+        ×
+        A
+        ∣
+        (
+        a
+        ,
+        b
+        )
+        ∈
+        R
+        }
+      
+    
+    {\displaystyle R^{-1}=\{(b,a)\in B\times A\mid (a,b)\in R\}}
+  .Beispiel 1: Die Konversion der Relation von "Ehemann von" ist die Relation "Ehefrau von".
+Beispiel 2: Die Konversion der Relation "kleiner als" ist die konverse Relation "größer als".

@@ -1,0 +1,27 @@
+De definitionibus ist eine Schrift aus dem Bereich der Logik, die in der Mitte des 4. Jahrhunderts in lateinischer Sprache erstellt wurde. Da sie in mehreren Handschriften zusammen mit logischen Ausarbeitungen des Anicius Manlius Severinus Boethius überliefert wurde, galt dieser lange Zeit als Autor (auch bei Jacques-Paul Migne: Patrologia Latina, 64). Hermann Usener belegte aber überzeugend die Autorenschaft des Gaius Marius Victorinus.(Da der Text nicht gegliedert ist, erfolgt die Zitierung nach der von Andreas Pronay in seiner Ausgabe durchgeführten Seiten- und Zeilenzählung.)
+Inhaltlich gliedert sich der Text in folgende 3 Teile:
+
+Abhandlungen über den Begriff Definition (1,1 – 16,14)
+Die 15 Deinitionsarten (16,14 – 29,12)
+Definitionsfehler (29,12 – 32,29)Victorinus definiert Definition und erläutert ihre Bedeutsamkeit innerhalb des Dialogs und der Diskussion. Er beruft sich auf Porphyrios (Isagoge), aber hauptsächlich auf Marcus Tullius Cicero (Topica, De inventione). den er auch mehrfach nennt. Schon (2,3) zitiert er als grundsätzliche Aussage:
+
+"Definitio est" ut Tullius in Topicis ait "oratio quae id quod definit expicat quid sit (Topica, §26)
+Definition ist eine sprachliche Äußerung, die von dem, was da definiert werden soll, darlegt, was es ist (Übersetzung Hans Günter Zekl)Im Hauptteil der Schrift, die 15 Definitionsarten, zitiert Victorinus zwar auch häufig Cicero, die Quellen für die griechischen Begriffe und Zitate lassen sich aber nicht bestimmen. Die Beschreibung der 15 Begriffe erfolgt zwar nach einheitlichen Gesichtspunkten, da sich die Definitionstypen aber überschneiden und einige nur knapp angerissen werden, ist die Darstellung insgesamt uneinheitlich:
+
+substantielle Definition, wie im Vorangegangenen dargestellt
+ennoematische Definition (έννοηματική), nach der Vorstellung; wobei auch die übrigen Definitionsarten als nicht-substantiell und damit ennoematisch bezeichnet werden können.
+qualitative Definition (der Mensch ist ein Wesen, das lacht)
+beschreibende Definition
+Definition durch ein einzelnes Wort (verwüsten = verheeren)
+Definition durch Differenz
+Definition durch Metapher (Die Jugend ist die Blüte des Lebens...)
+Definition durch Negation (Gott ist weder Körper noch irgendeines der Elemente noch Seele noch Geist noch Empfindung noch Verstand noch irgendeines der Dinge, die wir erfassen können)
+Definition durch kurze Vergegenwärtigung des Definitionobjektes
+Definition durch Beispiele
+mathematische Definition. Bei dem wenig aussagekräftigen Beispiel – 1/4 As ist eine Geldeinheit, der zu 1 As 3/4 As fehlen – und der unklaren Erläuterung handelt es sich möglicherweise um einen Anklang an Denkschemata, die in der Topik des Aristoteles entwickelt wurden.
+als Lob formulierte Definition (der Friede ist ungestörte Freiheit)
+Definition durch Analogie (der Mensch ist ein kleines Universum)
+Definition durch Relation
+kausale Definition (der Tag ist der Lauf der Sonne über der Erde)Im letzten Teil geht Victorinus auf Definitionsfehler ein. Ein grundsätzlicher Fehler sei es, eine Definition mit zu viel oder zu wenig Dfinitionsaussagen zu erläutern (ähnlich Cicero Topica § 29: ... Eigenschaften anführen, ... bis eine ihm eigentümliche Eigenschaft formuliert wird, die auf keinen anderen Gegenstand übertragen werden könne). Am Beispiel der Philippische Rede Ciceros gegen Marcus Antonius werden weitere Fehler aufgeführt.Das Werk wurde in der Spätantike häufig herangezogen. Sowohl Cassiodor (Institutiones divinarum et saecularium litterarum, II,3) als auch Isidor von Sevilla (Etymologiae, Buch 2,XXIX) übernahmen die 15 Definitionsarten in ihre Übersicht über das Wissen ihrer Zeit. Auch Boethius setzte sich im Kommentar zu Ciceros Topica damit auseinander. Die Rezeption der Schrift nahm aber in Früh- und Hochmittelalter ab.
+Es haben sich zahlreiche Handschriften – anonym oder im Anschluss an Schriften des Boethius – erhalten.
+Eine Textausgabe wurde 1888 von Thomas Stangl herausgegeben. 1997 editierte Andreas Pronay den Text mit ausführlicher Kommentierung und einer Übersetzung in die deutsche Sprache.Andreas Pronay (Hrsg.): C. Marius Victorinus: Liber de definitionibus, Frankfurt am Main 1997.

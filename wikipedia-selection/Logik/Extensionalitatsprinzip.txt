@@ -1,0 +1,39 @@
+Mit Extensionalitätsprinzip ist meist eine Eigenschaft einer künstlichen oder natürlichen Sprache gemeint. Man spricht hier auch von Kompositionalitätsprinzip oder Frege-Prinzip. Ein anderer, in diesem Artikel nicht behandelter Sinn ist gemeint, wenn ein Axiom der Mereologie damit bezeichnet wird.Das semantische Extensionalitätsprinzip besagt:
+
+dass die Bedeutung eines Ausdrucks einer künstlichen oder natürlichen Sprache durch seine Extension ausreichend bestimmt ist, d. h. dadurch, welche (physischen oder abstrakten) Gegenstände dieser Ausdruck benennt; und
+dass die Extension eines zusammengesetzten Ausdrucks dieser Sprache eindeutig durch die Extensionen seiner Teilausdrücke und die Art ihrer Zusammensetzung bestimmt ist.Die Bezeichnungen Kompositionalitätsprinzip und Frege-Prinzip werden jedoch oft in einem weiteren Sinn gebraucht als Extensionalitätsprinzip. Diese weitere Bedeutung wird im Artikel Frege-Prinzip thematisiert.
+Das Extensionalitätsprinzip ist ein rein deskriptives, d. h. beschreibendes Konzept, das von seinem Anspruch her auf einige Sprachen zutrifft, aber nicht auf alle Sprachen zutreffen muss. Vom Extensionalitätsprinzip unterscheidet sich die Extensionalitätsthese: Sie sagt aus, dass es zu jedem Ausdruck einer Sprache einen äquivalenten extensionalen Ausdruck gibt, dass also jede Sprache in letzter Konsequenz extensional ist. Die Extensionalitätsthese wird nicht allgemein anerkannt.
+Wenn für eine natürliche oder künstliche Sprache das Extensionalitätsprinzip gilt, dann sagt man, diese Sprache sei extensional.
+Wenn zwei Sprachausdrücke dieselbe Extension haben, dann sagt man, sie seien extensional gleich. Zum Beispiel benennen die Eigennamen „Morgenstern“ und „Abendstern“ beide den Planeten Venus: Sie sind extensional gleich.
+In Abgrenzung von der Extension ist die Intension eines Ausdrucks die Art und Weise, wie dieser Ausdruck seine Extension benennt. Es gibt unterschiedliche Sichtweisen, was genau Intension ist und wie sie sich formal fassen lässt. So definiert man intensionale Sprachen meist negativ als solche Sprachen, in denen das Extensionalitätsprinzip nicht gilt.
+Beispiele für extensionale Sprachen sind die klassische Aussagenlogik in der formalen Logik oder die Mengenlehre in der Mathematik. Demgegenüber werden natürliche Sprachen (z. B. Deutsch) normalerweise als intensional bzw. nicht extensional betrachtet: So haben die beiden Namen „Abendstern“ und „Morgenstern“ zwar dieselbe Extension, den Planeten Venus, werden aber typischerweise dennoch als unterschiedlich empfunden. Ebenso ist zum Beispiel die Sprache der Modallogik intensional, weil die Möglichkeitsoperatoren „es ist möglich, dass...“ und „es ist notwendig, dass...“ nicht wahrheitsfunktional sind, d. h. nicht durch die Extension – den Wahrheitswert – ihres Arguments eindeutig bestimmt sind.
+In der Mengenlehre sind die Mengen rein extensional bestimmt, d. h. zwei Mengen sind genau dann identisch, wenn sie dieselben Elemente haben. In der Zermelo-Fraenkel-Mengenlehre, einer verbreiteten Axiomatisierung der Mengenlehre, wird das durch das Extensionalitätsaxiom
+
+  
+    
+      
+        ∀
+        A
+        ,
+        B
+        :
+        A
+        =
+        B
+        ↔
+        ∀
+        C
+        :
+        (
+        C
+        ∈
+        A
+        ↔
+        C
+        ∈
+        B
+        )
+      
+    
+    {\displaystyle \forall A,B:A=B\leftrightarrow \forall C:(C\in A\leftrightarrow C\in B)}
+  ausgedrückt. Gelegentlich werden die Wörter „Extensionalitätsaxiom“ und „Extensionalitätsprinzip“ synonym verwendet.

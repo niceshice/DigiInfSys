@@ -1,0 +1,315 @@
+Die Klauselform oder Klauselnormalform beschreibt in der Logik eine Formel in konjunktiver Normalform (KNF), bei der die Konjunktionen jeweils in Mengenschreibweise zusammengefasst wurden.
+Eine Formel in Klauselform (selten auch Klausenform) ist eine logische Verknüpfung von Literalen, notiert als disjunktive Normalform oder konjunktive Normalform, wobei festgelegt ist, dass die leere verallgemeinerte Disjunktion interpretiert den Wahrheitswert falsch ergibt und die leere verallgemeinerte Konjunktion interpretiert den Wahrheitswert wahr ergibt.
+Klauselnormalformen sind über eine Transformation erstellbar und dienen zur maschinellen Beweisführung über logischen Formeln.(
+        (
+        a
+        ∨
+        b
+        )
+        ∧
+        (
+        b
+        ∨
+        c
+        )
+        ∧
+        (
+        a
+        ∨
+        ¬
+        d
+        ∨
+        ¬
+        e
+        )
+        ∧
+        d
+        )
+      
+    
+    {\displaystyle ((a\vee b)\wedge (b\vee c)\wedge (a\vee \neg d\vee \neg e)\wedge d)}
+  
+
+ist eine Formel in KNF, welche in Klauselform einfach so dargestellt wird:
+  
+    
+      
+        {
+        {
+        a
+        ,
+        b
+        }
+        ,
+        {
+        b
+        ,
+        c
+        }
+        ,
+        {
+        a
+        ,
+        ¬
+        d
+        ,
+        ¬
+        e
+        }
+        ,
+        {
+        d
+        }
+        }
+      
+    
+    {\displaystyle \{\{a,b\},\{b,c\},\{a,\neg d,\neg e\},\{d\}\}}Die aussagenlogische Formel 
+  
+    
+      
+        ¬
+        (
+        P
+        ∨
+        (
+        ¬
+        (
+        P
+        ∧
+        Q
+        )
+        ∧
+        ¬
+        R
+        )
+        )
+      
+    
+    {\displaystyle \neg (P\lor (\neg (P\land Q)\land \neg R))}
+   soll in konjunktive Klauselform transformiert werden (verallgemeinerte Konjunktion):
+
+  
+    
+      
+        {
+        ¬
+        (
+        P
+        ∨
+        (
+        ¬
+        (
+        P
+        ∧
+        Q
+        )
+        ∧
+        ¬
+        R
+        )
+        )
+        }
+      
+    
+    {\displaystyle \{\neg (P\lor (\neg (P\land Q)\land \neg R))\}}
+  
+
+  
+    
+      
+        {
+        {
+        ¬
+        P
+        }
+        ,
+        {
+        ¬
+        (
+        ¬
+        (
+        P
+        ∧
+        Q
+        )
+        ∧
+        ¬
+        R
+        )
+        }
+        }
+      
+    
+    {\displaystyle \{\{\neg P\},\{\neg (\neg (P\land Q)\land \neg R)\}\}}
+  
+
+  
+    
+      
+        {
+        {
+        ¬
+        P
+        }
+        ,
+        {
+        ¬
+        ¬
+        (
+        P
+        ∧
+        Q
+        )
+        ,
+        ¬
+        ¬
+        R
+        }
+        }
+      
+    
+    {\displaystyle \{\{\neg P\},\{\neg \neg (P\land Q),\neg \neg R\}\}}
+  
+
+  
+    
+      
+        {
+        {
+        ¬
+        P
+        }
+        ,
+        {
+        (
+        P
+        ∧
+        Q
+        )
+        ,
+        R
+        }
+        }
+      
+    
+    {\displaystyle \{\{\neg P\},\{(P\land Q),R\}\}}
+  
+
+  
+    
+      
+        {
+        {
+        ¬
+        P
+        }
+        ,
+        {
+        P
+        ,
+        R
+        }
+        ,
+        {
+        Q
+        ,
+        R
+        }
+        }
+      
+    
+    {\displaystyle \{\{\neg P\},\{P,R\},\{Q,R\}\}}Hornklauseln stellen eine spezielle Klauselnormalform dar, bei der jede Klausel maximal ein positives Literal enthält.
+
+negative Hornklausel: Klausel enthält kein positives Literal
+positive Hornklausel: Klausel enthält ein positives LiteralDiese Schreibweise ist deswegen beliebt, da sich Hornklauseln schnell in eine Menge von Implikationen umformen lassen.Hornklausel: 
+  
+    
+      
+        {
+        {
+        a
+        ,
+        ¬
+        b
+        }
+        ,
+        {
+        ¬
+        c
+        ,
+        ¬
+        d
+        }
+        ,
+        {
+        b
+        }
+        }
+      
+    
+    {\displaystyle \{\{a,\neg b\},\{\neg c,\neg d\},\{b\}\}}
+  
+Äquivalenter Ausdruck: 
+  
+    
+      
+        (
+        ¬
+        a
+        ⇒
+        ¬
+        b
+        )
+        ∧
+        (
+        c
+        ⇒
+        ¬
+        d
+        )
+        ∧
+        (
+        t
+        r
+        u
+        e
+        ⇒
+        b
+        )
+      
+    
+    {\displaystyle (\neg a\Rightarrow \neg b)\wedge (c\Rightarrow \neg d)\wedge (true\Rightarrow b)}
+  
+Weitere mögliche Schreibweise: 
+  
+    
+      
+        (
+        b
+        ⇒
+        a
+        )
+        ∧
+        (
+        c
+        ∧
+        d
+        ⇒
+        f
+        a
+        l
+        s
+        e
+        )
+        ∧
+        (
+        t
+        r
+        u
+        e
+        ⇒
+        b
+        )
+      
+    
+    {\displaystyle (b\Rightarrow a)\wedge (c\wedge d\Rightarrow false)\wedge (true\Rightarrow b)}

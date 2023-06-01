@@ -1,0 +1,483 @@
+Die Temporale Logik der Aktionen (TLA) ist eine Weiterentwicklung der Temporalen Logik (engl. temporal logic) und der Logik der Aktionen (engl. logic of actions). Sie wurde von Leslie Lamport entwickelt.
+Die Temporale Logik der Aktionen gehört zur Aussagenlogik (engl. propositional logic) und wird in der Informatik zur Spezifikation, Argumentation und Verifikation von Systemen (z. B. Programmen) verwendet. Eine Spezifikation in TLA ist eine logische Formel, die alle möglichen und korrekten Verhalten eines Systems beschreibt. Anhand dieser logischen Formel können Systeme auf unerwünschte und gewünschte Eigenschaften geprüft werden.Es gelten die Symbole der booleschen Algebra und weitere SymboleIm Folgenden sind z, u Zustände, f Zustandsfunktionen, A Aktionen, F, G Formeln, p Prädikate, v Variablen und 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   Verhalten.
+Sei f eine Zustandsfunktion oder ein Prädikat, f' ist dann der Ausdruck f, in dem alle Variablen durch gestrichene Variablen ersetzt wurden.
+
+  
+    
+      
+        
+          
+            [
+            A
+            ]
+          
+          
+            f
+          
+        
+      
+    
+    {\displaystyle {\lbrack A\rbrack }_{f}}
+   ist ein Stotterschritt, der den Wert der Variablen unverändert lässt (engl. stuttering step).
+
+  
+    
+      
+        
+          
+            ⟨
+            A
+            ⟩
+          
+          
+            f
+          
+        
+      
+    
+    {\displaystyle {\langle A\rangle }_{f}}
+   ist ein Schritt, der die Zustandsfunktion verändert.
+Für jede Aktion A ist ein Prädikat Enabled A definiert. Es ist in einen Zustand nur dann true, wenn es möglich ist von diesem Zustand aus einen A-step auszuführen. D.h. Enabled A ist im Zustand z true, falls ein Zustand u existiert, so dass 
+  
+    
+      
+        ⟨
+        z
+        ,
+        u
+        ⟩
+      
+    
+    {\displaystyle \langle z,u\rangle }
+   ein A step ist. In einem Verhalten ist ein Prädikat nur dann true, wenn es in dem ersten Zustand true ist.Eine Sicherheitseigenschaft garantiert, dass unerwünschte Zustände niemals erreicht werden.
+Eine Lebendigkeitseigenschaft garantiert, dass erwünschte Zustände irgendwann erreicht werden.
+In einem nebenläufigen System unterscheidet man zwischen schwacher und starker Fairness.
+Schwache Fairness (engl. weak fairness, justice) bedeutet, dass eine Aktion unendlich oft ausgeführt werden muss, wenn die Ausführung dieser ab einem bestimmten Zeitpunkt immer möglich ist. Anders: Wird eine Aktion nur endlich oft ausgeführt, so ist diese in einem Verhalten unendlich oft nicht ausführbar. Sie sichert zu, dass die Aktion schließlich ausgeführt wird oder, dass dessen Ausführung unmöglich wird – wenn auch nur für eine bestimmte Zeitspanne.
+Starke Fairness (engl. strong fairness, compassion) bedeutet, dass eine Aktion unendlich oft ausgeführt werden muss, wenn die Ausführung dieser unendlich oft möglich ist. Anders: Wird eine Aktion nur endlich oft ausgeführt, so ist diese in einem Verhalten nur endlich oft ausführbar. Es versichert, dass die Aktion schließlich ausgeführt wird oder, dass dessen Ausführung schließlich für immer unmöglich wird.
+Ist ein Verhalten stark fair bezüglich einer Aktion, so ist es auch schwach fair für diese Aktion.var x=0, y=0
+doParallel({x:=x+1},{y:=y+1})
+Oben stehendes Program in Pseudocode soll in paralleler Verarbeitung (nichtdeterministisch) entweder zu x oder zu y 1 addieren.
+Damit eine TLA - Spezifikation angegeben werden kann, müssen erst die Zustandsfunktionen und Aktionen definiert werden.
+In diesem Beispiel reicht ein Zustand, der gleichzeitig der Anfangszustand ist.
+
+  
+    
+      
+        I
+        n
+        i
+        
+          t
+          
+            ϕ
+          
+        
+        =
+        (
+        x
+        =
+        0
+        )
+        ∧
+        (
+        y
+        =
+        0
+        )
+      
+    
+    {\displaystyle Init_{\phi }=(x=0)\land (y=0)}
+  
+Die parallel ablaufenden Additionen können in zwei Aktionen 
+  
+    
+      
+        
+          M
+          
+            1
+          
+        
+        ,
+        
+          M
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M_{1},M_{2}}
+   beschrieben werden.
+
+  
+    
+      
+        
+          M
+          
+            1
+          
+        
+        
+          
+            
+              =
+              ^
+            
+          
+        
+        (
+        
+          x
+          ′
+        
+        =
+        x
+        +
+        1
+        )
+        ∧
+        (
+        
+          y
+          ′
+        
+        =
+        y
+        )
+        ,
+      
+    
+    {\displaystyle M_{1}{\hat {=}}(x'=x+1)\land (y'=y),}
+  
+  
+    
+      
+        
+          M
+          
+            2
+          
+        
+        
+          
+            
+              =
+              ^
+            
+          
+        
+        (
+        
+          y
+          ′
+        
+        =
+        y
+        +
+        1
+        )
+        ∧
+        (
+        
+          x
+          ′
+        
+        =
+        x
+        )
+        ,
+      
+    
+    {\displaystyle M_{2}{\hat {=}}(y'=y+1)\land (x'=x),}
+  
+  
+    
+      
+        M
+        =
+        
+          M
+          
+            1
+          
+        
+        ∨
+        
+          M
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M=M_{1}\lor M_{2}}
+  
+Zum Schluss werden noch Fairnessbedingungen spezifiziert. SF als starke Fairness und WF als schwache Fairness.
+
+  
+    
+      
+        S
+        
+          F
+          
+            ⟨
+            x
+            ,
+            y
+            ⟩
+          
+        
+        (
+        
+          M
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle SF_{\langle x,y\rangle }(M_{1})}
+  
+  
+    
+      
+        S
+        
+          F
+          
+            ⟨
+            x
+            ,
+            y
+            ⟩
+          
+        
+        (
+        
+          M
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle SF_{\langle x,y\rangle }(M_{2})}
+  
+Aus diesen drei Bestandteilen erhalten wir folgende TLA-Formel:
+
+  
+    
+      
+        I
+        n
+        i
+        
+          t
+          
+            ϕ
+          
+        
+        =
+        (
+        x
+        =
+        0
+        )
+        ∧
+        (
+        y
+        =
+        0
+        )
+      
+    
+    {\displaystyle Init_{\phi }=(x=0)\land (y=0)}
+  
+  
+    
+      
+        
+          M
+          
+            1
+          
+        
+        
+          
+            
+              =
+              ^
+            
+          
+        
+        (
+        
+          x
+          ′
+        
+        =
+        x
+        +
+        1
+        )
+        ∧
+        (
+        
+          y
+          ′
+        
+        =
+        y
+        )
+        
+          M
+          
+            2
+          
+        
+        
+          
+            
+              =
+              ^
+            
+          
+        
+        (
+        
+          y
+          ′
+        
+        =
+        y
+        +
+        1
+        )
+        ∧
+        (
+        
+          x
+          ′
+        
+        =
+        x
+        )
+      
+    
+    {\displaystyle M_{1}{\hat {=}}(x'=x+1)\land (y'=y)M_{2}{\hat {=}}(y'=y+1)\land (x'=x)}
+  
+  
+    
+      
+        M
+        =
+        
+          M
+          
+            1
+          
+        
+        ∨
+        
+          M
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M=M_{1}\lor M_{2}}
+  
+  
+    
+      
+        ϕ
+        
+          
+            
+              =
+              ^
+            
+          
+        
+        I
+        n
+        i
+        
+          t
+          
+            ϕ
+          
+        
+        ∧
+        ◻
+        
+          
+            [
+            M
+            ]
+          
+          
+            ⟨
+            x
+            ,
+            y
+            ⟩
+          
+        
+        ∧
+        S
+        
+          F
+          
+            ⟨
+            x
+            ,
+            y
+            ⟩
+          
+        
+        (
+        
+          M
+          
+            1
+          
+        
+        )
+        ∧
+        S
+        
+          F
+          
+            ⟨
+            x
+            ,
+            y
+            ⟩
+          
+        
+        (
+        
+          M
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \phi {\hat {=}}Init_{\phi }\land \Box {\lbrack M\rbrack }_{\langle x,y\rangle }\land SF_{\langle x,y\rangle }(M_{1})\land SF_{\langle x,y\rangle }(M_{2})}

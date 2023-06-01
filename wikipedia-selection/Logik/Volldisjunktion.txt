@@ -1,0 +1,108 @@
+Als Volldisjunktion (auch: Maxterm) bezeichnet man in der Aussagenlogik einen speziellen Disjunktionsterm, d. h. eine Anzahl von Literalen, die alle durch ein logisches Oder (
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \vee }
+  ) verknüpft sind. Dabei müssen alle 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Variablen der betrachteten 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stelligen Booleschen Funktion im Disjunktionsterm vorkommen, um von einer Volldisjunktion sprechen zu können. Beispiele sind:
+
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ∨
+        
+          e
+          
+            2
+          
+        
+      
+    
+    {\displaystyle e_{1}\vee e_{2}}
+  
+
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ∨
+        ¬
+        
+          e
+          
+            2
+          
+        
+        ∨
+        
+          e
+          
+            3
+          
+        
+      
+    
+    {\displaystyle e_{1}\vee \neg e_{2}\vee e_{3}}
+  
+
+  
+    
+      
+        ¬
+        
+          e
+          
+            1
+          
+        
+        ∨
+        
+          e
+          
+            2
+          
+        
+        ∨
+        
+          e
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \neg e_{1}\vee e_{2}\vee e_{3}}
+  Volldisjunktionen lassen sich zu einer konjunktiven Normalform zusammensetzen.In folgender Tabelle ist der Unterschied zwischen der Maxterm- und Mintermdarstellung ersichtlich:
+
+Realisierung von Schaltungen mit Mintermen / Maxtermen:
+
+Es existieren auch Vollkonjunktionen.

@@ -1,0 +1,189 @@
+Unter Informationswert versteht man in der Entscheidungstheorie die Informationskosten, die ein Entscheidungsträger höchstens aufbringen darf, ohne dass die Informationsbeschaffung für seine Entscheidung nachteilig wird. Positiv ausgedrückt stellt er den Wert dar, den die Verbesserung einer Entscheidung durch die zusätzlich beschafften Informationen erhält.Entscheidungen können nur aufgrund vorliegender Informationen und Daten getroffen werden. Information ist in diesem Zusammenhang „entscheidungsorientiertes Wissen“. Informationen sind nur dann nutzlos, wenn sie keinen Rückschluss auf einen künftigen Umweltzustand erlauben. 
+Die Beschaffung von Informationen und Daten ist nicht immer kostenlos, sondern löst Informationskosten aus. Informationskosten entstehen durch die Suche, Beschaffung und Verwendung (Speicherung, Verarbeitung, Übertragung) von Informationen im Vorfeld einer Entscheidung. Das können tatsächliche Kosten sein wie etwa Telefongebühren (bei Kommunikationsmitteln) oder für das Gutachten eines Wirtschaftsprüfers (als Informationsträger). Zudem muss die richtige (entscheidungsrelevante) Information durch den Entscheidungsträger aus der Vielzahl von weiteren Informationen durch zeitaufwendige Suchverfahren herausgefiltert, durch Zuordnungsentscheidung gespeichert und durch EDV verarbeitet werden. Der hierbei verbrauchte Zeitaufwand gilt betriebswirtschaftlich als Opportunitätskosten, die ebenfalls zu den Informationskosten gehören.Entscheidungsrelevante Informationen muss ein Entscheidungsträger vor seiner Entscheidung beschaffen und auswerten. Dabei hat er abzuwägen, ob im Hinblick auf den Informationsnutzen die Kosten angemessen sind. Unter Informationsnutzen versteht man die Veränderung des Zielerreichungsgrades, die durch die Berücksichtigung einer zusätzlichen Information bei der Entscheidungsfindung herbeigeführt werden kann. Anders ausgedrückt spiegelt die Differenz von Informationsnutzen und Informationskosten den Informationswert wider. Informationswert ist der kritische Wert, für den ein Entscheidungsträger indifferent ist zwischen dem Erhalt einer Information und ihrem Nicht-Erhalt. Die Informationsbeschaffung bei der Entscheidungsvorbereitung ist demnach nur solange effizient, bis die Grenzkosten der letzten Information 
+  
+    
+      
+        
+          K
+          
+            g
+          
+        
+      
+    
+    {\displaystyle K_{g}}
+   deren Grenznutzen 
+  
+    
+      
+        
+          N
+          
+            g
+          
+        
+      
+    
+    {\displaystyle N_{g}}
+   entsprechen:
+
+  
+    
+      
+        
+          
+            K
+            
+              g
+            
+          
+        
+      
+    
+    {\displaystyle {K_{g}}}
+   = 
+  
+    
+      
+        
+          
+            N
+            
+              g
+            
+          
+        
+      
+    
+    {\displaystyle {N_{g}}}
+  .In dieser Situation werden keine weiteren Informationen mehr beschafft, das Entscheidungsproblem ist entscheidungsreif.Der Informationswert wurde erstmals von Jacob Marschak im Jahre 1954 vorgeschlagen und aus betriebswirtschaftlicher Sicht in das deutschsprachige Schrifttum 1969 von Horst Albach eingeführt. Marschak verstand hierunter die Ergebnisveränderung, die mit Hilfe einer entsprechenden Information erwartet werden kann. 
+Helmut Krcmar zufolge lassen sich drei Arten von Informationswerten unterscheiden:
+Normativer Informationswert: er ist die Differenz zwischen dem Wert der optimalen Handlungsalternative nach Information und dem Wert der vor der Informationsbeschaffung optimalen Alternative. Durch die Informationsbeschaffung können zusätzliche Handlungsalternativen gefunden oder bisherige ausgeschlossen werden.
+Realistischer Informationswert ist der Gewinn, der durch eine Entscheidung erwirtschaftet wird, welcher durch Nutzung einer bestimmten Information entstanden ist.
+Ein subjektiver Informationswert ist vom Wissens- und Erfahrungsstand eines Entscheidungsträgers abhängig, kommt bei Entscheidungen unter Zeitdruck zustande und ist einer wissenschaftlichen Analyse schwer zugänglich.Der Informationswert bezieht sich stets auf die Entscheidungssituation vor Kenntnis des Informationsinhalts. Der Informationswert 
+  
+    
+      
+        I
+        W
+      
+    
+    {\displaystyle IW}
+   ergibt sich – bei Risikoneutralität des Entscheidungsträgers – als Differenz zwischen dem Gewinnerwartungswert (vor Abzug der Informationskosten) bei Entscheidung mit Informationsbeschaffung 
+  
+    
+      
+        E
+        I
+      
+    
+    {\displaystyle EI}
+   und dem Gewinnerwartungswert bei Entscheidung ohne Informationsbeschaffung 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  : 
+
+  
+    
+      
+        
+          
+            IW
+          
+        
+        =
+        
+          
+            
+              EI
+            
+          
+          −
+          
+            
+              E
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{IW}}={{\mbox{EI}}-{\mbox{E}}}}
+  Der Erhalt einer kostenlosen Information 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   kann einen Entscheidungsträger nicht schlechter stellen:
+
+  
+    
+      
+        
+          I
+        
+      
+    
+    {\displaystyle {I}}
+   ≥  
+  
+    
+      
+        
+          0
+        
+      
+    
+    {\displaystyle {0}}
+  Der Erwerb kostenpflichtiger Informationen ist hingegen solange vorteilhaft, wie der Informationswert 
+  
+    
+      
+        I
+        W
+      
+    
+    {\displaystyle IW}
+   höher ist als die Informationskosten 
+  
+    
+      
+        I
+        K
+      
+    
+    {\displaystyle IK}
+  :
+
+  
+    
+      
+        
+          I
+          W
+        
+      
+    
+    {\displaystyle {IW}}
+   ≥ 
+  
+    
+      
+        
+          I
+          K
+        
+      
+    
+    {\displaystyle {IK}}
+  Der Nutzen zusätzlich beschaffter Informationen lässt eine gefällte Entscheidung an Effektivität gewinnen. Der Informationswert zusätzlicher Information ist jedoch gleich Null, wenn diese keine Verbesserung der Entscheidung hervorruft. Allerdings bestätigt sie den Entscheidungsträger in seiner Entscheidung, führt somit zur Verringerung der Ungewissheit. Der Informationswert ist maximal, wenn die Information vollkommen ist und deshalb der wahre Erwartungswert einer Entscheidung erreicht werden kann. In den meisten Entscheidungssituationen gibt es jedoch keine vollkommenen (sicheren) Informationen, zumindest sind die Informationskosten vollkommener Informationen so hoch, dass deren Beschaffung von vorneherein ausgeschlossen werden kann.Übersteigen jedoch die Informationskosten den Informationswert, wird der Entscheidungsträger vom Erwerb der Information absehen und auf der Grundlage der bereits vorhandenen Informationen entscheiden. Berücksichtigt man die Informationskosten, ist eine Informationsbeschaffung dann vorteilhaft, wenn der Informationswert höher ist als die Informationskosten.Voraussetzung für diese Aussagen ist die Risikoneutralität des Entscheidungsträgers. Andere Ergebnisse zeigen sich, wenn er risikoavers oder risikofreudig ist: der Risikofreudige neigt dazu, weniger Informationen zu beschaffen, so dass für ihn der Informationswert keine besondere Bedeutung besitzt und umgekehrt.Aus der ex ante-Betrachtung von Informationswert und Informationskosten können in Form des Informationsparadoxons Widersprüche auftreten.
+Vor Beschaffung einer Information ist ihr Informationswert noch unbekannt, so dass sich ihr Informationswert erst nach Beschaffung ergibt und sich dann als entscheidungsunerheblich herausstellen könnte. Ein positiver Informationswert setzt Dieter Schneider zufolge voraus, dass durch die Nutzung der Information sich eine Entscheidung für die Handlungsalternative x in eine für y ändert. Ob eine Information einen Informationswert in diesem Sinne hat, erfährt der Entscheidungsträger erst später.
+Sammelt ein Entscheidungsträger Informationen nur deshalb, um seine intuitive Entscheidung zu unterstützen oder rechtfertigen, wird die Entscheidung durch die Informationen nicht verbessert, ihr Informationswert ist Null.
+Der Informationswert hängt schließlich vom physiologischen Zustand des Entscheidungsträgers ab (Übermüdung, Krankheit), von der Art der Aufbereitung von Informationen (wissenschaftlich, volkstümlich) und wie er sie versteht.

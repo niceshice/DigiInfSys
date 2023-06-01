@@ -1,0 +1,9 @@
+Als Emendation (von lateinisch emendatio  ‚Verbesserung‘) wird in der Editionsphilologie (Textkritik) die Korrektur von Fehlern in Texten durch einen Herausgeber bezeichnet.
+Bei der Edition von älteren handschriftlichen Manuskripten gibt es oft das Problem, dass Schriftzeichen, Wörter oder ganze Sätze durch Stockflecken, Tintenkleckse oder Wurmfraß unleserlich geworden sind. Hinzukommen können einfache Schreibfehler. Wenn ein zu edierender Text nur abschriftlich überliefert ist, kann außerdem von Abschreibefehlern ausgegangen werden.
+Diese Stellen können bei der Edition emendiert (korrigiert) werden, soweit der Originaltext sinnvoll erschlossen werden kann. Im günstigsten Fall gibt es mehrere Abschriften eines Textes, die  miteinander verglichen werden können. Anhand der Fehler in den Abschriften lassen sich oft auch deren Chronologie und Abhängigkeit untereinander ermitteln (Stemma, der ‚Stammbaum‘ der Abschriften). Kann eine Textstelle nicht rekonstruiert werden, wird diese im Drucktext markiert.
+Werden gedruckte Texte in einer philologisch edierten Neuauflage herausgegeben, werden beispielsweise eindeutige Druckfehler berichtigt. Liegen mehrere frühe Druckfassungen eines Textes vor (wie zum Beispiel bei den Werken William Shakespeares), werden diese miteinander verglichen. Der Herausgeber muss dann von Einzelfall zu Einzelfall (Wort für Wort, Buchstabe für Buchstabe) entscheiden, welche Fassung er übernimmt.
+Eine kritische Ausgabe von Texten weist Emendationen im kritischen Apparat nach, das heißt in einem speziellen Anhang oder am Fuß der Seite.
+Die inhaltliche und stilistische Korrektur eines Textes nennt man Konjektur (‚Vermutung‘, ‚Deutung‘).
+
+
+== Weblinks ==

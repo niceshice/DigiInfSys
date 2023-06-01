@@ -1,0 +1,81 @@
+Als Widerlegungstheorem bezeichnet man ein logisches Theorem, welches eine Grundlage für eine Kette von deduktiven Schlussfolgerungen in der Aussagen- und Prädikatenlogik liefert. Derartige Schlussketten werden auch als Beweise bezeichnet. Das Widerlegungstheorem bildet eine komplementäre Formulierung des Folgerungstheorems. Seine besondere Bedeutung hat das Widerlegungstheorem im Kontext einer Automatisierung deduktiven Schließens erlangt. Es spielt daher eine zentrale Rolle in der Forschung zur Künstlichen Intelligenz. Im Detail besagt es Folgendes:
+Eine Formel 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   ist genau dann eine Folgerung der Formeln 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A_{1},A_{2},...,A_{n}}
+  , wenn die Formel 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ∧
+        
+          A
+          
+            2
+          
+        
+        ∧
+        .
+        .
+        .
+        ∧
+        
+          A
+          
+            n
+          
+        
+        ∧
+        
+          
+            B
+            ¯
+          
+        
+      
+    
+    {\displaystyle A_{1}\wedge A_{2}\wedge ...\wedge A_{n}\wedge {\overline {B}}}
+   nicht erfüllbar (d. h. inkonsistent) ist.
+Als Widerlegungsverfahren oder Widerlegungskalkül (engl.: refutational calculus) bezeichnet man Verfahren zum Beweis mathematisch-logischer Theoreme, die auf dem Widerlegungstheorem beruhen. Dabei wird eine zu beweisende Aussage negiert in eine bestehende Formelmenge aufgenommen und zu zeigen versucht, dass die resultierende Formelmenge unerfüllbar ist.
+Bekannte Widerlegungsverfahren sind das Resolutionsverfahren und der Baumkalkül.

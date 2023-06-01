@@ -1,0 +1,241 @@
+Die blumesche Formel dient zur Sachwertbestimmung eines Waldes oder Baumbestandes unter Verwendung der Alterswertfaktoren. Sie liefert den Alterswert ausgedrückt in Werteinheit je Flächeneinheit, z. B. Euro je Hektar.
+Die Formel lautet  
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+        =
+        (
+        (
+        
+          A
+          
+            u
+          
+        
+        −
+        c
+        )
+        ⋅
+        f
+        +
+        c
+        )
+        ⋅
+        b
+        f
+        ⋅
+        h
+        a
+      
+    
+    {\displaystyle A_{i}=((A_{u}-c)\cdot f+c)\cdot bf\cdot ha}
+  
+Es bedeuten
+
+Ai: Sachwert im Alter des Waldbestandes im Alter i (Jahre seit Bestandesbegründung)
+Au: Abtriebswert im Alter der Umtriebszeit einer Baumart (Teilbestand eines Waldes)
+c:  Kulturkosten (Pflanzen- und Pflanzungskosten)
+f:  zutreffender Alterswertfaktor für Baumart, Massenleistung dieser Baumart und Baumartalter (im Alter i)
+bf: Bestockungsfaktor [Zahl zwischen 0 und 1]: Vergleich des tatsächlichen Flächenvorrates mit jenem Flächenvorrat, der gemäß einer forstlichen Ertragstafel vorhanden sein sollte, gekappt bei 1,0. (Im Unterschied hiervon wird der statische Bestockungsgrad nicht gekappt)
+ha: Fläche, üblicherweise ausgedrückt in HektarDiese Formel entspricht der Vorgabe der Waldbewertungsrichtlinie der BDR (Stand 2007).
+In der Praxis ist die Formel modifiziert und weiterentwickelt worden. 
+1. Der Hektarwert wird mit prozentualen Zu- oder Abschlägen (w %) versehen. Dies ist oft einfacher als eine komplizierte Neubestimmung des Au-Wertes (Wertästungen, stockschlägige Bestände, Nichtwirtschaftswald).
+Die modifizierte blumeschen Formel lautet
+
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+        =
+        (
+        (
+        
+          A
+          
+            u
+          
+        
+        −
+        c
+        )
+        ⋅
+        f
+        +
+        c
+        )
+        ⋅
+        b
+        f
+        ⋅
+        w
+        %
+        ⋅
+        h
+        a
+      
+    
+    {\displaystyle A_{i}=((A_{u}-c)\cdot f+c)\cdot bf\cdot w\%\cdot ha}
+  2. Bei Beständen mit Bestockungsgrad statisch über 1,0 wird der Abtriebswert der überschießenden Holzmasse dem Alterswert zugeschlagen (Wert des Massenüberhanges).
+3. Die Kulturen werden dynamisch bewertet, d. h., es wird aus c und Au der Kulturverkehrswert hergeleitet. Hierbei wird das Tauschwertverhältnis Au zu c berücksichtigt (= KAT %).
+Die Formel lautet für Fichte, Tanne und Douglasie:
+
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+        =
+        
+          (
+          
+            (
+            
+              A
+              
+                u
+              
+            
+            −
+            c
+          
+          )
+        
+        ⋅
+        f
+        +
+        
+          (
+          
+            c
+            +
+            
+              
+                
+                  A
+                  
+                    u
+                  
+                
+                100
+              
+            
+            ⋅
+            
+              
+                
+                  K
+                  A
+                  T
+                  %
+                
+                2
+              
+            
+          
+          )
+        
+        )
+        ⋅
+        w
+        %
+        ⋅
+        b
+        f
+        ⋅
+        h
+        a
+      
+    
+    {\displaystyle A_{i}=\left((A_{u}-c\right)\cdot f+\left(c+{\frac {A_{u}}{100}}\cdot {\frac {KAT\%}{2}}\right))\cdot w\%\cdot bf\cdot ha}
+  für sonstige Baumarten:
+
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+        =
+        
+          (
+          
+            (
+            
+              A
+              
+                u
+              
+            
+            −
+            c
+          
+          )
+        
+        ⋅
+        f
+        +
+        
+          (
+          
+            c
+            +
+            2
+            ⋅
+            
+              
+                
+                  A
+                  
+                    u
+                  
+                
+                100
+              
+            
+            ⋅
+            
+              
+                
+                  K
+                  A
+                  T
+                  %
+                
+                3
+              
+            
+          
+          )
+        
+        )
+        ⋅
+        w
+        %
+        ⋅
+        b
+        f
+        ⋅
+        h
+        a
+      
+    
+    {\displaystyle A_{i}=\left((A_{u}-c\right)\cdot f+\left(c+2\cdot {\frac {A_{u}}{100}}\cdot {\frac {KAT\%}{3}}\right))\cdot w\%\cdot bf\cdot ha}
+  Bei hiebsunreifen Beständen muss der Abtriebswert zugrundegelegt werden, wenn der Abtriebswert größer ist als der Alterswert, ggf. zusammen mit dem Wert des Massenüberhanges.

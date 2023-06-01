@@ -1,0 +1,9 @@
+Die Kopula (lateinisch copula „Band“), auch Kopulaverb, kopulatives Verb, verbindendes Verb, Bindeverb, Verknüpfungswort, Satzband genannt, ist in der Grammatik ein Verb, das kein Inhaltswort ist, sondern das nur dazu dient, zusammen mit einem nichtverbalen Bestandteil (dem Prädikativum) ein Prädikat zu bilden. Im Deutschen werden die Verben „sein“, „werden“ und „bleiben“ als Kopula eingestuft.
+Manchmal werden darüber hinaus eine Reihe weiterer Verben als Kopula bezeichnet, die mit einem Prädikativum konstruiert werden, beispielsweise „aussehen“, „erscheinen“, „dünken“, „klingen“, „schmecken“, „heißen“, „gelten“, „sich vorkommen“ und „sich erweisen“.Nicht alle Sprachen erfordern die Setzung einer Kopula. Dies kann auch so ausgedrückt werden, dass (vor allem im Präsens) eine „Null-Kopula“ existiert:
+
+Russisch «Я — человек», (Ja tschelowek) – „Ich bin ein Mensch“, wörtlich: „Ich – Mensch“. An der Stelle des fehlenden „ist“ steht in der geschriebenen Sprache ein Geviertstrich.
+Ungarisch: «ő ember», „Er ist ein Mensch“, wörtlich: „Er Mensch“
+Hebräisch: «אני בן-אדם», (ani ben-adam), „Ich bin ein Mensch“, wörtlich: „Ich Sohn Adams“
+Arabisch: «أنا إنسان» (anā insān), „Ich bin ein Mensch“, wörtlich: „Ich (ein) Mensch“Der Begriff der Kopula findet sich bereits in der philosophischen Tradition, daneben hat er Entsprechungen auch in Logik, formaler Logik (veraltet: Logistik), Methodologie und Wissenschaftstheorie. Eine zentrale Rolle nimmt die Kopula auch in der Definitionslehre ein. In der Spätphilosophie des deutschen Wissenschaftstheoretikers Paul Lorenzen wird auch die durch π symbolisierte Tatkopula tut zugelassen. Der Satz:
+
+Tilman trägt mit Eimern Wasser ins Haus.gilt also als Elementarsatz, obwohl er Tätigkeitsverben (trägt, genauer: tut tragen) enthält.

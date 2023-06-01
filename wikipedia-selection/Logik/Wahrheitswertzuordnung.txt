@@ -1,0 +1,13 @@
+Als Wahrheitswertzuordnung bezeichnet man in der Aussagenlogik eine Funktion, die den Aussagen einer formalen aussagenlogischen Sprache Wahrheitswerte zuordnet. Die Wahrheitswertzuordnung ist damit der aussagenlogische Spezialfall einer Bewertungsfunktion (Denotationsfunktion).
+Beim Festlegen einer Wahrheitswertzuordnung sind zwei unterschiedliche Ansätze möglich:
+
+Die Wahrheitswertzuordnung wird nur über den atomaren Aussagen der Sprache definiert. Die Wahrheitswerte komplexer Aussagen sind dann alle jeweils aus den Wahrheitswerten der verknüpften atomaren Aussagen berechenbar (siehe Wahrheitswertefunktion).
+Die Wahrheitswertzuordnung wird über allen Aussagen der Sprache definiert. Da die Wahrheitswerte komplexer Aussagen gleichwohl aus denen der atomaren berechnet werden können, sind in diesem Fall entsprechende Anpassungen der Definition einer Wahrheitswertefunktion für die Werte komplexer Aussagen zu treffen. Für die Konjunktion (Und-Verknüpfung) ∧ wäre dies z. B. die, dass für jede Wahrheitswertzuordnung F und für beliebige Aussagen A, B gilt: F(A ∧ B) = F(A) 
+  
+    
+      
+        ⋅
+      
+    
+    {\displaystyle \cdot }
+   F(B).Bei der Unterscheidung zwischen 1. und 2. handelt es sich lediglich um ein technisches Detail.

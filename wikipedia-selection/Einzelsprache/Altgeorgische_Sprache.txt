@@ -1,0 +1,83 @@
+Altgeorgisch (georgisch ძველი ქართული ენა) ist eine Vorstufe der georgischen Sprache. Unter Altgeorgisch versteht man näher das Georgische, das zwischen dem 4. und dem 11. Jahrhundert gesprochen wurde. Ab dem 11. Jahrhundert wurde das Mittelgeorgische gesprochen.Altgeorgisch verfügt mit 31 Konsonanten über ein relativ großes Inventar. Besonders bemerkenswert ist die Existenz von glottalisierten Plosiven, das sind zum Beispiel pˀ, tˀ und kˀ. Diese Art von Konsonanten ist in vielen kaukasischen Sprachen zu finden.
+Die Aussprache der altgeorgischen Konsonanten hat der der neugeorgischen stark geähnelt.
+Charakteristisch ist die Erscheinung der harmonischen Gruppen. Wenn zwei Konsonanten aufeinandertreffen, assimiliert einer bezüglich der Stimmhaftigkeit, Aspiration und Glottalisierung an den anderen. So wird zum Beispiel bei der Passivform des Verbs tˀex- ('brechen') der Vokal getilgt. Da sich dann die beiden Konsonanten in direkter Kontaktstellung befinden, assimiliert sich der zweite an den ersten:
+tˀex- → tˀx- → tˀqˀ-.
+Bei sonoranten Konsonanten kommt es gelegentlich zu Metathesen. Zum Beispiel: qrmal-i ('Schwert-NOM'), aber rqml-eb-i ('Schwerter', genauer: 'Schwert-PL-NOM').Auch die altgeorgischen Vokale wurden ähnlich den neugeorgischen artikuliert.
+
+Zu Synkopen kommt es oft, wenn vokalische Affixe angehängt werden und sich so die Silben­zahl erhöhen würde. Zum Beispiel: cˀqˀal-i ('Wasser-NOM') → cˀqˀl-is ('Wasser-GEN'). /u/ und /o/ werden in solchen Fällen zu [w] reduziert (siehe auch: Gleitlaut).Wie das Neugeorgische verfügte das Altgeorgische über dynamischen Akzent. In zweisilbigen und dreisilbigen Wörtern wurde oft die erste Silbe betont.Das Altgeorgische ist durch eine Vielzahl von Konsonantencluster gekennzeichnet. Diese Cluster finden sich sowohl wortinitial, als auch -intern oder -final. Beispiele hierfür sind mcnebaj ('Gebot') oder mkˀwircxl ('munter, frisch, lebendig') (nach Fähnrich (1991:40)). Allzu komplexe Cluster werden jedoch durch Löschung eines Lautes aufgelöst (oft werden Labiale getilgt): tkwmuli → tkmuli ('gesagt').
+Vokalcluster gibt es ebenfalls, auch sie sind an allen Stellen im Wort zu finden. Hier kommt es als nicht selten zu einem Hiatus. Zum Beispiel moaoqres ('sie verwüsteten') (Fähnrich (1991:40)).
+Wenn zwei gleiche Lautfolgen aufeinander treffen, wird meist eine davon gelöscht. Zum Beispiel: /romelta tana/ → [romeltana] ('bei denen').
+Nominalstämme haben vorrangig die Form CVC und Präfixe die Form CV-. Suffix sind meist das Spiegelbild des typischen Präfixes und haben somit oft die Form -VC. (Wobei C = Konsonant und V = Vokal.)Flexion und Derivation agieren zum allergrößten Teil mit Hilfe von Affixen. Der Synthesegrad dieser Affixe war separativ in dem Sinne, dass fast jedes Affix genau eine Bedeutung ausdrückte. Die wenigen Affixe, die zwei Bedeutungen ausdrücken konnten, lösten zusätzlich eine Alternation des Wortstammes aus.
+Durch Konkatenation (siehe auch synthetischer Sprachbau) in Verbindung mit dem separativen Synthesegrad der Affixe ergeben sich für das Altgeorgische typische lange Präfix- und Suffix­ketten.
+Arten der Wortbildung sind vollständige Reduplikation, Präfigierung, Suffigierung, oder Komposition, Vokalalternationen im Stamm.
+Das Altgeorgische verfügte über folgende Kasus, die alle durch Suffixe am Nomen kodiert wurden:
+
+Nominativ
+Ergativ (Fähnrich (1994:3): "Subjekt­kasus […] für die aktiven Verben, die in einer Form der Aorist­gruppe gebraucht werden.")
+Genitiv
+Aditiv
+Dativ
+Instrumental
+Adverbial
+VokativDie Kasusmorpheme besetzten den zweiten Suffix-Slot, somit ergibt sich folgende Reihenfolge: Stamm – Plural-Marker – Kasus-Marker.
+Auch die Verbkonjugation ist vielfältig – die Sprache verfügt über mehrere Iterative, Konjunktive und Imperative. Fakultativ kann das Verb auch mit dem indirekten und direkten Objekt kongruieren.Im Altgeorgischen gibt es kein Genus und keine grammatischen Klassen, das heißt, es gibt keine Deklinationsklassen – die Sprache ist unflexivisch. Um den Sexus (natürliches Geschlecht) auszudrücken, werden die Substantive mit entsprechenden Adjektiven kombiniert.
+Das Altgeorgische verfügte über drei Numeri, nämlich Singular, n-Plural und eb-Plural. "Man vermutet, dass der n-Plural aus einem früheren Dual hervorgegangen ist" (Fähnrich 1994:55). Singular und n-Plural unterscheiden sich durch unterschiedliche Kasussuffixe, wobei im n-Plural Ergativ, Genitiv, Aditiv, Dativ, Instrumental und Adverbial synkretisch sind. Der Name "n-Plural" leitet sich vielleicht von den Suffixen für Nominativ und Vokativ ab, bei denen jeweils ein [n] vor die Singularform gesetzt wird. Der eb-Plural wird durch einfügen von -eb- zwischen Stamm und Kasussuffix gebildet.
+Kasusmarker:
+
+Nomina, die auf l enden, benutzen im Adverbial nur -d. Nomina, die auf a enden, benutzen im Nominativ, Genitiv und Aditiv die -j-Formen.Die nachgestellten Demonstrativpronomina wurden als bestimmter Artikel verwendet. Unbestimmte Artikel gibt es nicht, wenn das Substantiv ohne Artikel auftritt, dann hat es eine unbestimmte Bedeutung. Substantive mit Artikel konnten nicht im Vokativ stehen.Adjektive kongruierten in Kasus und Numerus mit den Substantiven und waren diesen meist nachgestellt. Die Flexion war mit der der Substantive identisch.Die Pronomina der 2. Person Singular (ʃen, 'du'), 1. Person Plural (ʧʰwen, 'wir') und 2. Person Plural (tkwen, 'ihr') können nicht flektiert werden. Die dritten Personen werden durch Demonstrativpronomina ausgedrückt: ese ('dieser'), ege ('der da', zwischen 'dieser' und 'jener') und igi/isi ('jener'). Diese Pronomina besitzen nur zwei Numeri, denn der eb-Plural existiert für sie nicht. Sobald sie dekliniert werden, kommt es zu einer Stammalternation (genauer: Suppletion).
+Pronomen der 3. Person im Singular
+
+Pronomen der 3. Person im Plural
+
+Interrogativpronomina sind vin ('wer'), raj ('was'), raodeni ('wie viel') und romeli ('welcher'). raj ist nur im Singular gebräuchlich. vin und raj besitzen keinen Instrumental.
+Relativpronomina können durch Hinzufügen folgender Elemente zu den Interrogativpronomen gebildet werden:
+
+Partikel -ca
+Partikel ese, ege oder igi (verwandt mit den Nominativformen der Demonstrativpronomina), die Wahl der Partikel hängt dabei von der Person, über die relativiert wird, vom Tempus des Verbs des Relativsatzes und von den indexikalischen, deiktischen Partikeln mi ('von Bezugspunkt weg, fern') und mo ('zum Bezugspunkt hin, nah') ab (Manning 1997:2)Das altgeorgische Verb besitzt eine sehr reiche Morphologie, die je nach Tempus verschieden ist und folgende Kategorien ausdrücken kann (nachfolgende Aufstellung nach Fähnrich 1994:78):
+
+Präverb I
+Präverb II
+Präverb III
+Subjektkongruenz-Marker
+Objektkongruenz-Marker
+Charaktervokal
+Stamm
+Marker für direktes Objekt
+Passiv
+Kausativ
+Numerus
+indirekte Rede
+Fragepartikel
+ModalpartikelDie Präverben können durch Tmesis vom restlichen Verb getrennt auftreten.Aktivische und passivische Verbformen unterscheiden sich syntaktisch durch unterschiedliche Kasuszuweisungen. Verben im Passiv weisen dem Subjekt den Nominativ und (dem eventuell vorhandenen) indirekten Objekt den Dativ zu. Aktive Verben unterscheiden sich noch einmal bezüglich Tempus in der Kasuszuweisung:
+
+Präsens: Subjekt steht im Nominativ, Objekte stehen im Dativ
+Aorist: Subjekt steht im Ergativ, direktes Objekt steht im Nominativ und indirektes Objekt steht im Dativ
+Perfekt: Subjekt im Dativ, direktes Objekt im NominativDurch die stark ausgeprägte Morphologie ist eine relativ freie Wortstellung möglich, da die Rollen leicht zuzuordnen sind. Es zeichnet sich aber trotzdem eine Tendenz zu SOV (also: Subjekt-Objekt-Verb/Prädikat) ab.Das Altgeorgische verfügte bis 100 über ein Vigesimalsystem. Ordinalzahlen wurden auf Grundlage der Grundzahlwörter durch Anfügen des Zirkumfixes me- … -e gebildet.
+Die Grundzahlen sind:
+
+erti
+ori
+sami
+otxi
+xuti
+ekwsi
+ʃwidi
+rvaj
+cxraj
+ati
+atertmetˀi
+atormetˀi
+atsametˀi
+atotxmetˀi
+atxutmetˀi
+atekwsmetˀi
+atʃwidmetˀi
+atrvametˀi
+atcxeametˀi
+oci30 = ocdaati, 40 = ormeci, 50 = ergasisi, 60 = sameoci, 70 = sameocdaati, 80 = otxmeoci, 90 = otxmeocdaati, 100 = asi.Nach Fähnrich (1994:1) ist das Altgeorgische in drei verschiedenen Textsorten überliefert: Chanmeti-Texte (4.–7. Jhd.), Haemeti-Texte (7. und 8. Jhd.) und Sani-Texte (ab 9. Jhd.). Die verschiedenen Texte unterscheiden sich teilweise durch Gebrauch verschiedener Kongruenz-Marker.
+Altgeorgisch wurde bis zum 9. Jahrhundert in Mrglowani und danach in Nuskhuri geschrieben. Bis zum 9. Jahrhundert finden sich fast nur geistliche Schriftstücke, danach entstanden auch immer mehr philosophische und historische Dokumente.Fähnrich, H. (1994). Grammatik der altgeorgischen Sprache. Hamburg: Buske.
+Manning, H. P. (1997). Indexical operators and scope relations in the Old Georgian relative clause. Linguistics, 35, 513–563
+Zorell, F. (1930; ²1930). Grammatik zur altgeorgischen Bibelübersetzung. Rom: Päpstliches Bibelinstitut.
+
+
+== Weblinks ==

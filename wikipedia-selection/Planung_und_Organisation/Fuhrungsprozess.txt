@@ -1,0 +1,61 @@
+Der Führungsprozess ist ein Teil des Arbeitsprozesses, der von einer Führungskraft innerhalb eines Wirtschaftssubjekts personen- und sachbezogen wiederholend zu steuern ist.Wirtschaftssubjekte mit Führungsprozessen sind unter anderem Unternehmen, der Staat (Behörden, Militär: Militärischer Führungsprozess, Regierungen, Schulen/Hochschulen) und sonstige Personenvereinigungen. Führungsprozesse laufen hier unter Beachtung der Führungsziele (Unternehmensziele, Staatsziele, Kriegsziele) ab. Der Management- oder Führungsprozess umfasst die Planung, Durchführung, Steuerung und Kontrolle der Arbeitsabläufe in Wirtschaftssubjekten.
+Beim Führungsprozess im engeren Sinne handelt es sich um das gezielte Befolgen seiner einzelnen Ablaufabschnitte, ausgehend von einem Ist-Zustand bis zum Erreichen eines angestrebten Soll-Zustandes zwischen den Vorgesetzten und ihren Mitarbeitern. Grob betrachtet besteht der Führungsprozess aus der Willensbildung durch Entscheidungsvorbereitung und eigentlicher Entscheidung sowie der Willensdurchsetzung durch Veranlassung der Durchführung (Delegation auf nachgeordnete Ebenen) und Kontrolle der Durchführung.Eine Kernaufgabe des Managements besteht darin, die strategische Ausrichtung einer Organisation zu definieren. Die damit verbundenen, sachbezogenen Führungsprozesse sind in der Regel unterstützende Prozesse, damit Geschäftsprozesse wirtschaftlich und erfolgreich durchgeführt werden können.Als Führungsprozesse in Unternehmen sind zu unterscheiden:
+
+Personenbezogene Führungsprozesse, d. h. Führung von mindestens zwei Personen bzw. Führung von Teams durch Teamleiter, beispielsweise wenn eine Führungskraft unter Berücksichtigung ihrer Führungsziele bzw. der Führungssituation und unter Einsatz von Führungsinstrumenten ihre Mitarbeiter zum Erfolg führt (Führungspsychologie, Prozess der Personalführung, englisch Leadership Process).
+Sachbezogene Führungsprozesse, wenn beispielsweise eine Führungskraft entsprechend den gegebenen Zielen die Planung vollzieht, dann die Pläne umsetzt, um später im Rahmen der Kontrolle das Erreichen der Ziele zu überprüfen und zu analysieren (Managementprozess, Prozess der Unternehmensführung).Fast alle modernen Konzepte des Managements erfordern eine Prozessorientierung, dies bedeutet eine Verschiebung der Gliederung einer Organisation von traditionellen Abteilungen und Geschäftsbereichen hin zur verstärkten Entwicklung von Projektteams.Als Prozess beinhaltet der Führungsprozess festgelegte Prozessschritte, die nacheinander abgearbeitet und bei Prozessende wiederholt werden. Führungsprozesse beginnen organisatorisch mit der Formulierung von Zielen und Strategien, setzen sich fort bei der Organisation (Ablauf- und Aufbauorganisation), der Festlegung von Hierarchien, Stellenbeschreibungen und Stellenplänen, der Vergütungsstruktur oder der Formulierung von Arbeitsanweisungen/Dienstanweisungen.
+Operativ beginnt der Führungsprozess mit der Einstellung von Mitarbeitern und setzt sich fort mit deren Qualifizierung, Kontrolle, Leistungsbeurteilung, Beförderung, Disziplinarmaßnahmen und endet mit dem Arbeitszeugnis.
+Zu unterscheiden sind folgende Phasen des Führungsprozesses:Der Führungsprozess unterliegt den Führungsgrundsätzen der Effektivität, Effizienz und Wirtschaftlichkeit:
+
+  
+    
+      
+        
+          Effektivität
+        
+        =
+        
+          
+            Zielerreichung
+            Zielvorgabe
+          
+        
+      
+    
+    {\displaystyle {\text{Effektivität}}={\frac {\text{Zielerreichung}}{\text{Zielvorgabe}}}}
+  ,
+
+  
+    
+      
+        
+          Effizienz
+        
+        =
+        
+          
+            Ergebnis (Output)
+            eingesetzte Ressourcen (Input)
+          
+        
+      
+    
+    {\displaystyle {\text{Effizienz}}={\frac {\text{Ergebnis (Output)}}{\text{eingesetzte Ressourcen (Input)}}}}
+   und
+
+  
+    
+      
+        
+          Wirtschaftlichkeit
+        
+        =
+        
+          
+            entstandene Kosten
+            geplante Kosten
+          
+        
+      
+    
+    {\displaystyle {\text{Wirtschaftlichkeit}}={\frac {\text{entstandene Kosten}}{\text{geplante Kosten}}}}
+  .Der Zielerreichungsgrad spiegelt das Maß der Erfüllung des gesetzten Ziels wider und schwankt zwischen den Extremwerten „vollständige Zielerfüllung“ bis „vollständige Zielverfehlung“. Sollen beispielsweise 100 Stück pro Stunde produziert werden, tatsächlich verlassen aber nur 80 Stück die Produktionsanlage, liegt der Zielerreichungsgrad bei 80 %. Effizienz liegt nur dann vor, wenn das Ergebnis (englisch output; Ertrag) höher ist als der hierfür eingesetzte Aufwand (englisch input). Bei der Wirtschaftlichkeit von Führungszielen müssen die entstandenen Kosten möglichst deutlich unter den Plankosten liegen.Der Führungsprozess ist insbesondere in Unternehmen Bestandteil mehrerer Teilprozesse wie dem Arbeitsprozess, Geschäfts-, Kern-, Management- und Produktionsprozess.

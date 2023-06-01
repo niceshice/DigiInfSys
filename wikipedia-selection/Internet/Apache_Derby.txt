@@ -1,0 +1,26 @@
+Apache Derby ist ein Projekt der Apache Software Foundation, das ein gleichnamiges Java-basiertes, relationales Datenbank-Management-System entwickelt. Derby gehört zu den leichtgewichtigen Datenbanken, da es bei der Auslieferung nur zwei Megabyte Größe hat und sehr einfach installierbar ist. Derby kommt hauptsächlich, aber nicht ausschließlich, in Java-Projekten zum Einsatz.Die Software wurde ursprünglich von der Firma Cloudscape Inc., in Oakland (Kalifornien) unter dem Namen JBMS entwickelt. Die erste Version kam 1997 heraus. Das Produkt wurde später in „Cloudscape“ umbenannt.
+1999 wurde Cloudscape von der Firma Informix Software Inc. gekauft, deren Datenbanksparte 2001 von IBM übernommen wurde. 2004 übereignete IBM die Cloudscape-Software der Apache Software Foundation unter dem Namen „Derby“ als Freie Software.
+Ab Anfang 2005 beteiligte sich auch Sun Microsystems an Derby. 2006 wurde Derby als Java DB im Java Development Kit ab Java 6 integriert.Die wesentlichen Merkmale von Derby sind:
+
+Größe
+Der Datenbankkern in derby.jar ist komprimiert etwa 600 kB groß.
+Plattformunabhängigkeit
+Da Derby zu 100 % in Java realisiert ist, läuft es auf einer Vielzahl von Plattformen
+Einfachheit
+Derby braucht keinen Administrator, es lässt sich einfach installieren und integrieren
+Standardbasiert
+Starke Unterstützung von Standards (Java, JDBC und ANSI SQL). Derby unterstützt die Standards SQL92, SQL99 vollständig sowie SQL2003, SQL2006 und SQL2008 teilweise. Als Programmierschnittstelle für Java wird JDBC in den Versionen JDBC 3.0 bis 4.2 unterstützt. Darüber hinaus werden die Java-Standards JCE, JME, JSR-169 (JDBC Optional Package for CDC/Foundation Profile), Compact Profile2 (JEP 161) und OSGi unterstützt. Als Programmierschnittstelle für C, C++ etc. wird über das XA/DRDA-Protokoll ODBC unterstützt.
+Kompatibel
+Die Inhalte von Derby-Datenbanken sind betriebssystemübergreifend kompatibel. Man kann also beispielsweise auf Betriebssystem A eine Datenbank erstellen, die Dateien auf ein Betriebssystem B kopieren und dort weiterarbeiten. Bei den meisten herkömmlichen Datenbanken müsste dagegen erst ein sogenannter Dump der Datenbank auf A erstellt werden, der mit einem Import- oder Recovery-Werkzeug auf B eingespielt werden müsste.
+Verschlüsselung
+Derby unterstützt die Verschlüsselung sowohl der Kommunikation mit der Datenbank als auch der Datenbank-Files selbst.
+Stored Procedures und Triggers in Java
+Da die Datenbank selbst in Java geschrieben ist, ist es möglich Stored Procedures, Datenbanktrigger und Tabellen-Funktionen in Java zu schreiben. Damit ist es beispielsweise möglich, Constraints der Businesslogik in der Datenbank wiederzuverwenden.Java-Anwendungen sprechen Derby über die JDBC-Schnittstelle an. Derby kennt einen eingebetteten JDBC-Modus und einen Netzwerk-JDBC-Modus. Im ersten Fall läuft die Derby Datenbank auf derselben Java Virtual Machine und im selben Prozess wie die Applikation. Bei einer im Netzwerk-JDBC-Modus (Typ-4 JDBC Treiber) betriebenen Derby-Datenbank hingegen greifen andere Java-Anwendungen über TCP/IP auf einen Derby Netzwerk Server zu, der wiederum über DRDA auf die Derby-Datenbank zugreift. Hierbei kann Derby auch als Master-Slave-Cluster betrieben werden, um eine höhere Ausfallsicherheit zu erreichen.
+In einem dritten Modus kann Derby die Datenbank statt auf der Festplatte auch im Hauptspeicher halten. Dieser In-Memory-Datenbank-Modus ist insbesondere bei Tests vorteilhaft oder wenn die Daten nicht sofort persistiert werden müssen, weil bei dieser Betriebsart der einzelne Datenbankzugriff weitaus schneller abläuft als in den anderen Modi. Da Derby in allen drei Modi die gleiche Datenbankstruktur verwendet, kann etwa eine eingebettet angelegte Datenbank ebenso als Netzwerkdatenbank oder als In-Memory-Datenbank betrieben werden; sie wird dazu nur anders gestartet.ij
+zum Ausführen von JDBC-/SQL-Skripten
+dblook
+zum Extrahieren des Datenbankschemas
+sysinfo
+Hilfsprogramm, um Versionsnummern und den Klassenpfad anzuzeigen
+Eclipse Plug-in
+Datenbankwerkzeuge aus Eclipseaufrufen, Derby-Sicht hinzufügen

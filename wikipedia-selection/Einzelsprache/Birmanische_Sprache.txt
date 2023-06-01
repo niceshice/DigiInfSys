@@ -1,0 +1,40 @@
+Birmanisch, auch Burmesisch, ist die Amtssprache in Myanmar und wird von etwa 35 Millionen Menschen gesprochen. Darüber hinaus wird das Birmanische von vielen ethnischen bzw. sprachlichen Minderheiten in Birma als Zweitsprache neben der Muttersprache verwendet. Birmanisch verfügt über eine eigene Schrift, die sich aus der indischen Brahmi-Schrift entwickelt hat.
+Die Eigenbezeichnung der Sprache ist မြန်မာစာ (mranma ca, mja˨ɴma˨sa˨ oder bəma˨sa˨) für die geschriebene Sprache und မြန်မာစကား (mranma ca.ka:, mja˨ɴma˨səga˦ oder bəma˨səga˦) für die gesprochene Sprache.Die Verben und Nomina sind meist einsilbig und werden nicht konjugiert bzw. dekliniert. Das Verb steht in der Regel am Ende des Satzes, gefolgt von einem finalen Marker. Es gibt eine große Anzahl Lehnwörter aus dem Pali, einer mittelindischen Sprache, die gegenüber den einsilbigen birmanischen Wörtern meist mehrsilbig sind.Die Transkriptionen in diesem Abschnitt folgen dem Internationalen Phonetischen Alphabet.Die Konsonanten des Birmanischen sind wie folgt:
+
+Die Approximanten ​/⁠r⁠/​ und ​/⁠ʍ⁠/​ sind selten, ​[⁠ð⁠]​ besteht nur als stimmhaftes Allophon von ​/⁠θ⁠/​.
+Der ortlose Nasal /ɴ/ wird als Nasalierung des vorangehenden Vokals oder als zum folgenden Konsonanten homorganischer Nasallaut, /mòuɴdáiɴ/ „Sturm“ wird also [mõ̀ũndã́ĩ] ausgesprochen.Die Vokale des Birmanischen sind:
+
+Die Monophthonge ​/⁠e⁠/​, ​/⁠o⁠/​, ​/⁠ə⁠/​ und ​/⁠ɔ⁠/​ stehen nur in offenen Silben (also denen ohne Silbenkoda), die Diphthonge /ei/, /ou/, /ai/ und /au/ nur in geschlossenen Silben (denen mit Silbenkoda).Birmanisch ist eine Tonsprache, d. h. durch den Ton eines Vokals können phonemische Kontraste erzeugt werden. Im Birmanischen beziehen diese Kontraste nicht nur die Tonhöhe mit ein, sondern auch Phonation, Intensität (Lautstärke), Dauer und Vokalqualität. Das Birmanische kennt vier kontrastive Töne. In der folgenden Tabelle werden die Töne auf dem Vokal ​/⁠a⁠/​ beispielhaft gekennzeichnet, die phonetischen Beschreibungen kommen von Wheatley (1987).
+
+Die folgenden Wörter unterscheiden sich beispielsweise nur durch den Ton:
+
+Tief /kʰà/ „schütteln“
+Hoch /kʰá/ „bitter sein“
+Geknarrt /kʰa̰/ „Gebühr“
+Gehemmt /kʰaʔ/ „abziehen“In auf ​/⁠ɴ⁠/​ endenden Silben kommt der gehemmte Ton nicht vor:
+
+Tief /kʰàɴ/ „erfahren“
+Hoch /kʰáɴ/ „austrocknen“
+Geknarrt /kʰa̰ɴ/ „ernennen“Die Silbenstruktur des Birmanischen ist C(G)V((V)C), wobei C = Konsonant, G = Halbvokal, V = Vokal bedeutet. Der Silbenansatz besteht also aus einem Konsonanten, dem fakultativ ein Gleitlaut folgt, und der Silbenreim besteht aus einem Monophthong allein, einem Monophthong mit einem Konsonanten oder einem Diphthong mit einem Konsonanten. Die einzigen Konsonanten, die in der Silbenkoda stehen dürfen, sind ​/⁠ʔ⁠/​ und ​/⁠ɴ⁠/​. Als Beispielswörter dienen:
+
+CV /mè/ (Koseform für Frau)
+CVC /mɛʔ/ „begehren“
+CGV /mjè/ „Erde“
+CGVC /mjɛʔ/ „Auge“
+CVVC /màuɴ/ (Anredeform für junge Männer)
+CGVVC /mjáuɴ/ „Graben“Eine Silbe, bei der ​/⁠ə⁠/​ den Nukleus bildet, hat einige Beschränkungen:
+
+Sie muss eine offene Silbe sein (es darf kein Konsonant in der Koda stehen)
+Sie darf keinen Ton tragen
+Sie hat nur einen einfachen (C) Ansatz (es darf kein Halbvokal dem Konsonanten folgen)
+Sie darf nicht die letzte Silbe des Wortes seinBeispiele für Wörter mit ​/⁠ə⁠/​-Silben:
+
+/kʰə.louʔ/ „Taste“
+/pə.lwè/ „Flöte“
+/θə.jɔ̀/ „verspotten“
+/kə.lɛʔ/ „üppig sein“
+/tʰə.mə.jè/ „Reiswasser“Altbirmanisch bzw. Altburmesisch wurde im mittleren Irawaddy-Tal spätestens seit dem 9. Jahrhundert gesprochen. Seine Verbreitung erfolgte vom Nordosten her, wo verwandte Sprachen gesprochen werden oder wurden. Unter König Anawrahta (reg. 1044 bis 1077) in Bagan dehnte sich das Verbreitungsgebiet des Altbirmanischen nach Westen bis nach Arakan aus, das bis zum 18. Jahrhundert ein unabhängiges Königreich blieb, sowie in das südliche Irawaddy-Tal. Dort verdrängte es die Pyu-Sprache und trat neben das Mon. Heute sind die wenigen verbliebenen Sprecher des Mon auch des Birmanischen mächtig. Doch wurde dieses auch durch jenes beeinflusst. Die birmanische Schrift, das Vokabular des Buddhismus, der Politik und die Phonetik sind dem Mon entnommen.
+Infolge der Ausbreitung der birmanischen Herrschaftsräume von Bagan, Ava, Amarapura und Mandalay nach Westen, Süden und Osten wurde das Birmanische zur Sprache der Herrschenden und der Diplomaten. Im 16. Jahrhundert wandelte sich die Sprachform zum Mittelbirmanischen.
+Das älteste Schriftzeugnis des Altbirmanischen ist die viersprachige Myazedi-Inschrift in Bagan aus dem Jahre 1112. Neben königlichen Inschriften und buddhistischen Texten gab es bald auch freie Literatur, z. B. in Anlehnung an die Jatakas, aber auch weltliche Poesie und Prosa. In gewissen Zeiträumen war der Einfluss der Thai-Literatur sehr groß. Historische Texte umfassen die Glaspalast-Chronik (hmanman yasazwindawgyi), die 1829 bis 1832 aus früheren Quellen zusammengestellt wurde.
+Der Druck mit Lettern der birmanischen Schrift begann 1816/17 auf einer Druckerpresse der Missionsgesellschaft der American Baptist Churches, nachdem der Missionar Adoniram Judson und dessen Frau Ann Hasseltine Judson die Sprache ab 1812 erlernt und ein Wörterbuch erstellt hatten. Die Bibel übersetzte er bis 1834. Erste Zeitungen von nichtchristlichen Organisationen erschienen 1868 in Rangun.
+Die birmanische Sprache ist heute Amtssprache von Birma und dient für Regierung, Verwaltung und  Armee als Lingua franca. Der Grundschulunterricht findet hingegen noch häufig in einer der Minderheitensprachen statt.

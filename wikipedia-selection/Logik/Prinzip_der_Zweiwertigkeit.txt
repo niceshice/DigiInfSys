@@ -1,0 +1,57 @@
+Das Prinzip der Zweiwertigkeit, auch Bivalenzprinzip genannt, ist die Eigenschaft einer  Logik, dass semantisch jeder Formel genau einer von zwei Wahrheitswerten zugewiesen wird. Häufig werden diese Wahrheitswerte als wahr und falsch bezeichnet.
+Logiken, für die das Prinzip der Zweiwertigkeit erfüllt ist, nennt man auch zweiwertige Logiken. Ist das Prinzip der Zweiwertigkeit nicht erfüllt, spricht man von mehrwertiger Logik.
+Das Prinzip der Zweiwertigkeit ist zu unterscheiden von dem auch innerhalb mehrerer mehrwertigen Logiken gültigen Satz vom ausgeschlossenen Dritten, der besagt, dass sich P ∨ ¬P innerhalb des logischen Systems bzw. seines Kalküls syntaktisch ableiten lässt.Wenn man für einen Kalkül eine formale Semantik aufstellt, dann verwendet man für die Zuordnung von Wahrheitswerten zu Formeln eine Funktion, die Bewertungsfunktion (auch Denotationsfunktion oder Wahrheitswertefunktion) genannt wird. Für die Bewertungsfunktion wird oft das Zeichen 
+  
+    
+      
+        [
+        [
+        ⋅
+        ]
+        ]
+      
+    
+    {\displaystyle [[\cdot ]]}
+   verwendet; die zu bewertende Formel wird dabei zwischen die eckigen Klammern geschrieben. Bezeichnet man die Menge der wohlgeformten Formeln des Kalküls mit 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , dann besagt das Prinzip:
+
+  
+    
+      
+        [
+        [
+        ⋅
+        ]
+        ]
+      
+    
+    {\displaystyle [[\cdot ]]}
+   ist eine Funktion im mathematischen Sinn, die (mindestens) für ganz 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   definiert ist und die für jede wohlgeformte Formel genau einen der Wahrheitswerte „wahr“ oder „falsch“ liefert.Das Bivalenzprinzip impliziert weder, dass die Menge 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , noch dass die Bewertungsfunktion in irgendeiner Weise effektiv ermittelbar ist. Diese Frage wird auf den betrachteten Kalkül verschoben.Da die Bewertungsfunktion nicht „tatsächlich ermittelbar“ sein muss, kann es auch in einer Logik, die das Bivalenzprinzip erfüllt, Aussagen geben, deren Wahrheitswert („zum augenblicklichen Zeitpunkt“ oder sogar für immer) unbekannt ist. Ein berühmtes Diskussionsbeispiel dafür, dass dies auch innerhalb der Mathematik der Fall sein kann, ist die sog. Goldbachsche Vermutung, dass jede gerade Zahl größer als 2 als Summe zweier Primzahlen geschrieben werden kann. Es wird hier argumentiert: entweder gilt die Vermutung für die „wirklichen Natürlichen Zahlen“ oder sie gilt nicht; vielleicht muss aber ungeklärt bleiben, welches von beiden der Fall ist.
+Da die Bewertungsfunktion für alle Aussagen einen Wahrheitswert liefert, folgt der „Satz vom ausgeschlossenen Dritten“ einfach aus dem Bivalenzprinzip.Das Bivalenzprinzip ist kein normatives Prinzip, also keine Forderung, dass logische Systeme zweiwertig sein müssen, sondern
+deskriptive semantische Eigenschaft logischer Systeme. Einige logische Systeme haben diese Eigenschaft, z. B. die klassische Logik: Sie sind zweiwertig. Andere Systeme haben diese Eigenschaft nicht: Sie sind mehrwertig. 
+
+Das Bivalenzprinzip steht mit anderen Fragestellungen in Verbindung, vor allem mit metaphysischen oder mit sprachwissenschaftlichen Fragen. Ein Beispiel wäre die metaphysische Frage, ob die Wirklichkeit adäquat durch zweiwertige Logik beschrieben werden kann, ob also ein metaphysisches Bivalenzprinzip gilt – ob es eine absolute Wahrheit gibt. Solche Fragen werden in der Wissenschaftstheorie und Sprachphilosophie behandelt. Die Korrespondenztheorie der Wahrheit geht von einer objektiven, absoluten Wahrheit aus und bejaht eine solche metaphysische Idee, während die Kohärenztheorie Wahrheit als subjektive gesellschaftliche Konstruktion versteht, die nur relativ zum sozialen Standort des Betrachters existiert.
+In der Philosophie der Mathematik bezieht sich das Bivalenzprinzip insbesondere auf die Frage, ob mathematische Sätze nur Zeichenfolgen sind, die umgeformt werden, oder ob sie Aussagen über Objekte in einer mathematischen Welt machen, so wie der Satz „heute regnet es“ nach dem Realismus des Alltagsverstandes eine Aussage über die reale Welt macht. Platon war der Auffassung, dass es eine objektive ideale mathematische Welt gibt, die nach seiner Ideenlehre zur Welt der Ideen (intelligiblen Welt) gehört, welche unabhängig vom denkenden Subjekt existiert, aber für dieses grundsätzlich auf rein geistige Weise erkennbar ist. Dies wird unter anderem in Platons Höhlengleichnis erörtert. Diese Sicht wird insbesondere im Intuitionismus abgelehnt, wo die Wahrheit und Falschheit eines Satzes auf das subjektive Evidenzerlebnis bei seiner deduktiven Konstruktion reduziert wird. Karl Popper versuchte in seiner pluralistischen Ontologie (Drei-Welten-Lehre), beide Sichtweisen zu vereinen, indem er zwar anerkannte, dass mathematische Welten vom Menschen geschaffen werden, jedoch trotzdem den Standpunkt vertrat, dass die Existenz der Welt und insbesondere ihre Eigenschaften objektiv und unabhängig vom Menschen ist. Mathematische Theorien gehören somit in Poppers Welt 3, die Welt der objektiven Gehalte der menschlichen Kultur.

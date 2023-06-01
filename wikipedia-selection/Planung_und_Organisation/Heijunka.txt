@@ -1,0 +1,7 @@
+Heijunka (平準化) ist ein Begriff aus japanischen Produktionskonzepten (siehe Toyota-Produktionssystem).
+Bei Heijunka geht es um die weitgehende Harmonisierung des Produktionsflusses durch einen mengenmäßigen Ausgleich. Es handelt sich um eine Weiterführung des Heikinka, der nivellierten Produktion, bei welcher der bereits feste Produktionszyklus öfter als einmal am Tag wiederholt wird. Ohne Nivellieren kann kein Synchrones Produktionssystem geschaffen werden.
+Die Heijunka-Tafel bildet hierbei die Grundlage des Prozesses. Sie beinhaltet die Heijunka-Karten, welche ähnlich einer Kanban-Karte, alle Informationen enthält, die zur Fertigung eines Stücks oder einer gewissen Losgröße benötigt werden. Für eine nivellierte Produktion werden die Karten so gesteckt, dass sie bei einer chronologischen Abfertigung einen gleichmäßigen Produktionsmix generieren. Die Heijunka-Karten werden der Reihe nach vom Produktions- oder Logistikmitarbeiter entnommen, der alle benötigten Teile für diesen Auftrag aus dem Lager entnimmt und der Produktion bereitstellt.
+Warteschlangen und damit Liege- und Transportzeiten werden somit weitgehend vermieden. Eine Fließproduktion (Continuous-Flow-Manufacturing) mit kurzen Transportwegen ist dazu Voraussetzung. Das Konzept ist vor allem angesichts komplexer, mehrstufiger Produktion von hoher Bedeutung. Die jeweiligen Engpässe wirken hier limitierend für das ganze System (Ausgleichsgesetz der Planung) und erzeugen damit zugleich bei allen anderen Teilen Verschwendung (siehe auch: Muda).
+
+
+== Einzelnachweise ==

@@ -1,0 +1,261 @@
+Peroxomonophosphorsäure ist eine Oxosäure des Phosphors. Ihre Salze heißen Peroxomonophosphate. Sie ist neben der Peroxodiphosphorsäure eine der beiden bekannten Peroxophosphorsäuren.Die beiden Peroxophosphorsäuren wurden 1910 erstmals von J. Schmidlin und P. Massini hergestellt und beschrieben. Die Reaktion zwischen Phosphorpentoxid und hochkonzentriertem Wasserstoffperoxid verläuft allerdings sehr heftig und ist schwer kontrollierbar. Neben der Verwendung von Phosphorpentoxid sind auch Herstellungen aus Metaphosphorsäure und Diphosphorsäure erwähnt.
+
+  
+    
+      
+        
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              12
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          →
+          4
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{4}P_{4}O_{12}+4\,H_{2}O_{2}\rightarrow 4\,H_{3}PO_{5}} }
+  
+
+  
+    
+      
+        
+          
+            H
+            
+              4
+            
+          
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          →
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{4}P_{2}O_{7}+H_{2}O_{2}\rightarrow H_{3}PO_{5}+H_{3}PO_{4}} }
+  Eine Methode der Herstellung aus Phosphorpentoxid in inerten Lösungsmitteln wie Diethylether, Isoamylalkohol und Acetonitril wurde 1937 von G. Toennies beschrieben, wobei sich nur die Variante in Acetonitril als geeignet erwies.Peroxomonophosphorsäure wird durch die Umsetzung von Phosphorpentoxid mit hochkonzentriertem Wasserstoffperoxid in einem inerten Lösungsmittel wie Acetonitril oder Tetrachlormethan hergestellt.
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              10
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          4
+          
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}O_{10}+4\,H_{2}O_{2}+2\,H_{2}O\rightarrow 4\,H_{3}PO_{5}} }
+  Im Gemisch mit Peroxodiphosphorsäure entsteht sie auch bei der Behandlung von Phosphorsäure mit Fluor. Die Verbindung ist nicht kommerziell verfügbar und muss vor der Anwendung hergestellt werden.Peroxomonophosphorsäure ist eine farblose, viskose Flüssigkeit. Es erfolgt eine Stabilisierung über eine intramolekulare Wasserstoffbrückenbildung. Die Verbindung stellt eine dreibasige Säure dar. Die drei Säurekonstanten betragen pKS1 = 1,1, pKS2 = 5,5 und pKS3 = 12,8. In wässriger Lösung erfolgt eine langsame Hydrolyse zu Wasserstoffperoxid und Phosphorsäure.
+
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}PO_{5}+H_{2}O\rightarrow H_{2}O_{2}+H_{3}PO_{4}} }
+  Im Überschuss von Wasser kann die Hydrolyse als Reaktion pseudoerster Ordnung betrachtet werden. Die Halbwertszeiten der Zersetzung sind abhängig vom pH-Wert und der Temperatur. Sie betragen etwa 31 Stunden bei 35 °C bzw. 2,5 Stunden bei 61 °C. Die Lösung in Acetonitril zersetzt sich ebenfalls langsam. Bei einer Lagerung bei 5 °C erfolgt in 26 Tagen ein 30%iger Abbau. Durch Neutralisation mit Basen wie Kaliumhydroxid können relativ stabile Salze wie das hygroskopische Kaliumdihydrogenperoxomonophosphat KH2PO5 erhalten werden.In der organischen Synthese wird die Peroxomonophosphorsäure als elektrophiles Reagenz für Oxidationsreaktionen an Alkenen, Alkinen, Aromaten und Aminen verwendet. Die Herstellung relativ säurestabiler Epoxide kann aus Alkenen erfolgen. So ergibt die Umsetzung mit trans-Stilben das trans-Stilbenoxid. Die Epoxidierung funktioniert nicht mit Alkenen wie Cyclohexen, Styrol oder α-Methylstyrol. Die resultierenden Epoxide werden wegen der Säurestärke der Peroxomonophosphorsäure bzw. der entstehenden Phosphorsäure sofort gespalten. Die Umsetzung mit Styrol ergibt die Phenylessigsäure bzw. mit α-Methylstyrol 2-Phenylpropionsäure.
+
+Die Oxidation von Diphenylethin führt bei Raumtemperatur zum Benzil. Hierbei werden Oxirenstrukturen als Intermediate diskutiert.
+
+Die Peroxomonophosphorsäure ist ein effektives Reagenz für die Hydroxylierung von Aromaten. Die Umsetzung von Mesitylen zum Mesitol kann schon bei Raumtemperatur innerhalb von 4 Stunden erreicht werden.
+
+Die Verbindung kann bei Baeyer-Villiger-Oxidationen als wirksames Oxidationsmittel eingesetzt werden. Substituierte Acetophenone können mit hoher Ausbeute bei 30 °C in die entsprechenden Phenylacetate überführt werden. Die Reaktionsgeschwindigkeit ist dabei etwa 100fach höher im Vergleich zum Einsatz von Perbenzoesäure.
+
+Amine wie das N,N-Dimethylanilin werden zu den entsprechenden N-Oxiden oxidiert.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,251 @@
+In der theoretischen Informatik heißt eine Eigenschaft auf einer Menge entscheidbar (auch rekursiv, rekursiv ableitbar), wenn es ein Entscheidungsverfahren für sie gibt. Ein Entscheidungsverfahren ist ein Algorithmus, der für jedes Element der Menge beantworten kann, ob es die Eigenschaft hat oder nicht. Wenn es „kein“ solches Entscheidungsverfahren gibt, dann nennt man die Eigenschaft unentscheidbar. Als Entscheidungsproblem bezeichnet man die Frage, ob und wie für eine gegebene Eigenschaft ein Entscheidungsverfahren formuliert werden kann.Während die wichtigsten syntaktischen Eigenschaften von Programmen entscheidbar sind, sind im Allgemeinen nach dem Satz von Rice beliebige (nichttriviale) semantische Eigenschaften von Programmen unentscheidbar, zum Beispiel die Terminierung eines Programmes auf einer Eingabe (Halteproblem) oder die Funktionsgleichheit zweier Programme (Äquivalenzproblem).
+Ursprünglich speziell für die Gültigkeit von Formeln gemeint, wird der Begriff inzwischen für beliebige Eigenschaften auf abzählbaren Mengen verwendet. Der Begriff des Algorithmus setzt ein Berechnungsmodell voraus; wenn nichts Abweichendes gesagt wird, sind die Turingmaschinen oder ein gleichwertiges Modell gemeint.Eine Teilmenge 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   einer abzählbaren Menge 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   heißt entscheidbar, wenn ihre charakteristische Funktion 
+  
+    
+      
+        
+          χ
+          
+            T
+          
+        
+        :
+        M
+        →
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \chi _{T}\colon M\to \{0,1\}}
+   definiert durch
+
+  
+    
+      
+        
+          χ
+          
+            T
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  1
+                  ,
+                
+                
+                  
+                    
+                      falls t
+                    
+                  
+                  ∈
+                  T
+                
+              
+              
+                
+                  0
+                  ,
+                
+                
+                  
+                    
+                      sonst
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \chi _{T}(t)={\begin{cases}1,&{\mbox{falls t}}\in T\\0,&{\textrm {sonst}}\end{cases}}}
+  berechenbar ist. Der Entscheidbarkeitsbegriff ist somit auf den Berechenbarkeitsbegriff zurückgeführt.
+Bei dieser Definition ist vorausgesetzt, dass alle Elemente der Menge 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   im Rechner dargestellt werden können. Die Menge 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   muss gödelisierbar sein. In der Theorie setzt man zum einfacheren Vergleich direkt 
+  
+    
+      
+        M
+        =
+        
+          N
+        
+      
+    
+    {\displaystyle M=\mathbb {N} }
+   oder 
+  
+    
+      
+        M
+        =
+        {
+        0
+        ,
+        1
+        
+          }
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle M=\{0,1\}^{*}}
+   voraus. Im letzteren Fall hat man das Problem als das Wortproblem einer formalen Sprache dargestellt.
+Da nur abzählbare Mengen gödelisierbar sind, ist der Begriff der Entscheidbarkeit für überabzählbare Mengen wie die der reellen Zahlen nicht definiert. Es gibt jedoch Versuche, durch ein erweitertes Maschinenmodell den Begriff der Berechenbarkeit auf reelle Zahlen auszudehnen (z. B. das Blum-Shub-Smale-Modell).Unentscheidbarkeit darf nicht verwechselt werden mit der praktischen oder fundamentalen Unmöglichkeit, einer Aussage einen Wahrheitswert zuzuordnen. Im Einzelnen geht es um folgende Begriffe:
+
+Inkonsistenz: Paradoxien oder Antinomien zeigen, dass ein Kalkül Widersprüche enthält, also nicht widerspruchsfrei ist. Die Russellsche Antinomie zum Beispiel zeigte, dass die naive Mengenlehre Widersprüche enthält.
+Unabhängigkeit: Aussagen, die zu einem widerspruchsfreien Kalkül hinzugenommen werden können, ohne einen Widerspruch zu erzeugen, heißen relativ widerspruchsfrei zu diesem Kalkül. Wenn auch deren Negation relativ widerspruchsfrei ist, dann ist die Aussage unabhängig. Zum Beispiel ist das Auswahlaxiom unabhängig von der Zermelo-Fraenkel-Mengenlehre.
+Unvollständigkeit: In konsistenten Kalkülen, die mindestens die Ausdrucksstärke der Arithmetik haben, gibt es wahre Aussagen, die nicht im Kalkül bewiesen werden können. Solche Kalküle nennt man unvollständig.Entscheidbarkeit ist eine Eigenschaft von Prädikaten, und nicht von Aussagen. Das Prädikat ist dabei als wohldefiniert vorausgesetzt, es liefert also für jedes Element der Menge einen definierten Wahrheitswert. Unentscheidbarkeit besagt nur, dass das Prädikat nicht durch einen Algorithmus berechnet werden kann.
+Aussagen als nullstellige Prädikate betrachtet sind immer entscheidbar, auch wenn ihr Wahrheitswert noch ungeklärt ist. Wenn die Aussage wahr ist, dann ist der Algorithmus, der immer Eins ausgibt, ein Entscheidungsverfahren. Sonst ist der Algorithmus, der immer Null ausgibt, ein Entscheidungsverfahren.Das Entscheidungsproblem ist „das Problem, die Allgemeingültigkeit von Ausdrücken festzustellen“. „Es handelt sich um das Problem, zu einer gegebenen deduktiven Theorie ein allgemeines Verfahren anzugeben, das uns die Entscheidung darüber gestattet, ob ein vorgegebener, in den Begriffen der Theorie formulierter Satz, innerhalb der Theorie bewiesen werden kann oder nicht.“Entscheidend ist dabei, ob es ein rein mechanisch anzuwendendes Verfahren, einen Algorithmus, gibt, das in endlich vielen Schritten klärt, ob ein Ausdruck, eine Formel, in einem System gültig ist oder nicht.
+Nach Frege, Whitehead und Russell war die „Kernfrage der Logiker und Mathematiker: Gibt es einen Algorithmus […], der von einer beliebigen Formel eines logischen Kalküls feststellt, ob sie aus gewissen vorgegebenen Axiomen folgt oder nicht (das so genannte Entscheidungsproblem)?“Kurt Gödel veröffentlichte 1931 ein Werk zum Entscheidungsproblem; der Brite Alan Turing (1912–1954) formulierte in seiner für diesen Zweig der Mathematik grundlegenden Arbeit On Computable Numbers, with an Application to the “Entscheidungsproblem” (28. Mai 1936) Gödels Ergebnisse von 1931 neu. Er ersetzte dabei Gödels universelle, arithmetisch-basierte formale Sprache durch einfache, formale Geräte, die als Turingmaschine bekannt wurden.
+Der Logiker Heinrich Scholz (1884–1956) erbat (und erhielt) von Turing 1936 ein Exemplar dieser Arbeit. Auf Basis dieser Arbeit hielt Scholz (laut Achim Clausing) „das weltweit erste Seminar über Informatik“.Alle endlichen Mengen, die Menge aller geraden Zahlen und die Menge aller Primzahlen sind entscheidbar. Zu jeder entscheidbaren Menge ist auch ihr Komplement entscheidbar. Zu zwei entscheidbaren Mengen sind deren Schnittmenge und deren Vereinigungsmenge entscheidbar.Das Halteproblem beschreibt die Frage, ob ein Algorithmus mit einer Eingabe terminiert. Alan Turing wies die Unentscheidbarkeit dieser Frage nach. Formaler ist das Halteproblem die Eigenschaft von Paaren von Algorithmus und Eingaben, dass der Algorithmus für die Eingabe terminiert, das heißt nur endlich lange rechnet. Auch das gleichmäßige Halteproblem, nämlich die Eigenschaft von Algorithmen, für jede Eingabe schließlich zu halten, ist unentscheidbar.
+Das Halteproblem für viele schwächere Berechnungsmodelle, etwa linear beschränkte Turingmaschinen, ist hingegen entscheidbar.Die Gültigkeit im Aussagenkalkül ist entscheidbar. Bekannt ist das Komplement dazu, das Erfüllbarkeitsproblem der Aussagenlogik. Ein Entscheidungsverfahren ist die Methode der Wahrheitstafeln.Das spezielle Entscheidungsproblem für die Prädikatenlogik wurde 1928 von David Hilbert gestellt (siehe Hilbertprogramm). Alan Turing und Alonzo Church haben für das Problem 1936 festgestellt, dass es unlösbar ist (siehe Halteproblem).
+Das Entscheidungsproblem ist nicht für die allgemeine Prädikatenlogik, sondern lediglich für Teilbereiche der Prädikatenlogik, wie die Prädikatenlogik mit einstelligen Prädikaten erster Stufe gelöst.Eine Polynomgleichung nennt man diophantisch, wenn alle Koeffizienten ganzzahlig sind und nur ganzzahlige Lösungen gesucht werden. Die Eigenschaft von Diophantischen Gleichungen, eine Lösung zu haben (Hilberts zehntes Problem), ist unentscheidbar. Die Lösbarkeit von linearen diophantischen Gleichungen dagegen ist entscheidbar.Man nennt eine endliche Liste von Paaren nichtleerer Wörter über einem endlichen Alphabet einen Problemfall. Eine Lösung zu einem Problemfall ist eine nichtleere endliche Folge von Nummern für Wortpaare in der Liste, so dass die ersten Komponenten der Wortpaare zusammengesetzt das gleiche Wort ergeben wie die zweiten Komponenten der Wortpaare.
+Beispiel: 
+  
+    
+      
+        
+          (
+          
+            a
+            ,
+            a
+            b
+            a
+          
+          )
+        
+        ,
+        (
+        a
+        b
+        ,
+        b
+        b
+        )
+        ,
+        (
+        b
+        a
+        a
+        ,
+        a
+        a
+        )
+      
+    
+    {\displaystyle \left(a,aba\right),(ab,bb),(baa,aa)}
+   hat die Lösung 
+  
+    
+      
+        
+          (
+          
+            1
+            ,
+            3
+            ,
+            2
+            ,
+            3
+          
+          )
+        
+      
+    
+    {\displaystyle \left(1,3,2,3\right)}
+  , denn es gilt
+
+  
+    
+      
+        a
+        ⋅
+        b
+        a
+        a
+        ⋅
+        a
+        b
+        ⋅
+        b
+        a
+        a
+        =
+        a
+        b
+        a
+        a
+        a
+        b
+        b
+        a
+        a
+        =
+        a
+        b
+        a
+        ⋅
+        a
+        a
+        ⋅
+        b
+        b
+        ⋅
+        a
+        a
+      
+    
+    {\displaystyle a\cdot baa\cdot ab\cdot baa=abaaabbaa=aba\cdot aa\cdot bb\cdot aa}
+  .
+Das Postsche Korrespondenzproblem, das heißt die Eigenschaft von Problemfällen eine Lösung zu besitzen, ist unentscheidbar.Nach Toby Cubitt, David Perez-Garcia, Michael Wolf ist das folgende Problem aus der quantenmechanischen Vielteilchentheorie unentscheidbar. Gegeben sei die Hamiltonfunktion eines quantenmechanischen Vielteilchenproblems. Hat das Spektrum eine Lücke vom ersten angeregten Zustand zum Grundzustand oder nicht ? Die Autoren konstruierten explizit eine Familie von Quantenspinsystemen auf einem zweidimensionalen Gitter mit translationsinvarianter Nächstnachbar-Wechselwirkung, bei denen die Frage der Spektrallücke unentscheidbar ist. Sie kombinierten Komplexitätstheorie von Hamiltonoperatoren mit Techniken aperiodischer Parkettierung und übersetzten das Problem in ein Halteproblem einer Turingmaschine. Auch andere Niedrigenergieeigenschaften des Systems sind unentscheidbar.Eine allgemeinere Klasse als die entscheidbaren Mengen sind die rekursiv aufzählbaren oder semi-entscheidbaren Mengen, bei denen lediglich für „ja“ gefordert wird, dass die Berechnung in endlicher Zeit anhält. Wenn sowohl eine Menge als auch ihr Komplement semi-entscheidbar sind, dann ist die Menge entscheidbar. Das Halteproblem ist semi-entscheidbar, denn die Antwort „ja“ kann immer durch Laufenlassen des Programms gegeben werden. Das Komplement des Halteproblems ist jedoch nicht semi-entscheidbar.

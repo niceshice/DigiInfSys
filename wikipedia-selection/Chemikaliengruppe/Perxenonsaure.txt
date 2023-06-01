@@ -1,0 +1,220 @@
+Perxenonsäure ist eine Sauerstoffsäure des Xenons, welche nur in einer wässrigen Lösung existieren kann. Ihre Salze sind die Perxenate XeO64−.Die Perxenonsäure wird durch Einleitung von Xenon(VIII)-oxid in Wasser hergestellt.
+
+  
+    
+      
+        
+          
+            XeO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              4
+            
+            
+              
+            
+          
+          
+            XeO
+            
+              6
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {XeO4 + 2 H2O -> H4XeO6}}}
+  
+Das Perxenat-Ion XeO64− bildet sich bei der Disproportionierung der Xenonsäure H2XeO4.
+  
+    
+      
+        
+          2
+          
+          
+            HXeO
+            
+              4
+              
+                (
+                aq
+                )
+              
+            
+            
+              −
+            
+          
+          +
+          2
+          
+          
+            OH
+            
+              
+                (
+                aq
+                )
+              
+            
+            
+              −
+            
+          
+          ⟶
+          
+            XeO
+            
+              6
+              
+                (
+                aq
+                )
+              
+            
+            
+              4
+              −
+            
+          
+          +
+          Xe
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              
+                (
+                l
+                )
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2HXeO4_{(aq)}- + 2OH_{(aq)}- -> XeO6_{(aq)}^{4}- + Xe + O2 + 2H2O_{(l)}}}}Analog zur Xenonsäure ist auch die Perxenonsäure und die Perxenate ein starkes Oxidationsmittel. Der pH-Wert der Lösung soll zwischen −0,2 und 13 liegen. Die Bindungsenergie von H3XeO6− liegt bei 25 °C bei 0 ± 5 kJ·mol−1 und der von H2XeO62− bei 3 ± 2 kJ·mol−1. Es besitzt die gleiche Struktur wie die Tellursäure und soll auch die Eigenschaften der Periodsäure teilen.Perxenonsäure ist nicht isolierbar, da es sich in sauren Bedingungen rasch in Xenon(VI)-oxid, Wasser und Sauerstoff zersetzt.
+  
+    
+      
+        
+          
+            HXeO
+            
+              6
+            
+            
+              3
+              −
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              +
+            
+          
+          ⟶
+          
+            XeO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            
+              
+                1
+                
+              
+              
+                2
+                
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {HXeO6^{3}- + 3H+ -> XeO3 + 2H2O + {\frac {1}{2}}O2}}}
+  
+Aufgrund dieser raschen Zersetzung ist auch die Protonierung von H3XeO6− in H4XeO6 nicht möglich.Salze der Perxenonsäure, die Perxenate, sind bereits bekannt wie etwa Bariumperxenat Ba2XeO6 oder Natriumperxenat Na4XeO6. Letzteres wurde sogar erfolgreich für die analytische Oxidation von Am3+ zu Am6+ verwendet.

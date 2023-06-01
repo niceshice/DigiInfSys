@@ -1,0 +1,43 @@
+Bilua ist eine Papuasprache, die auf der Insel Vella La Vella (Salomonen) von ungefähr 15.000 Menschen gesprochen wird. Die Volksgruppe heißt ebenfalls Bilua (auch Mbilua), ein Ort Biloa.Bilua ist, neben Baniata, Lavukaleve und Savosavo, eine von vier Papuasprachen auf den Salomonen. Sie bilden zusammen die zentralsalomonische Familie, die zum Zweig der yele-salomonischen Sprachen gehört. Die anderen Sprachen der Salomonen, von den Bilua umgeben wird, sind den austronesischen Sprachen zuzuordnen.Die stimmhaften Plosive und die Affrikate haben Allophone – sie werden pränasalisiert, wenn sie wortintern zwischen Vokalen auftreten. Zum Beispiel: /d/ → [ⁿd] / V_V
+Die stimmlosen Plosive und Frikative werden geminiert, wenn sie in der zweiten Silbe vor einem Diphthong stehen.
+Die Allophone von /β/ – [β] und [w] – treten in freier Variation auf.Alle Vokalkombinationen kommen als Diphthonge vor, dabei wird der zweite Vokal als seine jeweilige allophonische Variante ([ɪ], [ɛ], [ɔ] oder [ʊ]) realisiert.Wörter können aus einer bis sieben Silben bestehen, wobei die erste Silbe die Form (C)V und die weiteren Silben die Form CV haben. Wenn ein Wort monosyllabisch ist, muss es aus einer CV-Silbe bestehen.
+Beispiele:
+
+(Wobei: C = Konsonant, V = Vokal oder Diphthong , . = Silbengrenze)
+Als wortinitiale Diphthonge sind nur /au/ und /ae/ möglich, während wortintern alle bis auf /oa/ zulässig sind. Wortfinal sind alle Diphthonge zugelassen.
+Kein phonologisches Wort des Bilua kann auf einen Konsonanten auslauten. Die meisten Verben und Nomen treten zusammen mit vokal-finalen Klitika auf, sodass dies gewährleistet ist, ansonsten wird der Vokal [i] eingefügt.Die erste Silbe eines phonologischen Wortes wird betont. Wenn phonologisches und grammatisches Wort nicht übereinstimmen, so wird die zweite Silbe des phonologischen Wortes betont.Reduplikation kann im Bilua an Substantive, Verbstämme, Adjektive und Zahlwörter applizieren und dabei in einigen Fällen die Wortart ändern.
+Die reduplizierte Form wird durch das Wiederholen der ersten zwei Silben der Basis gebildet und besteht dann aus zwei phonologischen Wörtern (dem reduplizierten Teil und der Basis), die zusammen ein grammatisches Wort bilden. Da das Reduplikat aus zwei phonologischen Wörtern besteht, ist jeweils die erste Silbe in beiden Teilen betont.
+Beispiel:
+
+Wobei # = phonologische Wortgrenze, . = Silbengrenze und  ˈ  = Hauptakzent.
+Durch Reduplikation kann die Valenz eines Verbs erhöht werden.Es gibt sowohl für Deklarativsätze und Fragesätze als auch für Imperative spezielle Intonationsmuster.
+Deklarativsätze haben typischerweise eine fallende Intonation. Wenn ein Satz jedoch aus mehreren Sätzen koordiniert ist, haben alle Teile eine steigende oder gleichbleibende und der letzte Teil eine fallende Intonationslinie. Die Grenze zwischen einzelnen Sätzen verschwimmt oft, sodass zwei Sätze wie ein einzelner intoniert werden.
+Fragesätze weisen eine steigende und Imperative eine gleichbleibende Intonation auf.
+Die drei Satztypen haben dieselbe grammatische Form und müssen so unter anderem durch das Intonationsmuster unterschieden werden.Bilua besitzt eine geringe Präferenz für Suffixe in der Flexionsmorphologie (zum Beispiel Tempusmarker suffigierend).
+Die relative Wortstellung von Subjekt und Prädikat (oder Verb) ist nicht fest geregelt, die relative Wortstellung von Verb und Objekt ist jedoch immer VO. Die Wortstellung in Genitiv-, Numeral- und Adjektiv-Nomen-Konstruktionen ist Gen-N, Num-N beziehungsweise Adj-N.Bilua verfügt über eine Reihe von Wortarten:
+
+Substantive
+Verben
+Adjektive
+Pronomen
+Adverben
+Quantifizierer
+Konjunktionen
+und einige weitere Partikeln.Die meisten Substantive des Bilua haben kein grammatisch markiertes Numerus oder Genus. Wörter, die Verwandtschaftsbeziehungen bezeichnen und Namen haben ein Genus, das dem natürlichen Geschlecht (Sexus) folgt.
+Sie lassen sich in zwei Gruppen einteilen: lokativische und nicht-lokativische Substantive. Lokativische Substantive tragen den Lokativ inhärent in sich und Nominalphrasen, deren Kopf (siehe Phrase) sie sind, können als lokativische Adjunkte ohne eine lokativische Postposition auftreten. Nicht-lokativische Nominalphrasen hingegen benötigen so eine Postposition, wenn sie adjungiert werden sollen.
+Die Substantive lassen sich weiter aufteilen: lokativische Substantive bilden drei Untergruppen –- Ortsnamen, relationale Substantive und das Wort koi ’Ort’ –- nicht-lokativische Substantive bilden ebenfalls drei Untergruppen –- Personennamen, Verwandtschaftsterme und für den Alltag wichtige Substantive (common nouns), wie zum Beispiel pade ’Haus’ oder baerebaere ’Freund’. Die Wörter male ’Heirat’ und ngavi ’selbst’ bilden ihre eigene Gruppe innerhalb der Substantive.Common Nouns bilden die größte Gruppe innerhalb der Substantive. Sie lassen sich in temporal und nicht-temporal unterteilen und unterscheiden sich dadurch, dass temporale Common Nouns als Temporaladjunkt fungieren können.Es gibt wiederum zwei Gruppen -- eine Gruppe mit inhärentem Genus und eine ohne. Die nachfolgende Tabelle führt alle Verwandtschaftsterme des Bilua an:
+
+Das Wort buabua ’Hämorrhoiden’ kann auch als Verwandtschaftsterm verwendet werden -- es bedeutet letztgeborenes Kind.
+Kaka und visi können als Modifizierer benutzt werden, sie bedeuten dann einfach ’älter’ und ’jünger’.
+Die Bezeichnungen ohne inhärentes Genus werden bei Bedarf durch die Adjektive reko ’weiblich’ und lasive ’männlich’ näher bestimmt.Die Verben des Bilua unterteilen sich in intransitiv und transitiv. Sie unterscheiden sich in ihrer Fähigkeit, ein Objekt-Klitikum zu sich zu nehmen; für intarnistive Verben ist dies nicht möglich, während es für transitive Verben obligatorisch ist.
+Die meisten Verben haben eine intransitive und eine transitive Variante, die sich eine Lautfolge teilen und durch die Suffixe -t (intransitiv) beziehungsweise -e (transitiv) markiert werden. Dies ist nur eine Tendenz, es gibt auch einige Verben, die nicht diesem Muster folgen, es handelt sich nicht um Derivationsmorphologie. Die intransitiven/transitiven Formen haben sich historisch aus derselben Wurzel entwickelt, sind jedoch inzwischen unabhängig voneinander vollständig lexikalisiert.Im Bilua modifizieren Adjektive nicht direkt den Kopf der Phrase, d. h. das Nomen, sondern bilden mit einem pronominalen Enklitikum eine Modifikator-Phrase, die dann als Modifikator der Nominalphrase fungiert.
+Das Substantiv koi ′Ort′ kann direkt modifiziert werden.Bilua unterscheidet sich von den Ozeanischen Sprachen durch folgende Kriterien:
+
+eine maskulin-feminin-Unterscheidung in der 3. Person Singular bei Pronomen,
+Tempus und Modus werden durch Klitika markiert, während Ozeanische Sprachen dies im Allgemeinen durch freie Morpheme markieren,
+in Possessiv-Konstruktionen geht der Besitzer dem Besessenen voran.Es gibt jedoch auch Gemeinsamkeiten:
+
+inklusiv-exklusiv-Unterscheidung
+Reduplikation
+Bilua folgt, wie Ozeanische Sprachen typischerweise, in den meisten Punkten einer akkusativischen Aliniierung.Bilua verfügt über fünf Dialekte, die in den verschiedenen Regionen der Insel Vella La Vella gesprochen werden. Der Dialekt der Region Bilua wird jedoch als die Standardvarietät angesehen und gibt somit der Sprache ihren Namen.
+Früher war die Sprache Roviana Lingua Franca in der Region, sodass viele ältere Leute ebenfalls Roviana sprechen. Heute hat Solomon Islands Pidgin diese Rolle übernommen: Es wird zum Beispiel bei Gottesdiensten oder im Schulunterricht verwendet. Ehen sind oft gemischt in dem Sinne, dass die Partner von verschiedenen Inseln stammen (und somit verschiedene (Mutter-)Sprachen sprechen). Durch diese Faktoren wird Bilua stark beeinflusst und es kann als bedroht angesehen werden.

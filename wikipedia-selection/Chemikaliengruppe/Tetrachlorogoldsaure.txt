@@ -1,0 +1,111 @@
+Tetrachlorogoldsäure, HAuCl4 ist eine chemische Verbindung von Gold und Chlor und ein wichtiger Ausgangsstoff für andere Goldverbindungen.Die einfachste und wichtigste Gewinnungsart von Tetrachlorogoldsäure ist die Auflösung von elementarem Gold in Königswasser, einer Mischung aus Salz- und Salpetersäure. Nitrosylchlorid – das aktive Reagens in Königswasser – muss durch Abrauchen mit Salzsäure entfernt werden, wobei Nitrose Gase bzw. Stickstoffdioxid entweichen:
+
+  
+    
+      
+        
+          2
+           
+          A
+          u
+          +
+          2
+           
+          N
+          O
+          C
+          l
+          +
+          3
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          →
+        
+      
+    
+    {\displaystyle \mathrm {2\ Au+2\ NOCl+3\ Cl_{2}+2\ HNO_{3}\rightarrow } }
+   
+  
+    
+      
+        
+          2
+           
+          H
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+          
+          +
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ HAuCl_{4}+4\ NO_{2}} }
+  Eine weitere Möglichkeit, Tetrachlorogoldsäure darzustellen, ist die Reaktion von Gold(III)-chlorid und Salzsäure.
+
+  
+    
+      
+        
+          A
+          u
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          H
+          C
+          l
+          ⟶
+          H
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {AuCl_{3}+HCl\longrightarrow HAuCl_{4}} }Tetrachlorogoldsäure kristallisiert in langen, hellgelben Nadeln, die in feuchter Umgebung leicht zerfließen. In Wasser und Ethanol löst sie sich leicht. Sie besitzt eine monokline Kristallstruktur mit der Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14 (a = 6,57, b = 11,6, c = 15,0 Å, β =  104°).Da sich Tetrachlorogoldsäure leicht gewinnen lässt, dient sie als Ausgangssubstanz zur Herstellung anderer Goldverbindungen. In der Photographie wird sie für Tonbäder verwendet, um einen purpurnen Farbton des Fotos zu erhalten. Auch für die Vergoldung kann Tetrachlorogoldsäure eingesetzt werden.Gelangt Tetrachlorogoldsäure auf die Haut, wird diese unter Blasenbildung verätzt. Lichteinstrahlung auf die betroffene Stelle verfärbt diese violett.
+
+
+== Einzelnachweise ==

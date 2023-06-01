@@ -1,0 +1,33 @@
+Eine Kontradiktion (aus lateinisch contra, „gegen“ und lateinisch dictio, „das Sagen, Reden“; „Gegenrede, Widerspruch“) liegt in der Logik vor, wenn zwei Begriffe, Urteile oder Aussagen im Widerspruch zueinander stehen und eine gegenseitige Negation darstellen. Gegenteil – und zwar kontradiktorisches – ist der konträre Gegensatz.Kontradiktorisch oder konträr sind beide für sich Gegensätze. Während die Kontradiktion zwei sich gegenseitig ausschließende und gegenseitig negierende Begriffe, Urteile oder Aussagen betrifft, stehen konträre Begriffe in einer Reihe koordinierter Begriffe am weitesten voneinander ab und weisen die größtmöglichen Unterschiede auf. Konträre Begriffe, Urteile oder Aussagen brauchen nicht bloß aus zwei Gegensätzen zu bestehen, es sind auch mehr möglich.
+Eine Kontradiktion, auch Widerspruch genannt, ist eine Aussage, die behauptet, dass zwei kontradiktorische Aussagen zugleich zutreffen. Sie ist also mit anderen Worten die Konjunktion zweier widersprüchlicher Aussagen, zum Beispiel die Aussage „Die Erde ist rund, und die Erde ist nicht rund“ oder der Ausdruck 
+  
+    
+      
+        P
+        ∧
+        ¬
+        P
+      
+    
+    {\displaystyle P\land \neg P}
+  . In der klassischen Logik ist ein Widerspruch immer falsch und somit ein Falsum (lateinisch falsum, „das Falsche“). Im weiteren Sinn werden daher oft alle Aussagen, die aus rein formallogischen Gründen immer falsch sind, Kontradiktion genannt, auch wenn sie nicht die Gestalt einer Konjunktion haben. Das gängige Symbol für eine Kontradiktion ist 
+  
+    
+      
+        ⊥
+      
+    
+    {\displaystyle \bot }
+  .
+Von der kontradiktorischen Beziehung zu unterscheiden ist die konträre Beziehung, die genau dann zwischen zwei Aussagen besteht, wenn beide zwar nicht zugleich wahr, aber zugleich falsch sein können.
+Thematisch verwandt mit der Kontradiktion ist die Redefigur des Oxymoron. Einen konträren Gegensatz zur Kontradiktion bildet die Tautologie. Einen zum Oxymoron konträren Gegensatz bildet die Redefigur des Pleonasmus.Bei der Kontradiktion gilt entweder „Ja“ oder „Nein“, „schuldig“ oder „nicht schuldig“, „Wahrheit“ oder „Unwahrheit“, eine dritte Möglichkeit gibt es nicht. Deshalb ist auch der konträre Gegensatz im Vergleich mit der Kontradiktion selbst eine Kontradiktion, denn eine dritte Möglichkeit gibt es nicht.
+Beispielsweise kann man
+
+einerseits schließen, dass, wenn die Aussage „Die Welt ist nicht rund“ wahr ist, die Aussage „Die Welt ist rund“ falsch sein muss;
+andererseits dass, wenn die Aussage „Die Welt ist nicht rund“ falsch ist, die Aussage „Die Welt ist rund“ wahr sein muss.Während diese beiden Aussagen auf Grund ihrer Form kontradiktorisch sind (die eine ist die Verneinung der anderen), sind viele Paare von Aussagen aus inhaltlichen Gründen kontradiktorisch. Inhaltlich widersprüchlich sind zum Beispiel die Aussagen „Das Kind ist gesund“ und „Das Kind ist krank“, weil, wer nicht gesund, krank, und wer nicht krank, gesund ist. Ob zwei Aussagen zueinander kontradiktorisch sind, hängt hauptsächlich von der inhaltlichen Bedeutung (Intension) der beteiligten Prädikatoren ab, hier von den Prädikatoren „gesund“ und „krank“.
+
+Eine aussagenlogische Konjunktion der Form „A und nicht A“ (zum Beispiel „Die Erde ist eine Scheibe, und es ist nicht der Fall, dass die Erde eine Scheibe ist“) ist eine Kontradiktion, da sie immer den Wahrheitswert „falsch“ besitzt, und zwar unabhängig davon, ob der Wahrheitswert von „A“ wahr oder falsch ist.
+Im Logischen Quadrat stehen sich zum einen die quantorenlogischen Aussagen „Alle S sind P“ und „Einige S sind nicht P,“ zum anderen die Aussagen „Kein S ist P“ und „Einige S sind P“ kontradiktorisch gegenüber. Die Aussagen „Alle x sind P“ und „Kein x ist P“ sind zueinander konträr (beide können nicht zugleich wahr, aber zugleich falsch sein).
+Die Aussage „Ich lüge immer“ wird bisweilen für implizit kontradiktorisch gehalten. Denn wäre die Aussage wahr, dann müsste sie zugleich falsch sein (da der Sprecher dann stets lügt); wäre sie aber falsch, würde der Sprecher lügen und daher doch die Wahrheit sagen. Doch auch wenn der Sprecher mit der Aussage lügt, folgt nicht, dass er immer lügt. Sagt er hingegen gelegentlich die Wahrheit, so lügt er, wenn er behauptet, immer zu lügen – woraus aber nichts Widersprüchliches folgt. (Siehe auch Paradoxon des Epimenides.)
+Tatsächlich gibt es aber eine ähnliche und wirklich problematische Aussage, nämlich die Aussage „Diese Aussage ist falsch“ (in der Folge als „A“ abgekürzt). Angenommen, A wäre wahr; dann träfe zu, was A besagt, nämlich dass A falsch ist. Und angenommen, A wäre falsch; dann träfe nicht zu, was A besagt, also träfe dann nicht zu, dass A falsch ist. Hier führen wirklich beide Annahmen (dass A wahr ist bzw. dass A falsch ist) zu einem Widerspruch. Diese Aussage gehört deshalb zu den sogenannten semantischen Paradoxien, die nach Alfred Tarski deshalb zustande kommen, weil natürliche Sprachen – im Gegensatz zu formalen Objektsprachen – ihr eigenes Wahrheitsprädikat enthalten (siehe auch Lügner-Paradox).
+Um auszusagen, dass eine Aussage kontradiktorisch ist, verwendet Ludwig Wittgenstein im Tractatus Logico-Philosophicus die Formulierung, dass die Wahrheitsbedingungen des Satzes kontradiktorisch seien: „Ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch, sind die Wahrheitsbedingungen kontradiktorisch“.In Österreich ist im Rahmen eines Strafprozesses seit 1993 die kontradiktorische Vernehmung bekannt. Eine kontradiktorische Vernehmung des Beschuldigten oder eines Zeugen ist gemäß § 165 StPO zulässig, wenn die Gefahr besteht, dass die Vernehmung in einer Hauptverhandlung aus tatsächlichen oder rechtlichen Gründen nicht möglich sein werde. Die Zeugen werden gesondert befragt, so dass die Beschuldigte/der Beschuldigte und die Zeugen nicht direkt zusammentreffen. Die kontradiktorische Vernehmung wird auch „schonende Vernehmung“ genannt, weil Geschädigten bzw. Zeugen eine Konfrontation mit Beschuldigten erspart bleibt.

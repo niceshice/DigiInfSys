@@ -1,0 +1,174 @@
+Anlagendeckung (auch Anlagedeckung oder Kapitaldeckung) ist eine betriebswirtschaftliche Kennzahl, die bei Unternehmen die horizontale Bilanzstruktur untersucht. Sie bildet zusammen mit den Liquiditäts­graden und dem Working Capital die Kennzahlen zur horizontalen Bilanzstruktur.Im Jahre 1948 forderten Stimmen in der Betriebswirtschaftslehre, dass die Nutzungsdauer eines Vermögensbestandteils und die Laufzeit, während der das zur Finanzierung herangezogene Kapital (Eigenkapital und/oder Fremdkapital) zur Verfügung steht, übereinstimmen müssen. Der etwas komplizierte Lehrsatz lautete: „Zwischen der Dauer der Bindung des Vermögensmittels, also der Dauer des einzelnen Kapitalbedürfnisses, und der Dauer, während welcher das zur Deckung des Kapitalbedürfnisses herangezogene Kapital zur Verfügung steht, muss Übereinstimmung herrschen“. Dahinter steht die Überlegung, dass etwa das in einer Maschine gebundene Fremdkapital erst zu einem Zeitpunkt fällig sein soll, an dem die kumulierten Abschreibungsbeträge bei Ausscheiden der Maschine für eine vollständige Tilgung des gebundenen Fremdkapitals ausreichen.
+Werden alle bilanziellen Vorgänge kongruent gestaltet, gibt es langfristig keine Liquiditätsprobleme, das Unternehmen befindet sich nach Erich Gutenberg im finanziellen Gleichgewicht in der Form der goldenen Finanzregel. Er wies darauf hin, dass das finanzielle Gleichgewicht den Bestand des Unternehmens gewährleiste. Der Rückzahlungstermin einer Verbindlichkeit liegt dann nicht vor der Freisetzung des mit ihr finanzierten Vermögenspostens.
+Gläubiger und Konkurrenten eines Unternehmens haben deshalb ein Interesse daran, ihr Risiko oder die Wettbewerbsstärke der Konkurrenz zu bewerten. Dazu ist die Auswertung des Jahresabschlusses unerlässlich. Um die Anlagendeckung zu ermitteln, sind hieraus das Anlagevermögen, Eigenkapital und Teile des Fremdkapitals für die Berechnung erforderlich.Die Kennzahlen der Anlagendeckung sollen Aussagen darüber machen, ob die Bindung des eingesetzten Kapitals in bestimmte Vermögensgegenstände allgemein anerkannten Finanzierungsregeln entspricht. So sollen nach dem Grundsatz der Fristenkongruenz langfristig dem Unternehmen dienende Vermögensgegenstände auch durch langfristig zur Verfügung stehendes Kapital finanziert sein.Bei der Untersuchung der langfristigen Bilanzpositionen wird zunächst im Anlagedeckungsgrad I (auch „Deckungsgrad A“) das Eigenkapital dem Anlagevermögen gegenübergestellt:
+
+  
+    
+      
+        A
+        n
+        l
+        a
+        g
+        e
+        n
+        d
+        e
+        c
+        k
+        u
+        n
+        g
+        s
+        g
+        r
+        a
+        d
+        
+        I
+        =
+        
+          
+            Eigenkapital
+            Anlagevermögen
+          
+        
+      
+    
+    {\displaystyle Anlagendeckungsgrad\,I={\frac {\text{Eigenkapital}}{\text{Anlagevermögen}}}}
+  Die goldene Bilanzregel im engeren Sinne besagt, dass der Anlagendeckungsgrad mindestens 100 % betragen sollte, also dass die langfristig gebundenen Aktiva des Anlagevermögens vollständig durch Eigenkapital finanziert werden sollten. Dieser Wert wird in der Praxis selten erreicht. Üblich ist heute in der Bilanzanalyse für das produzierende Gewerbe eine Zielquote von 50 % bis 70 %.Der Anlagedeckungsgrad II (auch „Deckungsgrad B“, Vermögensdeckungsgrad) zeigt das Verhältnis von langfristig zur Verfügung stehendem Kapital zum Anlagevermögen:
+
+  
+    
+      
+        A
+        n
+        l
+        a
+        g
+        e
+        n
+        d
+        e
+        c
+        k
+        u
+        n
+        g
+        s
+        g
+        r
+        a
+        d
+        
+        I
+        I
+        =
+        
+          
+            
+              
+                Eigenkapital
+              
+              +
+              
+                langfristiges Fremdkapital
+              
+            
+            Anlagevermögen
+          
+        
+      
+    
+    {\displaystyle Anlagendeckungsgrad\,II={\frac {{\text{Eigenkapital}}+{\text{langfristiges Fremdkapital}}}{\text{Anlagevermögen}}}}
+  Da hier im Vergleich zum Anlagendeckungsgrad I zusätzlich das langfristige Fremdkapital in die Berechnung mit einfließt, kann ermittelt werden, inwieweit das Prinzip der fristenkongruenten Investitionsfinanzierung eingehalten wurde. Wird der Wert von 100 % überschritten, so ist die goldene Bilanzregel im weiteren Sinne erfüllt, also das Anlagevermögen komplett durch Eigenkapital und langfristiges Fremdkapital finanziert.Die erweiterte Anlagedeckung (auch Anlagedeckungsgrad III) bezieht zusätzlich Teile des Umlaufvermögens in die Berechnung ein. Um den Anlagendeckungsgrad III berechnen zu können, wird die Information der so genannten „eisernen Bestände“ benötigt. Da diese Information in den meisten Fällen nicht vorliegt, wird der Anlagendeckungsgrad III nur selten berechnet. Ersatzweise können die gesamten Vorräte herangezogen werden:
+
+  
+    
+      
+        E
+        r
+        w
+        e
+        i
+        t
+        e
+        r
+        t
+        e
+        
+        A
+        n
+        l
+        a
+        g
+        e
+        n
+        d
+        e
+        c
+        k
+        u
+        n
+        g
+        =
+        
+          
+            
+              E
+              i
+              g
+              e
+              n
+              k
+              a
+              p
+              i
+              t
+              a
+              l
+              +
+              
+                langfristiges 
+              
+              F
+              K
+            
+            
+              A
+              n
+              l
+              a
+              g
+              e
+              v
+              e
+              r
+              m
+              
+                
+                  
+                    o
+                    ¨
+                  
+                
+              
+              g
+              e
+              n
+              +
+              
+                eiserne Bestände des 
+              
+              U
+              V
+            
+          
+        
+      
+    
+    {\displaystyle Erweiterte\,Anlagendeckung={\frac {Eigenkapital+{\text{langfristiges }}FK}{Anlageverm{\ddot {o}}gen+{\text{eiserne Bestände des }}UV}}}
+  Auch hier sollte ein Wert von mindestens 100 % erreicht werden, sodass Anlagevermögen und Umlaufvermögen durch Eigenkapital und langfristiges Fremdkapital vollständig finanziert sind.Es ist zu beachten, dass diese Kennzahlen nicht branchenübergreifend gelten, sondern je nach Wirtschaftszweig teilweise erhebliche Unterschiede bestehen können. Im Handel und Dienstleistungssektor sind diese Kennzahlen leichter einzuhalten als in der kapitalintensiven Schwerindustrie.
+
+
+== Einzelnachweise ==

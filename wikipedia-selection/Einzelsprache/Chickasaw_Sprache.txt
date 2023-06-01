@@ -1,0 +1,19 @@
+Das Chickasaw oder Chikashsha (von den Chickasaw Chikashshanompa - „Sprache der Chickashsha“ genannt), (deutsch veraltet Tschikasa), ist eine nordamerikanische Indianersprache von der Sprachfamilie der Muskogee-Sprachen. Sie ist agglutinierend und folgt dem Muster Subjekt-Objekt-Verb. Die Sprache ist nah verwandt mit dem Choctaw und wird gegenseitig meist verstanden, wenn auch nicht immer. Chickasaw wird vom Volk der Chickasaw gesprochen, die heute in Südost-Oklahoma um die Stadt Ada (Oklahoma) leben.Das Chikasha hat 16 Konsonanten. In der Tabelle unten werden die Konsonanten in Orthographie geschrieben. Die phonetische Umschreibung jedes Konsonanten ist im Internationalen Phonetischen Alphabet (IPA) rechts von jedem orthographischen Buchstaben geschrieben, wenn die Orthographie vom IPA-Symbol abweicht.
+
+w ist labiovelar.
+stimmlose Verschlusslaute p, t, k sind Hauchlaute [pʰ, tʰ, kʰ], besonders am Wortanfang.Das Chikasha hat 9 Vokale:
+
+Die Chikasha-Vokale unterscheiden sich in ihrer Länge und ihrer Nasalität. Kurze Vokale werden zentralisiert: das kurze„i“ ist phonetisch [ɪ], das kurze o ist phonetisch [o̟] und das kurze a ist phonetisch [ə].
+Kurze Vokale werden phonetisch auch verlängert, wenn sie in der zweiten Silbe als eine Sequenz mehrerer offener Silben vorkommen. So ist zum Beispiel das Wort sahashaa phonetisch [sahaˑʃaː]. Der verlängerte Kurzvokal liegt in seiner Länge normalerweise zwischen einem Kurz- und einem Langvokal. Allerdings variiert die phonetische Ausführung mit den verschiedenen Sprechern und auch mit dem phonetischen Umfeld. Die Verlängerung geschieht niemals am Wortende und ist ferner durch bestimmte morphologische Kriterien eingeschränkt (Gordon et al., 2000).Verben (z. B. Subjekt, Direktes Objekt, Indirektes Objekt) werden durch pronominale Affixe (Präfixe und Suffixe) bezeichnet, die zum Verb addiert werden. Die pronominalen Affixe werden an Numerus und Person angeglichen.
+Das Chikasha hat ein Aktiv-Stativ-Pronominales System mit zwei Basis-Serien von Pronomina: einer aktiven Serie (I) und einer stativen Serie (II). Zusätzlich besitzt das Chikasha dative (III), negative (N) und reziproke (IR) Serien.
+Die aktive Serie wird für aktive intransitive Subjekte und aktive transitive Subjekte verwendet. Die aktive Serie wird in der folgenden Tabelle dargestellt:
+
+In der 3. Person fehlt ein Affix und normalerweise wird nicht zwischen Singular und Plural unterschieden. Das Affix der 1. Person Singular ist ein Suffix, während die anderen Affixe Präfixe sind. Die 1. Person Plural hat zwei Formen: il- das vor Vokalen verwendet wird und ii- das vor Konsonanten verwendet wird — deshalb il-iyya„wir gehen“, ii-malli„wir springen“. Ein Beispiel des Verbs malli„springen“ ist unten dargestellt (mit den pronominalen Affixen unterstrichen):
+
+Die Stativ-Serie (II) steht im Folgenden. Diese Serie wird verwendet, um intransitive Stativ-Subjekte und direkte Stativ-Objekte anzuzeigen:
+
+Beispiel mit intransitiven Stativ-Subjekten, lhinko„dick sein“:
+
+Beispiel mit direkten Objekten, pisa„(jemanden) anschauen“ (das Subjekt in dem Paradigmus im Folgenden ist markiert, da es in der 3. Person ist):
+
+Aktiv- und Stativ-Affixe können gemeinsam vorkommen, wenn nämlich das Aktiv-Affix das aktive Subjekt und das Stativ-Affix das direkte Objekt bezeichnet. Aktiv-Präfixe kommen vor Stativ-Präfixen. Wenn ish-„Aktiv 2. Person Singular“ vor sa-„Stativ 1. Person Singular“ kommt, resultiert issa- (das sh Assimilation zu s). Ebenso resultiert hash-„Aktiv 2. Person Plural“ + sa- als hassa-. Der volle Paradigmus von pisa„anschauen“ unten:Verbgrade (Gemination, Epenthese)

@@ -1,0 +1,115 @@
+Fluorphosphorsäure ist eine anorganische Fluorverbindung und ein Phosphorsäure-Derivat mit der Summenformel H2PO3F. Es handelt sich um eine farblose viskose Flüssigkeit.Fluorphosphorsäure wird industriell durch Behandeln von Phosphorpentoxid mit Fluorwasserstoff hergestellt. Ein weniger reines Produkt kann auch durch Hydrolyse von Phosphoroxidfluorid hergestellt werden, eine Reaktion, bei der zuerst Difluorphosphorsäure entsteht:
+  
+    
+      
+        
+          
+            POF
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            HPO
+            
+              2
+            
+            
+              
+            
+          
+          
+            F
+            
+              2
+            
+            
+              
+            
+          
+          +
+          HF
+        
+      
+    
+    {\displaystyle {\ce {POF3 + H2O -> HPO2F2 + HF}}}
+  
+Die nächsten Schritte ergeben Monofluorphosphorsäure: 
+
+  
+    
+      
+        
+          
+            HPO
+            
+              2
+            
+            
+              
+            
+          
+          
+            F
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            PO
+            
+              3
+            
+            
+              
+            
+          
+          F
+          +
+          HF
+        
+      
+    
+    {\displaystyle {\ce {HPO2F2 + H2O -> H2PO3F + HF}}}Fluorphosphorsäure ist eine hygroskopische farblose Flüssigkeit, die mischbar mit Wasser ist.Fluorphosphorsäure wird in der Metallreinigung, als chemisches Poliermittel und als Katalysator genutzt.Ihr Natriumsalz, Natriummonofluorophosphat, ist das am häufigsten verwendete Zahnputzmittel zur Verringerung von Karies.
+
+
+== Einzelnachweise ==

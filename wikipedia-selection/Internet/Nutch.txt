@@ -1,0 +1,6 @@
+Nutch ist ein Java-Framework für Internet-Suchmaschinen. Die Software ist Open-Source und wird innerhalb der Apache Software Foundation unter der Apache-Lizenz entwickelt. Nutch basiert u. a. auf Lucene (Stemming, Indexierung etc.), Solr (Webfunktionalitäten) und Hadoop (Skalierung).
+Nutch kann beliebig große Datenmengen durchsuchen. An firmenspezifische Bedürfnisse lässt es sich durch seine Plug-in-Architektur anpassen – bspw. an weitere Dokumentformate.
+Das deutsche Bundesamt für Verbraucherschutz und Lebensmittelsicherheit betrieb die auf Nutch basierende „Verbraucher-Suchmaschine“ Clewwa. Auch die Suchmaschine Wikia Search setzte auf der Technologie von Nutch auf.
+Nutch wird zur Zeit in 2 Versionen gepflegt
+1.x: Ist ein fertiger Crawler, welcher eine sehr feine Konfiguration ermöglicht und auf die Datenstrukturen von Apache Hadoop setzt, er soll ideal für Batch-Verarbeitung sein
+2.x: Wird als Alternative zur Version 1.x angeboten, der Hauptunterschied liegt im Speicherbereich, dieser wurde abstrahiert und nutzt Apache Gora um Objekte zu verknüpfen. So wurde die Flexibilität erhöht, was (z. B. Status, Inhalte, Links, verarbeiteter Text …) gespeichert werden kann und wie die Speicherung z. B. in NoSQL-Lösungen erfolgt.

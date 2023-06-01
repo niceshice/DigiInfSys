@@ -1,0 +1,333 @@
+In der Mathematischen Logik und der Theoretischen Informatik steht die Bezeichnung Reduktionssystem, oder abstraktes Reduktionssystem, abgekürzt ARS, für eine Verallgemeinerung von Termersetzungssystemen. In seiner einfachsten Form ist ein ARS eine Menge von Objekten zusammen mit einer binären Relation, die gewöhnlich mit 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   bezeichnet wird. Trotz seiner Einfachheit genügt ein ARS zur Beschreibung wichtiger Eigenschaften von Termersetzungssystemen, wie z. B. Normalformen, Terminiertheit und verschiedene Begriffe der Konfluenz.
+Historisch hat es einige verschiedene Abstrahierungen der Termersetzung gegeben, jede mit ihren Besonderheiten. Die heute am meisten verwendete Formalisierung, der hier gefolgt wird, beruht auf den Arbeiten von Gérard Huet (1980).Ein ARS besteht aus einer Menge A, den Objekten, zusammen mit einer binären Relation auf A, üblicherweise mit 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   bezeichnet. Diese Relation heißt Reduktionsrelation oder einfach Reduktion.Als mathematisches Objekt ist ein ARS das gleiche wie ein unmarkiertes Transitionssystem. Dennoch unterscheiden sich Schwerpunkt und Terminologie in diesen beiden Bereichen: In einem Transitionssystem ist man daran interessiert, die Markierungen als Aktionen zu deuten, während in einem ARS der Fokus darauf liegt, wie Objekte in andere transformiert (reduziert) werden.Die Menge der Objekte sei T = {a, b, c} und die binäre Relation → sei wie folgt definiert: → 
+  
+    
+      
+        =
+        {
+        (
+        a
+        ,
+        b
+        )
+        ,
+        (
+        b
+        ,
+        a
+        )
+        ,
+        (
+        a
+        ,
+        c
+        )
+        ,
+        (
+        b
+        ,
+        c
+        )
+        }
+      
+    
+    {\displaystyle =\{(a,b),(b,a),(a,c),(b,c)\}}
+  ; das schreibt man üblicherweise als
+
+Liest man dies als Regeln, durch die Elemente in andere transformiert werden können, dann sieht man, dass sowohl a als auch b in c transformiert (reduziert) werden können. Dies ist offenbar eine wichtige Eigenschaft des Systems. c ist in gewisser Weise ein "einfachstes" Objekt des Systems, da keine der Regeln auf c angewendet werden kann, um dieses Element weiter zu transformieren.Das obige Beispiel führt zu einigen wichtigen Begriffen im Rahmen eines ARS.
+
+  
+    
+      
+        
+          
+            
+              
+                →
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\stackrel {*}{\rightarrow }}}
+   ist die transitive Hülle von 
+  
+    
+      
+        →
+        ∪
+        =
+      
+    
+    {\displaystyle \rightarrow \cup =}
+  , wobei = die Identität ist; d. h. 
+  
+    
+      
+        
+          
+            
+              
+                →
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\stackrel {*}{\rightarrow }}}
+   ist die kleinste Quasiordnung (reflexive und transitive Relation), die 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   enthält. Sie ist auch die reflexive und transitive Hülle von 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   .
+  
+    
+      
+        ↔
+      
+    
+    {\displaystyle \leftrightarrow }
+   ist 
+  
+    
+      
+        →
+        ∪
+        
+          →
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \rightarrow \cup \rightarrow ^{-1}}
+  , d. h. die Vereinigung der Relation 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   mit ihrer inversen Relation; 
+  
+    
+      
+        ↔
+      
+    
+    {\displaystyle \leftrightarrow }
+   wird auch als symmetrische Hülle von 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   bezeichnet.
+
+  
+    
+      
+        
+          
+            
+              
+                ↔
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\stackrel {*}{\leftrightarrow }}}
+   ist die transitive Hülle von 
+  
+    
+      
+        ↔
+        ∪
+        =
+      
+    
+    {\displaystyle \leftrightarrow \cup =}
+  , d. h. 
+  
+    
+      
+        
+          
+            
+              
+                ↔
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\stackrel {*}{\leftrightarrow }}}
+   ist die kleinste Äquivalenzrelation, die 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   enthält. Sie wird auch als reflexive transitive symmetrische Hülle von 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   bezeichnet.Ein Objekt x in A heißt reduzibel, wenn es ein von x verschiedenes Objekt y in A gibt mit 
+  
+    
+      
+        x
+        →
+        y
+      
+    
+    {\displaystyle x\rightarrow y}
+  ; andernfalls heißt es irreduzibel oder eine Normalform. Ein Objekt y heißt Normalform von x, wenn 
+  
+    
+      
+        x
+        
+          
+            
+              
+                →
+              
+              
+                ∗
+              
+            
+          
+        
+        y
+      
+    
+    {\displaystyle x{\stackrel {*}{\rightarrow }}y}
+   gilt und y irreduzibel ist. Wenn x eine eindeutige Normalform besitzt, dann wird diese mit 
+  
+    
+      
+        x
+        ↓
+      
+    
+    {\displaystyle x\downarrow }
+   bezeichnet.
+Im Beispiel oben ist c eine Normalform von a und von b. Da a und b reduzibel sind, ist c sogar die einzige Normalform dieser Elemente, 
+  
+    
+      
+        c
+        =
+        a
+        ↓=
+        b
+        ↓
+      
+    
+    {\displaystyle c=a\downarrow =b\downarrow }
+  . Wenn jedes Objekt mindestens eine Normalform besitzt, heißt das ARS normalisierend.
+Eines der wichtigen Probleme, das im Kontext eines ARS formuliert werden kann, ist das Wortproblem: Gegeben x und y, sind diese beiden Objekte äquivalent unter der Relation 
+  
+    
+      
+        
+          
+            
+              
+                ↔
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\stackrel {*}{\leftrightarrow }}}
+  ? Dies ist ein sehr allgemeiner Rahmen für das Wortproblem; so ist z. B. das Wortproblem für Gruppen ein Spezialfall des ARS-Wortproblems. Das Wortproblem ist einfacher zu behandeln, wenn es eindeutige Normalformen gibt: in diesem Fall gilt, dass zwei Objekte mit gleicher Normalform äquivalent unter 
+  
+    
+      
+        
+          
+            
+              
+                ↔
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\stackrel {*}{\leftrightarrow }}}
+   sind. Das Wortproblem für ein ARS ist im Allgemeinen unentscheidbar.
+Für die Untersuchung der Frage, ob Normalformen existieren, sind die Begriffe der Church-Rosser-Eigenschaft und der Konfluenz von zentraler Bedeutung.Franz Baader, Tobias Nipkow: Term Rewriting and All That. Cambridge University Press, 1998. Für Anfänger geeignet.
+Nachum Dershowitz and Jean-Pierre Jouannaud Rewrite Systems, Chapter 6 in Jan van Leeuwen (Ed.), Handbook of Theoretical Computer Science. Band B: Formal Models and Semantics. Elsevier/ MIT Press, 1990, ISBN 0-444-88074-7, S. 243–320.
+Ronald V. Book, Friedrich Otto: String-rewriting Systems. Springer, Berlin 1993. Kapitel 1: Abstract reduction systems. ISBN 0-387-97965-4.
+Marc Bezem, J. W. Klop, Roel de Vrijer: Term rewriting systems. Cambridge University Press, 2003, ISBN 0-521-39115-6, Kapitel 1. (Dies ist eine umfangreiche Monografie).
+John Harrison: Handbook of Practical Logic and Automated Reasoning. Cambridge University Press, 2009, ISBN 978-0-521-89957-4, Kapitel 4: Equality.
+Gérard Huet: Confluent Reductions: Abstract Properties and Applications to Term Rewriting Systems. In: Journal of the ACM (JACM), Band 27, Nr. 4, Oktober 1980, S. 797–821.
+
+
+== Einzelnachweise ==

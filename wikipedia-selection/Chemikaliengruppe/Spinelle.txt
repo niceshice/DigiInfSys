@@ -1,0 +1,551 @@
+Spinelle sind chemische Verbindungen des allgemeinen Typs AB2X4, wobei A,B Metallkationen sind, deren Oxidationszahl die Summe 8 ergibt, und X vorwiegend ein zweiwertiges Sauerstoff- bzw. Schwefel-Anion (also die Verbindung insgesamt ein Oxid bzw. Sulfid) ist. Wichtige Beispiele sind der Magnesiumspinell bzw. Spinell genannte Namensgeber der Verbindungsklasse (MgAl2O4) sowie Gahnit (ZnAl2O4). Bei den normalen Spinellen befinden sich alle 16  B-Atome auf den oktaedrischen Gitterplätzen, bei den inversen Spinellen sind je acht  B-Atome und acht  A-Atome oktaedrisch koordiniert.Die Spinellstruktur gehört zu den ersten Kristallstrukturen, an denen eine erfolgreiche Röntgenstrukturanalyse ausgeführt wurde, kurz nachdem 1912 die Röntgenbeugung entdeckt worden war. Die Spinellstruktur wurde 1915 durch Shoji Nishikawa (1884–1952) anhand von Laue-Diagrammen aufgeklärt, und unabhängig davon durch William Henry Bragg. 1931 wurde erkannt, dass die Kationen nicht völlig regelmäßig verteilt sind (Machatschki).Viele Verbindungen des Typs AB2O4 kristallisieren in der Kristallstruktur vom Spinelltyp, die zu den wichtigsten und häufigsten Strukturtypen gehört und nach dem Hauptmineral auch als Spinellstruktur bezeichnet wird.
+Die O2−-Ionen bilden dabei ein kubisch-dichtes Kristallgitter, dessen Tetraederlücken zu einem Achtel von meist zweifach positiv geladenen A-Ionen wie Mg2+ und dessen Oktaederlücken zur Hälfte von meist dreifach positiv geladenen B-Ionen wie Al3+ besetzt sind. Andere Ladungen sind auch möglich, z. B. W6+(Na+2)O4Inverse Spinelle haben auch die Formel AB2O4. Sie liegen im selben Gitter vor. Allerdings besetzen die A-Ionen ein Viertel der Oktaederlücken, die B-Ionen ein Viertel der Oktaeder- und ein Achtel der Tetraederlücken. Somit sind insgesamt wieder die Oktaederlücken zur Hälfte und die Tetraederlücken zu einem Achtel besetzt. Beispiele sind Magnetit Fe3O4 (=Fe(III)2Fe(II)) und TiMg2O4.Es ist möglich, vorherzusagen, ob ein Spinell normal oder invers ist.
+Dabei vergleicht man die Ligandenfeldstabilisierungsenergie (LFSE) im normalen Spinell mit der LFSE im inversen Spinell.FeCr2O4:
+
+Fe2+:
+Tetraederlücke: Im tetraedrischen Ligandenfeld werden die 3 t2-Orbitale um 4 Dq angehoben und die 2 e-Orbitale um 6 Dq abgesenkt. Diese werden mit 6 Elektronen aufgefüllt (Fe2+ ist ein d6-Ion). Damit liegt die LFSE bei
+  
+    
+      
+        3
+        ⋅
+        6
+        
+        
+          D
+          q
+        
+        −
+        3
+        ⋅
+        4
+        
+        
+          D
+          q
+        
+        =
+        6
+        
+        
+          D
+          q
+        
+        =
+        0
+        ,
+        6
+        
+        
+          Δ
+          
+            
+              T
+            
+          
+        
+      
+    
+    {\displaystyle 3\cdot 6\,\mathrm {Dq} -3\cdot 4\,\mathrm {Dq} =6\,\mathrm {Dq} =0,6\,\Delta _{\mathrm {T} }}
+  .Da 
+  
+    
+      
+        
+          Δ
+          
+            
+              T
+            
+          
+        
+        =
+        
+          
+            
+              4
+              9
+            
+          
+        
+        ⋅
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \Delta _{\mathrm {T} }={\tfrac {4}{9}}\cdot \Delta _{\mathrm {O} }}
+  ,entspricht dies einer LFSE von
+  
+    
+      
+        
+          L
+          F
+          S
+          E
+        
+        =
+        
+          
+            
+              4
+              9
+            
+          
+        
+        ⋅
+        0
+        ,
+        6
+        
+        
+          Δ
+          
+            
+              T
+            
+          
+        
+        =
+        0
+        ,
+        266
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {LFSE} ={\tfrac {4}{9}}\cdot 0,6\,\Delta _{\mathrm {T} }=0,266\,\Delta _{\mathrm {O} }}
+  .Oktaederlücke: Im oktaedrischen Ligandenfeld werden die 2 eg-Orbitale um 6 Dq angehoben und die 3 t2g-Orbitale um 4 Dq abgesenkt. Diese werden mit 6 Elektronen in der High-spin-Anordnung aufgefüllt. Damit liegt die LFSE bei
+  
+    
+      
+        
+          L
+          F
+          S
+          E
+        
+        =
+        4
+        ⋅
+        4
+        
+        
+          D
+          q
+        
+        −
+        2
+        ⋅
+        6
+        
+        
+          D
+          q
+        
+        =
+        4
+         
+        
+          D
+          q
+        
+        =
+        0
+        ,
+        4
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {LFSE} =4\cdot 4\,\mathrm {Dq} -2\cdot 6\,\mathrm {Dq} =4\ \mathrm {Dq} =0,4\Delta _{\mathrm {O} }}
+  .Cr3+:Tetraederlücke: Cr3+ ist ein d3-Ion. Damit liegt die LFSE bei
+  
+    
+      
+        2
+        ⋅
+        6
+        
+        
+          D
+          q
+        
+        −
+        1
+        ⋅
+        4
+        
+        
+          D
+          q
+        
+        =
+        8
+        
+        
+          D
+          q
+        
+        =
+        0
+        ,
+        8
+        
+        
+          Δ
+          
+            
+              T
+            
+          
+        
+      
+    
+    {\displaystyle 2\cdot 6\,\mathrm {Dq} -1\cdot 4\,\mathrm {Dq} =8\,\mathrm {Dq} =0,8\,\Delta _{\mathrm {T} }}
+  .Da 
+  
+    
+      
+        
+          Δ
+          
+            
+              T
+            
+          
+        
+        =
+        
+          
+            
+              4
+              9
+            
+          
+        
+        ⋅
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \Delta _{\mathrm {T} }={\tfrac {4}{9}}\cdot \Delta _{\mathrm {O} }}
+  ,entspricht dies einer LFSE von
+  
+    
+      
+        
+          L
+          F
+          S
+          E
+        
+        =
+        
+          
+            
+              4
+              9
+            
+          
+        
+        ⋅
+        0
+        ,
+        8
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+        =
+        0
+        ,
+        356
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {LFSE} ={\tfrac {4}{9}}\cdot 0,8\,\Delta _{\mathrm {O} }=0,356\,\Delta _{\mathrm {O} }}
+  .Oktaederlücke: Die LFSE liegt bei
+  
+    
+      
+        
+          L
+          F
+          S
+          E
+        
+        =
+        3
+        ⋅
+        4
+        
+        
+          D
+          q
+        
+        −
+        0
+        ⋅
+        6
+        
+        
+          D
+          q
+        
+        =
+        12
+        
+        
+          D
+          q
+        
+        =
+        1
+        ,
+        2
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {LFSE} =3\cdot 4\,\mathrm {Dq} -0\cdot 6\,\mathrm {Dq} =12\,\mathrm {Dq} =1,2\,\Delta _{\mathrm {O} }}
+  .Normaler Spinell (FeTCrOCrOO4): 
+  
+    
+      
+        
+          L
+          F
+          S
+          E
+        
+        =
+        0
+        ,
+        266
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+        +
+        2
+        ⋅
+        1
+        ,
+        2
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+        =
+        2
+        ,
+        666
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {LFSE} =0,266\,\Delta _{\mathrm {O} }+2\cdot 1,2\,\Delta _{\mathrm {O} }=2,666\,\Delta _{\mathrm {O} }}
+  
+Inverser Spinell (FeOCrTCrOO4): 
+  
+    
+      
+        
+          L
+          F
+          S
+          E
+        
+        =
+        0
+        ,
+        4
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+        +
+        0
+        ,
+        356
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+        +
+        1
+        ,
+        2
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+        =
+        1
+        ,
+        956
+        
+        
+          Δ
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {LFSE} =0,4\,\Delta _{\mathrm {O} }+0,356\,\Delta _{\mathrm {O} }+1,2\,\Delta _{\mathrm {O} }=1,956\,\Delta _{\mathrm {O} }}
+  
+Damit hat der normale Spinell eine höhere Ligandenfeldstabilisierungsenergie. FeCr2O4 liegt als normaler Spinell vor.Spinelle sind geologisch außerordentlich wichtig. Viele Minerale kristallisieren in der Spinellstruktur, darunter sind neben den Oxiden auch Sulfide, Selenide und Silikate. Die aktuelle und von der IMA/CNMNC neu definierte Spinell-Supergruppe führt derzeit 56 Minerale (Stand 2018). Es wird vermutet, dass der Spinell Ringwoodit einen größeren Anteil des Erdmantels bildet.Aktuell gehören folgende Minerale zu der von der International Mineralogical Association (IMA) anerkannten Spinell-Supergruppe, die nach Ferdinando Bosi, Cristian Biagioni und Marco Pasero entsprechend ihrer Zusammensetzung in Untergruppen aufgeteilt werden (Stand 2019):
+Oxispinelle
+Spinell-Untergruppe
+Chromit Fe2+Cr2O4 (Chromeisenstein)
+Cochromit CoCr2O4
+Coulsonit Fe2+V3+2O4
+Cuprospinell CuFe3+2O4
+Dellagiustait V2+Al2O4
+Deltalumit (Al0.67☐0.33)Al2O4
+Franklinit ZnFe3+2O4 (Zinkoferrit)
+Gahnit ZnAl2O4 (Zinkspinell)
+Galaxit MnAl2O4 (Manganspinell)
+Guit Co2+Co3+2O4
+Hausmannit Mn2+Mn3+2O4
+Hercynit FeAl2O4 (Ferrospinell)
+Picotit, magnesium- und chromhaltige Varietät von Hercynit, (Fe2+,Mg)(Al,Cr3+)2O4
+Hetaerolith ZnMn3+2O4
+Jakobsit Mn2+Fe3+2O4
+Maghemit (Fe3+0.67☐0.33)Fe3+2O4
+Magnesiochromit MgCr2O4
+Magnesiocoulsonit MgV2O4
+Magnesioferrit MgFe3+2O4 (Magnoferrit, Magneferrit)
+Magnetit Fe2+(Fe3+)2O4 (Magneteisenstein)
+Titanomagnetit, Mischkristall der Reihe Magnetit–Ulvöspinell mit Fe2+(Fe3+,Ti)2O4
+Manganochromit Mn2+Cr2O4
+Spinell MgAl2O4 (Magnesiospinell)
+Pleonast (Mg,Fe2+)(Al,Fe3+)O4, eisenhaltige Varietät von Spinell
+Thermaerogenit CuAl2O4
+Titanomaghemit (Ti0.5☐0.5)Fe3+2O4
+Trevorit NiFe3+2O4
+Vuorelainenit Mn2+V3+2O4
+Zincochromit ZnCr2O4
+Ulvöspinell-Untergruppe
+Ahrensit Fe2(SiO4)
+Brunogeierit Fe2+2Ge4+O4
+Filipstadit (Mn2+,Mg)2(Sb5+,Fe3+)O4
+Qandilit (Mg,Fe3+)2(Ti,Fe3+,Al)O4
+Ringwoodit Mg2(SiO4) oder auch SiMg2O4
+Tegengrenit (Mn3+0.5Sb5+0.5)Mg2O4
+Ulvöspinell (Ulvit) Fe2+2TiO4Selenospinelle
+Bornhardtit-Untergruppe
+Bornhardtit Co2+Co3+2Se4
+Trüstedtit Ni2+Ni3+2Se4
+Tyrrellit-Untergruppe
+Tyrrellit Cu(Co,Ni)2Se4Thiospinelle
+Carrollit-Untergruppe
+Carrollit CuCo2S4
+Cuproiridsit CuIr2S4
+Cuprokalininit CuCr2S4
+Fletcherit CuNi2S4
+Florensovit Cu(Cr1.5Sb0.5)S4
+Malanit Cu1+(Ir3+Pt4+)S4
+Rhodostannit Cu1+(Fe2+0.5Sn4+1.5)S4
+Toyohait Ag1+(Fe2+0.5Sn4+1.5)S4
+Linneit-Untergruppe
+Cadmoindit CdIn2S4
+Cuprorhodsit (Cu1+0.5Fe3+0.5)Rh3+2S4
+Daubréelith FeCr2S4
+Greigit Fe2+Fe3+2S4
+Indit FeIn2S4
+Joegoldsteinit MnCr2S4
+Kalininit ZnCr2S4
+Linneit Co2+Co3+2S4
+Polydymit Ni2+Ni3+2S4
+Siegenit CoNi2S4
+Violarit FeNi2S4
+Xingzhongit Pb2+Ir3+2S4Der 1978 von De Waal beschriebene Nichromit mit der Formel NiCr2O4 würde ebenfalls bei den Oxispinellen eingeordnet. Die Erstbeschreibung und der gewählte Name wurden allerdings ohne Prüfung durch die CNMNC publiziert, daher ist Nichromit bisher nicht als eigenständige Mineralart anerkannt.Die Synthese von Spinellen wird oft durch Coprezipitation erreicht. Dabei werden zum Beispiel erst die Chloride des jeweiligen Metalls in Lösung gebracht, als Hydroxide gefällt und abschließend gebrannt.
+Folgende synthetisch hergestellte Spinelle sind bisher bekannt:
+
+das Pigment Thénards Blau, ein Cobaltaluminat mit der Formel CoAl2O4
+Cobaltschwarz, auch Cobalt(II,III)-oxid mit der Formel Co2+Co3+2O4, das ein Zwischenprodukt bei der Gewinnung von metallischen Cobalt ist
+Zink-Cobalt-Spinell, auch Zinkkobaltit mit der Formel ZnCo2O4 ist grün-schwarz. Rinmans Grün hat eine ähnliche Zusammensetzung und wurde irrtümlicherweise oft als Spinell bezeichnet, ist aber ein Mischoxid der Zusammensetzung ZnO*(CoO)*x (x=5 %).Der Cobalt-Spinell CoAl2O4 Cobaltaluminat (Thénards Blau) ist als Farbpigment in der Industrie und in der klassischen analytischen Chemie als Nachweisreagenz bekannt. Auch andere Spinelle werden als gegenüber Licht, Wetter und Chemikalien beständige Pigmente verwendet., siehe auch Mischphasenoxidpigmente. Ferner werden farbige oder schwarze Spinelle als Schmucksteine verwendet, insbesondere  die des eigentlichen Spinells.
+Eisenspinelle werden als Fotokatalysatoren eingesetzt, Cobaltchromit als Katalysator beim Abbau von Schadstoffen.Magnetit ist eines der wichtigsten Eisenerze. Es dient als Pigment und wurde in der magnetischen Datenspeicherung eingesetzt.
+Ähnlich wie Yttrium-Eisen-Granat werden Magnetit und verwandte Spinelle auch als Ferrite in Ferritkernen (auch für Mikrowellen geeignet) eingesetzt. Sie besitzen allerdings höhere Verluste.

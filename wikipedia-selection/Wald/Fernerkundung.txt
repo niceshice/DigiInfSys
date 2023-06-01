@@ -1,0 +1,149 @@
+Der Begriff Fernerkundung bezeichnet die Gesamtheit der Verfahren zur Gewinnung von Informationen über die Erdoberfläche oder andere nicht direkt zugängliche Objekte durch Messung und Interpretation der von ihnen ausgehenden oder reflektierten elektromagnetischen oder Schallwellen.
+Im Gegensatz zu anderen Erfassungsmethoden, welche einen direkten Zugang zum Untersuchungs- oder Beobachtungsobjekt erfordern, versteht man unter Fernerkundung die berührungsfreie Erkundung der Erdoberfläche einschließlich der Erdatmosphäre. Dies wird beispielsweise durch Flugzeug- oder Satelliten-getragene Sensoren ermöglicht (Fernerkundungssensoren wie Kameras oder Scanner). Vereinzelt kommen aber auch „Drohnen“ oder Ballons als Plattform zum Einsatz. Der Fernerkundung zugeordnet sind Photogrammetrie und Satellitengeodäsie. Dagegen sind Planetologie und Astronomie nicht der Fernerkundung zugeordnet, obwohl auch hier Fernerkundungssensoren zum Einsatz kommen.
+Bei der Fernerkundung finden passive oder aktive Systeme Verwendung, wobei weite Bereiche des elektromagnetischen Spektrums ausgewertet werden können. Passive Systeme zeichnen die von der Erdoberfläche reflektierte Sonnenstrahlung auf (zum Beispiel Multispektralkamera) sowie die von der Erdoberfläche emittierte Eigenstrahlung (zum Beispiel Wärmebildkamera). Im Gegensatz dazu senden aktive Systeme Mikrowellen- oder Laserstrahlen aus und empfangen deren reflektierte Anteile (zum Beispiel Radarsysteme und Laseraltimeter).
+Fernerkundungsdaten sind insbesondere in den Geowissenschaften bzw. der Geographie von großer Bedeutung, da eine globale Beobachtung der Erdoberfläche und -atmosphäre in hoher räumlicher Auflösung nur mit Hilfe von Fernerkundungssensoren möglich ist. Neben dem synoptischen Überblick über große Räume ermöglichen satellitengestützte Fernerkundungssensoren zudem eine wiederholte (zum Teil tägliche) Abdeckung ein und desselben Gebiets.Die Fernerkundung hat ihre Ursprünge in der militärischen Aufklärung. Von einem meist hochgelegenen Punkt (Berg) versuchte man die Bewegungen des Gegners zu beobachten. Mit Beginn der Luftfahrt änderte sich die Darstellung von der Perspektive in eine Draufsicht von oben. Anfangs dienten dazu noch Fesselballone mit menschlichen Beobachtern und Zeichenblock, später Flugzeuge mit Luftbildkameras. Die Luftbildfotografie konnte relativ früh ausgewertet werden, allerdings war das Ergebnis immer stark abhängig vom Auswerter. Die heute mit Satellitenplattformen und diversen Bildaufzeichnungsgeräten und Spektralabtastern gewonnenen Daten können mit Computersystemen be- und verarbeitet werden (digitale Bildverarbeitung). Diese systematische Auswertung wurde in den letzten Jahren stark verbessert. Trotzdem bleibt auch heute noch die visuelle Bildinterpretation wichtig.In der Fernerkundung finden sowohl passive oder aktive Systeme Verwendung, wobei weite Bereiche des elektromagnetischen Spektrums ausgewertet werden können.
+Die gebräuchlichsten Sensortypen sind:
+
+Multispektralkamera
+Thermalbildkameras
+Radarsysteme
+Hyperspektralsensoren
+Mikrowellenradiometer
+Laseraltimeter
+Interferometer
+LuftbildkameraEs befinden sich eine Vielzahl von Satelliten in der Erdumlaufbahn. Je nach Aufgabengebiet werden diese auch in Umweltsatelliten und Wettersatelliten unterteilt; die Übergänge zwischen beiden Kategorien sind jedoch fließend.
+Die wichtigsten staatlichen und kommerziellen Erdbeobachtungssatelliten sind
+
+(halb)staatlich:
+Envisat, (ESA, Europa)
+ERS, (ESA, Europa)
+Landsat, (NASA, USA)
+SPOT, (CNES, Frankreich)
+IRS, (ISRO, Indien)
+Earth Observing System (EOS), (NASA, USA), u. a. Terra und Aqua
+TerraSAR-X, (DLR, Deutschland)
+TanDEM-X, (DLR, Deutschland)
+Sentinel, (ESA, Europa)
+kommerziell:DigitalGlobe (4 WorldView, GeoEye-1)
+Airbus Defence and Space (SPOT 6 & 7, 2 Pléiades)
+Planet Labs mit Terra Bella (87 Dove-Kleinsatelliten, 5 RapidEye, 5 SkySat)
+BlackSky Global (Pathfinder-1 und -2)Die Liste von Erdbeobachtungssatelliten listet viele weitere Satelliten auf. Die aufgeführten Satelliten haben unterschiedlichste spektrale, räumliche, zeitliche, optische und radiometrische Auflösungen.Entsprechend der Vielfalt des Lebensraums Erde, ist auch das Einsatzgebiet der modernen Fernerkundung sehr weit gefächert. Durch die einzigartige Möglichkeit, auch große Gebiete in hoher zeitlicher und räumlicher Auflösung zu erfassen, wird die Fernerkundung in sehr vielen Disziplinen eingesetzt.
+
+Geowissenschaften, Geographie, Kartografie und Geodäsie
+Höhenrelief und Wasserwege
+Geologie (Gesteinstypen, Lagerstätten)
+Landbedeckung, Landnutzung und Landmanagement
+Urbanisierung (Ausbreitung der Städte)
+Forstwirtschaft (Inventarisierungen, Holzpotentialabschätzungen, Waldschadenskartierung, Wegebauplanungen etc.)
+Landwirtschaft (Erntevorhersagen, Anbauflächen, Überprüfung von subventionierten Brachflächen, precision farming etc.)
+Vegetationsphänologie (Aspektfolge)
+Katastrophenschutz
+Waldbrände (Ausmaß der Zerstörung)
+Vulkanausbrüche (Vorhersage und Überwachung)
+Erdbeben (Höhenänderung)
+Dürremonitoring
+Umweltverschmutzung (Öleinleitung auf den Weltmeeren)
+Klimatologie, Meteorologie und Ozeanographie
+Wettervorhersage
+Klimaüberwachung
+Seegangsmessung (Oberflächenwellen, Strömung)
+Atmosphärenphysik und -chemie
+Spurengase, Wolken, Aerosole
+Temperatur, Luftdruck
+Strahlungshaushalt, Strahlungsbudget
+Überwachung von Emissionen, z. B. Kohlendioxid
+Archäologie
+Archäologische Flugprospektion
+Kartierung von Ausgrabungen
+Rüstungskontrolle
+Verifikation von Abrüstungsvereinbarungen
+Menschenrechte
+Vorher-Nachher-Vergleich großflächiger ZerstörungenFernerkundungsdaten kommen in vielen geowissenschaftlichen Disziplinen zur Anwendung. Entsprechend wird die Fernerkundung weiter unterteilt.
+Untergliederung der Fernerkundung nach Anwendungsbereich
+
+Bodenkundliche Fernerkundung
+Landwirtschaftliche Fernerkundung
+Botanisch/vegetationskundliche Fernerkundung
+Forstwirtschaftliche Fernerkundung
+Geologische Fernerkundung/Photogeologie
+Hydrologische Fernerkundung
+Ozeanographische Fernerkundung
+Limnologische Fernerkundung
+Urbane Fernerkundung/Stadtfernerkundung
+Umweltfernerkundung (fernerkundliches Umweltmonitoring)
+Klimatologisch/meteorologische Fernerkundung
+Atmosphärische Fernerkundung
+Archäologische Fernerkundung/Luftbildarchäologie
+Geodätische Fernerkundung/Satellitengeodäsie
+PhotogrammetrieFernerkundungsdaten werden in den verschiedensten Wellenlängenbereichen und mit unterschiedlichen Messmethoden erhoben. Entsprechend lässt sich die Fernerkundung weiter untergliedern.
+Untergliederung der Fernerkundung nach Messverfahren
+
+Photogrammetrie und Luftbildmessung
+Spektrale Fernerkundung in optischen Wellenlängenbereichen (UV, VIS, IR). Bei der Fernerkundung von fein verästelten Wasserflächen wird ausgenutzt, dass diese sich in spiegelnder Reflexion stark von Landflächen abhebt, was die spektrale Auswertung selbst dann erlaubt, wenn die Bildauflösung nicht ausreicht, um den Uferverlauf aufzulösen.
+Passive Mikrowellenfernerkundung, Radiometrie
+Aktive Mikrowellenfernerkundung (Radar)
+Laseraltimetrie
+Interferometrie (Radarinterferometrie)Zur Bereitstellung flächendifferenzierter Geodaten werden Fernerkundungsdaten mit unterschiedlichen Auswerteverfahren weiterverarbeitet. Je nach gewähltem Auswerteverfahren kann die Fernerkundung weiter untergliedert werden.
+Untergliederung der Fernerkundung nach Auswerteverfahren
+
+Fernerkundliche Klassifizierung und Segmentierung
+Fernerkundliche Zeitreihenanalyse
+Empirisch-statistische (chemometrische) Analyse von Fernerkundungsdaten
+Fernerkundliche Strahlungstransfermodellierung
+Fernerkundliche Modellinversion (Inversion von Strahlungstransfermodellen)
+Assimilation von Fernerkundungsdaten in prozessorientierte (dynamische) Modelle
+Fernerkundliche Entmischungsverfahren
+Fernerkundliche Veränderungsdetektion (engl. Change detection)
+Bildspektroskopie
+Luftbildinterpretation und visuelle Interpretation von Fernerkundungsdaten
+Luftbildmessung und photogrammetrische Verfahren (Stereophotogrammetrie)In der Analyse von analogen und digitalen Fernerkundungsdaten kommen eine Vielzahl von Methoden und Verfahren zur Anwendung, die nachfolgend stichwortartig aufgeführt sind. Hinzu kommen geowissenschaftliche Arbeitsschritte, die mit der Erfassung von Referenzmessungen im Gelände zusammenhängen (nicht aufgeführt). Aus der Aufzählung wird deutlich, in welch starkem Maße die Fernerkundung eine methodische Wissenschaft ist.
+
+Methoden der digitalen Bildverarbeitung
+Datenaufbereitung für visuelle Interpretationen (u. a., Kontrastspreizung, Farbsättigung)
+Transformationen des Farbraumes
+Merkmalsextraktion und Mustererkennung
+Überwachte und unüberwachte Klassifizierungs- und Segmentierungsverfahren (u. a., Clusterverfahren, Maximum-Likelihood-Klassifikator, Support Vector Machine, Kohonennetze)
+Geometrische Korrekturen, geometrische Rektifizierung und Entzerrung
+Radiometrische und atmosphärische Korrekturen
+Filterverfahren im Orts- und Frequenzbereich (u. a., Fourieranalyse)
+Texturanalyse
+Statistische und Chemometrische Verfahren
+Regressionsanalyse
+multiple und schrittweise multiple Regression
+Partielle Kleinste-Quadrate-Schätzung
+Hauptkomponentenregression (englisch Principal Component Regression, kurz: PCR)
+Diskriminanzanalyse
+Statistische Versuchsplanung (englisch design of experiments)
+Geostatistische Verfahren
+Interpolationsverfahren (u. a., Kriging und Co-Kriging)
+Verfahren der Zeitreihenanalyse und Signalverarbeitung
+Trendanalyse
+Fernerkundliche Veränderungsdetektion/change detection
+Verfahren zur Filterung von Zeitreihen (u. a., Maximum Value Compositing und Savitzky-Golay Filter, Splines)
+Lernende Verfahren und Verfahren der Künstlichen Intelligenz
+Künstliche neuronale Netze
+Genetische Algorithmen
+Optimierungsverfahren
+Strahlungstransfermodellierung und Mathematische Modellierung
+Entwicklung von physikalisch basierten Strahlungstransfermodellen
+Inversion von Strahlungstransfermodellen
+Spektrale Entmischungsverfahren (englisch spectral unmixing)
+Sensitivitätsanalyse
+Computersimulation
+Assimilationsverfahren
+Kalman-Filter
+Rekalibrierungs- und Reinitialisierungsverfahren von dynamischen Prozessmodellen
+Verfahren der Geoinformatik
+GIS Analysen (u. a., Verschneidungen, Buffering, Topologieanalysen)
+Morphologische Bildverarbeitung
+Data-Mining
+Labor- und Geländespektroskopie
+Spektroskopische Messungen
+Verfahren der visuellen Bildinterpretation
+Bildansprache
+Texturansprache
+Bildinterpretation
+Stereobildinterpretation
+Photogrammetrische Verfahren
+Bildmessung
+StereophotogrammetrieEs wird versucht, das Thema Fernerkundung in den Schulunterricht zu integrieren. Dabei kann es sich um die Einbindung von Fernerkundungsdaten, wie photographische, digitale oder mikrowellengestützte Luft- und Satellitenbilder, oder von Fernerkundungsmethoden, wie Resampling, Klassifikation von Landoberflächen und Zeitreihenanalysen, als didaktische Hilfsmittel handeln.Es gibt verschiedene Lernplattformen/ Lernmodule (z. B. FIS, geospektiv oder YCHANGE) für den Einsatz in Schulen. Eingesetzt werden neben anderer Software der virtuelle Globus Google Earth oder das Geoinformationssystem QGIS.

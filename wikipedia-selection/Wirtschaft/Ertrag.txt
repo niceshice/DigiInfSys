@@ -1,0 +1,152 @@
+Ertrag ist in der Wirtschaft allgemein die Summe oder das Ergebnis der erbrachten wirtschaftlichen Leistung. Pendant ist der Aufwand.Während das Begriffspaar Einnahmen und Ausgaben die Veränderungen des Geldvermögensbestandes erfasst, stellen Ertrag und Aufwand auf die Entstehung und den Verbrauch von Gütern und Dienstleistungen ab.Ursprünglich stammt der Begriff aus der Landwirtschaft, wo der landwirtschaftliche Ertrag noch heute die Menge der durch Agrarproduktion gewonnenen Agrarprodukte darstellt. Die Physiokraten der frühen Neuzeit untersuchten den landwirtschaftlichen Boden, der sich als Teil der Natur stets regeneriere und ohne Aufwand erhalte. Deren wichtigster Vertreter François Quesnay ging 1757 davon aus, dass der Reichtum nicht in der Bewegung (Handel), sondern in der Ruhe (des Bodens) liege. Das Prinzip aller Arbeit sei der Bodenertrag, denn alle Arbeit richte sich nach dem Preis der Bodenprodukte, den Agrarpreisen. „Der Ertrag ist das Ergebnis der Bodenbeschaffenheit und des Menschen. Ohne die Arbeit des Menschen hat der Boden keinen Wert“. „Der Überschuss aus Grund und Boden ist es, welcher die Landwirtschaft ... für die Besteuerung zur Verfügung stellt…“Während die Physiokraten nur die landwirtschaftliche Arbeit für produktiv hielten, ergänzte im Jahre 1777 Johann Georg Schlosser, dass auch die Klasse „der Künstler, Handwerker und Kaufleute“ produktiv sei. Für Adam Smith galt bereits in dem im März 1776 erschienenen Standardwerk Der Wohlstand der Nationen nicht der landwirtschaftlich genutzte Boden als die Quelle des Wohlstands, sondern die menschliche Arbeit.Gemessen wurde und wird der Bodenertrag in Mengeneinheiten wie Stück, Kilogramm oder Zentner. Ertrag wurde deshalb 1827 definiert als das „jährliche Product des Bodens“ oder 1837 als „den Wert oder die Menge der Erzeugnisse der Äcker und Wiesen, den Nutzen von der Viehzucht, aber auch jeden Gewinn von irgendeinem landwirtschaftlichen Gewerbezweig.“Jeder Produktionsfaktor erzielt einen Ertrag. Bei der Arbeit heißt der Ertrag Arbeitseinkommen, beim Kapital ist es der Kapitalertrag (Zinsertrag, Dividendenertrag) oder beim Boden der Bodenertrag durch die Bodennutzung. Er entsteht in der Landwirtschaft durch Ernte (Früchte, Weinlese, Getreideernte), in der Forstwirtschaft durch Holzernte und im Bergbau durch Abbau von Rohstoffen. Im weiteren Sinne gehören zum Bodenertrag auch die Rechtsfrüchte, also Mieteinnahmen oder Pachtzinsen aus der Vermietung oder Verpachtung des Bodens.
+Die Volkswirtschaftslehre versteht unter dem Ertrag die Gütermenge, die mit einem gegebenen Aufwand an Produktionsfaktoren in einem bestimmten Zeitraum hergestellt wird. Der Ertrag pro Aufwandseinheit heißt Durchschnittsertrag, der Ertragszuwachs bei Veränderung des Aufwands um eine infinitesimale Einheit heißt Grenzertrag. Der Grenzertrag steht im Mittelpunkt des Ertragsgesetzes, das auch Gesetz des sinkenden Grenzertrags heißt. Es wurde ursprünglich von Anne Robert Jacques Turgot für die Landwirtschaft als Bodenertragsgesetz formuliert: Erhöht man auf der gleichen Agrarfläche stetig den Arbeitseinsatz, so nimmt der Bodenertrag zunächst überproportional zu, dann nur noch unterproportional, dann bleibt er gleich, und schließlich nimmt er sogar wieder ab. Aus dem Ertragsgesetz lässt sich eine dreidimensionale Darstellung ableiten, die Ertragsgebirge genannt wird und die Abhängigkeit der Ausbringungsmenge von unterschiedlichen Einsatzmengen zweier Produktionsfaktoren veranschaulicht.
+Multipliziert man die Gütermenge 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   mit ihrem Preis 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , so erhält man den Ertrag in Geldeinheiten (
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  ):
+
+  
+    
+      
+        E
+        =
+        G
+        ⋅
+        P
+      
+    
+    {\displaystyle E=G\cdot P}
+  .Ertrag ist somit sowohl eine physische Summe als auch ein Wertbegriff. Der Wertbegriff des Ertrags kommt in der Distributionstheorie als Wertprodukt und Wertgrenzprodukt vor. Bei vollständiger Konkurrenz entspricht das Wertgrenzprodukt dem Faktorpreis.In der Betriebswirtschaftslehre ist der Ertrag der in Geldeinheiten bewertete
+Bruttowertzuwachs, der durch die Produktion von Gütern oder Dienstleistungen von einem Unternehmen in einem Geschäftsjahr erwirtschaftet wird. Er schlägt sich als Zuwachs des Reinvermögens nieder, der nach dem Prinzip der Erfolgswirksamkeit einem bestimmten Geschäftsjahr zugeordnet wird.
+Für Zwecke der Erfolgsrechnung unterscheidet man zwischen betriebsbedingten Erträgen (Betriebsertrag) und nicht-betrieblichen Erträgen (neutraler Ertrag):
+
+Betriebsertrag oder Betriebsergebnis ist der erzielte Erfolg eines Unternehmens in dessen Kerngeschäft.
+Neutraler Ertrag ist in der Kosten- und Leistungsrechnung allgemein der Teil des Ertrags, der nicht aus der Verfolgung des Betriebszwecks stammt, der in Art und Höhe so außergewöhnlich ist, dass er nicht als betrieblicher Ertrag verrechnet wird oder zeitlich einer anderen Periode zufällt:
+betriebsfremder Ertrag ist der „reinste“ Fall eines neutralen Ertrags, da keine Beziehung zur betrieblichen Leistungserstellung besteht (z. B. Mieterträge aus einem nicht dem Betrieb dienenden Grundstück);
+periodenfremder Ertrag: ist zwar betriebsbedingt, fällt jedoch in einer anderen Periode an als in der, in der die entsprechenden Leistungen erbracht werden (z. B. Steuererstattungen, erhaltene Anzahlungen);
+außerordentlicher Ertrag: ist in seiner Art und Höhe so außergewöhnlich, dass er nicht als ordentlicher Ertrag verrechnet wird (z. B. Erträge aus Versicherungsentschädigungen, Kursgewinne);
+bewertungsbedingter Ertrag: darunter fällt z. B. der Ertrag aus Zuschreibungen.Durch das Bilanzrichtlinie-Umsetzungsgesetz sind seit Dezember 2005 unter anderem der neutrale Ertrag (Position 16) und das neutrale Ergebnis (Position 17) als Zwischengröße in der Gewinn- und Verlustrechnung entfallen (§ 275 Abs. 2 HGB).
+Das Verhältnis zwischen Ertrag und Leistung lässt sich wie folgt aufgliedern:
+Zum Zweckertrag gehören die Umsatzerlöse aus dem Kerngeschäft, der Bestandszuwachs im Lagerbestand und aktivierte Eigenleistungen. Es ist der betriebsbezogene, ordentliche, zeitraumgerechte Ertrag mit den Unterarten „Zweckertrag als Grundleistung“ und „Zweckertrag als Andersleistung“. Andersleistungen werden in der Kosten- und Leistungsrechnung in anderer Höhe erfasst als in der Finanzbuchhaltung. Neutraler Ertrag sind alle betriebsfremden Erträge in Form des Zusatzertrags oder Andersertrags. Der Zusatzertrag ist weder sachzielbezogen noch zeitraumgerecht, noch steht ihm eine Einnahme gegenüber. Andersertrag entsteht, wenn Lagerbestände mit Verkaufspreisen bewertet werden, die von den Herstellungskosten der Gewinn- und Verlustrechnung abweichen.
+Der nicht als Ertrag zu verrechnende Zweckertrag heißt Andersleistung (etwa ein höherer Wertansatz als im externen Rechnungswesen). Den Zusatzleistungen steht kein Ertrag gegenüber (etwa nicht aktivierbare Eigenleistungen wie selbst erstellte Software oder an Dritte als Spende unentgeltlich abgegebene Fertigerzeugnisse).Günter Wöhe und andere Autoren verstehen den Ertrag als den mit dem Güterpreis bewerteten Faktoreinsatz (auch Output genannt). Während unter der Ertragslage die vergangene Gewinnsituation eines Unternehmens verstanden wird, ist die Ertragskraft eine zukunftsbezogene Größe, die sich aus der Verfolgung unternehmerischer Sachziele (Betriebszweck) und Formalziele (Unternehmensziele wie Gewinnmaximierung), insbesondere im Kerngeschäft und bei Cashcows ergibt. Als betriebswirtschaftliche Kennzahlen sind zudem der Rohertrag und Reinertrag bekannt.
+Aufgabe des Ertragsmanagements vor allem im Hotelgewerbe und bei Fluggesellschaften ist es, den maximalen Ertrag für eine zeitlich begrenzte Kapazität (Auslastungsgrad, Sitzauslastung) an Produkten oder Dienstleistungen zu generieren.Der Ertrag kommt als Rechtsbegriff insbesondere im Handels- und Bilanzrecht vor. So hat der Jahresabschluss gemäß § 246 Abs. 1 HGB unter anderem sämtliche Aufwendungen und Erträge zu enthalten. Die Gliederungsvorschrift des § 275 Abs. 2 Nr. 9 bis 11 HGB kennt zudem „Erträge aus Beteiligungen“ (richtiger: Gewinne), „Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens“ und „sonstige Zinsen und ähnliche Erträge“. Sie werden im Rechnungswesen auf Ertragskonten verbucht, die in die Gewinn- und Verlustrechnung eingehen.Erlös 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   und Ertrag 
+  
+    
+      
+        E
+        r
+      
+    
+    {\displaystyle Er}
+   werden manchmal synonym gebraucht, müssen jedoch voneinander unterschieden werden. Die Abgrenzung zwischen beiden geht auf Erwin Geldmacher zurück, der 1929 auch andere Begriffe des Rechnungswesens voneinander abgegrenzt hat. Ist der Erlös 
+  
+    
+      
+        E
+        =
+        0
+      
+    
+    {\displaystyle E=0}
+  , dann entspricht der Ertrag der Leistung 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  :
+
+  
+    
+      
+        E
+        r
+        =
+        L
+      
+    
+    {\displaystyle Er=L}
+  .Ist 
+  
+    
+      
+        E
+        <
+        L
+      
+    
+    {\displaystyle E<L}
+  , gilt
+
+  
+    
+      
+        E
+        r
+        =
+        E
+        +
+        
+          nicht verkaufte L
+        
+      
+    
+    {\displaystyle Er=E+{\text{nicht verkaufte L}}}
+  .Bei 
+  
+    
+      
+        E
+        >
+        L
+      
+    
+    {\displaystyle E>L}
+   ist 
+
+  
+    
+      
+        E
+        r
+        =
+        E
+        −
+        
+          L aus früheren Perioden
+        
+      
+    
+    {\displaystyle Er=E-{\text{L aus früheren Perioden}}}
+  .Ob es sich um Ertrag oder Erlös handelt, ergibt sich mithin aus den Bestandsveränderungen.

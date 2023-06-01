@@ -1,0 +1,76 @@
+Metamath ist zum einen eine Programmiersprache, die formale Systeme und in solchen Systemen geführte Beweise beschreiben kann, zum anderen ein Online-Archiv von formalen Beweisen, die mit der Metamath-Programmiersprache geführt worden sind. 
+Anders als die üblich in der Mathematik verwendeten informellen Beweise, kann mit Metamath jeder einzelne 
+logische Schritt eines Beweises auf elementare Manipulation von Zeichenketten reduziert werden.Formale Theorien basieren auf einem Satz von Axiomen, die Grundannahmen einer Theorie, und Inferenzregeln, um aus Axiomen 
+oder bereits bewiesenen Theoremen weitere Theoreme abzuleiten. Die Axiome und Inferenzregeln sind in einer 
+formalen Sprache geschrieben.Der Autor beschreibt die Principia Mathematica von Alfred North Whitehead und Bertrand Russell als maßgeblichen Einfluss auf Metamath.Im Kern lässt sich (formale) Mathematik auf eine simple Manipulation von Zeichenketten reduzieren.
+Die Standard-Axiomatisierung der Mathematik basiert auf der ZFC (Zermelo-Fraenkel-Mengenlehre), die Mehrheit 
+der Beweise im Metamath Beweisarchiv setzen ZFC voraus. Tatsächlich kann Metamath jedoch zur Verifikation 
+von Beweisen in allerlei Arten von Formalen Systemen verwendet werden. Es erlaubt die freie Definition von Axiomen und Inferenzregeln für ein formales System, ähnlich wie bei einem Semi-Thue-System.Metamath selbst ist in ANSI C geschrieben. Zur zusätzlichen Verifikation von Metamath-Beweisen existieren in unterschiedlichen Programmiersprachen geschriebene Proof Verifier, unter anderem ein nur 500 Zeilen Code umfassendes Python-Skript. Die Einfachheit von Metamath (die einzige angewandte Regel ist Substitution) sowie die redundanten Verifizierer schließen Fehler in einem mit Metamath geführten formalen Beweis völlig aus. Das Beweisarchiv für ZFC – set.mm – wird auf github gehostet, das komplette Projekt mit Source Code ist auf der Hauptseite verfügbar. 
+Der Metamath Proof Explorer ist ein Verzeichnis mit 23000 auf Basis von ZFC bewiesenen Theoremen aus verschiedenen Teilgebieten der Mathematik. Jeder Beweis eines entsprechendes Theorems kann bis auf die Axiome von ZFC und die Axiome und Inferenzregeln der Prädikatenlogik zurückverfolgt werden. Für Beweisschritte dürfen lediglich Axiome, Inferenzregeln oder bereits aus Axiomen und Inferenzregeln formal abgeleitete Theoreme verwendet werden. 
+Der Proof Explorer ist ebenso offline über eine CLI Implementierung von Metamath verfügbar. Neben set.mm sind weitere Datenbanken formaler Systeme verfügbar, unter anderem Datenbanken mit formalen Beweisen für Quantenlogik und Intuitionistische Logik.Folgender formaler Beweis wird in einem Hilbert-Kalkül durchgeführt und anschließend in Metamath konvertiert. 
+Seien zwei Axiome in wohldefinierter Form gegeben: 
+
+A1: (t=r -> (t=s -> r=s))
+A2: (t + 0) = t 
+
+sowie die Schlussregel Modus ponens gegeben. 
+Es soll t=t abgeleitet werden. 
+
+1. (t + 0) = t 
+2. (t + 0) = t 
+3. (t + 0) = t -> ((t+0)=t -> t=t)
+4. ((t+0)=t -> t=t) 
+5. t=t 
+
+In Metamath kann dieser Beweis ebenso geführt werden. Zuerst definieren wir die Konstantensymbole, die wir verwenden. 
+
+$c 0 + = -> ( ) term wff |- $. 
+
+„$c“ symbolisiert den Anfang einer Konstantendeklaration, „$.“ dessen Ende. 
+Das lexikalische Trennsymbol ist, wie in vielen Programmiersprachen üblich, ein Leerzeichen. 
+Nun werden die Metavariablen definiert, 
+
+$v t r s P Q $.
+
+sowie auch deren Eigenschaften, 
+
+tt $f term t $.
+tr $f term r $.
+ts $f term s $.
+wp $f wff P $.
+wq $f wff Q $.
+
+und auch eine formale Grammatik, um zu definieren, was ein wohlgeformter Satz ist
+
+ 
+tze $a term 0 $.
+tpl $a term ( t + r ) $.
+weq $a wff t = r $.
+wim $a wff ( P -> Q ) $.
+
+Die beiden Axiome
+
+A1: $a |- ( t = r -> ( t = s -> r = s ) ) $.
+A2: $a |- ( t + 0 ) = t $.
+
+und die Schlussregel (auch Inferenzregel genannt) Modus ponens 
+
+${
+min $e |- P $.
+maj $e |- ( P -> Q ) $.
+mp $a |- Q $.
+$}
+
+vervollständigen die Spezifikation dieser formalen Theorie.
+Wie im obigen Beispiel, soll nun in der Theorie die Aussage t=t bewiesen werden. 
+
+th1 $p |- t = t $=
+
+Über das Command Line Interface kann Metamath nun beim Beweis des Satzes assistieren. Metamath erlaubt exakt jene Operationen, die im Axiomen- und Inferenzregeln-Teil als gültig deklariert worden sind. Dies macht Fehler im Beweis unmöglich.  
+Für jeden Beweis existieren diverse „Detailstufen“, die von detaillierter Angabe jeder einzelnen Substitution bis zu der üblichen, Hilbert-Kalkül konformen Darstellung; 
+
+1 a2             $a |- ( t + 0 ) = t
+2 a2             $a |- ( t + 0 ) = t
+3 a1             $a |- ( ( t + 0 ) = t -> ( ( t + 0 ) = t -> t = t ) )
+4 2,3 mp         $a |- ( ( t + 0 ) = t -> t = t )
+5 1,4 mp         $a |- t = t

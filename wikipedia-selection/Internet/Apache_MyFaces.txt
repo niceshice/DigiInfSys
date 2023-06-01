@@ -1,0 +1,21 @@
+Apache MyFaces ist eine Open-Source-Implementierung der JavaServer-Faces-Spezifikation.
+Es wird als freie Software unter Version 2.0 der Apache-Lizenz verbreitet.
+MyFaces liegt aktuell in fünf verschiedenen Versionen (kompatibel mit JSF 1.1, 1.2, 2.0, 2.1 und 2.2) vor und ist ein Toplevel-Projekt der Apache Software Foundation. Im September 2005 hat MyFaces den offiziellen Kompatibilitätstest (TCK) von JSF 1.2 bestanden.
+Im Vergleich zur JSF-Referenzimplementierung Mojarra vom GlassFish-Projekt bietet MyFaces mehr Oberflächenkomponenten. Neben einem dynamischen Navigationsbaum und Datenbrowser wird unter anderem eine Kalender- und HTML-Editor-Komponente mitgeliefert.
+Zudem gibt es Oberflächenkomponenten, die mit Hilfe der Ajax-Technik umgesetzt wurden.
+MyFaces gliedert sich in folgende Subprojekte:
+
+MyFaces Core
+JSF API und JSF Implementierung mit Standardkomponenten
+MyFaces Tomahawk
+erweiterte JSF Komponenten
+MyFaces Tomahawk Sandbox
+erweiterte JSF Komponenten im Beta-Stadium, keine Garantie für die Stabilität der Zugriffsschnittstelle
+MyFaces Trinidad
+die ehemalige Oracle ADF-Faces Komponentenbibliothek
+MyFaces Tobago
+GUI Framework, keine HTML Kenntnisse benötigt
+MyFaces Orchestra
+Integration in Spring, Persistenzsicherung, Dialog-Framework
+MyFaces Portlet Bridge
+Implementierung der standardisierten Portlet Bridge (JSR-301)

@@ -1,0 +1,10 @@
+Die lateinische Redewendung argumentum a fortiori wird sprachlich (hauptsächlich in der Rechtsprechung, Theologie oder in der Mathematik) mit den Bedeutungen:
+
+„vom Stärkeren her“
+„erst recht“
+„umso mehr“ bzw. „umso weniger“
+„nach dem stärker überzeugenden Grunde“verwendet, um einen Beweis einer Behauptung durch eine schon bewiesene stärkere Behauptung auszudrücken. Ein logischer Schluss nach dieser Methode wird auch als „Erst-recht-Schluss“ bezeichnet (Beispiel: Wenn es verboten ist, zu zweit auf einem Fahrrad zu fahren, ist es erst recht verboten, zu dritt auf einem Fahrrad zu fahren). Für den „Erst-recht-Schluss“ unterscheidet man
+
+A maiore ad minus: Schluss vom Größeren auf das Kleinere
+A minore ad maius: Schluss vom Kleineren auf das GrößereDas Argumentum a fortiori wird meist zur Bekräftigung von Behauptungen eingesetzt, manchmal auch um einen logischen Schluss vorzutäuschen, wo keiner vorliegt (Petitio principii).Nach der Schulgrammatik müsste es streng genommen a fortiore heißen. Gelegentlich tritt jedoch schon im klassischen Latein im Ablativ das Suffix -ī an die Stelle des üblichen -e, auch wenn dies bei Komparativen selten ist.
+Das Argumentum a fortiori ist ein kontroverses Thema der philosophischen Relativismusdebatten, weil eine wichtige argumentativ-hermeneutische Schlussform im Talmud, kal va-chomer (hebräisch: קל וחומר), darauf bezogen wird. Während Autoren wie Daube, der die These von der grundlegend gleichen Schlussform von Argumentum a fortiori und Kal va-homer 1949 wissenschaftlich etablierte, und Dov Gabbay die kulturelle Invarianz von Vernunft verteidigen, nutzt die u. a. von Eilberg-Schwartz vertretene relativistische Gegenposition das Verhältnis der beiden Schlüsse um in dieser Rationalitätsdebatte für die kulturell-bedingte Geltungsbeschränkung der Logik zu argumentieren.

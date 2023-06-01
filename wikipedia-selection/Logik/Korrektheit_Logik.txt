@@ -1,0 +1,104 @@
+Korrektheit (englisch soundness) ist eine wichtige Eigenschaft formaler Systeme oder Kalküle und betrifft den Zusammenhang zwischen Syntax und Semantik, der umgangssprachlich lautet: Was formal ableitbar ist, ist auch wahr, soweit die Prämissen der Ableitung wahr sind.
+In der formalen Logik wird Ableitbarkeit durch den syntaktischen Ableitungsoperator 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   und Schlussfolgern durch die semantische Folgerungsrelation 
+  
+    
+      
+        ⊨
+      
+    
+    {\displaystyle \models }
+   ausgedrückt: Ein Kalkül heißt korrekt, wenn für Aussagenmengen 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   und 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   aus 
+  
+    
+      
+        Σ
+        ⊢
+        Ψ
+      
+    
+    {\displaystyle \Sigma \vdash \Psi }
+   stets 
+  
+    
+      
+        Σ
+        ⊨
+        Ψ
+      
+    
+    {\displaystyle \Sigma \models \Psi }
+   folgt. Die Semantik des Schließens wird modelltheoretisch definiert. 
+  
+    
+      
+        Σ
+        ⊨
+        Ψ
+      
+    
+    {\displaystyle \Sigma \models \Psi }
+   gilt genau dann, wenn jedes Modell von 
+  
+    
+      
+        
+        Σ
+      
+    
+    {\displaystyle \,\Sigma }
+   auch Modell von 
+  
+    
+      
+        
+        Ψ
+      
+    
+    {\displaystyle \,\Psi }
+   ist.
+Für die Korrektheit eines Kalküls ist hinreichend, wenn jede einzelne Ableitungsregel gültig ist. In einem korrekten Kalkül, welcher zusätzlich ein gewähltes Modell richtig beschreibt, lässt sich keine Formel herleiten, die im gewählten Modell nicht wahr ist. Allerdings hilft ein korrekter Kalkül nicht weiter, wenn er das Modell durch Axiome falsch beschreibt (z. B. 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   postuliert für einen Kalkül der natürlichen Zahlen, dass die Null einen Vorgänger hat) oder inkonsistent ist (z. B. 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   postuliert für einen Kalkül der natürlichen Zahlen, dass die Null einen Vorgänger hat und keinen Vorgänger hat). Aus einem solchen korrekten Kalkül lassen sich Formeln herleiten, die im gewählten Modell nicht wahr sind.
+Das Gegenstück zur Korrektheit ist die Vollständigkeit eines formalen Systems. Sie besagt: Was semantisch richtig ist, lässt sich auch ableiten. Vollständigkeitssätze sind meist weitaus schwieriger zu beweisen als Korrektheitssätze; so bereitet der Beweis für die Korrektheit des Sequenzenkalküls der Prädikatenlogik keine Probleme, während der Vollständigkeitssatz schwieriger ist.Heinz-Dieter Ebbinghaus, Jörg Flum, Wolfgang Thomas: Einführung in die mathematische Logik, 5. Aufl., Spektrum Akademischer Verlag;  2007, ISBN 978-3827416919
+Hans-Peter Tuschik, Helmut Wolter: Mathematische Logik – kurzgefasst. Grundlagen, Modelltheorie, Entscheidbarkeit, Mengenlehre, BI-Wiss. Verlag, Mannheim-Leipzig-Wien-Zürich 1994, ISBN 3-411-16731-9.
+
+
+== Einzelnachweis ==

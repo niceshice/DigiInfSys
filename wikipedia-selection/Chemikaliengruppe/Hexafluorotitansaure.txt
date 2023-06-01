@@ -1,0 +1,98 @@
+Hexafluorotitansäure, H2[TiF6], ist eine anorganische Säure, welche aus Titan und Fluor besteht. Ihre Salze heißen Hexafluorotitanate.Hexafluorotitansäure kann durch Lösen von Titandioxid in Flusssäure hergestellt werden.
+
+  
+    
+      
+        
+          T
+          i
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+           
+          H
+          F
+          ⟶
+           
+          
+            H
+            
+              2
+            
+          
+          [
+          T
+          i
+          
+            F
+            
+              6
+            
+          
+          ]
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {TiO_{2}+6\ HF\longrightarrow \ H_{2}[TiF_{6}]+2\ H_{2}O} }
+  Alternativ kann Hexafluorotitansäure durch Reaktion von metallischem Titan mit Flusssäure hergestellt werden.
+
+  
+    
+      
+        
+          T
+          i
+          +
+          6
+           
+          H
+          F
+          ⟶
+           
+          
+            H
+            
+              2
+            
+          
+          [
+          T
+          i
+          
+            F
+            
+              6
+            
+          
+          ]
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ti+6\ HF\longrightarrow \ H_{2}[TiF_{6}]+2\ H_{2}} }Eine 60%ige wässrige Lösung von Hexafluorotitansäure ist eine farblose Flüssigkeit mit beißendem Geruch. Sie besitzt einen pH-Wert von < 1.Hexafluorotitansäure kann zur Oberflächenbehandlung von Metallen verwendet werden.Die Verbindung ist bei Verschlucken oder Inhalation toxisch. Schwere Verätzungen sind Folgen bei Hautkontakt mit der Säure. An den Augen verursacht es schwere Schäden.Verbindungen wie Basen, Cyanide und Glas sowie auch Metalle sollten nicht mit der Säure in Kontakt kommen.
+
+
+== Einzelnachweise ==

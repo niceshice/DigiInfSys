@@ -1,0 +1,16 @@
+Die formalisierte Theorie bezeichnet in der klassischen Mathematik ein Verfahren, wobei  die Sätze einer Theorie durch logische Schlüsse aus den Axiomen abgeleitet werden.
+Zur Formalisierung der Axiome und der Beweise benutzt man dabei die Umgangssprache. Man kann aber auch auf die Umgangssprache verzichten und die Axiome (unter Benutzung der Prädikatenlogik und wohlbestimmter Terme) in einer Formelsprache ausdrücken. Zum Beweis werden dann nur bestimmte formale Schlussregeln zugelassen.
+Auf diese Weise entsteht eine formalisierte Theorie, die Gegenstand  metamathematischer Untersuchungen sein kann. Die formalisierte Theorie ist dann eine
+Theorie,  deren Ausdrucksmittel, insbesondere deren sinnvolle Aussagen und Sätze, durch eine zu diesem Zweck konstituierte formalisierte Sprache oder Formelsprache exakt abgegrenzt sind (Kalkül).
+Meist werden die Ausdrucksmittel einer formalisierten Theorie als nach speziellen strukturellen Regeln aufgebaute Zeichenreihen aus bestimmten Grundzeichen charakterisiert. 
+Man spricht von einer formalisierten Theorie mit semantisch definierter Satzmenge, wenn ihre Sätze (Theoreme) als die bei einer bestimmten Interpretation wahren Aussagen aufgefasst werden.
+Man spricht von einer formalisierten Theorie mit syntaktisch definierter Satzmenge, wenn ihre Sätze (Theoreme) als die aus einem bestimmten Axiomensystem nach genau festgelegten Schlussregeln beweisbaren Aussagen aufgefasst werden. 
+Eine Theorie, die im Rahmen des Prädikatenkalküls der ersten Stufe formalisiert ist, heißt formalisierte Theorie erster Stufe oder elementare Theorie.
+Eine Theorie, die in einem Prädikatenkalkül höherer Stufe formalisiert ist, wird eine formalisierte Theorie entsprechender Stufe genannt. 
+Die Formalisierung einer Theorie ist wichtiges Hilfsmittel der mathematischen Grundlagenforschung. Erst durch sie werden allgemeine wissenschaftstheoretische Fragestellungen wie
+
+Widerspruchsfreiheit,
+Vollständigkeit,
+Axiomatisierbarkeit,
+Unabhängigkeit,
+Entscheidbarkeit u. a.einer exakten mathematischen Behandlung zugänglich. Die Behandlung derartiger Probleme für eine bestimmte formalisierte Theorie bildet den Gegenstand der Metatheorie dieser Theorie.

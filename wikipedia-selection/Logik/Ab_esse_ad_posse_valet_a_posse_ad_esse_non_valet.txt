@@ -1,0 +1,4 @@
+Ab esse ad posse valet, a posse ad esse non valet (consequentia) (auch Ab-esse-a-posse-Prinzip) ist ein maßgeblicher Grundsatz der philosophischen Logik. Er besagt, dass zwar von der Wirklichkeit auf eine Möglichkeit (vom Sein auf das Können) geschlossen werden kann. Doch ist der andere Weg, von der Möglichkeit auf die Wirklichkeit zu schließen, ungültig.
+Die logische Regel drückt eine modale Konsequenz aus: »Quod existit, id est possibile« (Chr. WOLF, Ont. § 170). Aus der Gültigkeit des assertorischen (lat. assertio 'Behauptung') folgt die des problematischen Urteils, nicht aber umgekehrt.Rudolf Eisler: Wörterbuch der philosophischen Begriffe. 1904
+Friedrich Kirchner: Wörterbuch der philosophischen Grundbegriffe. 1907
+Immanuel Kant: Vorlesungen über die Metaphysik, S.41

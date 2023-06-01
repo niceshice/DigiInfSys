@@ -1,0 +1,203 @@
+Als Rawlssche soziale Wohlfahrtsfunktion auch Maximin-SWF bezeichnet man in der Mikroökonomik eine spezielle Form der Beschreibung des Gesamtnutzens der Bevölkerung in einer Volkswirtschaft. Die Funktion ist nach dem US-amerikanischen Philosophen John Rawls benannt. Die Wohlfahrtsfunktion ist aus der philosophischen Arbeit von Rawls entlehnt, insbesondere aus seinem Hauptwerk A Theory of Justice (1971).Durch eine Wohlfahrtsfunktion 
+  
+    
+      
+        W
+        =
+        W
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          u
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle W=W(u_{1},u_{2},\dotsc ,u_{n})}
+   werden die privaten Präferenzen der Haushalte bzw. Individuen aggregiert. Es wird angenommen, dass eine Maßnahme 
+  
+    
+      
+        d
+        ∈
+        D
+      
+    
+    {\displaystyle d\in D}
+   zum Wohlfahrtswert 
+  
+    
+      
+        W
+        (
+        
+          u
+          
+            1
+          
+        
+        (
+        d
+        )
+        ,
+        …
+        ,
+        
+          u
+          
+            n
+          
+        
+        (
+        d
+        )
+        )
+      
+    
+    {\displaystyle W(u_{1}(d),\dotsc ,u_{n}(d))}
+   führt.
+Bei Erfüllung der Monotonie- und Konvexitätsannahme kann die optimale staatliche Maßnahme 
+  
+    
+      
+        
+          d
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle d^{*}}
+   aus folgendem Maximierungsproblem ermittelt werden:
+
+Bei der Rawlsschen sozialen Wohlfahrtsfunktion wird die allgemeine Form einer Wohlfahrtsfunktion 
+  
+    
+      
+        W
+        =
+        W
+        (
+        
+          u
+          
+            1
+          
+        
+        (
+        d
+        )
+        ,
+        …
+        ,
+        
+          u
+          
+            n
+          
+        
+        (
+        d
+        )
+        )
+      
+    
+    {\displaystyle W=W(u_{1}(d),\dotsc ,u_{n}(d))}
+   wie folgt spezifiziert:
+
+  
+    
+      
+        W
+        =
+        W
+        (
+        
+          u
+          
+            1
+          
+        
+        (
+        d
+        )
+        ,
+        …
+        ,
+        
+          u
+          
+            n
+          
+        
+        (
+        d
+        )
+        )
+        =
+        min
+        ⁡
+        
+          {
+          
+            
+              u
+              
+                1
+              
+            
+            (
+            d
+            )
+            ,
+            …
+            ,
+            
+              u
+              
+                n
+              
+            
+            (
+            d
+            )
+          
+          }
+        
+      
+    
+    {\displaystyle W=W(u_{1}(d),\dotsc ,u_{n}(d))=\operatorname {min} \left\{u_{1}(d),\dotsc ,u_{n}(d)\right\}}
+  Wobei die Einkommen 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+      
+    
+    {\displaystyle y_{i}}
+   der Individuen hier durch den jeweiligen Nutzen der Individuen ausgedrückt und durch Nutzenfunktionen ersetzt werden. Die Funktion beschreibt, dass die soziale Wohlfahrt der Gesellschaft auf der Basis des am schlechtesten gestellten Individuums der Gesellschaft gemessen werden sollte: Minimax-Kriterium. Die Funktion betont weiterhin, dass soziale Gerechtigkeit im Hinblick auf den Gesamtnutzen einer Gesellschaft eine große Rolle spielt, da soziale Gerechtigkeit durch die Maximierung des Nutzens des am schlechtesten gestellten Individuums allen Individuen in der Gesellschaft nützt (Gesamtwohlfahrt wird maximiert) und somit alle besser gestellt werden.Da aufgrund der Gestalt der Indifferenzkurven keine Substituierbarkeit der Nutzen von verschiedenen Individuen stattfinden kann und die Form der Indifferenzkurven analog zu limitationalen Indifferenzkurven ist, werden die Indifferenzkurven der Wohlfahrtsfunktion auch als soziale limitationale Indifferenzkurven bezeichnet.
+Die Gestalt der Indifferenzkurven impliziert, dass eine einseitige Erhöhung des Nutzens eines Individuums nicht zu einer erhöhten Wohlfahrt führt. Nur wenn man alle Individuen im gleichen Maße besser stellt, führt dies zu einer erhöhten gesamtwirtschaftlichen Wohlfahrt. Ein triviales vergleichbares Beispiel hierfür sind linke und rechte Schuhe. Kauft man fünf linke und fünf rechte Schuhe, so bringt das Kaufen von fünf weiteren linken Schuhen keinen Mehrnutzen.

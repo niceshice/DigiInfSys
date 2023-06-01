@@ -1,0 +1,293 @@
+Als Ringschluss wird eine mathematische Beweistechnik bezeichnet, mit der die paarweise Äquivalenz mehrerer Aussagen bewiesen werden kann, ohne alle paarweisen Äquivalenzen direkt beweisen zu müssen.
+Um zu beweisen, dass die Aussagen 
+  
+    
+      
+        
+          φ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          φ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi _{1},\ldots ,\varphi _{n}}
+   jeweils paarweise äquivalent sind, werden Beweise für die Implikationen 
+  
+    
+      
+        
+          φ
+          
+            1
+          
+        
+        ⇒
+        
+          φ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi _{1}\Rightarrow \varphi _{2}}
+  , 
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+        ⇒
+        
+          φ
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \varphi _{2}\Rightarrow \varphi _{3}}
+  , 
+  
+    
+      
+        …
+      
+    
+    {\displaystyle \dots }
+  , 
+  
+    
+      
+        
+          φ
+          
+            n
+            −
+            1
+          
+        
+        ⇒
+        
+          φ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi _{n-1}\Rightarrow \varphi _{n}}
+   und 
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        ⇒
+        
+          φ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \varphi _{n}\Rightarrow \varphi _{1}}
+    geführt.Die paarweise Äquivalenz der Aussagen ergibt sich dann durch das logische Prinzip des Kettenschlusses und wird nicht mehr explizit bewiesen.Bei 
+  
+    
+      
+        n
+        =
+        4
+      
+    
+    {\displaystyle n=4}
+   führt der Mathematiker die Beweise für 
+  
+    
+      
+        
+          φ
+          
+            1
+          
+        
+        ⇒
+        
+          φ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi _{1}\Rightarrow \varphi _{2}}
+  , 
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+        ⇒
+        
+          φ
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \varphi _{2}\Rightarrow \varphi _{3}}
+  , 
+  
+    
+      
+        
+          φ
+          
+            3
+          
+        
+        ⇒
+        
+          φ
+          
+            4
+          
+        
+      
+    
+    {\displaystyle \varphi _{3}\Rightarrow \varphi _{4}}
+   und 
+  
+    
+      
+        
+          φ
+          
+            4
+          
+        
+        ⇒
+        
+          φ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \varphi _{4}\Rightarrow \varphi _{1}}
+  . Die Äquivalenz von 
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi _{2}}
+   und 
+  
+    
+      
+        
+          φ
+          
+            4
+          
+        
+      
+    
+    {\displaystyle \varphi _{4}}
+   ergibt sich mittels der nicht mehr explizit angegebenen Kettenschlüsse
+
+Das heißt 
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+        ⇔
+        
+          φ
+          
+            4
+          
+        
+      
+    
+    {\displaystyle \varphi _{2}\Leftrightarrow \varphi _{4}}
+  .Die Technik spart vor allem Schreibaufwand. Durch den Verzicht auf die formal notwendigen Kettenschlüsse müssen an Stelle von 
+  
+    
+      
+        n
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle n(n-1)}
+   direkten Beweisen für 
+  
+    
+      
+        
+          φ
+          
+            i
+          
+        
+        ⇒
+        
+          φ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \varphi _{i}\Rightarrow \varphi _{j}}
+   lediglich 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   direkte Beweise geführt werden. Für den Mathematiker ergibt sich die Schwierigkeit, eine Reihenfolge der Aussagen zu finden, die möglichst elegante direkte Beweise erlauben.

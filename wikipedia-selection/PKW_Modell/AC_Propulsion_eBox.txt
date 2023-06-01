@@ -1,0 +1,19 @@
+Der AC Propulsion eBox ist ein Elektroauto der US-Firma AC Propulsion beruhend auf dem Einbau eines Elektromotors und eines Lithium-Ionen-Akkumulator-Packs in einen Scion xB 5-Spd MT (= manuelles Fünfgangschaltgetriebe). Der Kunde muss ein Auto dieses Typs rechtmäßig besitzen und dieses zur Firma AC Propulsion mitbringen, um es in ein Elektroauto konvertiert zu bekommen. AC Propulsion ist also kein Elektroautohersteller, sondern eine Konvertierungsfirma. Das Auto, das eine Höchstgeschwindigkeit von 153 km/h erreicht, hat mit einer vollen Batterieladung eine Reichweite von 225 km bis 290 km.Die Absicht, den Scion xB als Grundlage für ein Elektroauto zu verwenden, verkündeten die Manager von AC Propulsion im Oktober 2003 auf der Webseite der Electrifying Times. Die Führungskräfte erklärten, dass die kastenförmige Form des Scion xB es erleichtert, den Batteriesatz einzubauen.Der Prototyp des eBox wurde am 18. August 2006 in Santa Monica, Kalifornien, USA vorgestellt. Der Prototyp war ausgestattet mit einem Batteriesatz bestehend aus 5300 Lithium-Ionen-Akkus, aufgeteilt in 100 Blocks zu je 53 Zellen. Der erste Serien-eBox wurde am 15. Februar 2007 an den US-Schauspieler Tom Hanks ausgeliefert.
+AC Propulsion bietet den Umbau des Fahrzeugs für 55.000 Dollar an, dazu kommen die Kosten für das Basisfahrzeug Scion xB.Beschleunigung: 0 bis 60 mph in weniger als 7 Sekunden
+Höchstgeschwindigkeit: 95 mph (= 153 km/h)
+Reichweite: 140–180 Meilen (225–290 km)
+Motor: 3-phasiger, 4-poliger Wechselstrom-Induktionsmotor
+Akkumulator: 5088 Lithium-Ionen-Akkumulatoren-Zellen, 355 V Nominalspannung, Gewicht: 272 kg / 600 Pound
+Ladekapazität: 35 kWh,
+Ladeeinheit: im Fahrzeug, für 100–250 Volt Wechselstrom, 50/60 Hz; Die Ladeeinheit bietet die Möglichkeit an Vehicle-to-grid-Projekten teilzunehmen kann auch für eine unterbrechungsfreie Stromversorgung verwendet werden.
+Laderate: bis 20 kW; 30 Minuten für 20–50 Meilen
+vollständiger Ladevorgang: Schnellladung in 2 Stunden, Normalladezeit 5 Stunden
+Energie-Verbrauch: 18 kWh / 100 km bei durchschnittlichem Fahrverhalten
+Karosserieform   = 5-türiger Kompaktvan
+Länge: 3944 mm / 155,4 in.
+Breite: 1689 mm / 66,5 in.
+Höhe 1641 mm / 64,6 in.
+Gewicht 1383 kg / 3050 lb
+Achsabstand: 2499 mm / 98,4 in.
+Bodenfreiheit: 130 mm / 5,1 in.
+Antriebsart: Frontantrieb mit Motor im Frontbereich

@@ -1,0 +1,694 @@
+Zwei Aussagen der klassischen Aussagenlogik werden als dual zueinander bezeichnet, wenn sie für jede Belegung der in ihnen vorkommenden atomaren Aussagen entgegengesetzte Wahrheitswerte aufweisen. Umgekehrt haben duale Aussagen genau dann denselben Wahrheitswert, wenn die in ihnen vorkommenden atomaren Aussagen mit entgegengesetzten Wahrheitswerten belegt werden.Für Aussagen in Negationsnormalform, das heißt für Aussagen, in denen als Junktoren nur Konjunktionen, Disjunktionen und Negationen vorkommen und in denen nur atomare Aussagen verneint werden, lässt sich eine einfache syntaktische Definition für Dualität angeben:
+
+Zwei Aussagen 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   und 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+   sind genau dann dual, wenn jedes Vorkommnis des Junktors 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   (Konjunktion) durch 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+   (Disjunktion) und wenn jedes Vorkommnis des Junktors 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+   durch 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   ersetzt wird.Da sich für jede Aussage eine Negationsnormalform bilden lässt, liefert diese Definition ein syntaktisches Verfahren, zu jeder Aussage 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   eine duale Aussage zu bilden: Man bildet eine Negationsnormalform zu 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   und ersetzt jedes darin vorkommende 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   durch 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+   und umgekehrt.
+Um zum Beispiel eine zu 
+  
+    
+      
+        A
+        →
+        (
+        B
+        ∨
+        C
+        )
+      
+    
+    {\displaystyle A\rightarrow (B\vee C)}
+   duale Aussage zu bilden, formt man sie zuerst in eine Negationsnormalform um, etwa in 
+  
+    
+      
+        (
+        ¬
+        A
+        ∨
+        B
+        )
+        ∨
+        C
+      
+    
+    {\displaystyle (\neg A\lor B)\lor C}
+  . Nach dem Ersetzen von 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   durch 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+   und umgekehrt entsteht die Aussage 
+  
+    
+      
+        (
+        ¬
+        A
+        ∧
+        B
+        )
+        ∧
+        C
+      
+    
+    {\displaystyle (\neg A\land B)\land C}
+  , und diese ist dual zur ursprünglichen Aussage.A
+      
+    
+    {\displaystyle A}
+   ist dual zu 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   ; 
+  
+    
+      
+        
+          
+            A
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {A}}}
+   ist dual zu 
+  
+    
+      
+        
+          
+            A
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {A}}}
+   ;
+
+  
+    
+      
+         
+        A
+         
+        ∧
+         
+        B
+      
+    
+    {\displaystyle ~A~\land ~B}
+   ist dual zu 
+  
+    
+      
+        A
+         
+        ∨
+         
+        B
+      
+    
+    {\displaystyle A~\lor ~B}
+   ;
+
+  
+    
+      
+         
+        A
+         
+        →
+         
+        B
+      
+    
+    {\displaystyle ~A~\rightarrow ~B}
+   ist dual zu 
+  
+    
+      
+         
+        
+          
+            
+              B
+               
+              →
+               
+              A
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle ~{\overline {B~\rightarrow ~A}}}
+   ;
+
+  
+    
+      
+         
+        A
+         
+        ↔
+         
+        B
+      
+    
+    {\displaystyle ~A~\leftrightarrow ~B}
+   ist dual zu 
+  
+    
+      
+        A
+         
+        
+          
+            
+              ∨
+              ˙
+            
+          
+        
+         
+        B
+      
+    
+    {\displaystyle A~{\dot {\lor }}~B}
+   (ausschließende Disjunktion) ;V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   sei eine zusammengesetzte Aussage, die nur aus Konjunktionen, Disjunktionen und Negationen besteht (aber keine Negationsnormalform sein muss). Diejenige Verknüpfung 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+  , die dadurch entsteht, dass bei 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   überall die Konjunktionen mit den Disjunktionen und umgekehrt vertauscht werden, ist dann dual zu 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+  .
+Beispiel: 
+  
+    
+      
+        (
+        A
+        ∧
+        ¬
+        B
+        )
+        ∨
+        C
+      
+    
+    {\displaystyle (A\land \neg B)\lor C}
+   ist dual zu 
+  
+    
+      
+        (
+        A
+        ∨
+        ¬
+        B
+        )
+        ∧
+        C
+      
+    
+    {\displaystyle (A\lor \neg B)\land C}Wenn 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   eine Aussage ist, so erhält man eine duale Verknüpfung 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+  , wenn alle Variablen und die gesamte Verknüpfung 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   selbst negiert werden.
+Beispiele:  
+  
+    
+      
+        A
+        ↔
+        B
+      
+    
+    {\displaystyle A\leftrightarrow B}
+   ist dual zu 
+  
+    
+      
+        
+          
+            
+              
+                
+                  A
+                  ¯
+                
+              
+              ↔
+              
+                
+                  B
+                  ¯
+                
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {{\overline {A}}\leftrightarrow {\overline {B}}}}}
+  ; 
+  
+    
+      
+        A
+        ∧
+        (
+        B
+        ∨
+        C
+        )
+      
+    
+    {\displaystyle A\land (B\lor C)}
+   ist dual zu 
+  
+    
+      
+        
+          
+            
+              
+                
+                  A
+                  ¯
+                
+              
+              ∧
+              (
+              
+                
+                  B
+                  ¯
+                
+              
+              ∨
+              
+                
+                  C
+                  ¯
+                
+              
+              )
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {{\overline {A}}\land ({\overline {B}}\lor {\overline {C}})}}}
+  .Wenn eine Aussage eine Tautologie ist, so ist die zu ihr duale Aussage eine Kontradiktion und umgekehrt.
+Beispiel: 
+  
+    
+      
+        A
+        ∧
+        B
+        ∧
+        
+          
+            A
+            ¯
+          
+        
+      
+    
+    {\displaystyle A\land B\land {\overline {A}}}
+   ist eine Kontradiktion (immer falsch), also ist das duale 
+  
+    
+      
+        A
+        ∨
+        B
+        ∨
+        
+          
+            A
+            ¯
+          
+        
+      
+    
+    {\displaystyle A\lor B\lor {\overline {A}}}
+   eine Tautologie (immer wahr).Eine Aussage 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   impliziert genau dann eine Aussage 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+  , wenn eine (und damit jede) zu 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+   duale Aussage eine (und damit jede) zu 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   duale Aussage impliziert.
+Beispiel: 
+  
+    
+      
+        (
+        A
+        ∧
+        B
+        )
+        ⇒
+        A
+      
+    
+    {\displaystyle (A\land B)\Rightarrow A}
+   genau dann, wenn dual gilt: 
+  
+    
+      
+        A
+        ⇒
+        (
+        A
+        ∨
+        B
+        )
+      
+    
+    {\displaystyle A\Rightarrow (A\lor B)}
+  .Eine Aussage 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   ist genau dann äquivalent zu einer Aussage 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+  , wenn eine (und damit jede) zu 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   duale Aussage auch äquivalent zu einer (und damit jeder) zu 
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+   dualen Aussage ist.
+Beispiel: 
+  
+    
+      
+        (
+        A
+        ∧
+        B
+        )
+        ⇔
+        (
+        B
+        ∧
+        A
+        )
+      
+    
+    {\displaystyle (A\land B)\Leftrightarrow (B\land A)}
+   genau dann, wenn dual gilt: 
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+        ⇔
+        (
+        B
+        ∨
+        A
+        )
+      
+    
+    {\displaystyle (A\lor B)\Leftrightarrow (B\lor A)}
+  .

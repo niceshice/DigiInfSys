@@ -1,0 +1,28 @@
+Der Begriff Aussage ist mehrdeutig. Er bezeichnet insbesondere
+einen Satz, der typischerweise eine Aussage enthält → Aussagesatz;
+eine Äußerung, der man einen Wahrheitswert zuordnen kann → Aussage (Logik);
+die Äußerung, mit der eine Aussage behauptet wird → die Aussage als Sprechakt­typ;
+die Äußerung vor einer Behörde (z. B. Polizei, Gericht) → Zeugenaussage, Aussage im Straf- und Ordnungswidrigkeitenverfahren, Aussage im Disziplinarverfahren, Aussage als Sachverständiger usw.
+das, was ausgesagt wird → Aussageinhalt (die Proposition).In der Ästhetik auch
+
+die künstlerische Aussage; „das, was ein Werk ausdrückt“, „der Ausdruck des inneren Gehalts“.Verbreitet wird Aussage mit Aussagesatz gleichgesetzt, z. B. in der Definition „Aussagen sind Sätze, die wahr oder falsch sind“.Synonyme für den Aussagesatz sind Deklarativsatz oder deskriptiver Satz.
+Ein Aussagesatz ist semantisch gesehen ein Deklarativsatz, das heißt eine sprachliche Formulierung, mit der entweder ein Sachverhalt, eine Vermutung, eine These oder eine persönliche Position wie etwa eine Meinung zum Ausdruck gebracht wird. Grammatikalisch gesehen ist eine Aussage in den Indogermanischen Sprachen ein Satz im Modus Indikativ.
+In der Schulgrammatik werden die Aussagesätze den Frage­sätzen und Befehlssätzen als Sätze mit grundsätzlich anderer Bedeutung und Verwendung gegenübergestellt.
+Zwischen der Aussage und dem Aussagesatz besteht allerdings ein grundlegender Unterschied: Eine Aussage wird nur typischerweise durch einen Aussagesatz ausgedrückt. Nicht alle Aussagesätze dienen dem Vollzug von Aussagen und nicht alle Aussagen werden durch Aussagesätze vollzogen.
+
+Beispiel: „Ich hätte gerne im Lotto gewonnen“ ist ein Aussagesatz, der aber keine Aussage, sondern einen Wunsch ausdrückt.
+Beispiel: „Ich verspreche Dir, Dich zu heiraten“ ist keine Aussage, sondern ein Verlobungsversprechen.Der Ausdruck Aussage bezeichnet auch die behauptende Äußerung, d. h. die Behauptung (auch: die konstative Äußerung, die Feststellung usw.). Gemeint ist damit ein bestimmter Sprechakttyp.
+So spricht man z. B. von der Zeugenaussage (im Sinne von Handlung).
+Die Behauptung als Sprechakt wird in der Regel in Form eines Aussagesatzes erfolgen. Dies ist aber nicht zwingend. Eine rhetorische Frage kann zum Beispiel eine (rhetorisch verdeckte) Behauptung sein.Eine Aussage, also das, was in einer behauptenden Äußerung typischerweise in einem Aussagesatz gesagt wird, ist das, wovon man sinnvoll sagen kann, es sei entweder wahr oder falsch. Dies ist der Begriff der Aussage, wie er in der Logik (Aussage (Logik)) verwandt und der in der Sprachwissenschaft, insbesondere in der Sprechakttheorie, Proposition genannt wird.
+In einem (umgangssprachlichen/sprachwissenschaftlichen) Sinn, der nicht so streng wie der in der Logik ist, wird auch das, was ein Aussagesatz oder eine – dem Anschein nach – behauptende Äußerung enthält, Aussage genannt.
+
+Beispiel: Der Ausdruck „Es regnet“ ist abstrakt grammatisch ein Aussagesatz, der umgangssprachlich einen Aussageinhalt hat, jedoch mangels Wahrheitsfähigkeit (Wann?, Wo?) keine Aussage im logischen Sinn darstellt; allerdings im Zusammenhang der konkreten Äußerung (Ort, Zeit) eine wahrheitsdefinite Aussage ist.
+Beispiel: Ein Zeuge sagt in seiner „Zeugenaussage“ nichts Konkretes, Verifizier- oder Falsifizierbares, redet um den heißen Brei herum. Seine „Aussage“ ist keine Aussage im logischen Sinn (, sollte sie nur sein).Die Berechtigung der Unterscheidung von Aussagesatz und Aussage(satz)inhalt wird dadurch deutlich, dass eine Aussage (eine Proposition) durch unterschiedliche Aussagesätze getätigt (ausgesagt) werden kann:
+
+Beispiel:Berlin ist die Hauptstadt Deutschlands.
+Die Hauptstadt Deutschlands ist Berlin.
+Deutschlands Hauptstadt ist Berlin.
+Deutschland hat eine Hauptstadt, und die heißt Berlin.
+Berlin is the capital of Germany.oder in anderen Sätzen als Aussagesätzen:
+
+Berlin ist doch die Hauptstadt Deutschlands, oder bist Du etwa anderer Ansicht?

@@ -1,0 +1,145 @@
+Die Durchlaufzeit (englisch throughput time, lead time) ist im Arbeitsstudium die Zeitspanne, die ein Arbeitsobjekt oder eine Entität zum Durchlaufen eines Systems benötigt.Bei der Durchlaufzeit handelt es sich um einen Zeitraum, der von einem beliebigen Objekt benötigt wird, um ein System zu durchlaufen. Die Kenntnis der Durchlaufzeit ist für die Unternehmensplanung von großer Bedeutung.  Die Durchlaufzeit ist ein zentraler Begriff der Fertigungssteuerung. In der Produktionswirtschaft bemisst sie die Dauer, die ein Produktionsprozess von Anfang bis zu seinem Ende erfordert. Durchlaufzeit ist in der Produktionswirtschaft jener Zeitraum, die der Input (etwa Fertigungsmaterial, Daten, Geld, Kunden) benötigt, um einen Produktionsprozess zu durchlaufen und diesen als Output (Güter, Dienstleistungen) zu verlassen. Sie ist funktional die Zeitdauer vom Auftragseingang bis zum Warenausgang.Die Durchlaufzeit in der Fertigung 
+  
+    
+      
+        D
+        L
+        Z
+      
+    
+    {\displaystyle DLZ}
+   setzt sich aus der Durchführungszeit 
+  
+    
+      
+        D
+        
+          f
+          
+            z
+          
+        
+      
+    
+    {\displaystyle Df_{z}}
+   (bestehend aus der Bearbeitungs- und Rüstzeit), der Übergangszeit 
+  
+    
+      
+        
+          U
+          
+            z
+          
+        
+      
+    
+    {\displaystyle U_{z}}
+   (bestehend aus Liegezeiten und Transportzeiten) und der Zwischenzeit 
+  
+    
+      
+        
+          Z
+          
+            z
+          
+        
+      
+    
+    {\displaystyle Z_{z}}
+   (bestehend aus Wartezeit und Liegezeit) zusammen:
+
+  
+    
+      
+        D
+        L
+        Z
+        =
+        D
+        
+          f
+          
+            z
+          
+        
+        +
+        
+          U
+          
+            z
+          
+        
+        +
+        
+          Z
+          
+            z
+          
+        
+      
+    
+    {\displaystyle DLZ=Df_{z}+U_{z}+Z_{z}}
+  .Im Rahmen des Reihenfolgeproblems, das durch Scheduling gelöst wird, werden die Zeiten folgendermaßen unterschieden:
+
+Die Liegezeit ist die ungewollte Wartezeit des Erzeugnisses innerhalb des Produktionssystems.
+Die Bearbeitungszeit ist die Zeit, die technisch für die Herstellung des Produktes benötigt wird. Hierzu zählt demnach auch gewollte Liegezeit wie zum Beispiel das Trocknen nach dem Lackieren.
+Die Rüstzeit ergibt sich aus der Eigenschaft von manchen Ressourcen, verschiedene Bearbeitungen ausführen zu können. Hierzu muss die Ressource allerdings in den richtigen Zustand versetzt (gerüstet) werden. Ein einfaches Beispiel ist eine Küchenmaschine, die erst mit den richtigen Klingen für eine geplante Bearbeitung ausgestattet werden muss.
+Die Transportzeit ist die benötigte Zeit, das Erzeugnis vor und nach der Bearbeitung zu örtlich unterschiedlichen Arbeitsplatz|Arbeitsplätzen transportieren.Verlängert sich nur eine dieser Komponenten, erhöht dies automatisch die Durchlaufzeit.Allgemein unterscheidet REFA nach Ablaufarten für
+
+die Arbeitskraft (Tätigkeit – Unterbrechen – Erholen) und einer zugehörigen Auftragszeit,
+das Betriebsmittel (Nutzung – Unterbrechen) und einer zugehörigen Betriebsmittelzeit die zusammen mit der Rüstzeit zur Belegungszeit wird und
+den Werkstoff (Verändern, Prüfen, Liegen, Lagern).Da die Unterscheidung für die Durchlaufzeit unerheblich ist, und die Zeiten für die Arbeitskraft und das Betriebsmittel symmetrisch definiert sind, spricht man für die Durchlaufzeit als Überbegriff von Durchführung. Dabei bilden Haupt- und Nebendurchführung die Durchführungszeit. Zusammen mit der aus dem ablaufbedingtem Unterbrechen hervorgehenden Zwischenzeit bilden sie die planmäßige Durchlaufzeit (durch ein Arbeitssystem). Die tatsächliche Durchlaufzeit kann gegenüber der geplanten noch verlängert sein durch eine Zusatzzeit, gebildet aus Zeiten für störungsbedingtes Unterbrechen und zusätzliche Durchführungen.
+Für die Durchlaufzeit durch mehrere Arbeitssysteme addiert man deren einzelnen Durchlaufzeiten unter Hinzufügung jeweils einer Zwischenzeit, die Liege-, Lager- und Transportzeiten zwischen den Arbeitssystemen repräsentiert. Damit veranlasst REFA angesichts der faktischen Unschärfe der obigen, üblichen Definition (Wann genau ist Beginn der Bearbeitung: Erteilung des Fertigungsauftrages, Bereitstellung des Materials oder erster Arbeitsgang. Wann genau ist Fertigstellung des Erzeugnisses: Letzter Arbeitsgang oder Bereitstellung im Versand) zu einer klaren Angabe, was zur Durchlaufzeit gehört und was nicht.
+Zur Nutzung als Betriebswirtschaftliche Kennzahl kann man Durchlaufzeit in mittlere Durchlaufzeit und auftragsbezogene Durchlaufzeit unterteilen. In diesem Zusammenhang bildet die Zykluszeit die Zeit für die Herstellung ganzer Auftragskomplexe. Die Zykluszeit ist identisch mit der längsten Durchlaufzeit eines Auftrags.Bei komplexen technischen Produkten, die sich aus vielen Einzelteilen und Baugruppen zusammensetzen und die in heterogenen Fertigungsbereichen hergestellt werden, sind die jeweiligen Durchlaufzeiten oft sehr unterschiedlich. Eine Möglichkeit, die Durchlaufzeiten zu senken ist es, aus sequentiellen Fertigungslinien einzelne Fertigungsabschnitte auszulagern und die Fertigung partiell zu parallelisieren. Dieses Vorgehen findet man häufig in der Automobilindustrie. Dort werden z. B. die Fahrzeugtüren zu Beginn der Endmontage ausgebaut und dann in separaten Türmontagen komplettiert. Am Ende des Montagebandes werden diese Türen dann wieder ans Endmontageband geliefert und eingebaut. Oder es werden bestimmte Fertigungsumfänge von einem Dienstleister oder einem Lieferanten in eine Vormontage verlegt. Das vormontierte Modul wird dann, oftmals Just-in-sequence (Just-in-Reihenfolge), in das Fahrzeug eingebaut. Wenn sich die Taktzeiten zwischen den Fertigungsbereichen stark unterscheiden besteht eine weitere Möglichkeit darin, für bestimmte Teile oder Baugruppen mehrere parallele Fertigungslinien oder flexible Fertigungszellen einzurichten.In der Materialbedarfsplanung wird die Durchlaufzeit als Vorlaufzeit genutzt, um zu berechnen, zu welchem Zeitpunkt ein benötigtes Fertigungsmaterial vorher an einer anderen Stelle (z. B. im Lager) vorhanden sein muss, damit es rechtzeitig (z. B. an einer Montagelinie) zur Verfügung steht. Dies wird auch als retrograde Terminierung bezeichnet.Das Gesetz von Little ist eine bedeutende Gesetzmäßigkeit in der Warteschlangentheorie. Es wurde 1961 von John D. C. Little formuliert und bewiesen:
+
+  
+    
+      
+        D
+        L
+        Z
+        =
+        
+          
+            
+              U
+              B
+            
+            
+              D
+              S
+            
+          
+        
+      
+    
+    {\displaystyle DLZ={\frac {UB}{DS}}}
+  .Die durchschnittliche Durchlaufzeit eines Arbeitsobjektes in einem Produktionsprozess – der sich in einem stabilen Zustand befindet – ist gleich der durchschnittlichen Anzahl eines Umlaufbestandes 
+  
+    
+      
+        U
+        B
+      
+    
+    {\displaystyle UB}
+   dividiert durch den durchschnittlichen Durchsatz 
+  
+    
+      
+        D
+        S
+      
+    
+    {\displaystyle DS}
+  , also der Anzahl von fehlerfreien Produkten, die den Prozess in einem bestimmten Zeitraum verlassen.Durchlaufzeiten können je nach Komplexität des Arbeitsobjektes und der erforderlichen Produktionstechnik sehr kurz sein (wenige Minuten wie bei Anfragen), einige Stunden betragen (wie in der Automobilindustrie) oder auch viele Monate dauern (Baugewerbe, Flugzeug- und Schiffbau). Eine betriebswirtschaftliche Kennzahl ist der Fließgrad als das Verhältnis der Bearbeitungszeit zur Durchlaufzeit (Der Kehrwert vom Fließgrad ist der Flussgrad). Er misst den Anteil der wertschöpfenden Tätigkeiten an der Durchlaufzeit und liegt in der deutschen Industrie zwischen 5 % und 15 %.Um das Unternehmensziel der Gewinnmaximierung zu erfüllen, kann auch eine Kostensenkung durch Verkürzung der Durchlaufzeiten erreicht werden.
+Durchlaufzeit verringern
+
+Es gibt die Möglichkeit, die Kapazität eines Arbeitsplatzes zu erhöhen. Durch die höhere Kapazität kann in gleicher Zeit mehr gefertigt werden (Durchsatz). Das Konzept ist nur an Engpässen sinnvoll (siehe: Theorie der Einschränkungen, Flaschenhals (Logistik), Produktionsprogramm).
+Ferner kann der Durchsatz durch eine höhere Arbeitsintensität vergrößert werden (zum Beispiel Erhöhung der elektrischen Leistung), da der Zusammenhang zwischen Durchlaufzeit und Durchsatz invers ist. Die Möglichkeiten sind meist aber gering, da normalerweise die optimale Leistung von Anlagen und das beste Arbeitstempo für den Menschen bereits eingeplant ist.
+Um Rüstzeit zu sparen, können gleichartige Aufträge, die zeitnah gefertigt werden sollen, zu einem Auftrag (Los) zusammengefasst werden. Dadurch entsteht nicht für jeden Auftrag die Rüstzeit, sondern nur für den ersten. Durch die Erhöhung der Losgröße kann die durchschnittliche Durchlaufzeit pro Stück am einzelnen Arbeitssystem verringert werden; die Durchlaufzeiten für die Aufträge und die durchschnittlichen Durchlaufzeiten können sich dadurch aber wegen der zusätzlichen Warte- und Liegezeiten deutlich erhöhen. Losbildung beeinträchtigt auch die Flexibilität und die Lieferbereitschaft.
+Die wesentlichen Potenziale liegen daher in der Organisation der Auftragsabwicklung und der Arbeitsorganisation. Zum Beispiel zielen die Konzepte One-Piece-Flow und Chaku-Chaku auf Durchlaufzeitreduzierung in variantenreicher Serienfertigung.
+Die Transportzeiten lassen sich (geringfügig) reduzieren, indem die Produktionsanlagen sinnvoll angeordnet werden und hochfrequente Transportsysteme eingesetzt werden.
+Werden von einem Produkt Teillose zum Transport (Transportlos <> Fertigungslos) gebildet, kann durch Überlappen von Arbeitsgängen ein erstes Teillos an Arbeitssystem B bereits weiterverarbeitet werden, während Arbeitssystem A das zweite Teillos fertigt. Im Idealfall ist man wieder bei One-Piece-Flow und Chaku-Chaku.Eine Verkürzung der Durchlaufzeiten kann auch mit Hilfe des Computer-integrated manufacturing erreicht werden. Hierdurch verringern sich die Kapitalbindung, Lager- und Transportkosten bei verbesserter Kapitalumschlagshäufigkeit und Produktivität. Kurze Durchlaufzeiten führen zu geringeren Gemeinkostenanteilen und kürzeren Lieferfristen.Die Durchlaufzeit bestimmt die übergeordnete Betriebszeit. Beträgt beispielsweise die Betriebszeit einer Schicht 400 Minuten und die Nachfrage nach dem Produkt 400 Stück pro Schicht, so darf die Durchlaufzeit des Produkts eine Minute oder weniger betragen. Erhöht sich die Durchlaufzeit etwa wegen längerer Liegezeiten, so stellt die Betriebszeit einen Engpass dar, der durch eine weitere Schicht beseitigt werden kann, wenn das Unternehmen keine Kunden verlieren möchte.

@@ -1,0 +1,425 @@
+Die Halogenmethane sind eine Untergruppe der Halogenkohlenwasserstoffe die sich vom Methan ableiten und bei dem mindestens ein Wasserstoffatom durch eines der Halogene Fluor, Chlor, Brom oder Iod ersetzt wurde. In der organischen Chemie werden einfach halogenierte Kohlenwasserstoffe mit R–X abgekürzt, wobei R für einen Kohlenwasserstoffrest und X für ein Halogenatom steht. In Abhängigkeit von der Anzahl der Halogenatome im Molekül unterscheidet man Mono-, Di-, Tri- und Tetrahalogenmethane.
+Theoretisch sind so 69 verschiedene Halogenmethane möglich, davon zum Beispiel vier Monohalogenmethane und 35 vollständig halogenierte Methane. Einige der Verbindungen sind zudem chiral, kommen also in verschiedenen räumlichen Anordnungen vor.Halogenmethane sind sowohl natürlich vor allem in Meeresumgebungen vorkommende, als auch künstlich hergestellte Verbindungen. Sie werden in erheblichen Mengen biogen durch marine Algen, Mikroorganismen und Pilze gebildet. Darüber hinaus kommt es zur Bildung bei Waldbränden und Vulkaneruptionen. Die globale Emission von Chlormethan und Iodmethan durch marine und terrestrische Biomasse wird auf etwa 5 Millionen Tonnen pro Jahr geschätzt und ist damit weit höher als der anthropogene Eintrag. Auch andere Halogenmethane entstehen in großer Menge natürlich.In der Atmosphäre bilden sich die Verbindungen durch Abbau von höher chlorierten oder fluorierten Halogenmethanen.
+
+  
+    
+      
+        
+          C
+          F
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          h
+          ν
+          ⟶
+          C
+          F
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {CFCl_{3}+h\nu \longrightarrow CFCl_{2}+Cl} }
+  
+Wellenlänge λ < 226 NanometerHalogenmethane werden üblicherweise durch eines von drei Verfahren hergestellt. Die radikalische Chlorierung von Methan eignet sich für die Herstellung von Methanchloriden. Das Hauptproblem bei dieser Methode ist, dass es außerdem Chlorwasserstoff und Mischungen verschiedener Produkte erzeugt. 
+Durch Erhitzen von Chlor und Methan auf 400–500 °C findet eine schrittweise radikalische Substitution bis hin zu Tetrachlormethan statt:
+
+  
+    
+      
+        
+          
+            CH
+            
+              4
+            
+            
+              
+            
+          
+           
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          Cl
+           
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CH_{4}\ +Cl_{2}\longrightarrow CH_{3}Cl\ +HCl}}}
+  
+
+  
+    
+      
+        
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          Cl
+           
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CH_{3}Cl\ +Cl_{2}\longrightarrow CH_{2}Cl_{2}\ +HCl}}}
+  
+
+  
+    
+      
+        
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            CHCl
+            
+              3
+            
+            
+              
+            
+          
+           
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CH_{2}Cl_{2}\ +Cl_{2}\longrightarrow CHCl_{3}\ +HCl}}}
+  
+
+  
+    
+      
+        
+          
+            CHCl
+            
+              3
+            
+            
+              
+            
+          
+           
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            CCl
+            
+              4
+            
+            
+              
+            
+          
+           
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CHCl_{3}\ +Cl_{2}\longrightarrow CCl_{4}\ +HCl}}}
+  
+Methan reagiert mit Chlor unter Bildung von Chlorwasserstoff zunächst zu Monochlormethan, und weiter zu Dichlormethan, Trichlormethan (Chloroform) und schließlich Tetrachlormethan.Die Halogenierung von Methanol wird für die Herstellung von Monochlormethan, Monobrommethan und Monoiodmethan verwendet.
+
+  
+    
+      
+        
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          OH
+           
+          +
+          HX
+          ⟶
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          X
+           
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {CH_{3}OH\ +HX\longrightarrow CH_{3}X\ +H_{2}O}}}
+  Durch Halogenaustausch werden hauptsächlich fluorierte Derivate aus den Chloriden hergestellt. Dabei anorganische Fluoride wie Quecksilber(II)-fluorid oder Cobalt(III)-fluorid oder Elektrolyse in flüssigem Fluorwasserstoff verwendet.
+
+  
+    
+      
+        
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          Cl
+           
+          +
+          HF
+          ⟶
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          F
+           
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CH_{3}Cl\ +HF\longrightarrow CH_{3}F\ +HCl}}}
+  
+
+  
+    
+      
+        
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+          HF
+          ⟶
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          FCl
+           
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CH_{2}Cl_{2}\ +HF\longrightarrow CH_{2}FCl\ +HCl}}}
+  Auch die Iodmethane können als Ausgangsverbindung verwendet werden.
+
+  
+    
+      
+        
+          
+            CI
+            
+              4
+            
+            
+              
+            
+          
+           
+          +
+          
+            BrF
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            CBr
+            
+              2
+            
+            
+              
+            
+          
+          
+            F
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+          
+            CF
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CI_{4}\ +BrF_{3}\longrightarrow CBr_{2}F_{2}\ +CF_{4}}}}
+  Tetrahalomethane lassen sich auch durch thermische Zersetzung von Trihalogenacetylhaliden oder Metallhalogenacetaten in Gegenwart der Halogene gewinnen.Wie Methan selbst sind Halogenmethane tetraedrische Moleküle. Da die Halogenatome untereinander und gegenüber von Wasserstoff sehr unterschiedlich in Größe und Ladung sind, weichen die Halogenmethanmoleküle je nach Zusammensetzung von der perfekten Tetraedersymmetrie und von den Eigenschaften des Methans ab. Halogenmethane besitzen meist eine höhere Siedetemperatur als die von Methan, da ihre Moleküle aufgrund zunehmender Van-der-Waals-Kräfte stärker miteinander wechselwirken. Die Bindungsstärke nimmt zu und die Bindungslänge nimmt ab. So sind Fluor- und Chlormethan bei Raumtemperatur gasförmig, Iodmethan flüssig, das komplett halogenierte Tetraiodmethan liegt bereits als Feststoff vor. Eine Besonderheit stellen Fluormethane dar, bei denen sich der Siedepunkt mit zunehmendem Fluorierungsgrad sogar verringern kann. Hier spielen Dispersionskräfte aufgrund der schlechten Polarisierbarkeit des Fluors eine wesentlich geringere Rolle. An ihre Stelle treten deutlich schwächere Dipol-Dipol-Kräfte, die durch die hohe Elektronegativitätsdifferenz zwischen Fluor und Kohlenstoff zustande kommen und stark von der Molekülgeometrie abhängig sind. So liegt die Siedetemperatur von Tetrafluormethan mit −128 °C unterhalb der von Trifluormethan mit −82 °C. Die Halogenmethane sind weit weniger flüchtig und entzündlich als Methan. Dies beruht vor allem auf der Polarisierbarkeit von Halogenen gegenüber Wasserstoff, die innerhalb der Halogengruppe von oben nach unten zunimmt. Im Allgemeinen ist die Reaktivität bei Iodmethanen am höchsten und am niedrigsten für Fluormethane. Der Dampfdruck der Verbindungen sinkt mit zunehmender Halogenierung, wobei Fluor einen geringeren Effekt besitzt. Die Wasserlöslichkeit sinkt mit zunehmender Halogenierung, ist jedoch im Allgemeinen weit höher als die von Methan. Gegenteiliges gilt für die Henry-Konstante.Halogenmethane werden vor allem als Kältemittel, Lösungsmittel, Treibmittel, Begasungsmittel und als Zwischenprodukte zur Herstellung anderer chemischer Verbindungen eingesetzt. 
+So werden Dichlormethan und Trichlormethan (Chloroform) beispielsweise zum Extrahieren pflanzlicher Öle, zur Entkoffeinierung und zum Entfetten von Metallteilen verwendet. Chloroform wurde früher auch als Narkosemittel, Tetrachlormethan als Lösungsmittel und früher auch als Feuerlöschmittel eingesetzt. Trichlorfluormethan, FCKW (CCl3F) dienen als Kältemittel und Treibmittel.
+Auch einige andere Halogenmethane wurden als Kältemittel eingesetzt. Wegen der ozonabbauenden Wirkung wurde aber 1987 im Montreal-Protokoll unter Beteiligung von etwa 70 Nationen der Ausstieg aus der Herstellung und Verwendung der FCKW beschlossen und später in nationale Bestimmungen übernommen. In Deutschland wurde dies durch die „FCKW-Halon-Verbots-Verordnung“ (Halon = halogenierter Kohlenwasserstoff, der neben Fluor oder Chlor auch Brom enthält) des Bundeskabinetts vom 30. Mai 1990 in nationales Recht überführt.Halogenmethane werden vom Organismus nach Einatmen oder Verschlucken schnell resorbiert. Da sie die Blut-Hirn-Schranke überwinden können, treten bei akuten Vergiftungen häufig betäubende Wirkungen auf. Einige Halogenmethane vervielfachen die Giftigkeit von anderen Verbindungen wie zum Beispiel die des Insektizids Chlordecon. Nur wenige sind akut giftig, aber viele bergen Risiken bei längerer Exposition. Einige problematische Aspekte beinhalten Kanzerogenität (z. B. Iodmethan) und Leberschäden (z. B. Tetrachlormethan).
+
+
+== Einzelnachweise ==

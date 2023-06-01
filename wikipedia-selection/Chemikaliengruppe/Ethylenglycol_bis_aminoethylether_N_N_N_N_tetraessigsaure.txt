@@ -1,0 +1,8 @@
+Ethylenglycol-bis(aminoethylether)-N,N,N′,N′-tetraessigsäure, abgekürzt EGTA, ist eine Polyamino-Carboxylsäure, die in der Chemie und den Lebenswissenschaften wie das häufiger verwandte EDTA als Chelator genutzt wird; allerdings mit einer wesentlich höheren Affinität für Calcium- als für Magnesium-Ionen.
+Daher ist EGTA nützlich, um Pufferlösungen herzustellen, die das Milieu im Plasma lebender Zellen nachstellen.
+Der pKs-Wert für die Bindung von Calciumionen von tetrabasischem EGTA ist 11,0, aber die protonierten Formen tragen nicht signifikant zur Bindung bei. Bei pH 7 sinkt der scheinbare pKs-Wert daher auf 6,91.
+EGTA wurde experimentell für die Behandlung von Tieren mit Cer-Vergiftung und für die Isolation von Thorium aus dem Mineral Monazit verwendet. Weiterhin ist EGTA Bestandteil in Elutionspuffern für die Tandem Affinity Purification (TAP). Rekombinante Fusionsproteine werden dabei an Calmodulin-Kugeln gebunden und durch zugesetztes EGTA freigesetzt.
+In der Zahnheilkunde wird EGTA zur Entfernung von Ablagerungen im Zahnwurzelkanal benutzt.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,99 @@
+Die Peano-Russell-Notation ist eine Schreibweise für logische Formeln, die von Giuseppe Peano in seinem Formulario Mathematico (5. Aufl. 1908) einerseits und von Bertrand Russell und Alfred North Whitehead in ihren Principia Mathematica (1910–1913) andererseits entwickelt wurde. Sie ist im Unterschied zu Gottlob Freges Begriffsschrift (1879) linear (eindimensional), stärker an die Schreibweise der Algebra angelehnt und wird mit geringfügigen Änderungen größtenteils bis heute verwendet. Russell und Whitehead schreiben im ersten Kapitel der Principia:
+
+Die wichtigsten logischen Symbole der Peano-Russell-Notation sind:
+
+  
+    
+      
+        ∼
+        p
+      
+    
+    {\displaystyle \sim p}
+   für die Negation
+
+  
+    
+      
+        p
+        ∨
+        q
+      
+    
+    {\displaystyle p\lor q}
+   für die Disjunktion
+
+  
+    
+      
+        p
+        ⋅
+        q
+      
+    
+    {\displaystyle p\cdot q}
+   für die Konjunktion
+
+  
+    
+      
+        p
+        ⊃
+        q
+      
+    
+    {\displaystyle p\supset q}
+   für die Implikation
+
+  
+    
+      
+        p
+        ≡
+        q
+      
+    
+    {\displaystyle p\equiv q}
+   für die Äquivalenz
+
+  
+    
+      
+        ∃
+        x
+        .
+        ϕ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists x.\phi (x)}
+   für den Existenzquantor
+
+  
+    
+      
+        (
+        x
+        )
+        .
+        ϕ
+        (
+        x
+        )
+      
+    
+    {\displaystyle (x).\phi (x)}
+   für den Allquantor
+
+  
+    
+      
+        ⊢
+        .
+        p
+      
+    
+    {\displaystyle \vdash .p}
+   als BehauptungszeichenPunkte und Doppelpunkte fungieren als Hilfszeichen zur Gruppierung, wie in moderner Schreibweise die Klammern.

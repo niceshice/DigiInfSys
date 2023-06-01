@@ -1,0 +1,13 @@
+Als Denkgesetze wurden in der Geschichte der Philosophie und der philosophischen Logik, vor allem im Psychologismus des 19. Jahrhunderts, logische Regeln, Gesetzmäßigkeiten oder Grundsätze bezeichnet, insofern sie – dies war die psychologistische Sicht – als Naturgesetze des Denkens betrachtet wurden.
+Zum Verhältnis von Psychologie und Logik hat Gottlob Frege angemerkt:
+
+Insbesondere wurden mit den Bezeichnungen Denkgesetze und logische Grundsätze unterschiedliche Sätze der Identität, der Satz vom Widerspruch, der Satz vom ausgeschlossenen Dritten und der Satz vom zureichenden Grunde zu einer Gruppe zusammengefasst. Diese Sätze, die in unterschiedlichen Formulierungen vorliegen, wurden in der Tradition teils als logische, teils als metaphysische und teils als erkenntnistheoretische Grundsätze betrachtet und sind als solche sowohl vertreten als auch bestritten worden.
+
+Satz der Identität (lat. principium identitatis)
+Auf Aristoteles wird der Satz der Selbstidentität aller Dinge, d. h. die für jedes A gültige Feststellung A=A zurückgeführt. Auf Leibniz geht das Prinzip der Identität ununterscheidbarer Dinge zurück, bei ihm ein metaphysischer Grundsatz, dem zufolge für Dinge aus einem Diskursuniversum gilt: Wenn A und B qualitativ identisch sind (d. h. wenn ihnen genau dieselben Eigenschaften zukommen) sind sie auch numerisch identisch (A=B).
+Satz vom Widerspruch (lat. principium contradictionis)
+Auf Aristoteles zurückgehend, besagt der Satz vom Widerspruch, dass es unmöglich ist, eine Aussage zugleich zu bejahen und zu verneinen.
+Satz vom ausgeschlossenen Dritten (lat. principium exclusi tertii)
+Ebenfalls auf Aristoteles zurückgeführt, besagt der Satz vom ausgeschlossenen Dritten, dass die Disjunktion einer Aussage und ihrer Negation stets eine gültige Aussage, also eine Tautologie ist. Dieser Satz ist verwandt, aber nicht identisch mit dem Prinzip der Zweiwertigkeit. Eine Logik, die dem Satz vom ausgeschlossenen Dritten folgt und in der Schlüsse erlaubt sind, die dem disjunktiven Syllogismus entsprechen, ist notwendig zweiwertig.
+Satz vom zureichenden Grunde (lat. principium rationis sufficientis)
+Ein logisch-metaphysischer Grundsatz von Gottfried Wilhelm Leibniz, der besagt, dass jedes Ereignis eine Ursache haben muss beziehungsweise dass es für jede wahre Aussage einen Grund gibt, aus dem sie wahr ist. Als Handlungsanweisung interpretiert, fordert der Satz vom zureichenden Grunde, dass jede wahre Aussage durch eine andere Aussage begründet werde, deren Wahrheit bewiesen ist. Die möglichen Verstöße gegen diese Handlungsanweisung heißen Zirkelschluss und petitio principii.

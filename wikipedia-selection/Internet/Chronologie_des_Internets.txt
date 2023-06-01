@@ -1,0 +1,65 @@
+Dieser Artikel listet bedeutende Ereignisse des Internets in chronologischer Folge auf. Eine Fassung in Textform gibt der Artikel Geschichte des Internets.1957 – Die UdSSR schießt den ersten Satelliten der Welt – Sputnik – ins All. Als Reaktion darauf gründet das US-Verteidigungsministerium die Advanced Research Projects Agency (ARPA) – ein wissenschaftliches Institut mit dem Auftrag zur Schaffung der Voraussetzungen für die Wiedererlangung der führenden Rolle in Wissenschaft und Technik.
+ab 1960 – Als Folge der Erkenntnisse verfügte zuerst das Militär über miteinander vernetzte Rechenzentren. Die Rand Corporation erkannte die Anfälligkeit des ausgedachten Systems: Mit der Zerstörung eines zentralen Knotens wäre das gesamte Netzwerk lahmgelegt.
+1965 – Auch die Universitäten suchen nach Möglichkeiten, das immer größere Wissen aus der linearen in eine intelligentere Form zu bringen. Die moderne Variante des Vernetzungsprinzips wurde erstmals schon 1945 von Vannevar Bush beschrieben. 1965 prägte der Gesellschaftswissenschaftler Ted Nelson im Rahmen des Projekts Xanadu den Fachausdruck Hypertext für die elektronische Variante des Prinzips.
+1969 – Die Network Working Group wird gegründet und erstellt die ersten Protokollbeschreibungen; die ersten vier Knoten des Arpanets gehen in Betrieb.
+1971 – Das Arpanet besitzt 15 Knoten. Telnet und FTP werden entwickelt.
+1971 – Das französische Projekt CYCLADES wird als Reaktion auf das Arpanet gegründet.
+1972 – Ray Tomlinson entwickelt das erste E-Mail-Programm.
+1973 – Das auf Erkenntnissen des CYCLADES-Projekts basierende Transmission Control Protocol (TCP) wird publiziert.
+1974 – Der Begriff Internet wird erstmals in einer Spezifikation des TCP verwendet. Das CYCLADES-Netzwerk ist operationsfähig.
+1976 – UUCP wird entwickelt, um Dateien zwischen Computern übertragen zu können, insbesondere zwischen solchen mit dem Betriebssystem Unix.
+1977 – Das Arpanet besitzt 111 Knoten.
+1977 – Das TCP wird in das TCP und das Internet Protocol (IP) aufgespalten.
+1978 – Das Projekt CYCLADES wird aus politischen Gründen eingestellt.
+1978 – Mit der CBBS entsteht die erste Mailbox.
+1979 – Das Usenet entsteht aus der Vernetzung zweier Unix-Computer der Universität von North Carolina bzw. der Duke University, Daten werden per UUCP über gewöhnliche Telefonleitungen übertragen, gewissermaßen eine „Offline-Version“ des Arpanets.
+1982 – Das spätere EUnet-Projekt der Informatik-Rechner-Betriebsgruppe (IRB) (Fachbereich Informatik, Universität Dortmund) unter Leitung von Rudolf Peter bietet erste Netzwerkdienste in Deutschland an.
+1982 – Randy Suess gründete nach der CBBS 1982 mit wlcrjs (später Chinet), die erste öffentlich zugängliche Unix-Mailbox, die Mail und Usenet via UUCP erstmals außerhalb der Wissenschaftsnetze austauscht.
+1983, 1. Januar – TCP/IP ersetzt das Network Control Protocol (NCP).
+1983 – Das Arpanet hat 400 angeschlossene Rechner.
+1984 – Das Domain Name System (DNS) wird entwickelt. Das Arpanet hat 1.000 angeschlossene Rechner.
+1984, 3. August – An der Universität Karlsruhe wird die erste deutsche E-Mail empfangen. Im selben Jahr wird das Domain Name System (DNS) implementiert.
+1985 – MausNet und FidoNet bilden erste Mailboxverbunde, die untereinander mit 300 baud Daten austauschen.
+1985, 1. Januar – Als erste Domain der Welt wird nordu.net registriert.
+1986 – Verschiedene Netze können bislang nicht miteinander kommunizieren. Als Lösung entsteht der Internet-Backbone NSFNet.1986, November – Von der IANA delegiert, wird DE-NIC als Verwaltungsorganisation im Rahmen des EUNet-Projekts der Informatikrechner-Betriebsgruppe am Fachbereich Informatik der Universität Dortmund eingerichtet. Die ersten .de-Domains sind dbp.de, rmi.de, telenet.de, uka.de, uni-dortmund.de und uni-paderborn.de.
+1987 – Es sind 27.000 Rechner vernetzt.
+1989, März – Tim Berners-Lee schreibt die erste Fassung seines Papers Information Management: A Proposal, ein Entwurf für die Entwicklung des World Wide Webs.
+1989, Anfang – Erste deutsche Internetanschlüsse werden in Betrieb genommen (Projekt EUnet, Dr. Rudolf Peter, Universität Dortmund; Arbeitsgruppe Xlink, Prof. Werner Zorn, Universität Karlsruhe).
+1990 – Das Internet wird für die kommerzielle Nutzung freigegeben und wird daher auch außerhalb der amerikanischen Streitkräfte und von Universitäten zugänglich.
+1990, 1. März – Auf der CeBit in Hannover werden die ersten postzugelassenen 2400-baud-Modems, die mit Duplex arbeiteten, vorgestellt.
+1990 – Das militärische Arpanet wird außer Betrieb genommen.
+1990 – Studenten der Universität Montreal entwerfen und programmieren mit Archie eine Suchmaschine zum Indizieren von FTP-Archiven.
+1990, November – Tim Berners-Lee und Robert Cailliau veröffentlichen das Konzept für ein weltweites Hypertext-Projekt.
+1991 – An der Universität von Minnesota wird mit Gopher ein weiterer Dienst entwickelt, der FTP-Anwendungen vereinfachen soll.
+1991 – Das WWW wird innerhalb des Europäischen Kernforschungslabors CERN eingesetzt.
+1992, Dezember – Das ehemalige Forschungsprojekt EUnet, Netzwerkvorreiter in Deutschland, wird privatisiert. Mit der EUnet Deutschland GmbH entsteht unter dem Slogan Connecting Europe since 1982 der erste kommerzielle Internet-Provider Deutschlands in Dortmund. EUnet wird später an UUNET verkauft.
+1992, Dezember – Von der NCSA wird der Mosaic-Browser entwickelt.
+1993 – WWW-Software wird auch außerhalb des CERN eingesetzt und ersetzt nach und nach die etablierten Archie- und Gopher-Dienste.
+1993 – Ein Jahr nach EUnet wird auch Xlink privatisiert. Es entsteht damit der zweite Internet-Provider in Deutschland.
+1993, Mai – Die Informatikrechner-Betriebsgruppe (IRB) der Universität Dortmund richtet mit ihrem Webauftritt einen der ersten öffentlichen Webserver in Deutschland ein. Deutschlandweit gibt es zu dieser Zeit weniger als 15 Webserver.
+1993, August – Der Interessenverbund DENIC wird als zentraler Registrar für .de-Domains gegründet.
+1993, September – Es beginnt eine als Ewiger September betitelte Periode, indem AOL seinen Kunden den Zugriff auf das Usenet zur Verfügung stellt. Die Inhalte von Usenet, Arpanet und AOL-eigenen Diensten werden immer stärker miteinander verknüpft. Durch den massenhaften Zugang neuer Nutzer findet die Netiquette immer weniger Beachtung.
+1993, Oktober – Es gibt etwa 500 Webserver weltweit.
+1994 – Die Zahl der kommerziellen Nutzer des Internets übersteigt erstmals die der wissenschaftlichen Nutzer. Es gibt rund drei Millionen Internet-Rechner.
+1995 – Wegen der Verknappung der IP-Adressen wird angefangen, am IPv6-Protokoll zu arbeiten.
+1997 – Das Projekt Abilene für ein Internet2 wird gestartet.
+1997 – Es sind rund sechs Millionen Computer mit dem Internet verbunden.
+1998, Oktober – Die Internet Corporation for Assigned Names and Numbers (ICANN) wird gegründet. 4. September:  Google wird gegründet.
+1999, Oktober – Die einmillionste .de-Domain wird registriert.
+2001, 15. Januar – Die freie Online-Enzyklopädie Wikipedia wird gegründet.
+2004, 1. März – Die Registrierung von internationalisierten Domainnamen unterhalb der Top-Level-Domains .de, .at und .ch wird zugelassen.
+2005, 14. Februar - YouTube wird gegründet.
+2005, 23. April - Erstes YouTube-Video wird veröffentlicht.
+2005, 29. April – Die Top-Level-Domain .eu wird nach über fünf Jahren Diskussion in die DNS-Rootzone eingetragen.
+2007, Mai – Die Spam-Quote bei E-Mails erreicht 90 Prozent.
+2008, November – Die NASA testet erfolgreich ein für Weltraumbedingungen angepasstes Internetprotokoll, das später einmal als Grundlage für ein interplanetares Internet (englisch interplanetary Internet) dienen soll, über das beispielsweise Raumstationen und Raumschiffe miteinander kommunizieren können.
+2010, Januar – Zum ersten Mal wird ein Rechner im Weltraum mit dem Internet verbunden.
+2010, Februar – Die Spam-Quote bei E-Mails ist auf 95 Prozent gestiegen.
+2010, 15. Juli – Der Trust Anchor der zuvor signierten DNS-Rootzone wird veröffentlicht. Damit ist DNS mit DNSSEC von der Rootzone aus validierbar.
+2011, 15. April – Die asiatisch-pazifische Regional Internet Registry APNIC kann die Nachfrage nach IPv4-Adressen in dieser Region nicht mehr bedienen. November: Anzahl der Internet user erreicht 2 Mrd.
+2012, 30. Juni – In Frankreich geht Minitel vom Netz.
+2013, Juni  –  Edward Snowden enthüllt geheime Dokumente, die zur Globalen Überwachungs- und Spionageaffäre führen.
+2014,  – Anzahl der Internet hosts überschreitet 1 Mrd.
+2015,  – Von 100 Mrd. Google-Suchanfragen überholen Anfragen von mobilen Geräten  erstmals jene von Desktop-Computern. 24. August: 1 Mrd. Nutzer (1 von 7 Menschen weltweit) greifen auf Facebook zu.
+2016, 1. Januar – Die Internet Society feiert 25-jähriges Jubiläum.
+2017, Facebook erreicht monatlich 2 Mrd. aktive Nutzer.

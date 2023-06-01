@@ -1,0 +1,7 @@
+Die Subsumtion (auch Subsumption), deutsch Unterordnung, ist ein klassifikatorischer Vorgang, bei dem man einen Begriff oder eine Struktur unter einen anderen Begriff bzw. eine andere Struktur ordnet. Die Vorgehensweise der Subsumtionslogik oder Klassifikationslogik wird als Gegenbegriff zur dialektischen Logik angesehen.
+
+In der Logik bezeichnet Subsumtion die hierarchische Ordnung von Begriffen, siehe Subsumtion (Philosophie).
+In der Rechtswissenschaft wird der Begriff als Anwendung einer Rechtsnorm auf einen Sachverhalt, d. h. als Unterordnung des Sachverhaltes unter die Voraussetzungen der Norm, verstanden, siehe Subsumtion (Recht).
+In der Linguistik stellt die Subsumtion im Bereich der Phrasenstrukturgrammatik eine Relation zweier Merkmalstrukturen bzw. Attribut-Wert-Matrizen dar, siehe Attribut-Wert-Matrix.
+In der Ökonomie unterscheidet man zwischen Formaler (weisungsgebunden und direkter Kontrolle unterworfen) und Realer (nach den Gesetzen des Marktes erfolgend) Subsumtion, siehe Formelle und reelle Subsumtion.
+In der Informatik wird im Gebiet der Künstlichen Intelligenz – genauer der Wissensrepräsentation – die Subsumption bei Beschreibungslogiken dazu verwendet, zu berechnen, ob ein Konzept (eine eindeutig beschriebene Menge von Objekten) eine Teilmenge eines anderen Konzepts ist.Das Wort stammt aus dem Lateinischen (sub, „unter“, und sumere, „nehmen“, 2. Partizip sumptum), im Deutschen hat sich aber statt des vom Lateinischen geforderten „Subsumption“ die Schreibweise ohne „p“ eingebürgert.

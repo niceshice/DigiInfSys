@@ -1,0 +1,13 @@
+Als Bedingung bezeichnet man in der Organisation einen Zustand, von dessen Gegebenheit das Gelingen eines organisatorischen Vorhabens abhängig ist.
+Je nach organisatorischen Zusammenhängen und Prioritäten unterscheidet man unterschiedliche Grade der Abhängigkeit.
+Hierzu haben sich, insbesondere in der Projektorganisation, durch Voranstellung von Zusatzworten folgende Begriffsausprägungen eingebürgert:
+
+K.O.- oder MUSS-Bedingungen
+Wird auch nur eine, und nur genau eine, solche Bedingung nicht erfüllt, scheitert das gesamte Vorhaben.
+SOLL-Bedingungen
+Selbst, wenn alle diese Bedingungen nicht erfüllt werden, ist eine minimale Funktionsfähigkeit des Vorhabens gesichert.
+Da diesen Bedingungen jedoch eine hohe Priorität zugemessen wird, wird das Vorhaben nur zufriedenstellend gelingen, wenn möglichst viele dieser Bedingungen erfüllt werden, um die angestrebte Funktionalität zu erreichen.
+KANN-Bedingungen
+Diese Bedingungen sind für das funktionale Gelingen des Vorhaben ohne Bedeutung, ihre Erfüllung kann jedoch subjektiv von großer Bedeutung für Beteiligte sein.Diese Differenzierung in unterschiedliche Grade der Bedingtheit ist eine hilfreiche Methode zur kooperativen Abstimmung mit den Beteiligten, um deren Anspruchshaltungen zu relativieren und genauer zu spezifizieren sowie, um geforderte, aber funktional unwesentliche Bedingungen mit aufnehmen zu können, ohne, dass sie zu substantiellen Irritationen bei der Umsetzung des Vorhabens führen.
+Die Ergebnisse solcher gemeinsamen Einstufungen sind für die Projektdokumentation schriftlich festzuhalten und sollten von allen Seiten abgezeichnet werden.
+Darauf wird später bei Einschätzungen des Projektstatus zurückgegriffen, z. B., um in (Teil-)Projektabnahmen den Grad der inhaltlichen Zielerreichung einvernehmlich von allen Seiten feststellen lassen zu können.

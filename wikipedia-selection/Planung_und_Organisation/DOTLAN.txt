@@ -1,0 +1,23 @@
+DOTLAN ist ein Intranetsystem für die Planung und Ausrichtung einer LAN-Party. Daniel Hoffend begann im Jahr 2000 zunächst unkommerziell mit der Entwicklung für die Lanparty „fettnet“. Seit 2005 vermarktet er das System kommerziell.DOTLAN bietet ein komplettes Content-Management-System, welches nicht zwingend für LAN-Partys eingesetzt werden muss, sondern auch für die Erstellung von Homepages genutzt werden kann. Für den ursprünglichen Anwendungsbereich LAN-Partys hält DOTLAN außerdem eine Menge spezieller Funktionen bereit.
+Neben einem Sitzplan-Editor, einer Benutzerverwaltung und einer Mediendatenbank enthält DOTLAN ein erprobtes Turniersystem. Der Turnierorganisator kann zwischen dem meistgespielten Systemen Double-Elimination, Single-Elimination sowie Gruppensystem wählen. Es sind auch Kombinationen aus verschiedenen Systemen möglich. Die Anmeldung für die Turniere kann direkt auf der Party stattfinden oder schon im Vorfeld im Internet. Es gibt auch kein gesondertes Intranetsystem für die LAN-Party, das System enthält vielmehr alle nötigen Module für Inter- und Intranet und kann daher 1 zu 1 mit auf die LAN-Party genommen werden.
+Das komplette System ist modular aufgebaut, sodass nicht benötigte Teile des Systems deaktiviert werden können.Newsverwaltung
+Artikelsystem
+Bildergalerie
+Mediendatenbank
+Benutzerverwaltung
+private Nachrichten
+Umfragen
+Event-System mit Unterstützung für mehrere Partys parallel
+Beamermodul
+Cateringsystem
+Sitzplan
+Sponsoren/Bannerverwaltung
+verschiedene Turnieresysteme mit Schnittstelle für Ligen
+Aufgabenliste
+Log Viewer
+Rechteverwaltung
+RundmailsDa es als Backend auf die Scriptsprache PHP und eine SQL Datenbank (momentan wird nur das kostenlose MySQL unterstützt) setzt, wird ein eingerichteter Webserver mit Datenbankanbindung benötigt. Als Frontend kommen die Webstandards XHTML und CSS, sowie Ansätze von AJAX zum Einsatz.Veranstaltungen die bereits DOTLAN eingesetzt haben:
+
+DoT-LAN – zufällige Namensgleichheit – (Ried im Innkreis, seit Januar 2004, 800 Teilnehmer)
+WCG 2005 Euro Championship (CeBIT Hannover, März 2005)
+The Zenith (Göttingen, September 2004, 1800 Teilnehmer)

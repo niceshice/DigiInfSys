@@ -1,0 +1,117 @@
+Die Verlustquote oder Ausfallverlustquote, auch englisch als Loss Given Default (Abkürzung LGD) bezeichnet, ist im Bankwesen ein bankenaufsichts­rechtlicher Risikoparameter zur Messung der Kreditrisiken.Neben der Ausfallverlustquote oder kurz Verlustquote (Abkürzung LGD von englisch loss given default) gibt es als Risikoparameter noch die Ausfallwahrscheinlichkeit (Abkürzung PD von englisch probability of default) und das Ausfallvolumen (Kredithöhe zum Zeitpunkt des Ausfalls, gleichbedeutend Forderungshöhe bei Ausfall sämtlicher Risikopositionen für einen Schuldner; EaD). Diese Parameter wurden erstmals im Januar 2007 in allen EU-Mitgliedstaaten eingeführt, in Deutschland durch die Solvabilitätsverordnung. Deren aufsichtsrechtliche Funktion hat seit Januar 2014 die ebenfalls in allen EU-Mitgliedstaaten geltende Kapitaladäquanzverordnung (englische Abkürzung CRR) übernommen. Sie sieht für diese Parameter Legaldefinitionen vor. Danach handelt es sich bei der Verlustquote oder Ausfallverlustquote – in dieser Verordnung „Verlustausfallquote“ genannt – um „die Höhe des Verlusts an fälligen Risikopositionen bei Ausfall der Gegenpartei, gemessen am Betrag der zum Zeitpunkt des Ausfalls ausstehenden Risikopositionen“ (Art. 4 Abs. 1 Nr. 55 CRR). Alle drei sind hypothetische Größen, die auf stochastischen Wahrscheinlichkeiten beruhen.Unter „Verlust“ ist nach Art. 5 Abs. 2 CRR der wirtschaftliche Verlust einschließlich „wesentlicher Diskontierungseffekte sowie wesentlicher direkter und indirekter Kosten der Beitreibung“ zu verstehen. Zum „wirtschaftlichen Verlust“ gehören:
+
+Erlöse aus der Verwertung von Kreditsicherheiten,
+Sonstige Erlöse (Zahlungen des Kreditnehmers, Zahlungen aus der Insolvenzquote),
+Interne und externe Kosten (etwa Rechtsberatung),
+Opportunitätskosten (Kosten für gebundenes Eigenkapital),
+Opportunitätserlöse (Steuerersparnisse),
+Kapitalverlust (Abschreibungen, Einzelwertberichtigungen) oder
+Barwertverluste bei Restrukturierung der Kreditengagements.Dieser Verlust ist im Zeitpunkt der Ermittlung des LGD noch nicht eingetreten, es geht mithin um einen in der Zukunft liegenden und deshalb zu prognostizierenden Forderungsverlust. Beim LGD sind weder die Verlusthöhe noch der Zeitpunkt des Kreditausfalls zum Berechnungszeitpunkt bekannt. Der Ausfall wird nach Art. 178 CRR als gegeben angesehen, wenn es unwahrscheinlich ist, dass der Schuldner seine Verbindlichkeiten in voller Höhe begleichen wird oder eine wesentliche Verbindlichkeit des Schuldners mehr als 90 Tage überfällig ist.
+Die Verlustquote und die Erlösquote (abgekürzt RR von englisch recovery rate) addieren sich zu 1, sind also komplementär:
+
+  
+    
+      
+        
+          
+            LGD
+          
+        
+        =
+        
+          
+            
+              1
+            
+          
+          −
+          
+            
+              RR
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{LGD}}={{\mbox{1}}-{\mbox{RR}}}}
+  Je geringer mithin die Verlustquote ist, desto höher ist die Erlösquote. Da in der Erlösquote die Verwertungs­erlöse etwaiger Kreditsicherheiten berücksichtigt sind, bemisst die Verlustquote, welchen Kreditausfall ein Kreditinstitut nach Verwertung der Kreditsicherheiten voraussichtlich erleiden wird. Um keinen Kreditausfall hinnehmen zu müssen, ist das Wertschwankungsrisiko von Kreditsicherheiten durch eine vorsichtige Sicherheitenbewertung zu eliminieren.Die Verlustquote (LGD) wird anhand eigener historischer, vergleichbarer Verlustdaten pro Ratingstufe geschätzt. Die Schätzung muss auf derselben Definition des Ausfallereignisses beruhen wie die Prognose der Ausfallwahrscheinlichkeit (PD). Anstelle eigener Verlustdaten können auch Marktdaten ausgefallener Anleihen oder anderer marktfähiger Kredite herangezogen werden. Die Verlustquote ist der prozentuale Anteil der bei Kreditausfall für die Bank als Verlust verbleibenden uneinbringlichen Forderungen am Ausfallvolumen (EaD). Als Formel:
+
+  
+    
+      
+        
+          
+            LGD
+          
+        
+        =
+        
+          
+            
+              EL
+            
+          
+          
+            /
+          
+          
+            
+              EaD
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{LGD}}={{\mbox{EL}}/{\mbox{EaD}}}}
+  Hierbei bezeichnet
+
+LGD die Verlustquote,
+EL die erwartete Ausfallhöhe,
+EaD das Ausfallvolumen.Nach Art. 181 CRR ist in der Verlustquote ein Konjunkturabschwung, eine wesentliche positive Korrelation zwischen dem Kreditrisiko des Schuldners und einer Kreditsicherheit und eine Währungsinkongruenz zwischen Kredit und Kreditsicherheit zu berücksichtigen.Kreditinstitute, die beim Rating den Kreditrisiko-Standardansatz oder den IRB-Basisansatz wählen, bekommen die Verlustquote von der Bankenaufsicht als Standardwert – wie auch das Ausfallvolumen (EaD) – vorgegeben.Im Gegensatz zur Ausfallwahrscheinlichkeit kann die Verlustquote für mehrere Kredite gegenüber demselben Kreditnehmer unterschiedlich ausfallen, je nachdem, ob sie unbesichert oder besichert sind. Kredite gegen Kreditsicherheiten mindern den LGD-Wert, weil sie das Kreditrisiko des Kreditgebers reduzieren. Deshalb gibt es für Kreditnehmer keine einheitliche Verlustquote, sobald mehrere voneinander unterscheidbare Kredite gewährt werden. Die Kreditlaufzeit wird im IRB-Basisansatz einheitlich mit 2,5 Jahren vorgegeben (Art. 162 Abs. 1 CRR).Auch Blankokredite gegenüber demselben Kreditnehmer können zu unterschiedlichen Verlustquoten führen, wenn sie verschiedene Rangstellen aufweisen. Vorrangige Blankokredite („senior debt“) erhalten eine Verlustquote von 45 % (Art. 161 Abs. 1a CRR), nachrangige Blankokredite im Rahmen der Mezzanine-Finanzierung („junior debt“) 75 % (Art. 161 Abs. 1b CRR).Im IRB-Basisansatz werden Kreditsicherheiten über eine Reduzierung der Verlustquote angerechnet. Bei anerkannten finanziellen Sicherheiten wird die Verlustquote für den abgesicherten Kreditteil auf 0 % verringert. Für die übrigen Sicherheiten gibt es eine Absenkung der Verlustquote bis 35 % (Forderungsabtretungen und Realkredite) oder 40 % (sonstige Sicherheiten), wobei eine Übersicherung von 125 % (Forderungsabtretungen) bzw. 140 % des Kreditbetrags (Realkredite und sonstige Sicherheiten) erforderlich ist. Bei Bürgschaften/Garantien und Kreditderivaten (als Sicherungsnehmer) wird dem besicherten Kredit das niedrigere Risiko des Sicherungsgebers zugeordnet (Substitutionsprinzip, Bürgensubstitution).Kredite, bei denen das Verhältnis vom Wert (= Beleihungswert) der Sicherheiten 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   zum Nominalbetrag des Kredits 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   unter die Schwelle von 30 % (= reziproker Beleihungsauslauf 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  ) fällt, wird die Verlustquote für unbesicherte Kredite bzw. bei nicht-anerkennungsfähigen Sicherheiten in Höhe von 50 % zugeordnet, weil die Verwertungs­kosten die Verwertungserlöse übersteigen könnten. Kredite, bei denen das Verhältnis vom Wert der Sicherheiten zum Nominalbetrag des Kredits zwischen 30 % und 140 % liegt, wird eine Verlustquote von ebenfalls 50 % zugeordnet. Kredite, bei denen das Verhältnis vom Wert der Sicherheiten zum Nominalbetrag des Kredits 140 % übersteigt, erhalten eine Verlustquote in Höhe von 40 %. Es gilt
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            C
+            E
+          
+        
+      
+    
+    {\displaystyle {\text{B}}={\frac {\text{C}}{\text{E}}}}
+  Je höher der Beleihungswert einer Kreditsicherheit ist, desto geringer ist der reziproke Beleihungsauslauf und damit die Verlustquote.
+Für Gewerbe- und Wohnimmobilien gelten abweichende Regelungen. Wohnimmobilien im Mengengeschäft sind mit einer Verlustquote von 10 % und Gewerbeimmobilien von 15 % angesetzt (Art. 164 Abs. 4 CRR).Die Verlustquote als Parameter erhält zunehmende regulatorische Aufmerksamkeit, da sie speziell bei Immobilienfinanzierungen von großer Bedeutung ist. So genannte Erlösquotenschätzer gelten als Best Practice für die Berechnung der Verlustquote für die unterschiedlichen Segmente (Standardisiertes Privatkundengeschäft, Hypothekendarlehen und Unternehmensfinanzierungen). Die Erlösquotenschätzer bestimmen Erlöse und Verluste etwa für Immobilienfinanzierungen aus Einflussgrößen wie der wirtschaftlichen Kraft nahegelegener Agglomerationen, der Infrastruktur und Erreichbarkeit (öffentlicher Nahverkehr, Anbindung), der Quadratmeterzahl, dem Standard, dem regionalen Freizeitwert usw.
+Zeitabhängige Erlöse und Kosten werden dann in Relation zur Kredithöhe bei Ausfall (EaD) gesetzt. Zunehmendes Gewicht wird speziell auf die Zeitabhängigkeit von Schätzungen der Ausfallverlustquote gelegt, was insbesondere im Licht von IFRS 9 relevant ist (laufzeitabhängige Werte für Ausfallwahrscheinlichkeit und Verlustquote). Mit dem sich ändernden Beleihungswert in der Mobilien- und Immobilienfinanzierung ändert sich auch die Ausfallverlustquote und damit die für die Bank zu hinterlegenden Eigenmittel.
+
+
+== Einzelnachweise ==

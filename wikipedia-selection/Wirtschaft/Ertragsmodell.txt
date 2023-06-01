@@ -1,0 +1,36 @@
+Das Wort Ertragsmodell ist ein Begriff aus der Wirtschaft, der während der New Economy populär geworden ist. Es beschreibt, aus welchen Quellen und auf welche Weise ein Unternehmen sein Einkommen erwirtschaftet.Während durch das Nutzenversprechen (value proposition) und die gewählte Wertschöpfungsarchitektur die Kostenseite des Geschäftsmodells definiert wird, enthält das Geschäftsmodell auch eine Beschreibung, aus welchen Quellen und auf welche Weise das Unternehmen sein Einkommen erwirtschaftet. Aus dem Ertragsmodell und den Kosten ergibt sich die Margenstruktur des Geschäftsmodells und somit auch der Wert, den das Unternehmen für seine Eigentümer generiert.
+Beispiel für Ertragsquellen von Unternehmen im E-Commerce sind Abonnentengebühren, Werbeeinnahmen, Sponsorenbeiträge und Einkommen aus Transaktionen, die wiederum aus festen Transaktionsgebühren, Provisionen für die Weiterleitung von Kunden, festen oder variablen Verkaufskommissionen oder dem direkten Verkauf von Gütern bestehen können.Beim Freemium-Modell wird eine Gratisleistung (z. B. in Form einer Gratisberatung) abgegeben, während die Erträge aus den dadurch stimulierten Folgekäufen resultieren.Durch die Entwicklung des E-Business sind neue Formen der Erlösgenerierung entstanden, siehe auch Popp, Meyer.
+Diese definieren sich unter anderem über folgende Faktoren:
+
+Art der Produkte und Dienstleistungen, die verkauft werden
+Rolle der Käufer
+Art der Ermittlung der ErlöswerteZur Klassifizierung von Erlösmodellen eignen sich die folgenden vier Formen nach Wirtz, da sie einen gemeinsamen Nenner für weitere Formen darstellen. Dabei ist zu beachten, dass in der Praxis häufig Mischformen angewendet werden.Bei diesem Modell wird der Erlös über Verbindungs- und Nutzungsgebühren erzielt. Die Leistung des Anbieters fließt direkt zum Kunden. Umgekehrt findet der Geldfluss direkt vom Kunden zum Anbieter statt. Eine dritte Partei ist nicht involviert.
+Dieses Modell wird in Erlösgenerierung über Einzeltransaktionen (Verbindungsgebühr) und Transaktionsgebühren (Nutzungsgebühr) unterteilt.
+Die Höhe der Transaktionskosten kann fix festgesetzt oder prozentual berechnet werden.
+Bei dem Erlösmodell durch Einzeltransaktionen zahlt der Kunde bei jeder einzelnen  Transaktion direkt für das Produkt oder die Dienstleistung.
+Beispiel:
+Typischerweise wird dieses Modell bei e-Shops (z. B. Amazon) angewendet. Der Kunde tritt hierbei als Käufer der Ware auf. Die Bestellung dieser entspricht der Transaktion. Das Angebot des Unternehmens ist aus dessen Sicht selbstbestimmt, da Angebot und Darstellung kontrolliert werden können.
+Bei der Erlösgenerierung über Transaktionsgebühren zahlt der Kunde nicht direkt das Produkt oder die Dienstleistung, sondern die Nutzung einer Plattform. Diese wird ihm vom Betreiber zum Handeln zur Verfügung gestellt.
+Beispiel:
+Das bekannteste Beispiel ist eBay. Der Kunde tritt hierbei sowohl als Käufer als auch als Verkäufer auf. In diesem Fall ist das Angebot aus Unternehmenssicht fremdbestimmt, da Angebot und Darstellung durch die Kunden (Verkäufer der Ware) kontrolliert werden.Bei diesem Modell fließt die Kernleistung vom Verkäufer zum Käufer. Durch diese Transaktion wird eine Nebenleistung für einen Dritten geschaffen. Der Umsatz wird dadurch generiert, dass ein Dritter die Nebenleistung an den Verkäufer vergütet.
+Die geläufigste Ausprägung dieses Modells ist die Provision für die Vermittlung einer Leistung. Diese Erlöse sind nur indirekt, wenn die werbende Partei eine separate Kernleistung und die Werbeplattform zur Generierung der Provisionserlöse eine Nebenleistung anbietet.
+Die Erlöshöhe kann fix festgesetzt oder über den Verkaufwert bzw. andere transaktionsspezifische Faktoren definiert werden. Eine weitere Möglichkeit ist das Gain Sharing, bei dem der Vermittler einer Leistung einen Anteil der Einsparung an den Verkäufer weitergibt.
+Beispiele:
+
+e-Shops, die in ihr Angebot Partnerprodukte aufnehmen.
+Nachrichtenmagazine, die in ihren redaktionellen Inhalt auf andere Unternehmen hinweisen.
+Affiliate-Programme, bei denen über Links auf andere Produkte hingewiesen wird und eine Provision bei Verkauf der Produkte über den Link erzielt wird (z. B. Medion; 3,5 % des Verkaufswerts).Bei diesem Modell wird der Erlös über Mitgliedsbeiträge, Nutzungs- oder Einrichtungsgebühren erzielt. Die Kernleistung fließt vom Verkäufer zum Kunden. Der Kunde zahlt eine Gebühr, welche nicht für jede einzelne Transaktion anfällt.
+Nutzungs- und Einrichtungsgebühren werden einmalig entrichtet. Die Mitgliedsbeiträge sind regelmäßig zu zahlende Gebühren. Hierbei wird häufig das Premium-Prinzip angewendet. Dieses setzt sich aus einem kostenlosen („free“) und einem Premiumbereich zusammen. Dabei wird der Dienst zunächst kostenfrei angeboten und beinhaltet eine Basisleistung. Für die Zusatzleistungen im Premiumpaket muss der Nutzer einen regelmäßigen Betrag entrichten.
+Beispiele:
+Collaboration Platforms und Premium-Mitgliedschaften (z. B. Xing, Mitgliedschaft kostenfrei, Zusatzleistungen für 4,95 Euro im Monat)Dieses Modell ist dadurch gekennzeichnet, dass der Betreiber der Web-Seite neben einer Kernleistung gleichzeitig eine Nebenleistung erbringt, für die er von einem Dritten bezahlt wird. Diese Bezahlung erfolgt unabhängig von einzelnen Transaktionen bzgl. des Kunden der Kernleistung.
+Es gibt unter anderem folgende Ausprägungen dieses Erlösmodells:
+
+Bannerwerbung
+Sponsoring/Spenden
+Datenverkauf (Data-Mining)
+Syndizierung (Content-Syndication)Bei der Bannerwerbung ist auf einer Internet-Seite ein bestimmter Bereich für die Werbung – das Banner – des Werbekunden reserviert.
+Sponsoring und Spenden unterscheiden sich dadurch, dass bei einem Sponsoring durch den Begünstigten, den „Gesponserten“, eine Gegenleistung erbracht werden muss, wohingegen eine Spende ohne die Einforderung einer Gegenleistung gewährt wird. Eine solche Gegenleistung kann auf verschiedene Arten erfolgen, zum Beispiel durch die Nennung des Sponsors oder das Platzieren von Inhalten des Sponsors auf der Internet-Seite.
+Beim Data-Mining wird der Web-Seiten-Betreiber dafür bezahlt, möglichst umfassende Daten über die Nutzer bzw. Nutzung seines Internet-Angebots bereitzustellen. Die Firma, die dafür zahlt, erhofft sich aus diesen Daten bestimmte Erkenntnisse, die es ihr ermöglichen, durch gezieltere Werbung einen höheren Umsatz zu erzielen.
+Syndizierung ist die Weitergabe von Inhalten zum Einbinden in andere Web-Seiten oder sonstigen Weiterverwertung. Dies ist insofern ein indirektes Modell als dass nicht die Nutzer der eigenen Web-Seite dafür zahlen, Inhalte einzusehen, sondern dritte Dienste durch die Verwendung der Inhalte Umsatz erzielen oder sich anderen Geschäftswert erhoffen.
+Beispiel:
+Ein Beispiel für Syndizierung ist die FAZ, welche die Nutzungsrechte an ihren Texten z. B. an Online-Buchläden wie buecher.de verkauft.

@@ -1,0 +1,380 @@
+In logischen Systemen wird Identität über Ununterscheidbarkeit eingeführt: Das Identitätsprinzip (auch Satz der Identität) besagt, dass ein Gegenstand A genau dann mit einem Gegenstand B identisch ist, wenn sich zwischen A und B kein Unterschied finden lässt. Die Methode, durch die Identität erkannt wird, ist der Vergleich. Das Identitätsprinzip wird oft Gottfried Wilhelm Leibniz zugeschrieben und daher auch Leibniz-Gesetz (englisch Leibniz’ law) genannt.Das Identitätsprinzip lässt sich in zwei Forderungen aufspalten:
+
+die Identität ununterscheidbarer Dinge
+die Ununterscheidbarkeit identischer DingeDie Identität ununterscheidbarer Dinge besagt, dass, wenn Dinge ununterscheidbar sind, sie auch identisch sind, bzw. äquivalent: Sind sie nicht identisch, so muss es einen Unterschied zwischen ihnen geben. Zum Beispiel müssen sich zwei verschiedene Münzen, auch wenn sie absolut gleich aussehen, in irgendeiner Hinsicht unterscheiden, etwa durch ihre Lage im Raum.Die Ununterscheidbarkeit identischer Dinge besagt, dass identische Dinge ununterscheidbar sind: Gibt es einen Unterschied zwischen ihnen, so können sie nicht identisch sein. Stellt man fest, dass eine Münze ganz aus Kupfer und eine mit identischem Wert ganz aus Gold ist, kann es sich nicht um dieselbe Münze handeln, weil diese Münze dann sowohl ganz aus Kupfer als auch ganz aus Gold wäre, was offensichtlich widersprüchlich ist. Ununterscheidbar hingegen sind die Werte beider Münzen, wie man nach deren Einzahlen auf ein Konto sieht: Das Konto enthält dann die Werte beider Münzen, aber es ist unmöglich festzustellen, welcher Teil des Kontostands zu welcher der eingezahlten Münzen gehört.Die philosophische Formulierung eines Prinzips der Identität des Ununterscheidbaren geht weit zurück, und findet sich schon in Überlegungen der Stoiker, die moderne Sichtweise zur Identität geht auf Betrachtungen von Leibniz zurück. Die historische Diskussion der intuitiven Eigenschaften von Ununterscheidbarem findet sich meist unter seinem lateinischen Schlagwort als principium identitatis indiscernibilium.Vom Identitätsprinzip gibt es verschiedene Formulierungen. Die erste ist die allgemeinverständlichste, aber unpräziseste; die dritte, präziseste Formulierung geht auf Leibniz zurück:
+
+Ein Gegenstand A ist genau dann mit einem Gegenstand B identisch, wenn es zwischen A und B keinen Unterschied gibt.
+Ein Gegenstand A ist genau dann mit einem Gegenstand B identisch, wenn alle Eigenschaften, die A zukommen, auch B zukommen und umgekehrt.
+A und B bezeichnen genau dann denselben Gegenstand, wenn sich A für B in allen Aussagen bei Erhaltung des Wahrheitswertes ersetzen lässt.Der Zusammenhang zwischen den ersten beiden Formulierungen ergibt sich dadurch, dass ein Unterschied zwischen zwei Dingen immer mit einer Eigenschaft einhergeht, die einem Ding zukommt und dem anderen nicht. So könnte beispielsweise ein Farb-Unterschied darin bestehen, dass dem einen Ding die Eigenschaft Rot zukommt, dem anderen nicht.
+Nummer drei ist eine Fassung von Leibniz berühmter Formulierung Eadem sunt quae sibi ubique substitui possunt, salva veritate („Dieselben sind, die sich überall ersetzen können, bei Wahrung von Wahrheit“). Bei der Erläuterung gehen wir zunächst von zwei Ausdrücken für denselben Gegenstand aus, z. B. von
+
+der höchste Berg der Erde
+der Mount EverestErsetzt man nun in der Aussage Der Mount Everest liegt im Himalaya den Begriff Mount Everest durch der höchste Berg der Erde erhält man:
+
+Der höchste Berg der Erde liegt im HimalayaDas Identitätsprinzip besagt nun, dass diese Substitution den Wahrheitswert erhält. Wenn der erste Satz wahr ist, muss dies auch der zweite Satz sein und umgekehrt. Tatsächlich muss dies für alle Sätze gelten, in denen der eine Ausdruck vorkommt. Wenn wir dagegen von Ausdrücken ausgehen, die nicht denselben Gegenstand bezeichnen, wie
+
+das Matterhorn
+der Mount Everestso muss es laut Identitätsprinzip einen Satz geben, in dem eine entsprechende Ersetzung den Wahrheitswert nicht erhält. Ein solcher Satz ist beispielsweise:
+
+Das Matterhorn ist über 8000 Meter hoch.Dieser Satz ist falsch; ersetzt man aber in ihm das Matterhorn durch Mount Everest, so erhalten wir den wahren Satz:
+
+Der Mount Everest ist über 8000 Meter hoch.Das Identitätsprinzip gilt uneingeschränkt nur in extensionalen Sprachen wie der Sprache der Mathematik. In intensionalen Sprachen wie der deutschen Umgangssprache gilt es nur mit Einschränkungen. Dieses Problem betrifft nur das Prinzip der Ununterscheidbarkeit Identischer, nicht das der Identität Ununterscheidbarer. Man betrachte dazu die folgenden Sätze.
+
+Frank glaubt, dass der Mount Everest im Himalaya liegt.
+Frank glaubt, dass der höchste Berg der Erde im Himalaya liegt.Unter der Voraussetzung, dass Frank nicht weiß, dass der höchste Berg der Mount Everest ist, könnte nun der erste Satz wahr und der zweite falsch sein. Gerade dies dürfte aber laut Identitätsprinzip bei Ausdrücken, die denselben Gegenstand bezeichnen, nicht der Fall sein. Die Lösung dieser Schwierigkeit lautet, dass das Identitätsprinzip bei intensionalen Ausdrücken (zu denen eben auch glauben, dass gehört) außer Kraft gesetzt ist. Die Aussagen, in denen die Ersetzung vorgenommen wird, dürfen solche Ausdrücke nicht enthalten (siehe auch opaker Kontext).
+Geht man von einer der ersten beiden Formulierungen des Identitätsprinzips aus, so würde man sagen, Eigenschaften wie von Frank für im Himalaya liegend gehalten zu werden sind keine eigentlichen Eigenschaften der Dinge (sondern von Frank) und dürfen daher auch nicht zur Unterscheidung von Mount Everest und höchstem Berg der Erde herangezogen werden.In der Informatik ist der Unterschied zwischen identischen Speichern und gleichen Speicherwerten leichter erkennbar: Bezieht sich die Implementierung einer Variablen in Form einer Speicheradresse auf dieselbe Speicherzelle, so ist der Inhalt einer zweiten Referenz auf dieselbe Speicherzelle identisch, in einer anderen Speicherzelle befindet sich nur möglicherweise der gleiche Wert.Die Identität ist eine zweistellige Relation, eine Beziehung zwischen zwei Dingen. Genauer ist sie eine Äquivalenzrelation, mit den folgenden Eigenschaften:
+
+Reflexivität: Alles ist mit sich selbst identisch.
+Symmetrie: Wenn A mit B identisch ist, so auch B mit A
+Transitivität: Ist A mit B identisch, und B mit C, so auch A mit CNoch genauer lässt sich die Identitätsrelation bestimmen als die feinkörnigste Äquivalenzrelation in einer Sprache. Das bedeutet, dass bei 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    {\displaystyle a=b}
+   für jede Äquivalenzrelation 
+  
+    
+      
+        ∼
+      
+    
+    {\displaystyle \sim }
+   auch 
+  
+    
+      
+        a
+        ∼
+        b
+      
+    
+    {\displaystyle a\sim b}
+   gilt. Eine andere Äquivalenzrelation wäre beispielsweise gleichschwer. Es gilt also, wenn 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   mit 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   identisch ist, dass 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   auch gleichschwer wie 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   ist. Dasselbe gilt für alle übrigen Äquivalenzrelationen (gleich groß, gleichfarbig etc.).
+Es kann gezeigt werden, dass diese letzte Eigenschaft der maximalen Feinkörnigkeit die Identitätsrelation in eindeutiger Weise charakterisiert. Gibt es neben der Identitätsrelation eine weitere Äquivalenzrelation 
+  
+    
+      
+        
+          ∼
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \sim ^{*}}
+   mit dieser Eigenschaft so gilt 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    {\displaystyle a=b}
+   genau dann, wenn 
+  
+    
+      
+        a
+        
+          ∼
+          
+            ∗
+          
+        
+        b
+      
+    
+    {\displaystyle a\sim ^{*}b}Es gibt verschiedene Möglichkeiten, die Identitätsrelation in einem auf Prädikatenlogik basierenden formalen System einzuführen.
+In der Prädikatenlogik zweiter Stufe (oder höher) kann die Identität direkt und allgemein definiert werden mit einer Prädikatvariable 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  :
+
+  
+    
+      
+        a
+        =
+        b
+        
+          ≡
+          
+            d
+            e
+            f
+          
+        
+        ∀
+        F
+        (
+        F
+        (
+        a
+        )
+        ≡
+        F
+        (
+        b
+        )
+        )
+      
+    
+    {\displaystyle a=b\equiv _{def}\forall F(F(a)\equiv F(b))}
+  
+Diese Definition ist eine geradlinige Umsetzung des leibnizschen Identitätsprinzips.
+In der Prädikatenlogik erster Stufe kann eine Definition gegeben werden, wenn eine formale Theorie eine endliche Anzahl von nicht-definierten Prädikaten enthält. Betrachten wir dazu den Fall einer Mengentheorie mit dem Elementschafts-Prädikat 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   als einzigem undefinierten Prädikat. Dann ist die Identität wie folgt zu definieren:
+
+  
+    
+      
+        a
+        =
+        b
+        
+          ≡
+          
+            d
+            e
+            f
+          
+        
+        ∀
+        x
+        (
+        a
+        ∈
+        x
+        ≡
+        b
+        ∈
+        x
+        )
+        ∧
+        ∀
+        x
+        (
+        x
+        ∈
+        a
+        ≡
+        x
+        ∈
+        b
+        )
+      
+    
+    {\displaystyle a=b\equiv _{def}\forall x(a\in x\equiv b\in x)\wedge \forall x(x\in a\equiv x\in b)}
+  
+Bei mehreren Prädikaten müssten noch für diese entsprechende Klauseln hinzugefügt werden.
+In der Prädikatenlogik erster Stufe gibt es jedoch keine allgemeine Definition, die unabhängig von den verwendeten Prädikaten wäre. Es gibt aber die Möglichkeit einer allgemeinen Einführung entweder über Regeln oder Axiome.
+Durch Regeln lässt sich die Identität wie folgt einführen
+Identitätsbeseitigung
+Aus 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    {\displaystyle a=b}
+   und 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   folgt 
+  
+    
+      
+        ϕ
+        [
+        a
+        ↢
+        b
+        ]
+      
+    
+    {\displaystyle \phi [a\leftarrowtail b]}
+  
+(wobei 
+  
+    
+      
+        ϕ
+        [
+        a
+        ↢
+        b
+        ]
+      
+    
+    {\displaystyle \phi [a\leftarrowtail b]}
+   eine Formel ist, in der einige oder alle Vorkommen von 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   durch 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   ersetzt worden sind).
+Identitätseinführung
+Es gilt: 
+  
+    
+      
+        a
+        =
+        a
+      
+    
+    {\displaystyle a=a}
+  
+Die Intuition hinter diesen Regeln ist, dass, wenn man gezeigt hat, dass a = b ist, man in jedem Satz in einem Beweis a (an einigen oder allen Stellen) durch b ersetzen kann. Ferner kann man in einem Beweis immer a = a setzen, da dies offenbar nie falsch ist.
+Bei der axiomatischen Einführung setzt man das folgende Axiom-Schema (die so genannte Hao-Wang-Formel):
+
+  
+    
+      
+        ϕ
+        ≡
+        ∀
+        b
+        (
+        a
+        =
+        b
+        ⊃
+        ϕ
+        [
+        a
+        ↢
+        b
+        ]
+        )
+      
+    
+    {\displaystyle \phi \equiv \forall b(a=b\supset \phi [a\leftarrowtail b])}
+  ,
+Lies: 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   ist genau dann wahr, wenn für alle 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   die Tatsache, dass 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   mit 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   identisch ist, bedingt, dass 
+  
+    
+      
+        ϕ
+        [
+        a
+        ↢
+        b
+        ]
+      
+    
+    {\displaystyle \phi [a\leftarrowtail b]}
+  . Das Axiom impliziert unmittelbar die Identitätsbeseitigung; aus ihm lässt sich jedoch auch sehr einfach die Identitätseinführung, 
+  
+    
+      
+        a
+        =
+        a
+      
+    
+    {\displaystyle a=a}
+  , ableiten.

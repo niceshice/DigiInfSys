@@ -1,0 +1,5 @@
+Der Ausdruck Theorem (von griechisch theórema ‚Angeschautes, Untersuchung, Lehrsatz‘), auch Lehrsatz, ist mehrdeutig.
+Er bezeichnet allgemein einen Lehrsatz, eine Lehrmeinung oder den Bestandteil einer wissenschaftlichen Theorie; spezieller „die erklärten Sätze (Aussagen, Normen) eines Systems“ bzw. die in einer Theorie bewiesene Aussage respektive einen bewiesenen Satz.
+In einer axiomatisch-deduktiven Theorie bedeutet Theorem in einem engeren Sinn „der aus den Axiomen logisch abgeleitete Satz“. Teilweise werden dann auch die Axiome als Theoreme der Theorie bezeichnet.
+In der Mathematik spricht man statt vom Theorem oder Lehrsatz oft auch einfach vom Satz. Damit er als wahr anerkannt wird, muss er aus den Axiomen der Theorie mit den Schlussregeln der Theorie bewiesen werden.
+In der Physik nennt man einen Lehrsatz auch ein Naturgesetz oder Physikalisches Gesetz. Im Unterschied zur Mathematik spielt hier der Bezug zur Wirklichkeit eine entscheidende Rolle. Der Lehrsatz muss durch Experimente als adäquat nachgewiesen werden.

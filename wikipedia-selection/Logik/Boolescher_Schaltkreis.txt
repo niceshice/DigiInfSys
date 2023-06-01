@@ -1,0 +1,860 @@
+In der theoretischen Informatik (insbesondere in der Komplexitätstheorie) ist ein boolescher Schaltkreis ein mathematisches Modell für digitale Schaltungen.Gatter sind die Bestandteile, aus denen boolesche Schaltkreise aufgebaut sind. Diese bekommen boolesche Eingaben und kombinieren diese zu einem booleschen Wert als Ausgabe. Es gibt verschiedene Typen von Gattern, die Eingaben unterschiedlich kombinieren. Ein Gatter-Typ ist eine boolesche Funktion, die ein k-Tupel von booleschen Werten auf einen booleschen Wert abbildet.
+Beispiele für Gatter-Typen:
+
+Die Familie von AND-Gattern: Für jede beliebige Stelligkeit k gibt es ein 
+  
+    
+      
+        
+          ∧
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \wedge _{k}}
+  -Gatter, das genau dann 1 ausgibt, wenn alle Eingaben 1 sind. Für 
+  
+    
+      
+        k
+        =
+        2
+      
+    
+    {\displaystyle k=2}
+   notieren wir die Gatter auch mit 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \wedge }
+  , d. h., 
+  
+    
+      
+        ∧
+        =
+        
+          ∧
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \wedge =\wedge _{2}}
+  
+Die Familie von OR-Gattern: Für jede beliebige Stelligkeit k gibt es ein 
+  
+    
+      
+        
+          ∨
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \vee _{k}}
+  -Gatter, das genau dann 1 ausgibt, wenn mindestens eine Eingabe 1 ist. Für 
+  
+    
+      
+        k
+        =
+        2
+      
+    
+    {\displaystyle k=2}
+   notieren wir die Gatter auch mit 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \vee }
+  , d. h., 
+  
+    
+      
+        ∨
+        =
+        
+          ∨
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \vee =\vee _{2}}
+  
+Das Negations-Gatter 
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \neg }
+  : Es hat genau eine Eingabe und gibt 1 aus genau dann, wenn die Eingabe 0 ist.Ein 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -Input- 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  -Output-boolescher-Schaltkreis über eine Basis 
+  
+    
+      
+        Υ
+      
+    
+    {\displaystyle \Upsilon }
+   von Gattertypen ist ein gerichteter azyklischer Graph 
+  
+    
+      
+        G
+        =
+        (
+        V
+        ,
+        E
+        )
+      
+    
+    {\displaystyle G=(V,E)}
+  . Die Knoten des Graphen werden auch als Gatter bezeichnet.
+
+Es gibt 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Knoten 
+  
+    
+      
+        
+          i
+          
+            1
+          
+        
+        ,
+        
+          i
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          i
+          
+            n
+          
+        
+        ∈
+        V
+      
+    
+    {\displaystyle i_{1},i_{2},\dots ,i_{n}\in V}
+  , die Inputs, die keine eingehenden Kanten haben.
+Die verbleiben Knoten werden als interne Knoten bezeichnet.
+Jedem internen Knoten ist ein Gattertyp 
+  
+    
+      
+        υ
+        ∈
+        Υ
+      
+    
+    {\displaystyle \upsilon \in \Upsilon }
+   zugeordnet, dessen Stelligkeit mit dem In-Grad des Knoten übereinstimmt (wenn notwendig, wird auch die Reihenfolge der eingehenden Kanten festgelegt).
+Des Weiteren gibt es 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   Knoten 
+  
+    
+      
+        
+          o
+          
+            1
+          
+        
+        ,
+        
+          o
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          o
+          
+            m
+          
+        
+      
+    
+    {\displaystyle o_{1},o_{2},\dots ,o_{m}}
+  , die als Output-Knoten markiert sind.Eine häufige Wahl für die Basis 
+  
+    
+      
+        Υ
+      
+    
+    {\displaystyle \Upsilon }
+   ist 
+  
+    
+      
+        Υ
+        =
+        {
+        ∧
+        ,
+        ∨
+        ,
+        ¬
+        }
+      
+    
+    {\displaystyle \Upsilon =\{\wedge ,\vee ,\neg \}}
+  
+(manchmal auch als Standardbasis bezeichnet), da mit diesen Gatter-Typen alle Booleschen Funktionen gebildet werden können.Für eine Eingabe 
+  
+    
+      
+        X
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle X=(x_{1},x_{2},\dots ,x_{n})}
+   wird jedem Knoten 
+  
+    
+      
+        v
+        ∈
+        V
+      
+    
+    {\displaystyle v\in V}
+   des Schaltkreises 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   wie folgt ein Wahrheitswert 
+  
+    
+      
+        
+          g
+          
+            v
+          
+        
+        (
+        X
+        )
+        ∈
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle g_{v}(X)\in \{0,1\}}
+   zugewiesen:
+
+Jeder Input-Knoten 
+  
+    
+      
+        
+          i
+          
+            j
+          
+        
+      
+    
+    {\displaystyle i_{j}}
+   bekommt den Wert 
+  
+    
+      
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle x_{j}}
+  , d. h. 
+  
+    
+      
+        
+          g
+          
+            
+              i
+              
+                j
+              
+            
+          
+        
+        (
+        X
+        )
+        =
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle g_{i_{j}}(X)=x_{j}}
+  .
+Interne Knoten werden so ausgewertet, dass zuerst alle Vorgänger ausgewertet werden, bevor der Knoten selbst ausgewertet wird und diese Werte dann entsprechend dem Gatter-Typ kombiniert werden.Für einen internen Knoten 
+  
+    
+      
+        v
+        ∈
+        V
+      
+    
+    {\displaystyle v\in V}
+   mit 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   direkten Vorgängern 
+  
+    
+      
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        
+          u
+          
+            k
+          
+        
+      
+    
+    {\displaystyle u_{1},\dots u_{k}}
+   und Gatter-Typ  
+  
+    
+      
+        υ
+        ∈
+        Υ
+      
+    
+    {\displaystyle \upsilon \in \Upsilon }
+   berechnet man 
+  
+    
+      
+        
+          g
+          
+            v
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle g_{v}(X)}
+   als
+
+  
+    
+      
+        
+          g
+          
+            v
+          
+        
+        (
+        X
+        )
+        =
+        υ
+        (
+        
+          g
+          
+            
+              u
+              
+                1
+              
+            
+          
+        
+        (
+        X
+        )
+        ,
+        …
+        ,
+        
+          g
+          
+            
+              u
+              
+                k
+              
+            
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle g_{v}(X)=\upsilon (g_{u_{1}}(X),\dots ,g_{u_{k}}(X)}
+  Die boolesche Funktion 
+  
+    
+      
+        
+          f
+          
+            C
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle f_{C}(X)}
+   eines booleschen Schaltkreises 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   ist dann
+
+  
+    
+      
+        
+          f
+          
+            C
+          
+        
+        (
+        X
+        )
+        =
+        (
+        
+          g
+          
+            
+              o
+              
+                1
+              
+            
+          
+        
+        (
+        X
+        )
+        ,
+        …
+        ,
+        
+          g
+          
+            
+              o
+              
+                m
+              
+            
+          
+        
+        (
+        X
+        )
+        )
+      
+    
+    {\displaystyle f_{C}(X)=(g_{o_{1}}(X),\dots ,g_{o_{m}}(X))}
+  .Der Subschaltkreis eines internen Knotens 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   besteht aus allen Gattern, die Vorgänger von 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   sind, d. h., von denen es einen gerichteten Pfad zu 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   gibt.
+Der Grad einer Basis 
+  
+    
+      
+        Υ
+      
+    
+    {\displaystyle \Upsilon }
+   ist die maximale Stelligkeit ihrer Elemente.
+Monotoner Schaltkreis: Ein boolescher Schaltkreis 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  , bei dem die Funktion 
+  
+    
+      
+        
+          f
+          
+            C
+          
+        
+        (
+        ⋅
+        )
+      
+    
+    {\displaystyle f_{C}(\cdot )}
+   monoton in dem Sinne ist, dass, wann immer 
+  
+    
+      
+        X
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        ,
+        Y
+        =
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            n
+          
+        
+        )
+        ,
+        
+          x
+          
+            j
+          
+        
+        ≤
+        
+          y
+          
+            j
+          
+        
+      
+    
+    {\displaystyle X=(x_{1},\dots ,x_{n}),Y=(y_{1},\dots ,y_{n}),x_{j}\leq y_{j}}
+   für 
+  
+    
+      
+        1
+        ≤
+        j
+        ≤
+        n
+      
+    
+    {\displaystyle 1\leq j\leq n}
+  , auch 
+  
+    
+      
+        
+          f
+          
+            C
+          
+        
+        (
+        X
+        
+          )
+          
+            j
+          
+        
+        ≤
+        
+          f
+          
+            C
+          
+        
+        (
+        Y
+        
+          )
+          
+            j
+          
+        
+      
+    
+    {\displaystyle f_{C}(X)_{j}\leq f_{C}(Y)_{j}}
+   für 
+  
+    
+      
+        1
+        ≤
+        j
+        ≤
+        m
+      
+    
+    {\displaystyle 1\leq j\leq m}
+   gilt. Oft werden damit auch boolesche Schaltkreise, die nur aus AND und OR Gattern bestehen, bezeichnet.Boolesche Schaltkreise sind in der Komplexitätstheorie von Bedeutung, insbesondere im Teilgebiet der Schaltkreiskomplexität (englisch Circuit complexity).Es gibt unterschiedliche Maße für die Komplexität eines Schaltkreises:
+
+Schaltkreisgröße (englisch circuit size): Die Anzahl der internen Knoten des Schaltkreises.
+Schaltkreistiefe (englisch circuit depth): Die maximale Länge eines Pfades von einem Eingabegatter zu einem Ausgangsgatter.
+Anzahl der Alternierungen von AND und OR Gattern (englisch number of alternations).
+Ingrad / Ausgrad des Schaltkreises: Die maximale Anzahl an eingehenden / ausgehenden Kanten eines Knotens des Schaltkreises. Der Ingrad wird durch die Basis 
+  
+    
+      
+        Υ
+      
+    
+    {\displaystyle \Upsilon }
+   beschränkt.Einige bedeutende Komplexitätsklassen können mit Hilfe boolescher Schaltkreise definiert werden.
+
+Die Klasse NC und die dazugehörige Hierarchie 
+  
+    
+      
+        
+          
+            
+              NC
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\mbox{NC}}^{i}}
+  
+Die Klasse AC und die dazugehörige Hierarchie 
+  
+    
+      
+        
+          
+            
+              AC
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\mbox{AC}}^{i}}Beim Auswerten eines booleschen Schaltkreises (englisch Circuit Value Problem) berechnet man für
+einen gegebenen Input-String, der allen Input-Gattern einen Wahrheitswert zuordnet, die Werte
+der Output-Gatter. Das Entscheidungsproblem, ob ein Output-Gatter eines Schaltkreises für eine gegebene Eingabe wahr ist, ist P-vollständig.Das Erfüllbarkeitsproblem für Schaltkreise (englisch circuit satisfiability problem) betrachtet einen booleschen Schaltkreis 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   mit  Basis 
+  
+    
+      
+        Υ
+        =
+        {
+        ∧
+        ,
+        ∨
+        ,
+        ¬
+        }
+      
+    
+    {\displaystyle \Upsilon =\{\wedge ,\vee ,\neg \}}
+   und einem einzigen Output-Gatter und fragt, ob es eine Eingabe gibt, die dieses Gatter auf 1 setzt, d. h., ob es ein 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   gibt, so dass 
+  
+    
+      
+        
+          f
+          
+            C
+          
+        
+        (
+        X
+        )
+        =
+        1
+      
+    
+    {\displaystyle f_{C}(X)=1}
+  . Das Erfüllbarkeitsproblem für Schaltkreise ist NP-vollständig.

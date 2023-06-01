@@ -1,0 +1,6 @@
+SWIV ist ein Shoot ’em up vom Entwicklerstudio Random Access, veröffentlicht 1991 für den Commodore Amiga, Amstrad CPC, Atari ST, Commodore 64 und ZX Spectrum durch den Publisher The Sales Curve unter dessen Marke Storm. 1992 folgte noch eine Version für den Acorn Archimedes.
+Das Spielprinzip ist angelehnt an den Arcade-Actionklassiker Silkworm von 1988, bei dem sich bis zu zwei Spieler gleichzeitig der herannahenden Gegnerscharen erwehren dürfen, einer im Hubschrauber, der andere im Jeep. Silkworm wurde 1989 und 1990 von The Sales Curve auf diverse Heimcomputer und das NES portiert.
+Eine Besonderheit von SWIV ist, dass es nur einen einzigen Level gibt, der die ganze Zeit von oben nach unten scrollt.
+Um den Namen des Spiels rankten sich einige Gerüchte, so soll SWIV einmal Silkworm IV oder aber Silkworm In Vertical heißen (letzteres eine Anspielung darauf, dass Silkworm ein seitlich scrollendes Shoot ’em up war). Vermutlich bezieht sich die Bezeichnung allerdings auf eine auf der Rückseite der Spiele-Box angegebene Bezeichnung der Waffengattung für die von den Spielern zu verwendenden Gerätschaften. Dort steht nämlich in Großbuchstaben „Special Weapons Interdiction Vehicles“, woraus sich die Abkürzung „SWIV“ ergibt.Grafik: Ned Langman
+Musik: Andrew Barnabas
+Coder: Ronald P. Weeserik

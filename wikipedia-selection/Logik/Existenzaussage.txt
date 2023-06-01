@@ -1,0 +1,39 @@
+Eine Existenzaussage ist eine Aussage beziehungsweise Behauptung des Inhalts, dass mindestens ein Gegenstand (Element, Individuum, Ereignis) eines bestimmten Gegenstandsbereichs eine bestimmte Eigenschaft hat, d. h., dass die betroffene Eigenschaft auf mindestens einen Gegenstand zutrifft.
+Ein Beispiel für eine Existenzaussage ist der Satz „In Berlin gibt es mindestens einen Tuberkulose-Kranken.“
+Modern werden Existenzaussagen auch als Existenzsätze, Existenzialaussagen oder existenz-/existentialquantifizierte Sätze bezeichnet. In der traditionellen Logik werden Existenzaussagen als partikuläre Urteile bezeichnet – hierzu siehe Kategorisches Urteil.
+Die logischen Eigenschaften der Existenzaussagen werden modern in der Prädikatenlogik und wurden traditionell als partikulär bejahende und verneinende Urteile in der Syllogistik behandelt.
+In der formalen Sprache der Prädikatenlogik werden Existenzaussagen gebildet, indem mit Hilfe des Existenzquantors über Prädikate beziehungsweise Aussageformen quantifiziert wird. Symbolisiert wird der Existenzquantor meist durch eines der Zeichen 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   oder 
+  
+    
+      
+        ⋁
+      
+    
+    {\displaystyle \bigvee }
+  .
+Beispiel einer Quantifikation:
+
+x ist ein Berliner [und] x ist tuberkulosekrank
+(
+  
+    
+      
+        ∃
+        x
+      
+    
+    {\displaystyle \exists x}
+  ) (x ist ein Berliner [und] x ist tuberkulosekrank) (= „Existenzquantifikation“ von Satz 1)
+Es gibt etwas, das ein Berliner ist und tuberkulosekrank ist.
+Etwas ist ein Berliner und tuberkulosekrank.
+Einige Berliner sind tuberkulosekrank.
+Jemand in/aus Berlin ist tuberkulosekrank.
+Ein Berliner ist tuberkulosekrank.Die Verifikation einer Existenzaussage geschieht durch Nachweis, dass es im Gegenstandsbereich tatsächlich einen Gegenstand mit der behaupteten Eigenschaft gibt. Die Falsifikation einer Existenzaussage setzt voraus, dass sämtliche Gegenstände des Bezugsbereiches beurteilt werden können. Ist dies nicht möglich, so lässt sich eine Existenzaussage nur mehr oder weniger gut widerlegen. Dies veranlasst in den Erfahrungswissenschaften zum Teil zu der Annahme, dass Existenzaussagen solche Aussagen sind, „die zwar empirisch verifiziert, aber nicht empirisch falsifiziert werden können“.

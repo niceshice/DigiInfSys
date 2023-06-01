@@ -1,0 +1,16 @@
+City Bomber ist ein frühes Computerspiel für Heimcomputer, das etwa 1982 entwickelt wurde. Es handelt sich um ein horizontales 2D-Shoot ’em up. Es gibt zahlreiche Versionen und Portierungen für viele verschiedene Plattformen.Der Ursprung ist das Arcade-Spiel Canyon Bomber von Atari (1977). Dieses ist allerdings schwarz/weiß und hat eine etwas andere Grafik. Bekannt sind eher die Heimcomputer-Versionen des VC 20 und ZX Spectrum.Der Spieler muss über einer Stadt (Skyline) Bomben abwerfen. Am unteren Rand des Bildschirms befinden sich mehrere, unterschiedlich hohe Hochhäuser (oft farbige Blöcke). Dem Spieler gehört ein Doppeldecker, der horizontal, meist von links nach rechts fliegt, den er aber nicht steuern kann. Ziel ist es, Bomben abzuwerfen, um die Häuser zu zerstören. Es kann zeitgleich nur eine Bombe abgeworfen werden, dabei gilt es, die Höhe der Gebäude und die Fluggeschwindigkeit zu berücksichtigen.
+Wenn das Flugzeug den rechten Bildschirmrand erreicht hat, kommt es an der linken Seite, etwas tiefer wieder hervor. Getroffene Häuser werden nicht ganz zerstört, sondern lediglich etwas kürzer. Ein Zusammenstoß mit diesen sollte so lange wie möglich vermieden werden. Eine neue Bombe kann erst abgeworfen werden, wenn die zuvor abgeworfene Bombe ein Haus oder den Boden erreicht hat, daher sollte genaues Timing eingehalten werden.Die Programmierung war recht einfach und konnte auch mit mittleren Programmierkenntnissen in BASIC selbst geschrieben oder modifiziert werden. Oft wurden früher auch Programm-Listings aus Zeitschriften abgetippt. Aber es gab auch fertige Versionen auf Kassetten oder Cartridges. Die Programmgröße ist sehr klein, da das Spiel recht einfach ist. So ist es in der ZX81-Version nur etwa 1 KByte groß. Den Hauptplatz bei anderen Versionen nimmt die (sehr einfache) Grafik ein. Sprites waren nicht notwendig.(Auswahl)
+
+Canyon Bomber (1978) für Atari 2600 (farbige Automaten-Umsetzung), Programmierer David Crane
+Blitz für Sinclair ZX81 (Orwin Software)
+Air Attack für ZX81 und PET 2001 (1979, von Supersoft)
+City Bomber/Blitz für VC 20 (1982, von Creative, auf Kassette)
+City Bomber (Stephan Smith) für ZX Spectrum (1982)
+City Bomber (Programmierer Jeff Minter, Llamasoft) für ZX-Spectrum, (1982)
+City Bomber für Commodore 64 (1983)
+Super Blitz für Commodore 64 (1983)
+City Lander für Commodore Plus4 (1983)
+Bomber für VC 20 (1983)
+Nuclear City Bomber (oder auch B1 Attack) für ZX-Spectrum (1984)
+Demolition Mission für Amiga von Assassins (1992, PD)
+Lunar Blitz für Commodore Plus4 von Cosine & Cronosoft (2005)Es gibt auch ein gleichnamiges Arcade-Spiel von Konami (1987).Ein ähnliches Spiel ist Scramble. Bei dem Spiel kann allerdings das Raumschiff richtig gesteuert, und zusätzlich nach vorne geschossen werden. Außerdem findet ein Bildschirm-Scrolling statt. City Bomber ist eher ein Geschicklichkeitsspiel.

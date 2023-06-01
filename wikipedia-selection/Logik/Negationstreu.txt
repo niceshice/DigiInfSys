@@ -1,0 +1,64 @@
+Negationstreu (engl.: negation complete) ist eine Eigenschaft von Folgen 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   von prädikatenlogischen Ausdrücken. Diese Eigenschaft wird – in Verwechslungsgefahr zu andersgemeinten Begriffen der Vollständigkeit – auch syntaktisch vollständig (in der englischsprachigen Literatur auch syntactically complete, deductively complete or maximally complete) genannt.
+Definition: Eine Menge 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   von prädikatenlogischen Ausdrücken heißt negationstreu, wenn für jeden beliebigen Ausdruck 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   gilt:
+
+  
+    
+      
+        Φ
+        ⊢
+        ϕ
+      
+    
+    {\displaystyle \Phi \vdash \phi }
+   oder 
+  
+    
+      
+        Φ
+        ⊢
+        ¬
+        ϕ
+      
+    
+    {\displaystyle \Phi \vdash \neg \phi }
+   .Man kann es auch anders ausdrücken: Ein formales System, gegeben durch die Axiomenmenge 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  , ist negationstreu oder syntaktisch vollständig, wenn jedes weitere Axiom, das nicht selbst schon aus 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   ableitbar ist, zu einem Widerspruch führt.Die Bedeutung des Begriffs negationstreu liegt in seiner Rolle als Beweishilfsmittel für den Satz von Henkin, der seinerseits als Hilfsmittel für einen alternativen Beweis von Gödels Vollständigkeitssatz der Prädikatenlogik erster Stufe ist.

@@ -1,0 +1,68 @@
+Die doxastische Logik ist eine Modale Logik, welche logische Aspekte des Glaubens oder Meinens formalisiert. Der Begriff „doxastisch“ stammt vom altgriechischen doxa, „der Glaube“. In einer doxastischen Logik wird ein neuer Operator der Art B(x) eingeführt, der intuitiv die Bedeutung „Es wird geglaubt, dass x der Fall ist.“ trägt. Die Menge 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbb {B} }
+   meint dann eine Menge von Meinungen oder Glaubenssätzen. Ein Glaube wird somit als ein modaler Operator formalisiert:
+
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbb {B} }
+  : {
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        ,
+        
+          b
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b_{1},b_{2},...,b_{n}}
+  }Raymond Smullyan definiert die folgenden Typen von Schlussfolgernden (reasoner, im Folgenden wie in der Wissenslogik üblich „Agent“ genannt) in Bezug auf eine Menge von Glaubenssätzen 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbb {B} }
+  .
+
+Korrekter Agent (accurate reasoner): Ein korrekter Agent glaubt niemals an einen falschen Glaubenssatz.
+Unkorrekter Agent (inaccurate reasoner): Ein unkorrekter Agent glaubt an mindestens einen falschen Glaubenssatz.
+Eingebildeter Agent (conceited reasoner): Ein Agent ist eingebildet, wenn er glaubt, dass er niemals unkorrekt ist.
+Konsistenter Agent (consistent reasoner): Ein konsistenter Agent glaubt niemals einen Glaubenssatz und seine Negation.

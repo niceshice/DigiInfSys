@@ -1,0 +1,284 @@
+Stickstoffwasserstoffsäure ist eine instabile, äußerst explosive, die Schleimhäute reizende, stechend riechende Flüssigkeit. Das Azid-Ion N3− ist linear gebaut und isoelektronisch mit Kohlenstoffdioxid. Die Salze der Stickstoffwasserstoffsäure heißen Azide. Aufgrund der Instabilität der Säure werden Azide nicht über die Stickstoffwasserstoffsäure synthetisiert, sondern über Natriumazid. Die Stickstoffwasserstoffsäure wird durch die Reaktion von Schwefelsäure mit Natriumazid gewonnen.Durch Reaktion von Salpetriger Säure mit Hydrazin im Überschuss in wässriger Salpetersäure oder Perchlorsäure bei einer H+-Konzentration von über 0,2 mol/l:
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+          
+          
+            H
+            
+              5
+            
+            
+              +
+            
+          
+          +
+          H
+          N
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          H
+          
+            N
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {N_{2}H_{5}^{+}+HNO_{2}\longrightarrow HN_{3}+H_{2}O+H_{3}O^{+}} }
+  Ein Teil der Stickstoffwasserstoffsäure geht über die Reaktion
+  
+    
+      
+        
+          H
+          
+            N
+            
+              3
+            
+          
+          +
+          H
+          N
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          
+            N
+            
+              2
+            
+          
+          +
+          
+            N
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {HN_{3}+HNO_{2}\longrightarrow N_{2}+N_{2}O+H_{2}O} }
+  verloren.Durch Oxidation von Hydrazin mit wässriger, 10%iger Salpetersäure bei etwa 40 °C mit einer Ausbeute von etwa 35 %:
+  
+    
+      
+        
+          17
+           
+          
+            N
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          +
+          16
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+        
+      
+    
+    {\displaystyle \mathrm {17\ N_{2}H_{4}+16\ HNO_{3}\longrightarrow } }
+   
+  
+    
+      
+        
+          4
+           
+          H
+          
+            N
+            
+              3
+            
+          
+          +
+          4
+           
+          N
+          
+            H
+            
+              4
+            
+          
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          
+            N
+            
+              2
+            
+          
+          O
+          +
+          11
+           
+          
+            N
+            
+              2
+            
+          
+          +
+          32
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {4\ HN_{3}+4\ NH_{4}NO_{3}+4\ N_{2}O+11\ N_{2}+32\ H_{2}O} }
+  Durch Elektrolyse einer gesättigten Lösung von Hydraziniumsulfat in 20%iger Schwefelsäure bei 0 °C und hoher anodischer Stromdichte.Durch Umsetzung von Natriumamid mit Natriumnitrat in flüssigem Ammoniak bei 100 °C unter Druck:
+  
+    
+      
+        
+          2
+           
+          N
+          a
+          N
+          
+            H
+            
+              2
+            
+          
+          +
+          N
+          a
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+           
+        
+      
+    
+    {\displaystyle \mathrm {2\ NaNH_{2}+NaNO_{3}\longrightarrow \ } }
+   
+  
+    
+      
+        
+           
+          N
+          a
+          
+            N
+            
+              3
+            
+          
+          +
+          2
+           
+          N
+          a
+          O
+          H
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {\ NaN_{3}+2\ NaOH+H_{2}O} }
+  Die Methode, Natriumazidlösung mit Schwefelsäure zu neutralisieren und zu destillieren, führt zu unkontrollierten Explosionen. Günther und Meyer empfehlen daher, für die Herstellung von reiner Stickstoffwasserstoffsäure von reinem Natriumazid und Stearinsäure auszugehen.Stickstoffwasserstoffsäure ist eine farblose, leicht bewegliche und hochexplosive Flüssigkeit. Die Verbindung ist durch Schlag, Reibung, Feuer und andere Zündquellen besonders explosionsgefährlich. Wasserfreie Stickstoffwasserstoffsäure explodiert beim Erwärmen und bei geringer Erschütterung. Konzentrierte Lösungen dürfen weder erhitzt noch plätschernd umgefüllt noch mit dem Gefäß hart aufgesetzt werden. Verdünnte wässrige Lösungen bis 20 % HN3 sind nicht explosiv. Als Behältermaterial sind Polyethylen, Glas, Edelstahl, Aluminium und Titan geeignet.
+
+Die Stickstoffatome der Stickstoffwasserstoffsäure sind wegen der auftretenden Grenzstrukturen nicht linear angeordnet. Der Bindungswinkel am mittleren Stickstoffatom beträgt 173,3°, der Bindungswinkel beim Wasserstoffatom 108,8°. Dagegen ist das Azidion (N3-Ion) linear aufgebaut. Die Stickstoff-Stickstoff-Bindungen besitzen auch unterschiedliche Längen. Dabei beträgt die H–N-Bindungslänge gasförmiger Stickstoffwasserstoffsäure 101,5 pm.Natriumazid wird als Konservierungsmittel für Milchuntersuchungsproben und in der chemischen Synthese zur Einführung von Azidgruppen (–N3) und zur Darstellung von Triazolen verwendet.
+Ein Gemisch aus Natriumazid, Kaliumperchlorat, Eisen(III)-oxid, Füllstoff und Binder dient als Treibladung für Airbags.
+Einige Salze der Stickstoffwasserstoffsäure, insbesondere Bleiazid und Silberazid, sind als Initialsprengstoffe brauchbar.
+Polyglycidylazid (GAP, (C3H5N3O)n) ist ein Polymerisat, das als energiereicher Binder in Feststoffraketen verwendet wird.Die Salze der Stickstoffwasserstoffsäure sind in manchen Eigenschaften den Chloriden ähnlich. Silberazid und Bleiazid sind farblos, schwerlöslich und hochexplosiv. Natriumazid (NaN3) ist in Wasser leicht löslich (420 g/L), lässt sich unzersetzt schmelzen und zerfällt ab 300 °C in kontrollierbarer Reaktion in metallisches Natrium und Stickstoff. Kupferazid Cu(N3)2 ist extrem brisant und explodiert oft schon bei Berührung.Stickstoffwasserstoffsäure ist sehr giftig, stark schleimhautreizend und hat einen unerträglichen durchdringenden Geruch. Beim Einatmen geringer Mengen entsteht zunächst ein Druckgefühl in der Nase.
+Die tödliche Dosis beträgt weniger als 5 mg pro kg Körpergewicht. Vergiftungssymptome sind Übelkeit, Kopfschmerz, Schwindel, Blutdruckabfall und Herzrasen.
+
+
+== Einzelnachweise ==

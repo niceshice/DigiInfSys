@@ -1,0 +1,329 @@
+Eine Wahrheitstabelle oder Wahrheitstafel, auch Wahrheitswert-Tabelle oder Wahrheitsmatrix genannt, ist eine tabellarische Aufstellung des Wahrheitswertverlaufs einer logischen Aussage.
+Die Wahrheitstabelle zeigt für alle möglichen Zuordnungen von endlich vielen (häufig zwei) Wahrheitswerten zu den aussagenlogisch nicht weiter zerlegbaren Teilaussagen, aus denen die Gesamtaussage zusammengesetzt ist, welchen Wahrheitswert die Gesamtaussage unter der jeweiligen Zuordnung annimmt. Die Wahrheitstabelle wird genutzt, um Wahrheitswertefunktionen beziehungsweise boolesche Funktionen darzustellen oder zu definieren und um einfache aussagenlogische Nachweise zu führen. Beispielsweise werden Wahrheitstabellen verwendet, um die Bedeutung von Junktoren festzulegen.Für den zweiwertigen Fall wird der Wahrheitswert „wahr“ im Folgenden als 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   und „falsch“ als 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   bezeichnet.
+Für mehrwertige Fälle werden oft numerische Werte im Bereich von 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   bis 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   verwendet (im dreiwertigen Fall z. B. die Werte 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  , 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        =
+        0
+        
+          ,
+        
+        5
+      
+    
+    {\displaystyle {\tfrac {1}{2}}=0{,}5}
+   und 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  , im fünfwertigen Fall die Werte 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  , 
+  
+    
+      
+        
+          
+            
+              1
+              4
+            
+          
+        
+        =
+        0
+        
+          ,
+        
+        25
+      
+    
+    {\displaystyle {\tfrac {1}{4}}=0{,}25}
+  , 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        =
+        0
+        
+          ,
+        
+        5
+      
+    
+    {\displaystyle {\tfrac {1}{2}}=0{,}5}
+  , 
+  
+    
+      
+        
+          
+            
+              3
+              4
+            
+          
+        
+        =
+        0
+        
+          ,
+        
+        75
+      
+    
+    {\displaystyle {\tfrac {3}{4}}=0{,}75}
+   und 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  ). Im mehrwertigen Fall wird oft nicht von Wahrheitswerten, sondern von Quasiwahrheitswerten oder von Pseudowahrheitswerten gesprochen.
+Allgemein gibt es für eine m-wertige Logik, d. h. für eine Logik mit endlich vielen Wahrheitswerten, deren Anzahl m ist, 
+  
+    
+      
+        
+          m
+          
+            
+              m
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle m^{m^{n}}}
+   n-stellige wahrheitsfunktionale Junktoren bzw. boolesche Funktionen. Für die zweiwertige Aussagenlogik gibt es also 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                1
+              
+            
+          
+        
+        =
+        4
+      
+    
+    {\displaystyle 2^{2^{1}}=4}
+   einstellige Junktoren und 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                2
+              
+            
+          
+        
+        =
+        16
+      
+    
+    {\displaystyle 2^{2^{2}}=16}
+   zweistellige Junktoren. Schon für die dreiwertige Aussagenlogik gibt es 
+  
+    
+      
+        
+          3
+          
+            
+              3
+              
+                1
+              
+            
+          
+        
+        =
+        27
+      
+    
+    {\displaystyle 3^{3^{1}}=27}
+   einstellige und 
+  
+    
+      
+        
+          3
+          
+            
+              3
+              
+                2
+              
+            
+          
+        
+        =
+        19
+        
+        683
+      
+    
+    {\displaystyle 3^{3^{2}}=19\,683}
+   zweistellige Junktoren.
+
+Die folgende Tabelle gibt für jeden Wahrheitswert der Aussagen 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   und 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   das Resultat einiger zweiwertiger Verknüpfungen an:
+
+Eine besondere Stellung haben folgende nach Henry Maurice Sheffer bzw. Charles Sanders Peirce benannte zweiwertige Funktionen (siehe hierzu Funktionale Vollständigkeit und Shefferscher Strich), denen das NAND- und das NOR-Gatter entsprechen:
+
+In einer dreiwertigen Logik sind 19 683 zweistellige Verknüpfungen möglich. In der folgenden Tabelle sind zwei von ihnen dargestellt: Die Konjunktion aus der logischen Sprache Ł3 von Jan Łukasiewicz (1920) und die Konjunktion aus dem Kalkül B3 von Dmitrij Anatol'evič Bočvar (1938).
+
+Eine vierwertige Logik hat bis zu 
+  
+    
+      
+        
+          4
+          
+            
+              4
+              
+                2
+              
+            
+          
+        
+        =
+        4
+        
+        294
+        
+        967
+        
+        296
+      
+    
+    {\displaystyle 4^{4^{2}}=4\,294\,967\,296}
+   mögliche zweistelligen Operatoren. Hier als Beispiel die Wahrheitstafel für das Konditional bzw. die materiale Implikation im logischen System G4 von Kurt Gödel (1932).Wahrheitstabellen eignen sich dazu, einfache aussagenlogische Beweise auf der semantischen Modellebene zu führen, insbesondere für die Gültigkeit von grundlegenden Gesetzen, auf denen logische Beweisverfahren aufbauen. Zum Beispiel zeigt die logische Äquivalenz der 3. und 4. Spalte in den folgenden Wahrheitstabellen die Gültigkeit der De Morganschen Gesetze:
+
+In der Praxis eignet sich diese Art der Beweisführung allerdings nur für Aussagen mit einer kleinen Anzahl von Aussagenvariablen, da die Größe exponentiell in der Anzahl der Variablen wächst.
+Für die Aussagenlogik mit endlich vielen Wahrheitswerten und klassischem Folgerungsbegriff (siehe Klassische Logik) sind Wahrheitstafeln ein Entscheidungsverfahren für viele wichtige Fragestellungen, das heißt ein Verfahren, mit dem sich die jeweilige Fragestellung für jede Aussage in endlicher Zeit mechanisch entscheiden lässt. So lässt sich mit Hilfe von Wahrheitstafeln die Frage entscheiden, ob eine gegebene Aussage erfüllbar, unerfüllbar oder tautologisch ist (siehe Erfüllbarkeitsproblem der Aussagenlogik); ebenso lässt sich entscheiden, ob ein Argument gültig oder ungültig ist.Der Inhalt einer Wahrheitstabelle kann zur weiteren Verarbeitung oder Vereinfachung in andere, äquivalente Darstellungen überführt werden, beispielsweise in ein Karnaugh-Veitch-Diagramm.Wahrheitstabellen sind in vielen Fällen eine rationelle und einfach zu handhabende Methode der Wahrheitswertanalyse. Sie haben jedoch den Nachteil, dass immer alle Fälle durchgegangen werden müssen. Die Anzahl der Fälle steigt aber mit der Anzahl der Variablen (Satzbuchstaben) im Verhältnis 
+  
+    
+      
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 2^{n}}
+   an. Bei 2 Variablen gibt es 4 Fälle, bei 3 Variablen 8 Fälle, bei 4 Variablen 16 Fälle usw. Bei vielen Variablen kann die Wahrheitswertanalyse durch Wahrheitstabellen recht aufwändig werden.
+Deshalb schlägt Quine in seinem Buch Grundzüge der Logik eine alternative Form der Wahrheitswertanalyse vor. Auf Seite 54 gibt Quine das folgende Beispiel mit drei Variablen bzw. Satzbuchstaben (P, Q und R):
+
+Der Beispielterm (P ∧ Q) ∨ (¬P ∧ ¬R) → (Q ↔ R) ist also in zwei Fällen falsch: bei P/w|Q/w|R/f und bei P/f|Q/w|R/f. Die Wahrheitstabelle dazu sieht so aus:
+
+Ein einfacheres Beispiel ist die Definition der Implikation:
+(A → B) ↔ (¬A ∨ B)
+Die Wahrheitstabelle dazu sieht so aus:
+
+Die Wahrheitswertanalyse nach Quine sieht bei diesem Beispiel so aus:
+
+Bei der von Quine vorgeschlagenen Methode der Wahrheitswertanalyse werden die Variablen bzw. Satzbuchstaben also schrittweise durch ihre Wahrheitswerte ersetzt. Dabei werden dann zeilenweise Fallunterscheidungen vorgenommen, so dass eine baumartige Struktur entsteht. In beiden Beispielen, dem von Quine und der Definition der Implikation, ist auch zu sehen, dass nicht immer alle Fälle durchgegangen werden müssen, was bei vielen Variablen ein Vorteil gegenüber Wahrheitstabellen sein kann. Durch beide Methoden können die Fälle, in denen ein Term wahr bzw. falsch wird exakt ermittelt werden. Daher leisten beide Methoden dasselbe, sind also äquivalent.Wenn man unter einer Wahrheitstabelle die homomorphe Zuordnung von Wahrheitswerten zu den in einer Aussage vorkommenden atomaren Aussagen versteht, dann geht die Wahrheitstabelle auf Philon von Megara zurück, der auf diese Weise im 4. Jahrhundert vor unserer Zeitrechnung die Wahrheitsfunktion für die materiale Implikation definierte. Auch in der von Chrysippos von Soloi geprägten stoischen Logik wurden Wahrheitstabellen in diesem Sinn umfassend verwendet.In der modernen Logik benutzte George Boole 1847 Wahrheitstafeln unter dem Namen „Module einer Funktion“ zur semantischen Entscheidbarkeit von logischen Termen (Funktionen). Später benützten auch Gottlob Frege und Charles Sanders Peirce dieses Entscheidungsverfahren, wobei Peirce den Zweck der Ermittlung von Tautologien deutlicher betonte. Wahrheitstabellen im wörtlichen Sinn als Tabellen wurden allerdings erst 1921 von Emil Leon Post und Ludwig Wittgenstein eingeführt; durch ihren Einfluss wurden Wahrheitstabellen als Verfahren zur Entscheidung für Tautologien Allgemeingut.

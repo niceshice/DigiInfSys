@@ -1,0 +1,209 @@
+Die Peano-Arithmetik (erster Stufe, kurz PA) ist eine Theorie der Arithmetik, also der natürlichen Zahlen, innerhalb der Prädikatenlogik erster Stufe. Als Axiome werden die Peano-Axiome verwendet, wobei das Induktionsaxiom durch ein Axiomenschema ersetzt werden muss. Da in der Prädikatenlogik erster Stufe keine Aussage über Mengen von Objekten möglich ist, benötigt man für jede Formel 
+  
+    
+      
+        ϕ
+        (
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle \phi (x,y_{1},\dots ,y_{k})}
+   das Axiom
+
+  
+    
+      
+        ∀
+        
+          y
+          
+            1
+          
+        
+        …
+        ∀
+        
+          y
+          
+            k
+          
+        
+        (
+        ϕ
+        (
+        0
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        ∧
+        ∀
+        x
+        (
+        ϕ
+        (
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        →
+        ϕ
+        (
+        x
+        +
+        1
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        )
+        →
+        ∀
+        x
+        ϕ
+        (
+        x
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle \forall y_{1}\dots \forall y_{k}(\phi (0,y_{1},\dots ,y_{k})\land \forall x(\phi (x,y_{1},\dots ,y_{k})\rightarrow \phi (x+1,y_{1},\dots ,y_{k}))\rightarrow \forall x\phi (x,y_{1},\dots ,y_{k}))}
+  Andere erststufige Formalisierungen der natürlichen Zahlen, die mit der Peano-Arithmetik verwandt sind, sind beispielsweise die Robinson-Arithmetik und die primitiv rekursive Arithmetik, die auch Teile der Peano-Axiome benutzen.Nach den Gödelschen Unvollständigkeitssätzen ist die Peano-Arithmetik unvollständig, das heißt, es gibt Formeln in ihrer Sprache, die sie weder beweisen noch widerlegen kann.
+Im Beweis des ersten Unvollständigkeitssatzes konstruiert Gödel eine nur dem Beweiszweck dienende, eher künstliche Formel, die ihre eigene Unbeweisbarkeit behauptet.
+Daneben gibt es aber auch natürlichere mathematische Aussagen, von denen bekannt ist, dass sie weder beweisbar noch widerlegbar sind.
+Zu diesen zählen gemäß dem zweiten Unvollständigkeitssatz die Konsistenz der Peano-Arithmetik ebenso wie der Satz von Goodstein und die transfinite Induktion bis zur Ordinalzahl ε0.
+Die Peano-Arithmetik ist sogar wesentlich unvollständig, d. h., es gibt keine (vollständige) Erweiterung, die konsistent ist und deren Axiomatisierung rekursiv aufzählbar ist.Wie bei allen Theorien der Prädikatenlogik erster Stufe, die ein unendliches Modell haben, kann man auch hier den Satz von Löwenheim-Skolem-Tarski anwenden. Danach hat die Peano-Arithmetik Modelle für jede unendliche Kardinalzahl. Aus dem Kompaktheitssatz folgt zudem die Existenz von abzählbaren Modellen der Arithmetik, die nicht zu 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   isomorph sind, wie Thoralf Skolem 1934 zeigte. Dazu betrachte man mit 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   als der Axiomenmenge der Peano-Arithmetik die abzählbare Aussagenmenge 
+  
+    
+      
+        Φ
+        ∪
+        {
+        
+        ¬
+        x
+        =
+        n
+        ∣
+        n
+        ∈
+        {
+        
+          0
+        
+        ,
+        
+          1
+        
+        ,
+        …
+        }
+        }
+      
+    
+    {\displaystyle \Phi \cup \{\,\neg x=n\mid n\in \{\mathbf {0} ,\mathbf {1} ,\dots \}\}}
+  , deren endliche Teilmengen alle erfüllbar sind.
+Wegen der besonderen Wichtigkeit der natürlichen Zahlen wird 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   in diesem Zusammenhang oft Standardmodell von PA genannt.
+Die anderen Modelle heißen dementsprechend Nichtstandardmodelle.
+Alle abzählbaren Nichtstandardmodelle haben den Ordnungstyp ω + η·π, wobei ω der Ordnungstyp der natürlichen Zahlen ist, π der Ordnungstyp der ganzen Zahlen und η der Ordnungstyp der rationalen Zahlen. Dies entspricht einer Kopie der natürlichen Zahlen, gefolgt von einer abzählbar unendlichen, dichten Menge von Kopien der ganzen Zahlen. Darüber hinaus lässt sich die Struktur der Nichtstandardmodelle nur eingeschränkt untersuchen. Nach dem Satz von Tennenbaum gibt es kein abzählbares Nichtstandardmodell, in dem Addition oder Multiplikation berechenbar sind.1900 stellte David Hilbert als zweites der sogenannten hilbertschen Probleme das Problem, die Konsistenz der Peano-Axiome nur mit finiten Mitteln zu beweisen. 1931 bewies Kurt Gödel seinen Unvollständigkeitssatz, der zeigt, dass ein solcher Konsistenzbeweis mit den Mitteln der Peano-Arithmetik und damit auch mit schwächeren Mitteln nicht möglich ist. Ein Beweis in der stärkeren, aber nicht als finit anerkannten Zermelo-Fraenkel-Mengenlehre ist dagegen möglich. Ob dennoch ein finiter Beweis möglich ist, hängt von der Definition „finiter“ Mittel ab. Es wurden verschiedene Beweise publiziert, die die Konsistenz der Arithmetik mit Mitteln beweisen, die in der Peano-Arithmetik selbst nicht beweisbar sind, von vielen Mathematikern aber trotzdem als finit anerkannt werden. 1936 veröffentlichte Gerhard Gentzen einen Konsistenzbeweis mithilfe transfiniter Induktion bis ε0. 1958 führte Gödel die Konsistenz auf ein typentheoretisches System zurück.

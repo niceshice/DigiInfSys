@@ -1,0 +1,148 @@
+Monotonie ist eine Eigenschaft einer Ableitbarkeitsrelation bzw. einer Inferenzoperation und besagt, dass die Hinzunahme weiterer Prämissen (Annahmen) immer die bisherigen Folgerungen bewahrt.Für Ableitungsrelationen:
+Sei 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   eine Ableitbarkeitsrelation und seien 
+  
+    
+      
+        Γ
+        ,
+        Δ
+      
+    
+    {\displaystyle \Gamma ,\Delta }
+   Formelmengen. 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   ist monoton genau dann, wenn gilt:
+Wenn 
+  
+    
+      
+        Γ
+        ⊢
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \vdash \mathrm {A} }
+  , dann 
+  
+    
+      
+        Γ
+        ∪
+        Δ
+        ⊢
+        
+          A
+        
+      
+    
+    {\displaystyle \Gamma \cup \Delta \vdash \mathrm {A} }
+  
+Für Inferenzoperationen:
+Sei 
+  
+    
+      
+        C
+        n
+      
+    
+    {\displaystyle Cn}
+   eine Inferenzoperation und seien 
+  
+    
+      
+        Γ
+        ,
+        Δ
+      
+    
+    {\displaystyle \Gamma ,\Delta }
+   Formelmengen. 
+  
+    
+      
+        C
+        n
+      
+    
+    {\displaystyle Cn}
+   ist monoton genau dann, wenn gilt:
+Wenn 
+  
+    
+      
+        Γ
+        ⊆
+        Δ
+      
+    
+    {\displaystyle \Gamma \subseteq \Delta }
+  , dann 
+  
+    
+      
+        C
+        n
+        (
+        Γ
+        )
+        ⊆
+        C
+        n
+        (
+        Δ
+        )
+      
+    
+    {\displaystyle Cn(\Gamma )\subseteq Cn(\Delta )}Die Eigenschaft der Monotonie besagt, dass, wenn eine bestimmte Aussage aus einer Menge von Annahmen folgt, diese Aussage immer noch folgt, wenn weitere Annahmen hinzugenommen werden. 
+Erster Fall
+Zum Beispiel folgt in der Aussagenlogik aus der Menge der beiden Aussagen
+
+Peter hat Kummer.
+Wenn Peter Kummer hat, trinkt er.die Aussage
+
+Peter trinkt.Zweiter Fall
+Diese Aussage folgt auch dann noch, wenn wir zudem die Aussage "Peter ist Österreicher." annehmen: Aus der Menge der drei Aussagen
+
+Peter hat Kummer.
+Wenn Peter Kummer hat, trinkt er.
+Peter ist Österreicherfolgt ebenfalls 
+
+Peter trinkt.Dritter Fall
+Die Folgerung bleibt sogar dann korrekt, wenn wir die Negation der Konklusion zu den Annahmen hinzufügen: Aus der Menge der drei Aussagen
+
+Peter hat Kummer.
+Wenn Peter Kummer hat, trinkt er.
+Peter trinkt nicht.folgt
+
+Peter trinkt,obwohl damit die Konklusion einer der Annahmen widerspricht. Dies kann man dadurch erklären, dass die Annahmenmenge inkonsistent ist, d. h., dass sich die Annahmen gegenseitig widersprechen, und aus einem Widerspruch alles folgt (siehe dazu Ex contradictione sequitur quodlibet).Monotonie gilt für den klassischen aussagenlogischen und prädikatenlogischen Ableitbarkeitsbegriff, sowie für viele weitere Logiktypen, wie beispielsweise Modallogik. Dennoch wurde Monotonie als generelle Eigenschaft von Folgerungsbeziehungen auch kritisiert. Die Kritiker können in zwei Gruppen unterteilt werden.Folgerungen im Alltag haben oft nicht-monotonen Charakter. Erfahren wir beispielsweise, dass Tux ein Vogel ist, würden wir schlussfolgern, dass Tux fliegen kann. Erfahren wir dann jedoch, dass Tux ein Pinguin ist, würden wir nicht mehr schlussfolgern, dass Tux fliegen kann, da wir wissen, dass Pinguine nicht fliegen können. Aus 
+
+Tux ist ein Vogel.scheint also
+
+Tux kann fliegen.zu folgen, während aus
+
+Tux ist ein Vogel.
+Tux ist ein Pinguin.sicherlich nicht
+
+Tux kann fliegen.folgt, sondern eher
+
+Tux kann nicht fliegen.Die Kontroverse kann dadurch aufgelöst werden, dass man zwischen Schlussfolgerungen, die mit 100%iger Sicherheit gelten und solchen, die die Konklusion nur wahrscheinlich machen, unterscheidet. Aus den Annahmen, dass Peter Kummer hat und dass Peter trinkt, wenn er Kummer hat, folgt mit 100%iger Sicherheit, dass Peter trinkt. Es gilt aber nicht mit derselben Sicherheit, dass wenn es wahr ist, dass Tux ein Vogel ist, er dann auch fliegen kann. Zwar können die meisten Vögel fliegen, Pinguine oder solche mit gebrochenen Flügeln aber nicht. 
+Zusammenfassend lässt sich sagen, dass man für Folgerungsbeziehungen, die sich im Alltag bewähren, die aber oft nicht mit absoluter Sicherheit gelten, keine Monotonie annehmen sollte. Um dieser Intuition gerecht zu werden, wurden sogenannte nicht-monotone Logiken entwickelt (siehe etwa Induktion). Die Kritik betrifft aber nicht Folgerungen etwa der Mathematik, da dort immer mit absoluter Sicherheit (deduktiv) geschlossen wird.Auch diese Kritik orientiert sich an alltäglichen Folgerungshandlungen. Betrachten wir noch einmal obiges Beispiel mit Peter und nehmen an, jemand würde zu uns sagen: „Wir wissen drei Dinge: Peter hat Kummer, wenn Peter Kummer hat, trinkt er und Peter ist Österreicher. Also wissen wir auch, dass Peter trinkt.“ Dann würden wir zu Recht fragen: „Was hat das, dass er trinkt, damit zu tun, dass er Österreicher ist?“. Noch offenkundiger wird das Problem, wenn wir die irrelevante Annahme „Peter ist Österreicher“ ersetzen durch „Gras ist Grün“. Wir wären irritiert, wenn uns jemand erklärt, dass daraus, dass Peter Kummer hat, daraus, dass er bei Kummer trinkt, und daraus, dass Gras grün ist, folgt, dass Peter trinkt.
+Die Kritik besagt also, dass die Hinzunahme irrelevanter Annahmen nicht erlaubt ist, und dass deswegen Monotonie keine universelle Eigenschaft von Schlussfolgerungen ist. Logiken, die dieser Intuition gerecht werden wollen, heißen Relevanzlogiken.
+Ein Verteidiger der Monotonie-Eigenschaft könnte gegen die Kritik Folgendes einwenden: Die Tatsache, dass Folgerungen mit irrelevanten Annahmen im Alltag so selten vorkommen, hat eher praktische Gründe. Man spart Zeit, wenn man irrelevante Annahmen vermeidet, und gelangt doch an sein (Argumentations-)Ziel. Argumente mit irrelevanten Annahmen sind aus dieser Sicht selten und ungewöhnlich, aber deswegen nicht falsch.

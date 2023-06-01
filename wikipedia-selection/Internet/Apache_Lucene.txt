@@ -1,0 +1,18 @@
+Apache Lucene ist eine Programmbibliothek zur Volltextsuche. Lucene ist freie Software und ein Projekt der Apache Software Foundation.
+Lucene wird (erst direkt, seit 2014 via Elasticsearch) von der Wikipedia verwendet. Ein Beispiel für die Leistungsfähigkeit und Skalierbarkeit von Lucene liefert insbesondere Twitter.Lucene wurde von Doug Cutting entwickelt und war seit 1997 zunächst über SourceForge erhältlich. Der Name Lucene ist der zweite Vorname von Doug Cuttings Ehefrau.2001 wurde Lucene ein Teil des Jakarta-Projekts und 2005 ein Hauptprojekt der Apache Software Foundation. Aus dem Projekt Apache Lucene gehen gelegentlich separat weitergeführte Projekte hervor.Lucene Core
+
+Der Kern des Projekts Lucene, Lucene Core oder kurz Lucene, früher auch Lucene Java genannt, ist eine Programmbibliothek, die in der Programmiersprache Java verfasst ist.Lucene erstellt einerseits einen Index aus Dateien, der etwa ein Viertel des Volumens der indexierten Dateien hat. Zum anderen liefert Lucene anschließend Suchergebnisse mit Rangliste, wofür mehrere Suchalgorithmen zur Verfügung stehen.Lucene.Net
+
+Lucene.Net ist eine Übersetzung von Lucene in die Programmiersprache C# mit Anpassung der Programmierschnittstelle an die .NET-Plattform.Lucy
+
+Lucy ist eine Portierung von Lucene in die Programmiersprache C für Sprachanbindungen dynamischer Programmiersprachen wie Perl.PyLucene
+
+PyLucene ist eine Erweiterung von Python um einen Wrapper mit Java-Laufzeitumgebung für Lucene.Droids
+
+Droids ist ein Framework für Bots/Crawler. Das Droids Projekt wurde zum 1. November 2015 eingestellt.Solr
+
+Solr ist eine auf Lucene beruhende eigenständige Implementierung eines Suchservers. Solr wurde ursprünglich von CNET entwickelt und Solar genannt. Der Name war eine Abkürzung für Search on Lucene and Resin. Der Download von Solr umfasst als Beispiel eine Konfiguration mit Jetty. Solr enthält eine REST-ähnliche API. Solr kommuniziert über das Hypertext Transfer Protocol. Mittels HTTP POST können verschiedenste Dateiformate von XML über JSON bis PDF erfasst und auch Dokumente erstellt werden. Abfragen erfolgen mittels HTTP GET.Tika
+
+Tika gehörte früher zum Projekt Lucene, wird von Solr genutzt und ist ein Parser. Er extrahiert Metadaten oder strukturierten Text aus einer Reihe von Dokumentformaten mittels spezialisierter (möglichst ohnehin existierender) Bibliotheken wie Apache PDFBox oder Apache POI, die einheitlich über Tika angesprochen werden und automatisch ausgewählt werden können.Nutch
+
+Nutch gehörte früher zum Projekt Lucene und basiert auf Solr.Außerhalb des Projekts wurden weitere Derivate von Lucene erstellt.Lucene verwendet das Tf-idf-Maß und Vektorraum-Retrieval zur Bewertung von Suchtreffern.

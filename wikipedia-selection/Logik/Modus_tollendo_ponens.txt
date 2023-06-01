@@ -1,0 +1,30 @@
+Der Modus tollendo ponens oder Disjunktive Syllogismus ist eine Schlussfigur der klassischen Aussagenlogik bzw. eine Schlussregel vieler logischer Kalküle, die es erlaubt, aus einem Satz der Form A oder B und einem Satz der Form Nicht A auf einen Satz der Form B zu schließen. Es wird also – inhaltlich gesprochen – aus dem Wissen, dass mindestens einer von zwei Sachverhalten bestehen muss, dass aber einer der beiden nicht besteht, darauf geschlossen, dass der andere der beiden bestehen muss. 
+Der lateinische Name Modus tollendo ponens, frei: „Schlussweise (modus), die durch das Zurückweisen [Verneinen] (tollendo) [einer Aussage] eine [andere] Aussage setzt [herleitet] (ponens)“, erklärt sich daraus, dass bei gegebener erster Prämisse, A ∨ B, durch das Verneinen (¬A) einer Aussage eine andere Aussage, B, „gesetzt“ (hergeleitet) wird.
+Da ein Satz A ∨ B auch Disjunktion genannt wird, bezeichnet man den Modus tollendo ponens gelegentlich als „Disjunktiven Syllogismus“.Aus den Prämissen der Form 
+  
+    
+      
+        A
+        ∨
+        B
+      
+    
+    {\displaystyle A\lor B}
+   und 
+  
+    
+      
+        ¬
+        A
+      
+    
+    {\displaystyle \neg A}
+   folgt die Konklusion 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  .Die logische Äquivalenz der Aussagen A ∨ B und ¬A → B folgt aus den Definitionen der Disjunktion, Subjunktion und der Negation.

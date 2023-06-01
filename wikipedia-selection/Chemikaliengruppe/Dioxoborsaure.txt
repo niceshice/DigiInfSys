@@ -1,0 +1,43 @@
+Dioxoborsäure ist eine chemische Verbindung aus der Gruppe der Säuren. Formal kann sie auch der Stoffgruppe der Boroxine zugeordnet werden.Dioxoborsäure kann durch Erhitzung von Borsäure auf 100 bis 150 °C gewonnen werden. Es entsteht die dritte Form, wobei neben dessen Kristallen im Allgemeinen noch nicht umgewandelte Borsäure vorliegt. Bei zu langem Erhitzen entsteht daneben die zweite Modifikation.
+
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          B
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          H
+          B
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}BO_{3}\longrightarrow HBO_{2}+H_{2}O} }Dioxoborsäure ist ein farbloser Feststoff, der in drei Modifikationen existiert und sich in Wasser unter Bildung von Orthoborsäure löst. Die Umwandlung der dritten Form in die zweite Form erfolgt bei 160 °C rasch. Durch weiteres Erhitzen auf 160 °C und höher geht diese schließlich in die erste Modifikation über. Bei mehr als 500 °C zersetzt sie sich zu Bortrioxid. Die dritte Modifikation kristallisiert orthorhombisch (a = 801,5 pm, b = 967,9 pm, c = 624,4 pm) mit der Raumgruppe Pnma (Raumgruppen-Nr. 62)Vorlage:Raumgruppe/62, die zweite monoklin (a = 712,2 pm, b = 884,2 pm, c = 677,1 pm, β = 93,26 °) mit der Raumgruppe P21/c (Nr. 14)Vorlage:Raumgruppe/14 und die erste kubisch (a = 888,6 pm) mit der Raumgruppe P43n (Nr. 218)Vorlage:Raumgruppe/218. Im planaren Boroxin-Ring der ersten Form (HBO2)n und ihrer Salze sind (p-p)π-Bindungen vorhanden. Die Bindungsabstände liegen zwischen denen von Einfach- und Doppelbindungen. In der zweiten und dritten Form sind die Boroxinringe über Sauerstoffatome miteinander verknüpft, wobei sich die zweite Form kettenförmig und die dritte Form sich dreidimensional verknüpft. Die β-Metaborsäure setzt sich also aus endlosen Zickzack-Ketten der Zusammensetzung [B3O4(OH)(OH2)]n zusammen.
+
+
+== Einzelnachweise ==

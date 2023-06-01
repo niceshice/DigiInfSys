@@ -1,0 +1,8 @@
+Der Suchdienst Wide Area Information Servers, abgekürzt WAIS, wurde unter der Leitung von Brewster Kahle entwickelt. WAIS steht seit 1991 öffentlich im Internet.
+Innerhalb des WAIS Datenbanksystems werden Dateien gelistet, die im Internet erreichbar sind. 
+WAIS ermöglicht erstmals eine Volltextsuche innerhalb des Datenbestandes.
+Um WAIS zu nutzen, benötigt man einen speziellen WAIS-Client, der in der Lage ist, mit den WAIS-Servern zu kommunizieren. 
+Alle WAIS-Server führen einzelstehende Datenbestände, d. h. die Datenbestände sind nicht auf einer Datenbank zentralisiert, noch tauschen die Server Daten miteinander aus.
+Jeder WAIS-Server beinhaltet eine oder mehrere Datenbanken, die ein bestimmtes Informationsangebot, z. B. Archäologie, Biologie, Gedichte oder Wetterberichte enthalten. Um sich einen Überblick über die vorhandenen WAIS-Server zu verschaffen gab es das directory-of-servers, ein Verzeichnis von WAIS-Servern, bei der quake.think.com. Für jede Datenbank gibt es eine Source-Description, die Auskunft gibt über den Inhalt einer Datenbank sowie den dazugehörigen WAIS-Server. 
+Über WAIS war es erstmals möglich, vollständig unterschiedliche Datenbestände über eine einheitliche Nutzeroberfläche, den WAIS-Client, zu durchsuchen.
+Der Suchmechanismus von WAIS war Grundlage der weiteren Entwicklung mit GOPHER und VERONICA.

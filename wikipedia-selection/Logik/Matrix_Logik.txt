@@ -1,0 +1,68 @@
+In der Prädikatenlogik ist die Matrix einer Formel 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   diejenige Formel, die man durch Streichen sämtlicher Quantoren aus 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   erhält. Der Begriff wird vor allem im Zusammenhang mit der Pränexform verwendet, bei der sämtliche Quantoren am Anfang der Formel stehen.Die Matrix der Formel 
+
+  
+    
+      
+        ∃
+        n
+        ∀
+        a
+        (
+        a
+        +
+        n
+        =
+        a
+        ∧
+        ∃
+        b
+        .
+        a
+        +
+        b
+        =
+        n
+        )
+      
+    
+    {\displaystyle \exists n\forall a(a+n=a\land \exists b.a+b=n)}
+  (Existenz eines neutralen Elements der Addition) ist
+
+  
+    
+      
+        (
+        a
+        +
+        n
+        =
+        a
+        )
+        ∧
+        (
+        a
+        +
+        b
+        =
+        n
+        )
+      
+    
+    {\displaystyle (a+n=a)\land (a+b=n)}
+  .

@@ -1,0 +1,320 @@
+In der mathematischen Logik ist die Lindenbaum-Algebra (auch Lindenbaum-Tarski-Algebra) zu einer Theorie T die Quotientenalgebra bezüglich der
+Äquivalenzrelation der beweisbar äquivalenten Sätze in T.
+Die Algebra hat ihren Namen nach Adolf Lindenbaum.
+Alfred Tarski hat die Konstruktion der Algebra 1935 in erstmals publiziert und gezeigt, dass sie eine
+Boolesche Algebra ist.Gegeben eine logische Theorie T und ein Beweissystem, wie etwa die
+natürliche Deduktion (siehe z. B.), dann definiert man für Formeln p und q:
+
+  
+    
+      
+        p
+        ∼
+        q
+        
+        ⟺
+        
+        T
+        ⊢
+        p
+        →
+        q
+        
+           und 
+        
+        T
+        ⊢
+        q
+        →
+        p
+      
+    
+    {\displaystyle p\sim q\iff T\vdash p\to q{\text{ und }}T\vdash q\to p}
+  .Dass die Relation 
+  
+    
+      
+        ∼
+      
+    
+    {\displaystyle \sim }
+   reflexiv und symmetrisch ist, ergibt sich
+unmittelbar aus der Definition. Sie ist auch transitiv, denn aus Beweisen für 
+  
+    
+      
+        p
+        →
+        q
+      
+    
+    {\displaystyle p\to q}
+   und
+
+  
+    
+      
+        q
+        →
+        r
+      
+    
+    {\displaystyle q\to r}
+   lässt sich mit den Regeln der Beseitigung der Implikation und der Einführung der Implikation ein Beweis für 
+  
+    
+      
+        p
+        →
+        r
+      
+    
+    {\displaystyle p\to r}
+   in 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   konstruieren.
+Wir bezeichnen nun mit 
+  
+    
+      
+        [
+        p
+        
+          ]
+          
+            ∼
+          
+        
+      
+    
+    {\displaystyle [p]_{\sim }}
+   die Äquivalenzklasse von 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+bezüglich dieser Äquivalenzrelation. Die Elemente der
+Lindenbaum-Algebra 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+   sind die Äquivalenzklassen und
+man definiert die Operationen der Algebra sowie zwei ausgezeichnete
+Elemente, das Null- und das Einselement, folgendermaßen:
+
+  
+    
+      
+        [
+        p
+        
+          ]
+          
+            ∼
+          
+        
+        ∪
+        [
+        q
+        
+          ]
+          
+            ∼
+          
+        
+        :=
+        [
+        p
+        ∨
+        q
+        
+          ]
+          
+            ∼
+          
+        
+      
+    
+    {\displaystyle [p]_{\sim }\cup [q]_{\sim }:=[p\lor q]_{\sim }}
+  
+  
+    
+      
+        [
+        p
+        
+          ]
+          
+            ∼
+          
+        
+        ∩
+        [
+        q
+        
+          ]
+          
+            ∼
+          
+        
+        :=
+        [
+        p
+        ∧
+        q
+        
+          ]
+          
+            ∼
+          
+        
+      
+    
+    {\displaystyle [p]_{\sim }\cap [q]_{\sim }:=[p\land q]_{\sim }}
+  
+  
+    
+      
+        
+        
+        −
+        [
+        p
+        
+          ]
+          
+            ∼
+          
+        
+        :=
+        [
+        ¬
+        p
+        
+          ]
+          
+            ∼
+          
+        
+      
+    
+    {\displaystyle \quad \quad -[p]_{\sim }:=[\neg p]_{\sim }}
+  
+  
+    
+      
+        
+        
+        
+        
+        0
+        :=
+        [
+        ⊥
+        
+          ]
+          
+            ∼
+          
+        
+      
+    
+    {\displaystyle \quad \quad \quad \quad 0:=[\bot ]_{\sim }}
+  
+  
+    
+      
+        
+        
+        
+        
+        1
+        :=
+        [
+        ⊤
+        
+          ]
+          
+            ∼
+          
+        
+      
+    
+    {\displaystyle \quad \quad \quad \quad 1:=[\top ]_{\sim }}
+  Diese Definitionen sind unabhängig von der Wahl der Repräsentanten der Äquivalenzklassen.Die Lindenbaum-Algebra in der klassischen Logik ist eine Boolesche Algebra, wie man
+leicht verifiziert. Weil der Satz vom ausgeschlossenen Dritten in der klassischen Logik (
+  
+    
+      
+        p
+        ∨
+        ¬
+        p
+        =
+        ⊤
+      
+    
+    {\displaystyle p\lor \neg p=\top }
+  ) gilt, ist in der Lindenbaum-Algebra für alle Elemente 
+  
+    
+      
+        a
+        ∈
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle a\in {\mathcal {L}}}
+   insbesondere die Eigenschaft 	
+
+  
+    
+      
+        −
+        a
+        ∪
+        a
+        =
+        1
+      
+    
+    {\displaystyle -a\cup a=1}
+  erfüllt.
+In der Prädikatenlogik spiegeln sich die Eigenschaften der Quantoren und
+der Gleichheit nicht in den Axiomen der Booleschen
+Algebra. Die Zylinderalgebra von Tarski ist eine Verallgemeinerung der
+Booleschen Algebra, die Axiome
+für den Existenzquantor und die Gleichheit hat.Bei der Konstruktion der Lindenbaum-Algebra
+sind Formeln äquivalent, die beweisbar äquivalent sind. Das
+bedeutet, dass die Regeln des Beweissystems in die Definition eingehen.
+In der klassischen Logik gilt der Satz des ausgeschlossenen
+Dritten, in der intuitionistischen Logik jedoch
+nicht (siehe z. B.). Infolgedessen erhalten wir
+als Lindenbaum-Algebra in der intuitionistischen Logik mit der
+identischen Konstruktion der Quotientenalgebra keine Boolesche Algebra
+wie in der klassischen Logik, sondern eine Heyting-Algebra.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,442 @@
+Selensäure ist eine starke (ähnlich wie Schwefelsäure) anorganische Säure mit der Summenformel H2SeO4. In wässriger Lösung liegt sie weitgehend dissoziiert vor und bildet eine klare, farblose Flüssigkeit. Die Selensäure wurde von Eilhard Mitscherlich 1827 in Deutschland entdeckt. Ihre Salze heißen Selenate.Die Selensäure kann auf verschiedene Arten dargestellt werden. 
+Eine Möglichkeit ist die Oxidation von Seleniger Säure (H2SeO3) oder Selen(IV)-oxid mit Wasserstoffperoxid (H2O2), Kaliumpermanganat (KMnO4) oder Chlorsäure (HClO3):
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+           
+          →
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SeO_{3}+H_{2}O_{2}\ \rightarrow \ H_{2}SeO_{4}+H_{2}O} }
+  
+
+  
+    
+      
+        
+          
+            SeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            SeO
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {SeO2 + H2O2 -> H2SeO4}}}
+  In der Regel wird jedoch elementares Selen mit Chlor- oder Bromwasser oxidiert:
+
+  
+    
+      
+        
+          S
+          e
+          +
+          3
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          →
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          6
+           
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {Se+3\ Cl_{2}+4\ H_{2}O\ \rightarrow \ H_{2}SeO_{4}+6\ HCl} }
+  
+
+  
+    
+      
+        
+          S
+          e
+          +
+          3
+           
+          B
+          
+            r
+            
+              2
+            
+          
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          →
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          6
+           
+          H
+          B
+          r
+        
+      
+    
+    {\displaystyle \mathrm {Se+3\ Br_{2}+4\ H_{2}O\ \rightarrow \ H_{2}SeO_{4}+6\ HBr} }Reine Selensäure bildet farblose Kristalle, die bei etwa 62 °C schmelzen. Oberhalb von 260 °C zersetzt sie sich unter Wasserabspaltung zu Selendioxid und Sauerstoff. 
+Selensäure hat chemisch gesehen große Ähnlichkeit mit der Schwefelsäure, wirkt jedoch bedeutend stärker oxidierend (Standardpotential in saurer Lösung für die Reduktion zu Seleniger Säure: + 1,15 V). Sie ist eine starke Säure und wirkt hygroskopisch. Dies bedeutet, dass sie, ebenso wie konzentrierte Schwefelsäure, organische Substanzen durch Wasserentzug verkohlt. 
+Selensäure ist wie Königswasser in der Lage, Gold und Platin in Lösung zu bringen:
+
+  
+    
+      
+        
+          2
+           
+          A
+          u
+          +
+          6
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+           
+          →
+        
+      
+    
+    {\displaystyle \mathrm {2\ Au+6\ H_{2}SeO_{4}\ \rightarrow } }
+   
+  
+    
+      
+        
+          A
+          
+            u
+            
+              2
+            
+          
+          (
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Au_{2}(SeO_{4})_{3}+3\ H_{2}SeO_{3}+3\ H_{2}O} }
+  Ein Gemisch aus Selensäure und Salzsäure bildet analog zum Königswasser naszierendes Chlor.
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          H
+          C
+          l
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          C
+          
+            l
+            
+              n
+              a
+              s
+              c
+              .
+            
+          
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SeO_{4}+2\ HCl\longrightarrow H_{2}SeO_{3}+2\ Cl_{nasc.}+\ H_{2}O} }
+  Dieses Gemisch vermag ebenfalls Gold unter Bildung von Chlorokomplexen zu lösen.Die Salze der Selensäure (die Selenate) haben oftmals ein niedriges Löslichkeitsprodukt in Wasser, ähnlich den Sulfaten.Selensäure wirkt auf Haut, Atemwege und Schleimhäute stark reizend. Sie ist in der Lage lebendes Gewebe zu zerstören (Verätzung). Aussetzung mit der Verbindung über einen längeren Zeitraum kann schwere physiologische Schäden verursachen. Selensäure ist giftig. Bei Intoxikationen mit Selenverbindungen muss mit bleibenden Schäden gerechnet werden.Durch Reaktion von Cadmiumoxid mit konzentrierter Selensäure kann Cadmiumselenat gewonnen werden.
+
+  
+    
+      
+        
+          C
+          d
+          O
+           
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          →
+          C
+          d
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CdO\ +H_{2}SeO_{4}\rightarrow CdSeO_{4}+H_{2}O} }
+  
+
+
+== Einzelnachweise ==

@@ -1,0 +1,561 @@
+Die Einsetzungsregel  oder Ableitung durch Substitution ist eine Schlussregel vieler logischer Kalküle, die es erlaubt, aus einem Satz (einer allgemeingültigen Aussage) weitere abzuleiten und zu einer Aussage äquivalente Aussagen zu finden:Sei 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   eine allgemeingültige Aussage, die den Teilausdruck 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   beinhaltet.
+Wenn jedes Auftreten von 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   in 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   gleichermaßen durch einen anderen Ausdruck 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   ersetzt wird, ergibt sich wieder eine allgemeingültige Aussage.
+Beispiel:
+Gegeben sei die allgemeingültige Aussage 
+  
+    
+      
+        (
+        p
+        ∨
+        ¬
+        p
+        )
+      
+    
+    {\displaystyle (p\vee \neg p)}
+  .
+Ersetzt man 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   durch 
+  
+    
+      
+        (
+        p
+        ∧
+        q
+        )
+      
+    
+    {\displaystyle (p\wedge q)}
+  , so ergibt sich 
+  
+    
+      
+        (
+        p
+        ∧
+        q
+        )
+        ∨
+        ¬
+        (
+        p
+        ∧
+        q
+        )
+      
+    
+    {\displaystyle (p\wedge q)\vee \neg (p\wedge q)}
+  , was sich umformen lässt zu  
+  
+    
+      
+        (
+        (
+        p
+        ∧
+        q
+        )
+        ∨
+        ¬
+        p
+        ∨
+        ¬
+        q
+        )
+      
+    
+    {\displaystyle ((p\wedge q)\vee \neg p\vee \neg q)}
+   als neue allgemeingültige Aussage.
+Anwendung:
+Diese Regel kann angewendet werden, um Ausdrücke in einfachere, äquivalente umzuformen.
+Sei 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   ein beliebiger Ausdruck, so kann ein in ihm enthaltener Teilausdruck durch eine neue Variable ersetzt (substituiert) werden. Wird der entstandene Ausdruck nach anderen Regeln äquivalent umgeformt und schließlich die Substitution rückgängig gemacht, ergibt sich eine zum ursprünglichen Ausdruck äquivalente Aussage.
+Beispiel:
+
+  
+    
+      
+        (
+        p
+        →
+        (
+        ¬
+        p
+        ∧
+        (
+        q
+        ∨
+        p
+        )
+        )
+        )
+        ∧
+        p
+      
+    
+    {\displaystyle (p\rightarrow (\neg p\wedge (q\vee p)))\wedge p}
+  
+Nun substituiere 
+  
+    
+      
+        (
+        ¬
+        p
+        ∧
+        (
+        q
+        ∨
+        p
+        )
+        )
+      
+    
+    {\displaystyle (\neg p\wedge (q\vee p))}
+   durch s und erhalte
+
+  
+    
+      
+        (
+        p
+        →
+        s
+        )
+        ∧
+        p
+      
+    
+    {\displaystyle (p\rightarrow s)\wedge p}
+  
+
+  
+    
+      
+        ↔
+        (
+        ¬
+        p
+        ∨
+        s
+        )
+        ∧
+        p
+      
+    
+    {\displaystyle \leftrightarrow (\neg p\vee s)\wedge p}
+  
+
+  
+    
+      
+        ↔
+        (
+        ¬
+        p
+        ∧
+        p
+        )
+        ∨
+        (
+        s
+        ∧
+        p
+        )
+      
+    
+    {\displaystyle \leftrightarrow (\neg p\wedge p)\vee (s\wedge p)}
+  
+
+  
+    
+      
+        ↔
+        (
+        s
+        ∧
+        p
+        )
+        .
+      
+    
+    {\displaystyle \leftrightarrow (s\wedge p).}
+  Resubstition ergibt 
+  
+    
+      
+        (
+        ¬
+        p
+        ∧
+        (
+        q
+        ∨
+        p
+        )
+        ∧
+        p
+        )
+      
+    
+    {\displaystyle (\neg p\wedge (q\vee p)\wedge p)}
+  , also 
+  
+    
+      
+        ⊥
+      
+    
+    {\displaystyle \bot }
+   (falsum, falsch).
+Wieso ist dieses Verfahren korrekt?
+Offenbar ist 
+  
+    
+      
+        a
+        [
+        t
+        ]
+        ↔
+        a
+        [
+        t
+        ]
+      
+    
+    {\displaystyle a[t]\leftrightarrow a[t]}
+   für alle Ausdrücke 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   mit Teilausdruck 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+    allgemeingültig. Nach Substitution von 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   durch 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   erhalten wir 
+
+  
+    
+      
+        a
+        [
+        s
+        ]
+        ↔
+        a
+        [
+        s
+        ]
+      
+    
+    {\displaystyle a[s]\leftrightarrow a[s]}
+  . Sei 
+  
+    
+      
+        b
+        [
+        s
+        ]
+      
+    
+    {\displaystyle b[s]}
+   äquivalent zu 
+  
+    
+      
+        a
+        [
+        s
+        ]
+      
+    
+    {\displaystyle a[s]}
+  , so ist auch
+
+  
+    
+      
+        a
+        [
+        s
+        ]
+        ↔
+        b
+        [
+        s
+        ]
+      
+    
+    {\displaystyle a[s]\leftrightarrow b[s]}
+   allgemeingültig, also auch nach Resubstitution
+
+  
+    
+      
+        a
+        [
+        t
+        ]
+        ↔
+        b
+        [
+        t
+        ]
+      
+    
+    {\displaystyle a[t]\leftrightarrow b[t]}
+  .Die hin und wieder so genannte "Einsetzungsregel"
+Prämissen:
+
+  
+    
+      
+        a
+        [
+        t
+        ]
+        ,
+        s
+      
+    
+    {\displaystyle a[t],s}
+  Konklusion:
+
+  
+    
+      
+        a
+        [
+        
+          
+            t
+            s
+          
+        
+        ]
+      
+    
+    {\displaystyle a[{t \over s}]}
+    (Ersetze Teilausdruck t durch s)ist nicht in jeder Situation korrekt. Beispielsweise gelten die "Prämissen" s = "Sokrates ist ein Mensch" und a = "Wenn Sokrates ein Tier ist, sind alle Menschen Tiere." aber nicht die durch Ersetzen der Teilaussage t = "Sokrates ist ein Tier" durch s entstandene Aussage 
+
+  
+    
+      
+        a
+        [
+        
+          
+            t
+            s
+          
+        
+        ]
+      
+    
+    {\displaystyle a[{t \over s}]}
+   = "Wenn Sokrates ein Mensch ist, sind alle Menschen Tiere."
+Allerdings gilt (als Spezialfall der Ersetzungsregel) die Regel
+Prämissen:
+
+  
+    
+      
+        a
+        [
+        t
+        ]
+        ,
+        t
+        ,
+        s
+      
+    
+    {\displaystyle a[t],t,s}
+  Konklusion:
+
+  
+    
+      
+        a
+        [
+        
+          
+            t
+            s
+          
+        
+        ]
+      
+    
+    {\displaystyle a[{t \over s}]}
+    (Ersetze Teilausdruck t durch s)Wenn in einer (in einem Modell) gültigen Aussage für eine allquantifizierte Variable 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   gleichermaßen für jedes Auftreten von 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   ein Term 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   eingesetzt wird, ergibt sich eine (speziellere) gültige Aussage.
+Beispiel:
+Wenn 
+  
+    
+      
+        ∀
+        x
+        ,
+        y
+        :
+        x
+        +
+        y
+        =
+        y
+        +
+        x
+      
+    
+    {\displaystyle \forall x,y:x+y=y+x}
+   gilt, so auch (ersetze 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   durch 
+  
+    
+      
+        (
+        x
+        +
+        x
+        )
+      
+    
+    {\displaystyle (x+x)}
+  ): 
+  
+    
+      
+        ∀
+        x
+        ,
+        y
+        :
+        x
+        +
+        x
+        +
+        y
+        =
+        y
+        +
+        x
+        +
+        x
+      
+    
+    {\displaystyle \forall x,y:x+x+y=y+x+x}
+  .

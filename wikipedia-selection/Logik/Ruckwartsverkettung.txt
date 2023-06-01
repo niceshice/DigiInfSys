@@ -1,0 +1,19 @@
+Eine Rückwärtsverkettung (engl.: backward chaining) bezeichnet in der Logik eine Inferenz- bzw. Schlussfolgerungs-Strategie der Form:
+wenn Bedingung, dann Faktum
+Das Gegenmodell ist die Vorwärtsverkettung. Bedeutung haben diese Verkettungen beispielsweise im Bereich der künstlichen Intelligenz für Inferenzmaschinen.
+Ebenso wie die Vorwärtsverkettung basiert die Rückwärtsverkettung auf einer transitiven Verknüpfung von Regeln. Man geht dabei jedoch vom Zielobjekt aus und prüft nur die Regeln, die das Ziel in der Konklusion haben. Falls der Wert eines Objektes in der Prämisse einer solchen Regel unbekannt ist, wird versucht, diesen aus anderen Regeln herzuleiten. Gelingt dieses nicht, so wird der Wert schließlich vom Benutzer erfragt.
+Man nennt dieses Verfahren auch zielorientierte Inferenz.
+Eine verwandte Inferenz-Strategie besteht in der Vorwärtsverkettung.Arbeitsspeicher: X, Y, Z
+Regelwissensbasis:
+
+X, Y -> S
+S, Z -> T
+S, Y -> A
+Y, T -> B
+X, T -> CZiel: C steht im Arbeitsspeicher
+Konfliktresolution:
+
+Nimm nur Regeln, die das gesuchte Symbol in den Arbeitsspeicher schreiben
+Sind diese Regeln noch nicht anwendbar, dann mache sie anwendbar (Teilziel)Mögliche Lösung:
+
+Liest man nun die Lösung von "unten nach oben", so erreicht man das Ziel: "C im Arbeitsspeicher".

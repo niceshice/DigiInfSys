@@ -1,0 +1,13 @@
+Ethylendiamindibernsteinsäure (Ethylendiamindisuccinat, abgekürzt mit EDDS) ist als mehrzähniger Ligand ein Chelatkomplex-Bildner. Es hat eine ähnliche chemische Struktur und auch ähnliche Eigenschaften wie EDTA.Ethylendiamindibernsteinsäure besitzt zwei Stereozentren, so dass es in drei verschiedenen Stereoisomeren auftritt:
+
+(S,S)-EDDS,
+(R,R)-EDDS und
+meso-EDDS [(R,S)-EDDS].In verschiedene Actinomyceten kommt (S,S)-EDDS natürlich vor.Ein einfacher, großindustriell leicht gangbarer Zugang zu EDDS stellt die Addition von Ethylendiamin an Maleinsäure dar. Allerdings erhält man auf diesem Weg ein Stereoisomerengemisch, welches zu gleichen Teilen aus den (S,S)- und dem (R,R)-Isomeren sowie außerdem dem (R,S)-Isomer (= meso-Form) besteht.
+Eine gezielte, jedoch teurere Synthese für (S,S)-EDDS besteht in der Umsetzung von L-Asparaginsäure mit 1,2-Dibromethan.EDDS dient als Ersatz für EDTA. Die Komplexbildungskonstanten für die Chelatkomplexe mit Metallionen sind meist nur geringfügig kleiner als die des EDTA, so dass es dieses weitestgehend substituieren könnte. Die Anwendungsgebiete gleichen denen des EDTAs, z. B.
+
+Zusatz zu Reinigungsmitteln (Wasserenthärtung durch Bindung von Ca2+/Mg2+),
+Komplexierung von Schwermetallionen,
+Bodenwäsche schwermetallverseuchten Erdraums.(S,S)-EDDS ist leicht vollständig biologisch abbaubar, meso-EDDS ist teilweise biologisch abbaubar; problematisch ist das (R,R)-Stereoisomer, welches in der Umwelt persistiert. Dennoch erscheint EDDS als zumindest teilweise biologisch abbaubarer Ersatz für das vergleichsweise äußerst langlebige EDTA. Das (S,S)-Stereoisomer ist ein Derivat der natürlichen Aminosäure L-Asparaginsäure [(S)-Asparaginsäure] – darin begründet sich auch die gute biologische Abbaubarkeit.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,934 @@
+Der Begriff Stelligkeit (auch Arität; englisch arity) steht für die Anzahl der Argumente einer Verknüpfung, einer Abbildung bzw. eines Operators oder in der Informatik für die Parameteranzahl von Funktionen, Prozeduren oder Methoden. Allgemeiner kann dieser Begriff auch auf Relationen angewendet werden.Einstellige Verknüpfungen benötigen nur ein Argument. Beispiel ist etwa die Betragsfunktion (absoluter Wert) einer Zahl. 
+Zweistellige Verknüpfungen benötigen zwei Argumente. Beispiele für zweistellige Verknüpfungen sind etwa die arithmetischen Operationen Addition, Subtraktion, Multiplikation, oder Division, oder die logischen Operationen und (logisches), oder oder (logisches). 
+Eine 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stellige Verknüpfung, 
+  
+    
+      
+        k
+        >
+        0
+      
+    
+    {\displaystyle k>0}
+  , ist also eine Abbildung mit 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   Argumenten:
+
+  
+    
+      
+        f
+        :
+        
+        
+          A
+          
+            1
+          
+        
+        ×
+        
+          A
+          
+            2
+          
+        
+        ×
+        ⋯
+        ×
+        
+          A
+          
+            k
+          
+        
+        →
+        B
+        ,
+        
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            k
+          
+        
+        )
+        ↦
+        f
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            k
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle f\colon \,A_{1}\times A_{2}\times \dotsb \times A_{k}\to B,\,(a_{1},\dotsc ,a_{k})\mapsto f(a_{1},\dotsc ,a_{k}).}
+  Zum Beispiel ist 
+  
+    
+      
+        f
+        :
+        
+        
+          R
+        
+        ×
+        
+          N
+        
+        →
+        
+          R
+        
+        ,
+        
+        (
+        x
+        ,
+        n
+        )
+        ↦
+        f
+        (
+        x
+        ,
+        n
+        )
+        :=
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f\colon \,\mathbb {R} \times \mathbb {N} \to \mathbb {R} ,\,(x,n)\mapsto f(x,n):=x^{n}}
+   eine zweistellige Verknüpfung.
+Für 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        =
+        
+          A
+          
+            2
+          
+        
+        =
+        ⋯
+        =
+        
+          A
+          
+            k
+          
+        
+        =
+        A
+      
+    
+    {\displaystyle A_{1}=A_{2}=\dotsb =A_{k}=A}
+   gilt insbesondere:
+
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ×
+        
+          A
+          
+            2
+          
+        
+        ×
+        ⋯
+        ×
+        
+          A
+          
+            k
+          
+        
+        =
+        
+          A
+          
+            k
+          
+        
+        =
+        {
+        g
+        ∣
+        g
+        :
+        
+        {
+        0
+        ,
+        …
+        ,
+        k
+        −
+        1
+        }
+        →
+        A
+        }
+      
+    
+    {\displaystyle A_{1}\times A_{2}\times \dotsb \times A_{k}=A^{k}=\{g\mid g\colon \,\{0,\dotsc ,k-1\}\to A\}}
+  ,sodass dann
+
+  
+    
+      
+        f
+        :
+        
+        
+          A
+          
+            k
+          
+        
+        →
+        B
+      
+    
+    {\displaystyle f\colon \,A^{k}\to B}
+  .Außerdem kann wegen
+
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+        =
+        {
+        g
+        ∣
+        g
+        :
+        
+        ∅
+        →
+        A
+        }
+        =
+        {
+        ∅
+        }
+      
+    
+    {\displaystyle A^{0}=\{g\mid g\colon \,\emptyset \to A\}=\{\emptyset \}}
+  eine nullstellige Verknüpfung stets als eine konstante Abbildung
+
+  
+    
+      
+        f
+        :
+        
+        {
+        ∅
+        }
+        →
+        B
+        ,
+        
+        ∅
+        ↦
+        
+          b
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle f\colon \,\{\emptyset \}\to B,\,\emptyset \mapsto b_{0},}
+  angesehen werden. Diese Abbildung 
+  
+    
+      
+        f
+        ∈
+        
+          B
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f\in B^{1}}
+   lässt sich wiederum als die Konstante 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        ∈
+        B
+      
+    
+    {\displaystyle b_{0}\in B}
+   auffassen.
+Zum Beispiel kann für die Verknüpfung 
+  
+    
+      
+        f
+        :
+        
+        
+          
+            N
+          
+          
+            0
+          
+        
+        →
+        
+          N
+        
+        ,
+        
+        ∅
+        ↦
+        1
+        ,
+      
+    
+    {\displaystyle f\colon \,\mathbb {N} ^{0}\to \mathbb {N} ,\,\emptyset \mapsto 1,}
+   auch einfach 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   genommen werden.
+Wird für die natürlichen Zahlen die mengentheoretische Darstellung nach John von Neumann zugrunde gelegt, dann ist  
+  
+    
+      
+        0
+        =
+        ∅
+        ,
+        1
+        =
+        {
+        ∅
+        }
+        ,
+        …
+      
+    
+    {\displaystyle 0=\emptyset ,1=\{\emptyset \},\dots }
+   und damit 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+        =
+        {
+        0
+        }
+      
+    
+    {\displaystyle A^{0}=\{0\}}
+  . Für eine Konstante 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b_{0}}
+   in 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   ist dann als Abbildung 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   aufgefasst 
+  
+    
+      
+        f
+        :
+        
+        {
+        0
+        }
+        →
+        B
+        ,
+        
+        0
+        ↦
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle f\colon \,\{0\}\to B,\,0\mapsto b_{0}}
+  .
+Als weiteres Beispiel kann die algebraische Struktur 
+  
+    
+      
+        (
+        B
+        ,
+        ∨
+        ,
+        ∧
+        ,
+        
+          
+
+          
+          
+            
+              C
+            
+          
+        
+        ,
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (B,\vee ,\wedge ,{}^{\mathrm {C} },0,1)}
+   der Booleschen Algebra dienen, die alle diese Aspekte in sich vereint. Sie besitzt die beiden zweistelligen Operationen Vereinigung und Durchschnitt, das einstellige Komplement und zwei nullstellige Operationen, die Konstanten 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   und 
+  
+    
+      
+        1.
+      
+    
+    {\displaystyle 1.}Allgemeiner nennt man eine Teilmenge 
+  
+    
+      
+        R
+        ⊂
+        
+          A
+          
+            1
+          
+        
+        ×
+        
+          A
+          
+            2
+          
+        
+        ×
+        ⋯
+        ×
+        
+          A
+          
+            k
+          
+        
+      
+    
+    {\displaystyle R\subset A_{1}\times A_{2}\times \dotsb \times A_{k}}
+   eine 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stellige Relation. Ist 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        =
+        ⋯
+        =
+        
+          A
+          
+            k
+          
+        
+        =
+        A
+      
+    
+    {\displaystyle A_{1}=\dotsb =A_{k}=A}
+  , so spricht man von einer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stelligen Relation auf 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  .
+Eine einstellige Relation ist demnach nichts anderes als eine Teilmenge, die nullstelligen Relationen bilden wegen 
+  
+    
+      
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            0
+          
+        
+        
+          A
+          
+            i
+          
+        
+        =
+        {
+        ∅
+        }
+      
+    
+    {\displaystyle \prod _{i=1}^{0}A_{i}=\{\emptyset \}}
+   bzw. 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+        =
+        {
+        ∅
+        }
+      
+    
+    {\displaystyle A^{0}=\{\emptyset \}}
+   (leeres kartesisches Produkt) stets die Menge 
+  
+    
+      
+        {
+        ∅
+        ,
+        {
+        ∅
+        }
+        }
+      
+    
+    {\displaystyle \{\emptyset ,\{\emptyset \}\}}
+  . Die Isomorphie der Relationen mit Prädikaten ordnet diesen beiden die logischen (booleschen) Konstanten falsch (für 
+  
+    
+      
+        ∅
+      
+    
+    {\displaystyle \emptyset }
+  ) und wahr (für 
+  
+    
+      
+        {
+        ∅
+        }
+      
+    
+    {\displaystyle \{\emptyset \}}
+  ) zu.
+Ein typisches Beispiel für eine zweistellige Relation ist
+
+  
+    
+      
+        {
+        (
+        m
+        ,
+        m
+        +
+        k
+        )
+        ∣
+        m
+        ,
+        k
+        ∈
+        
+          
+            N
+          
+          
+            0
+          
+        
+        }
+        ⊂
+        
+          
+            N
+          
+          
+            0
+          
+        
+        ×
+        
+          
+            N
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \{(m,m+k)\mid m,k\in \mathbb {N} _{0}\}\subset \mathbb {N} _{0}\times \mathbb {N} _{0}}
+  ,eine zweistellige Relation auf den natürlichen Zahlen 
+  
+    
+      
+        
+          
+            N
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} _{0}}
+  , die man üblicherweise mit 
+  
+    
+      
+        ≤
+      
+    
+    {\displaystyle \leq }
+   bezeichnet. Statt 
+  
+    
+      
+        (
+        m
+        ,
+        n
+        )
+        ∈
+        
+          ≤
+        
+      
+    
+    {\displaystyle (m,n)\in {\leq }}
+   
+schreibt man 
+  
+    
+      
+        m
+        ≤
+        n
+      
+    
+    {\displaystyle m\leq n}
+  .
+Auch für beliebige zweistellige Relationen 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   wird 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        R
+      
+    
+    {\displaystyle (x,y)\in R}
+   der besseren Lesbarkeit wegen gern als 
+  
+    
+      
+        x
+        R
+        y
+      
+    
+    {\displaystyle xRy}
+   wiedergegeben.
+Beachtet man, dass Abbildungen spezielle Relationen sind, so decken sich die hier für Abbildungen und Relationen gegebenen Definitionen der Stelligkeit nicht. Behandelt man eine Funktion als Relation, so bedeutet das, dass man von der Funktion 
+
+  
+    
+      
+        f
+        :
+        
+        
+          A
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          A
+          
+            k
+          
+        
+        →
+        B
+      
+    
+    {\displaystyle f\colon \,A_{1}\times \dotsb \times A_{k}\to B}
+  zu ihrem Funktionsgraphen
+
+  
+    
+      
+        {
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            k
+          
+        
+        ,
+        b
+        )
+        ∈
+        
+          A
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          A
+          
+            k
+          
+        
+        ×
+        B
+        
+          |
+        
+        
+        f
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            k
+          
+        
+        )
+        =
+        b
+        }
+        
+        ⊂
+        
+        
+          A
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          A
+          
+            k
+          
+        
+        ×
+        B
+      
+    
+    {\displaystyle \{(a_{1},\dotsc ,a_{k},b)\in A_{1}\times \dotsb \times A_{k}\times B|\,f(a_{1},\dotsc ,a_{k})=b\}\,\subset \,A_{1}\times \dotsb \times A_{k}\times B}
+  übergeht, und das ist eine 
+  
+    
+      
+        (
+        k
+        +
+        1
+        )
+      
+    
+    {\displaystyle (k+1)}
+  -stellige Relation.
+
+
+== Anmerkungen ==

@@ -1,0 +1,37 @@
+Kapitaldienstgrenze ist eine betriebswirtschaftliche Kennzahl, die den für einen Schuldner maximal tragbaren Kapitaldienst angibt.Kreditgeber haben ein Interesse daran, ihr Kreditrisiko beim Schuldner zu messen. Dafür steht ihnen eine Vielzahl von Schuldenkennzahlen zur Verfügung. Diese sind wichtige Steuerungs- und Entscheidungsgrößen für die Fremdkapitalbereitstellung bzw. -belassung. Während die Zinslastquote lediglich den Zinsaufwand eines Kreditnehmers berücksichtigt, umfasst der Schuldendienstdeckungsgrad zusätzlich auch die zu leistenden Tilgungen. Die Art der Einnahmen hängt davon ab, ob der Schuldner ein Unternehmen, der Staat (oder dessen Gebietskörperschaften) oder eine natürliche Person ist.
+Der Begriff Kapitaldienstgrenze stammt ursprünglich – wie viele betriebs- und volkswirtschaftlichen Begriffe – aus der Landwirtschaft, wo er als Stabilitäts- und Liquiditätsindikator hervorgehoben wird, und wurde in der Immobilienfinanzierung übernommen. Er wurde in der Folge auch auf andere Schuldner wie natürliche Personen, Unternehmen, Staaten und deren Gebietskörperschaften ausgedehnt. Allen Schuldnern gemeinsam ist, dass die Kapitaldienstgrenze den maximal möglichen Kreditbetrag ergibt, den ein Schuldner aufnehmen darf, ohne langfristig wegen des Kapitaldienstes in Liquiditätskrise oder gar eine Verschuldungskrise zu geraten.Gläubiger können anhand von Schuldenkennzahlen ermitteln, ob ihre Schuldner noch imstande sind, den Kapitaldienst aus regulärem Einkommen/Einnahmen zu bestreiten. Deshalb berechnen sie deren Kapitaldienstgrenze zunächst bei der ersten Kreditaufnahme und später laufend während der Kreditlaufzeit. Die Planung und Ermittlung der Kapitaldienstgrenze hat beim Schuldner zum Ziel, die Zahlung des zukünftigen Kapitaldienstes zu sichern. Die Kapitaldienstfähigkeit ist von Kreditinstituten im Vorfeld der Kreditgewährung zu prüfen. Die Kennzahl kann auch Bestandteil der Covenants sein, so dass ihre Einhaltung jährlich vom Schuldner nachzuweisen ist.
+Zinsaufwand und Tilgungen bilden zusammen den Kapitaldienst. Zu den Zinsen gehören alle Zinsaufwendungen, die aus zinstragenden Verbindlichkeiten resultieren (Ausnahmen: Zinsen für Pensionsrückstellungen, Bankgebühren).In der Immobilienfinanzierung handelt es sich bei der Kapitaldienstgrenze um einen „Betrag, der aus einem Beleihungsobjekt zur Bezahlung von Annuitätenraten auf ein langfristiges Darlehen nachhaltig zur Verfügung steht – Bruttokapitaldienstgrenze…“ Beleihungswert, Beleihungsgrenze und Beleihungsauslauf zielen darauf ab, den Darlehensbetrag unter Berücksichtigung von Risikofaktoren am Wert des Beleihungsobjekts zu orientieren. Die Kapitaldienstgrenze hingegen bestimmt die Darlehenshöhe nach der Rückzahlbarkeit, wie sie sich aus dem nachhaltigen Ertrag des Beleihungsobjektes (Miet- oder Pachteinnahmen abzüglich der angefallenen Bewirtschaftungskosten) oder anderer periodischer Einkommen (Arbeitseinkommen abzüglich fixer Ausgaben) ohne Beeinträchtigung der Liquidität ergibt. Eine Beleihung von Immobilien durch Kreditinstitute ist nur möglich, wenn beide Komponenten erfüllt sind.Bei Unternehmen und ähnlich in der Landwirtschaft wird der sich aus der Gewinn- und Verlustrechnung ergebende Jahresüberschuss zugrundegelegt:
+    Jahresüberschuss aus der Gewinn- und Verlustrechnung
+   + planmäßige Abschreibungen
+   + Zuführung langfristige Rückstellungen
+   + Fremdkapitalzinsen
+   = Mittel für den Kapitaldienst
+   ./. Gewinnausschüttungen und Privatentnahmen
+   ./. notwendige Ersatzinvestitionen
+   = Kapitaldienstgrenze
+   ./. Zinsen und Tilgung
+   = Liquiditätsüberschuss / -fehlbetrag
+
+Daraus ergibt sich, dass die planmäßigen Abschreibungen und die Zuführungen zu den langfristigen Rückstellungen (Gewährleistungs- und Pensionsrückstellungen) als ausgabenloser Aufwand für die Ermittlung des Kapitaldienstes zum Jahresüberschuss wieder hinzugerechnet werden. Gewinnausschüttungen oder Privatentnahmen und betrieblich notwendige Ersatzinvestitionen, soweit letztere eigenfinanziert werden, schmälern hingegen die für den Kapitaldienst heranzuziehenden Mittel. Die verbleibende Kapitaldienstgrenze ist mithin die Restgröße, die zur Zahlung von Zinsen und Tilgungen zur Verfügung steht. Wenn
+
+  
+    
+      
+        
+          
+            Kapitaldienstgrenze
+          
+        
+        =
+        
+          
+            Zinsen + Tilgung
+          
+        
+      
+    
+    {\displaystyle {\mbox{Kapitaldienstgrenze}}={\mbox{Zinsen + Tilgung}}}
+  gilt, so ist der extreme Grenzfall der Kapitaldienstfähigkeit eines Unternehmens erreicht. Der Kapitaldienst sollte nie die Kapitaldienstgrenze übersteigen, da sonst Zins- und Tilgungsleistungen nur durch Abbau des Vermögens oder durch zusätzliches Eigen- oder Fremdkapital bezahlt werden müssen. Falls dies nicht möglich ist, droht die Zahlungsunfähigkeit (Illiquidität). Ändert sich in diesem Fall nämlich mindestens eine der Variablen negativ (etwa bei Gewinnrückgang), so ist Kapitaldienstfähigkeit nicht mehr gegeben. Daraus ergibt sich zudem, dass Unternehmen mit hohen Kapitaldienstzahlungen dazu neigen, weniger zu investieren, weil hieraus höhere Investitionsausgaben resultieren, die die Kapitaldienstfähigkeit gefährden könnten. Kommt es zu konjunkturellen oder gar strukturellen Krisen, können Unternehmen mit knapper Kapitaldienstgrenze in eine Unternehmenskrise geraten. Aus diesem Grunde muss sich bei der Kapitaldienstgrenze ein Liquiditätspolster ergeben. Analog zum Schuldendienstdeckungsgrad bei Projektfinanzierungen wird ein Liquiditätsüberschuss von 20 % als ausreichend angesehen.Kritisch ist die Situation für einen Staat und/oder seine Gebietskörperschaften, wenn der Zins- und Tilgungsdienst 20 % bis 25 % der dauerhaft erzielbaren Exporterlöse (beim Staat) oder Gesamteinnahmen (bei Gebietskörperschaften) überschreitet oder mehr als 20 % der Gesamtausgaben erreicht. Bei dauerhafter Überschreitung der kritischen Grenzen können Staaten in eine Staatskrise geraten.Zu beachten ist, dass die Kapitaldienstgrenze nur im Zusammenhang mit anderen Kennzahlen eine aussagefähige Größe zur Bestimmung der Kreditwürdigkeit eines Kreditnehmers darstellt. In Fällen einer kritischen Kapitaldienstgrenze ist meist die Eigenkapitalquote zu niedrig, was oft mit einer zu hohen Zinslastquote einhergeht. Ein derartiges Szenario kann als sicheres Anzeichen einer Schuldnerkrise gewertet werden.
+
+
+== Einzelnachweise ==

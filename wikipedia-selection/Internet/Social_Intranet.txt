@@ -1,0 +1,37 @@
+Ein Social Intranet ist eine Softwareplattform, die den Informationsaustausch und die Zusammenarbeit in Unternehmen fördern soll. Wie ein Intranet ist es nur für einen bestimmten Personenkreis verfügbar und kann unabhängig vom öffentlichen Netz benutzt werden. Es ergänzt das klassische Intranet jedoch um Elemente der Sozialen Netzwerke.
+Ein Social Intranet ist Social Software und gehört in die Gruppe „solche[r] Anwendungen, die Informations-, Identitäts- und Beziehungsmanagement in den (Teil-) Öffentlichkeiten hypertextueller und sozialer Netzwerke unterstützen.“Die Betreiber eines Social Intranet – im Regelfall Unternehmen – definieren die Ziele der Plattform selbst. Einige Punkte gelten jedoch wohl für die allermeisten Social Intranet-Projekte:
+
+Verbesserung der abteilungs- und standortübergreifenden Kommunikation zwischen den Mitarbeitern
+Interne Wissensressourcen bündeln und Wissen optimal verfügbar machen
+Beschleunigung von innerbetrieblichen Informationsströmen
+Reduktion des internen E-Mail-Verkehrs
+Bereitstellung einer sicheren Plattform, die innerbetriebliche Informationen bündelt
+Vereinfachung von Prozessen, indem alle Abteilungen auf eine gemeinsame Datenbank zugreifen können
+Förderung von Engagement und MitarbeiterzufriedenheitIn der Forschung werden oft die folgenden Mehrwerte für ein Unternehmen diskutiert:
+
+Verbesserung der Unternehmenskommunikation
+Umfangreiches Wissensmanagement und Wissenstransfer
+Erleichterung der Expertensuche im Unternehmen
+Steigerung der Innovationskraft
+Aufbau von SozialkapitalDas ursprüngliche Ziel des Intranet-Einsatzes in Unternehmen und Behörden ist es, die Informationsversorgung für die Mitarbeiter zu sichern und zu verbessern. Hierzu werden Informationen qualitätsgesichert bereitgestellt und personalisiert verteilt. Im Regelfall geschieht die Erstellung der Beiträge redaktionell mittels eines Content-Management-Systems.Auch Social Intranets dienen der Verbesserung des Informationsflusses in Unternehmen. Im Gegensatz zum Intranet läuft die Bereitstellung der Informationen hier jedoch nicht unidirektional durch eine Redaktion, sondern die Benutzer selbst können Beiträge verfassen und kommentieren.
+Dabei ist das Social Intranet keineswegs als Ersatz für das Intranet zu verstehen. Vielmehr ergänzt es das klassische Intranet um Aspekte der Social Media. Dadurch soll eine direktere Kommunikation ermöglicht werden.Die Nutzung der Plattform zur Social Collaboration soll gewährleisten, dass die unternehmensweite Zusammenarbeit gefördert wird. Mitarbeiter können aktiv Wissen austauschen und zu Projekten etc. kommunizieren. Top-down- und Bottom-up-Kommunikation werden vereint.Dieser Aspekt gewinnt insbesondere dann an Bedeutung, wenn über verschiedene Standorte oder Abteilungen hinweg zusammengearbeitet werden soll. Indem das Social Intranet ortsungebunden und über verschiedene Endgeräte erreichbar ist, können auch Beschäftigte auf Reisen oder ohne festen PC-Arbeitsplatz (z. B. in der Produktion) am Austausch teilhaben.
+Eine gemäß dem Corporate Design bzw. der Corporate Identity des Unternehmens vereinheitlichte Benutzeroberfläche kann das betriebsinterne Zugehörigkeitsgefühl der Mitarbeiter fördern.
+Die typischen Funktionen sind denen von Sozialen Netzwerken im privaten Bereich recht ähnlich, jedoch stärker für den geschäftlichen Gebrauch optimiert:
+
+Gruppen können innerhalb des Netzwerkes gebildet werden und z. B. als virtueller Projektraum dienen
+Erstellen von Blog-Beiträgen oder das Veröffentlichen von einzelnen Statusmeldungen, Kommentaren oder Fragen
+Der Empfang und Versand von Benachrichtigungen über diverse Ereignisse wie neue Beiträge, neu eingestellte Bilder, neue Dateien usw.
+Der Empfang und der Versand von Nachrichten an andere Mitglieder
+Suchfunktionen
+Die Anwender verfügen über eine persönliche Profilseite mit diversen Einstellmöglichkeiten
+Eine Kontaktliste samt Funktionen, mit denen die Verbindungen zu den hier verzeichneten Kollegen verwaltet werden könnenIntegriert das Social Intranet auch Daten aus anderen eingesetzten Softwareprogrammen in die Kommunikation der Beschäftigen, kann es zur zentralen Arbeitsplattform werden. In diesem Fall kann man von einem Digital Workplace sprechen.Im Rahmen der Nutzung des Social Intranet als Arbeitsplattform kann es zu einem Konflikt zwischen der Vertraulichkeit der Daten und der für ein Intranet notwendigen Reichweite kommen.Beim Einsatz eines Social Intranets im Unternehmen spielen nicht nur technische Fragen eine Rolle. Unter dem Begriff Enterprise 2.0 lässt sich auch eine Entwicklung der Unternehmenskultur beschreiben, die von Social Intranets unterstützt wird: Weg von der hierarchischen, zentralen Steuerung und hin zur autonomen Selbststeuerung von Teams, die von Managern eher moderiert als geführt werden.
+Der Ko-Direktor der „MIT Initiative on the Digital Economy“ Andrew Paul McAfee beschreibt den Zusammenhang folgendermaßen:
+
+„Enterprise 2.0 is the use of emergent social software platforms within companies, or between companies and their partners or customers“
+Als grundlegende Anforderungen für die Etablierung von Enterprise 2.0 in einem Unternehmen nennt McAfee:
+
+Das Schaffen einer offenen Unternehmenskultur
+Eine Plattform (im Intranet) auf der die Zusammenarbeit möglich wird
+Change Management, das auf die Bedürfnisse der Nutzer eingeht, statt an formalen Prozessen festzuhaltenDas Commitment von der Unternehmensführung.Unternehmen zielen darauf ab, durch den transparenten Austausch über Abteilungs- und Hierarchiegrenzen hinweg das Mitarbeiter-Engagement zu steigern. In einer Umfrage des Management-Magazins Harvard Business Review geben 91 % der Angestellten an, ungenügende Kommunikation durch Vorgesetzte schmälere ihre Motivation.Dahingegen dienen Social-Media-Features im Unternehmen dem Bundesverband Digitale Wirtschaft zufolge der
+
+„Schaffung dialogischer, transparenter und inklusiver Prozesse, die eine Organisations- und Führungskultur ermöglichen, mit deren Hilfe bisher verborgene Effizienz-, Wissens- und Innovationsressourcen zur Steigerung der Unternehmensperformance nutzbar gemacht werden können.“

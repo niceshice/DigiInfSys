@@ -1,0 +1,10 @@
+IgG4-Autoimmunerkrankungen sind eine Gruppe von Autoimmunerkrankungen, die durch Antigen-spezifische Autoantikörper der Immunglobulin-G-Subklasse IgG4 verursacht werden.
+Zu den Erkrankungen zählen unter anderem die MuSK-positive Myasthenia gravis, Pemphigus vulgaris, Pemphigus foliaceus, Thrombotisch-thrombozytopenische Purpura oder Idiopathische membranöse Glomerulonephritis.
+Im Gegensatz zur Gruppe der IgG4-assoziierten Erkrankungen (IgG4-related diseases) werden Fibrose, IgG4-Plasmazell-Infiltrate und erhöhte IgG4-Serumspiegel für gewöhnlich nicht beobachtet.IgG4-Autoimmunerkrankungen sind selten, mit Prävalenzen bis maximal 5 pro 10.000 Einwohnern.IgG4-Autoantikörper blockieren wichtige Bindestellen auf Proteinen und verhindern ihre normale Funktion im Körper. Dabei werden Protein-Protein-Interaktionen blockiert, das führt zur Unterbrechung von Signaltransduktionswegen, Verlust von Zelladhäsion oder Blockierung von Enzymen oder Rezeptoren. Beispielsweise blockieren Antikörper gegen die muskel-spezifische Kinase (MuSK) die Interaktion mit dem Protein lipoprotein receptor-related protein 4 (Lrp4) und unterbindet so die Signaltransduktion für die Aggregation von Acetylcholinrezeptoren (AChR) an der neuromuskulären Synapse. Somit kommt es zu reduzierter Rezeptordichte und Beeinträchtigung der neuromuskulären Reizweiterleitung, was zu ermüdbarer Muskelschwäche führt.Zur Identifizierung von IgG4-Autoimmunerkrankungen existiert ein Klassifizierungssystem. Hierbei wird die Pathogenizität der IgG4-Autoantikörper festgestellt. Dazu müssen drei Kriterien erfüllt werden:
+
+Die IgG4-Autoantikörper müssen ein spezifisches Antigen erkennen, das im betroffenen Organ vorhanden ist.
+Ein Krankheitsmechanismus muss in vitro nachweisbar sein.
+Die Krankheit muss sich durch passiven Transfer von isoliertem IgG4 aus Patientenserum in Tiermodelle reproduzieren lassen.
+
+
+== Einzelnachweise ==

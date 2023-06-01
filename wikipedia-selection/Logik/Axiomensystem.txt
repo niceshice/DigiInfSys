@@ -1,0 +1,421 @@
+Ein Axiomensystem (auch: Axiomatisches System) ist ein System von grundlegenden Aussagen, Axiomen, die ohne Beweis angenommen und aus denen alle Sätze (Theoreme) des Systems logisch abgeleitet werden. Die Ableitung erfolgt dabei durch die Regeln eines formalen logischen Kalküls. Eine Theorie besteht aus einem Axiomensystem und all seinen daraus abgeleiteten Theoremen. Mathematische Theorien werden in der Regel als Elementare Sprache (auch: Sprache erster Stufe mit Symbolmenge) im Rahmen der Prädikatenlogik erster Stufe axiomatisiert.Ein Axiomensystem als Produkt der Axiomatisierung eines Wissensgebietes dient der präzisen, ökonomischen und übersichtlichen "Darstellung der in ihm geltenden Sätze und der zwischen ihnen bestehenden Folgerungszusammenhänge." Die Axiomatisierung zwingt zugleich zu einer eindeutigen Begrifflichkeit. Elemente eines axiomatischen Systems sind:
+
+ein Alphabet, aus denen die Ausdrücke nach gewissen Regeln hergestellt werden;
+eine Menge von grundlegenden Ausdrücken – den Axiomen – und
+ein System logischer Schlussregeln (Kalkül) zur Ableitung weiterer Ausdrücke, den Theoremen.Die Gruppentheorie formuliert man als elementare Sprache im Rahmen der Prädikatenlogik 1. Stufe.
+
+Das Alphabet: Alle Ausdrücke der elementaren Sprache 
+  
+    
+      
+        
+          L
+          
+            S
+          
+        
+      
+    
+    {\displaystyle L^{S}}
+  , die – zusätzlich zu den logischen Symbolen und der Gleichheit (hier mit 
+  
+    
+      
+        ≡
+      
+    
+    {\displaystyle \equiv }
+   dargestellt) – die Symbolmenge 
+  
+    
+      
+        
+          S
+          
+            G
+            r
+          
+        
+        =
+        {
+        ∘
+        ,
+        e
+        }
+      
+    
+    {\displaystyle S_{Gr}=\{\circ ,e\}}
+   enthält; dabei ist 
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+   ein zweistelliges Funktionssymbol (Verknüpfung von Gruppenelementen) und 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   eine Konstante (Einselement).
+Die Gruppenaxiome sind
+
+  
+    
+      
+        ∀
+        x
+        ∀
+        y
+        ∀
+        z
+        (
+        (
+        x
+        ∘
+        y
+        )
+        ∘
+        z
+        ≡
+        x
+        ∘
+        (
+        y
+        ∘
+        z
+        )
+        )
+      
+    
+    {\displaystyle \forall x\forall y\forall z((x\circ y)\circ z\equiv x\circ (y\circ z))}
+  
+
+  
+    
+      
+        ∀
+        x
+        (
+        x
+        ∘
+        e
+        ≡
+        x
+        )
+      
+    
+    {\displaystyle \forall x(x\circ e\equiv x)}
+  
+
+  
+    
+      
+        ∀
+        x
+        ∃
+        y
+        (
+        x
+        ∘
+        y
+        ≡
+        e
+        )
+      
+    
+    {\displaystyle \forall x\exists y(x\circ y\equiv e)}
+  
+Das verwendete logische System: Der Sequenzenkalkül der Prädikatenlogik 1. StufeAuf dieses Axiomensystem lässt sich die gesamte Gruppentheorie aufbauen; d. h., alle Theoreme der Gruppentheorie lassen sich hiermit ableiten.Wir bezeichnen im Folgenden wie üblich die Ableitbarkeitsrelation des zugrundegelegten logischen Kalküls (Sequenzenkalkül, Kalkül des natürlichen Schließens) mit 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+  ; sei 
+  
+    
+      
+        C
+        n
+        (
+        Γ
+        )
+        =
+        {
+        
+          A
+        
+        ∣
+        Γ
+        ⊢
+        
+          A
+        
+        }
+      
+    
+    {\displaystyle Cn(\Gamma )=\{\mathrm {A} \mid \Gamma \vdash \mathrm {A} \}}
+   die zugehörige Inferenzoperation, die also jeder Menge M von Axiomen die zugehörige Theorie 
+  
+    
+      
+        T
+        =
+        C
+        n
+        (
+        M
+        )
+      
+    
+    {\displaystyle T=Cn(M)}
+   zuordnet.
+Die Inferenzoperation ist ein Hüllenoperator, d. h., es gilt insbesondere 
+  
+    
+      
+        C
+        n
+        (
+        T
+        )
+        =
+        C
+        n
+        (
+        C
+        n
+        (
+        M
+        )
+        )
+        =
+        C
+        n
+        (
+        M
+        )
+      
+    
+    {\displaystyle Cn(T)=Cn(Cn(M))=Cn(M)}
+   (Idempotenz des Hüllenoperators).
+Deshalb sind Theorien deduktiv abgeschlossen, man kann also nichts Weiteres aus T herleiten, was nicht schon aus M beweisbar wäre. M nennt man auch eine Axiomatisierung von T.Eine Menge M von Axiomen (und auch die dazugehörende Theorie T) wird konsistent (oder widerspruchsfrei) genannt, falls man aus diesen Axiomen keine Widersprüche ableiten kann. Das bedeutet: Es ist nicht möglich, sowohl einen Satz A als auch seine Negation ¬ A mit den Regeln des Axiomensystems aus M (bzw. T) herzuleiten.
+
+In Worten von Tarski:Ein Ausdruck A wird unabhängig von einer Menge M von Axiomen genannt, wenn A nicht aus den Axiomen in M hergeleitet werden kann. Entsprechend ist eine Menge M von Axiomen unabhängig, wenn jedes einzelne der Axiome in M von den restlichen Axiomen unabhängig ist:
+
+  
+    
+      
+        M
+        ∖
+        A
+        ⊬
+        A
+      
+    
+    {\displaystyle M\setminus A\nvdash A}
+   für alle 
+  
+    
+      
+        A
+        ∈
+        M
+      
+    
+    {\displaystyle A\in M}
+  .
+
+Prägnant zusammengefasst: „Unabhängig sind die Axiome, wenn keines von ihnen aus den anderen ableitbar ist“.Eine Menge M von Axiomen wird vollständig (auch negationstreu) genannt, wenn für jeden Satz A der Sprache gilt, dass der Satz A selbst oder seine Negation ¬ A aus den Axiomen in M hergeleitet werden kann. Dazu gleichbedeutend ist, dass jede Erweiterung von M durch einen bisher nicht beweisbaren Satz widersprüchlich wird. Analoges gilt für eine Theorie. Vollständige Theorien zeichnen sich also dadurch aus, dass sie keine widerspruchsfreien Erweiterungen haben.
+Vorsicht: die Vollständigkeit einer Theorie oder einer Axiomenmenge ist eine rein syntaktische Eigenschaft und darf nicht mit der semantischen Vollständigkeit verwechselt werden.Für das Folgende nehmen wir an, dass der zugrundeliegende Kalkül korrekt ist; d. h., dass jede syntaktischen Ableitung auch die semantische Folgerung impliziert (dies ist eine Minimalforderung an ein axiomatisches System, die z. B. für den Sequenzenkalkül der Prädikatenlogik 1. Stufe gilt).
+Wenn es zu einem Axiomensystem ein Modell besitzt, dann ist M widerspruchsfrei. Denn angenommen, es gäbe einen Ausdruck A mit 
+  
+    
+      
+        M
+        ⊢
+        A
+      
+    
+    {\displaystyle M\vdash A}
+   und 
+  
+    
+      
+        M
+        ⊢
+        ¬
+        A
+      
+    
+    {\displaystyle M\vdash \neg A}
+  . Jedes Modell von M wäre dann sowohl Modell von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   als auch von 
+  
+    
+      
+        ¬
+        A
+      
+    
+    {\displaystyle \neg A}
+   – was nicht sein kann.
+Die Widerspruchsfreiheit eines Axiomensystems lässt sich also durch Angabe eines einzigen Modells zeigen. So folgt z. B. die Widerspruchsfreiheit der obigen Axiome der Gruppentheorie durch die Angabe der konkreten Menge 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \{0,1\}}
+   mit 
+  
+    
+      
+        e
+        =
+        0
+      
+    
+    {\displaystyle e=0}
+   und der Definition von 
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+   durch die Addition modulo 2 (
+  
+    
+      
+        0
+        ∘
+        0
+        =
+        0
+        ,
+        0
+        ∘
+        1
+        =
+        1
+        ∘
+        0
+        =
+        1
+        ,
+        1
+        ∘
+        1
+        =
+        0
+      
+    
+    {\displaystyle 0\circ 0=0,0\circ 1=1\circ 0=1,1\circ 1=0}
+  ).
+Modelle kann man auch verwenden, um die Unabhängigkeit der Axiome eines Systems zu zeigen: Man konstruiert zwei Modelle für das Teilsystem, aus dem ein spezielles Axiom A entfernt wurde – ein Modell, in dem A gilt und ein anderes, in dem A nicht gilt.
+Zwei Modelle heißen isomorph, wenn es eine eineindeutige Korrespondenz zwischen ihren Elementen gibt, die sowohl Relationen als auch Funktionen erhält. Ein Axiomensystem, für das alle Modelle zueinander isomorph sind, heißt kategorisch. Ein kategorisches Axiomensystem ist vollständig. Denn sei das Axiomensystem nicht vollständig; d. h., es gebe einen Ausdruck A, für den weder A noch 
+  
+    
+      
+        ¬
+        A
+      
+    
+    {\displaystyle \neg A}
+   aus dem System herleitbar ist. Dann gibt es sowohl ein Modell für 
+  
+    
+      
+        M
+        ∪
+        {
+        A
+        }
+      
+    
+    {\displaystyle M\cup \{A\}}
+   als auch eines für 
+  
+    
+      
+        M
+        ∪
+        {
+        ¬
+        A
+        }
+      
+    
+    {\displaystyle M\cup \{\neg A\}}
+  . Diese beiden Modelle, die natürlich auch Modelle für 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   sind, sind aber nicht isomorph.Für die elementare Aussagenlogik, die Prädikatenlogik erster Stufe und verschiedene Modallogiken gibt es axiomatische Systeme, die die genannten Anforderungen erfüllen.Für die Prädikatenlogiken höherer Stufen lassen sich nur widerspruchsfreie, aber nicht vollständige axiomatische Systeme entwickeln. Das Entscheidungsproblem ist in ihnen nicht lösbar.Für die Arithmetik gilt der Gödelsche Unvollständigkeitssatz. Dies wird weiter unten diskutiert.David Hilbert gelang es 1899, die euklidische Geometrie zu axiomatisieren.Huntingtonsches Axiomensystem
+Peano-Dedekindsches Axiomensystem der Arithmetik
+Wahrscheinlichkeitstheorie
+Zermelo-Fraenkel-MengenlehreGünther Ludwig legte in den 1980er Jahren eine Axiomatisierung der Quantenmechanik vorKarl Bühler versuchte 1933, eine Axiomatik der Sprachwissenschaft zu entwickeln.Arnis Vilks schlug 1991 ein Axiomensystem für die neoklassische Wirtschaftstheorie vor.Die Gödelschen Unvollständigkeitssätze von 1931 sprechen über höchstens rekursiv aufzählbar axiomatisierte Theorien, die in der Logik erster Stufe formuliert sind. Es wird ein vollständiger und korrekter Beweiskalkül vorausgesetzt. Der erste Satz sagt aus: Falls die Axiome der Arithmetik widerspruchsfrei sind, dann ist die Arithmetik unvollständig. Es gibt also mindestens einen Satz 
+  
+    
+      
+        
+          Φ
+          
+            G
+          
+        
+      
+    
+    {\displaystyle \Phi _{G}}
+  , so dass weder 
+  
+    
+      
+        
+          Φ
+          
+            G
+          
+        
+      
+    
+    {\displaystyle \Phi _{G}}
+   noch seine Negation ¬
+  
+    
+      
+        
+          Φ
+          
+            G
+          
+        
+      
+    
+    {\displaystyle \Phi _{G}}
+   in der Arithmetik beweis­bar sind. Des Weiteren lässt sich zeigen, dass jede Erweiterung der Axiome, die rekursiv aufzählbar bleibt, ebenfalls unvollständig ist. Damit ist die Unvollständigkeit der Arithmetik ein systematisches Phänomen und lässt sich nicht durch eine einfache Erweiterung der Axiome beheben. Der zweite Unvollständigkeitssatz sagt aus, dass sich insbesondere die Widerspruchsfreiheit der Arithmetik nicht im axiomatischen System der Arithmetik beweisen lässt.

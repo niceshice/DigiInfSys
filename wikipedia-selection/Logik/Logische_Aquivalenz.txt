@@ -1,0 +1,141 @@
+Eine logische Äquivalenz liegt vor, wenn zwei logische Ausdrücke den gleichen Wahrheitswert besitzen.
+Der Ausdruck Äquivalenz wird in der Logik mehrdeutig verwendet:
+
+zum einen im Sinne der materialen Äquivalenz (Bikonditional)
+zum anderen im Sinne der formalen Äquivalenz (Logische Äquivalenz).Bikonditional (materiale Äquivalenz) und logische Äquivalenz (formale Äquivalenz) sind wesentlich verschiedene Begriffe. Das Bikonditional ist ein Begriff der Objektsprache, die logische Äquivalenz ist ein Begriff der Metasprache. Die Begriffe sind jedoch aufeinander bezogen: die logische Äquivalenz ist ein allgemeingültiges Bikonditional.
+Im Folgenden geht es nur um die logische Äquivalenz, nicht jedoch um das Bikonditional.Soweit ersichtlich hat sich bislang keine feste Terminologie ausgebildet. Die Logische Äquivalenz wird auch (zumeist) logische Äquivalenz geschrieben und auch formale Äquivalenz oder schlicht Äquivalenz (mit der Verwechslungsgefahr mit der materialen Äquivalenz) genannt.Hier geht es nur um die logische Äquivalenz im Sinn der klassischen, zweiwertigen Logik.Die logische Äquivalenz wird in zwei gleichwertigen definitorischen Grundformen definiert. Die Definition der logischen Äquivalenz erfolgt hier prototypisch für die aussagenlogische Äquivalenz. Daneben gibt es auch eine darauf aufbauende prädikatenlogische Äquivalenz.Eine logische Äquivalenz liegt vor, wenn zwei logische Ausdrücke den gleichen Wahrheitswert besitzen, gleichwertig sind, die gleichen Wahrheitswerte-Eintragungen in einer Wahrheitstabelle haben, „wenn sie dieselben Wahrheitsfunktionen beinhalten, d. h. dieselben möglichen Werte ein- bzw. ausschließen.“, wenn der Werteverlauf (Wahrheitstabelle) der beiden Aussagen gleich ist.
+Allgemeiner formuliert – d. h. nicht auf Aussagenlogik beschränkt – sind zwei Aussagen P und Q der klassischen, zweiwertigen Logik genau dann äquivalent, wenn beide Aussagen unter jeder möglichen Interpretation denselben Wahrheitswert annehmen.Eine logische Äquivalenz liegt vor, wenn ein Bikonditional wahr, allgemeingültig, eine Tautologie ist.
+Je nach Terminologie oder Präzision der Terminologie geht es dabei um die logische Äquivalenz von Aussageformen oder Aussageverbindungen, von Sätzen, von Teilsätzen, Aussagen, (komplexen) Aussagen oder Ausdrücken.Der Begriff der logischen Äquivalenz ist metasprachlich bzw. metatheoretisch. Mit ihm wird eine (Meta-)Aussage über die Beziehung (Relation) zweier Ausdrücke der Objektsprache getroffen.Von der Äquivalenz als metatheoretisches Konzept muss das Bikonditional als Operator (Junktor, Konnektiv) der jeweiligen logischen Objektsprache unterschieden werden, das ebenfalls oft als Äquivalenz bezeichnet wird. Diese Homonymie ist insofern unglücklich, als sie dazu verleitet, ein objekt- und ein metasprachliches Konzept zu verwechseln oder zu vermengen, und weil sie dazu zwingt, sehr genau darauf zu achten, was im jeweiligen Zusammenhang mit dem Wort „Äquivalenz“ gemeint ist. Einzelheiten: Bikonditional.„Alle Definitionen haben die Form von logisch wahren Äquivalenzen.“Die Logische Äquivalenz beschreibt die Werteverlaufsgleichheit von Aussagen, analog dem Gleichheitszeichen in der Algebra.
+So sind zwei Aussagen A, B der klassischen Aussagenlogik genau dann logisch äquivalent, wenn der Werteverlauf (Wahrheitstabelle) der beiden Aussagen gleich ist.
+„Die Funktion der Äquivalenzen in der Logik entspricht die Funktion der Gleichungen in der Mathematik.“.
+Beispiel für den Zusammenhang von logischer Äquivalenz und mathematischer Identität:
+Für alle 
+  
+    
+      
+        a
+        ,
+        b
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle a,b\in \mathbb {R} }
+   gilt 
+  
+    
+      
+        (
+        x
+        =
+        (
+        a
+        +
+        b
+        
+          )
+          
+            2
+          
+        
+        ⇔
+        x
+        =
+        
+          a
+          
+            2
+          
+        
+        +
+        2
+        a
+        b
+        +
+        
+          b
+          
+            2
+          
+        
+        )
+        ⇒
+        (
+        a
+        +
+        b
+        
+          )
+          
+            2
+          
+        
+        ≡
+        
+          a
+          
+            2
+          
+        
+        +
+        2
+        a
+        b
+        +
+        
+          b
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (x=(a+b)^{2}\Leftrightarrow x=a^{2}+2ab+b^{2})\Rightarrow (a+b)^{2}\equiv a^{2}+2ab+b^{2}}Für „A äquivalent B“ wird in der mathematischen Notation häufig ein Doppelter Pfeil nach Links und rechts verwendet (⇔, Unicode-Zeichen U+21D4 im Unicodeblock Pfeile)
+
+  
+    
+      
+        A
+        ⇔
+        B
+      
+    
+    {\displaystyle A\Leftrightarrow B}
+  Man sagt
+
+in der Mathematik:
+A ist äquivalent zu B
+A gilt genau dann, wenn B
+A gilt dann und nur dann, wenn B
+in der Logik:
+A ist logisch äquivalent zu B
+A ist werteverlaufsgleich mit B
+A ist logisch gleichwertig zu BMan schreibt auch
+
+A gdw. B (genau dann, wenn)
+A iff. B (engl. if and only if)
+A = B .Diese Schreib- und Sprechweise für die logische Äquivalenz ist abzugrenzen von der für das Bikonditional. Für die objektsprachliche Aussage „A genau dann wenn B“ (Bikonditional!) schreibt man in der Logik (unter anderem):
+
+  
+    
+      
+        A
+        ≡
+        B
+      
+    
+    {\displaystyle A\equiv B}
+   oder 
+  
+    
+      
+        A
+        ↔
+        B
+      
+    
+    {\displaystyle A\leftrightarrow B}Die „Äquivalenz ist eine Relation“ und zwar „eine Relation zwischen zwei Aussagen, die inhaltlich nicht gleich sind, aber stets gemeinsam entweder wahr oder falsch sind.“.Die Äquivalenz kann dabei als eine „dreistellige Relation zwischen zwei Dingen und einer Eigenschaft“ oder als zweistellige Relation, die schon auf eine Eigenschaft relativiert ist, verwendet werden.
+Die Äquivalenzrelation hat die Eigenschaften der Reflexivität, Symmetrie und Transitivität.In der klassischen Logik gilt das Metatheorem, dass zwei Sätze X und Y genau dann äquivalent sind, wenn das aus ihnen gebildete Bikonditional X ↔ Y eine Tautologie ist.
+Ist das Bikonditional nicht per Definition eingeführt, sondern als eigenständiger Junktor gemäß obiger Wahrheitstabelle, dann gilt das Metatheorem, dass die zwei Sätze der Form X ↔ Y und (X → Y) & (Y → X) äquivalent sind.

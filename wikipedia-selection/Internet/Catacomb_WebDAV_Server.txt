@@ -1,0 +1,12 @@
+Der Catacomb WebDAV Server ist ein WebDAV-Modul für den Apache Webserver, der das Standardmodul mod_dav um einige Zusatzfunktionen des WebDAV-Protokolls erweitert. mod_dav bringt normalerweise eine eigene Modulerweiterung mit, mod_dav_fs, bei der sowohl Inhalt als auch die Metadaten der Ressource im lokalen Dateisystem gespeichert wird.
+Catacomb ersetzt in diesem Zusammenhang mod_dav_fs mit einem Modul, das mod_dav_repos heißt und speichert Ressourcen und Metadaten in einer relationalen Datenbank. Durch die Datenbankabstraktion mit mod_dbd des Apache Projekts werden eine Vielzahl von Datenbanken unterstützt. Der Hauptvorteil dabei ist das dadurch stark verbesserte Suchverhalten des Servers, das bei der Umsetzung des Protokolls für die serverseitige Suche (DASL) benötigt wird. Auch die Erweiterung zur Versionisierung von Ressourcen (DeltaV) wird mit Hilfe des Datenbankkonzepts erreicht.
+Durch die Aufnahme des Prinzip der relationalen Datenbanken ist Catacomb in der Lage wichtige Aspekte eines typischen Dokumentenmanagement-Systems zu übernehmen: Die Fähigkeit, eine große Anzahl von Dokumenten zu speichern und über deren Metadaten zu suchen.
+Das Catacomb WebDAV-Modul ist, wie alle Produkte der Apache Software Foundation, als Open Source unter der Apache-Lizenz 2.0 verfügbar und damit kostenlos. Die letzte verfügbare Version ist die 0.9.6 von 2008.Catacomb unterstützt folgende Erweiterungen des WebDAV Protokolls:
+
+Klasse 1, 2 Fähigkeiten des RFC 2518
+Eine beliebige Anzahl von benutzereigenen dead properties
+Volle Unterstützung der live properties aus RFC 2518
+DASL Protokoll (auf Basis des letzten DASL drafts), um über live und dead Properties serverseitig zu suchen.
+Die lineare Versionisierung aus dem RFC 3253. mit Untersetzung für die HTTP-Methoden: VERSION-CONTROL, CHECKIN, CHECKOUT, UNCHECKOUT, REPORT.
+Die Möglichkeit den Inhalt einer Ressource und deren Metadaten getrennt zu speichern.Entwickelt wurde das Catacomb Modul von 2002 bis 2008 an der University of California unter der Leitung von Prof. Jim Whitehead.
+Das Catacomb Projekt hat als erstes Open-Source-Projekt die WebDAV Erweiterungen DASL und DeltaV implementiert und wird momentan vor allem durch Hilfe des DLR weiterentwickelt.

@@ -1,0 +1,692 @@
+Dies ist eine Formelsammlung zum mathematischen Teilgebiet der Logik.Logische Werte:
+
+wahr (true) 1
+falsch (false) 0Erweiterte Logik:
+
+unbestimmt (Don’t-Care) XAussagen können durch logische Operatoren, auch Junktoren genannt, verknüpft werden. Die üblichen Junktoren sind:
+
+Um die Symbole des Konjunktors und des Disjunktors leicht auseinanderhalten zu können, gibt es die Eselsbrücke mit den drei O: „Oder ist Oben Offen.“ Alternativ merkt man sich "And" (Englisch) für und, sowie "vel" (Latein) für oder.p ist Platzhalter für eine prädikatenlogische Aussageform.ϕ
+      
+    
+    {\displaystyle \phi }
+   und 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   sind im Folgenden Platzhalter für prädikatenlogische Aussageformen. Die Umformungen in Zeilen 1, 2, 4 und 5 der Tabelle gelten nur, wenn x innerhalb von 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   nicht frei vorkommt, d. h. wenn durch das Verschieben des Quantors keine Variablenbindung entsteht (bzw. aufgelöst wird), die zuvor nicht da war (bzw. da war). Die letzte Umformung gilt nur, wenn x innerhalb von 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   nicht frei vorkommt, d. h. wenn durch das Verschieben des Quantors keine Variablenbindung entsteht (bzw. aufgelöst wird), die zuvor nicht da war (bzw. da war).
+Unproblematisch ist das, wenn die Variablen in den Aussageformen 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   und 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   jeweils unterschiedlich benannt sind.⊢
+      
+    
+    {\displaystyle \vdash }
+   ist im Folgenden eine Quasiordnung zwischen Aussagen.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                   
+                
+              
+            
+            
+              
+                A
+                ⊢
+                A
+              
+            
+          
+        
+        
+        
+          
+            
+              
+                A
+                ⊢
+                B
+                
+                B
+                ⊢
+                C
+              
+            
+            
+              
+                A
+                ⊢
+                C
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c}{~}\\\hline A\vdash A\end{array}}\qquad {\begin{array}{c}A\vdash B\qquad B\vdash C\\\hline A\vdash C\end{array}}}⊤
+      
+    
+    {\displaystyle \top }
+   und 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   werden durch folgende Regeln definiert.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                   
+                
+              
+            
+            
+              
+                A
+                ⊢
+                ⊤
+              
+            
+          
+        
+        
+        
+          
+            
+              
+                A
+                ⊢
+                B
+                
+                A
+                ⊢
+                C
+              
+            
+            
+              
+                A
+                ⊢
+                B
+                ∧
+                C
+              
+            
+          
+        
+        
+          ↑
+        
+        
+          ↓
+        
+      
+    
+    {\displaystyle {\begin{array}{c}{~}\\\hline A\vdash \top \end{array}}\qquad {\begin{array}{c}A\vdash B\qquad A\vdash C\\\hline A\vdash B\land C\end{array}}{\uparrow }{\downarrow }}⊥
+      
+    
+    {\displaystyle \bot }
+   und 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+   werden durch folgende Regeln definiert.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                   
+                
+              
+            
+            
+              
+                ⊥
+                ⊢
+                A
+              
+            
+          
+        
+        
+        
+          
+            
+              
+                A
+                ⊢
+                C
+                
+                B
+                ⊢
+                C
+              
+            
+            
+              
+                A
+                ∨
+                B
+                ⊢
+                C
+              
+            
+          
+        
+        
+          ↑
+        
+        
+          ↓
+        
+      
+    
+    {\displaystyle {\begin{array}{c}{~}\\\hline \bot \vdash A\end{array}}\qquad {\begin{array}{c}A\vdash C\qquad B\vdash C\\\hline A\lor B\vdash C\end{array}}{\uparrow }{\downarrow }}→
+      
+    
+    {\displaystyle \to }
+   wird durch die Regel
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                ∧
+                B
+              
+              
+                ⊢
+              
+              
+                C
+              
+            
+            
+              
+                A
+              
+              
+                ⊢
+              
+              
+                B
+                →
+                C
+              
+            
+          
+        
+        
+          ↑
+        
+        
+          ↓
+        
+      
+    
+    {\displaystyle {\begin{array}{lcr}A\land B&\vdash &C\\\hline A&\vdash &B\to C\end{array}}{\uparrow }{\downarrow }}
+  
+definiert, und 
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \lnot }
+   per
+
+  
+    
+      
+        ¬
+        A
+        :=
+        A
+        →
+        ⊥
+      
+    
+    {\displaystyle \lnot A:=A\to \bot }
+  .
+Es gelten
+
+  
+    
+      
+        A
+        ∧
+        ¬
+        A
+        ⊢
+        ⊥
+      
+    
+    {\displaystyle A\land \lnot A\vdash \bot }
+  ,
+
+  
+    
+      
+        ¬
+        ⊤
+        ⊢
+        ⊥
+      
+    
+    {\displaystyle \lnot \top \vdash \bot }
+   und
+
+  
+    
+      
+        ⊤
+        ⊢
+        ¬
+        ⊥
+      
+    
+    {\displaystyle \top \vdash \lnot \bot }
+  .Dual zu 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \to }
+   und 
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \lnot }
+   sind 
+  
+    
+      
+        ∖
+      
+    
+    {\displaystyle \setminus }
+   und 
+  
+    
+      
+        ∼
+      
+    
+    {\displaystyle \sim }
+  .
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                ∖
+                B
+              
+              
+                ⊢
+              
+              
+                C
+              
+            
+            
+              
+                A
+              
+              
+                ⊢
+              
+              
+                B
+                ∨
+                C
+              
+            
+          
+        
+        
+          ↑
+        
+        
+          ↓
+        
+      
+    
+    {\displaystyle {\begin{array}{lcr}A\setminus B&\vdash &C\\\hline A&\vdash &B\lor C\end{array}}{\uparrow }{\downarrow }}
+  ,
+
+  
+    
+      
+        
+          ∼
+        
+        A
+        :=
+        ⊤
+        ∖
+        A
+      
+    
+    {\displaystyle {\sim }A:=\top \setminus A}
+  .
+Es gelten
+
+  
+    
+      
+        ⊤
+        ⊢
+        A
+        ∨
+        
+          ∼
+        
+        A
+      
+    
+    {\displaystyle \top \vdash A\lor {\sim }A}
+  
+
+  
+    
+      
+        
+          ∼
+        
+        ⊤
+        ⊢
+        ⊥
+      
+    
+    {\displaystyle {\sim }\top \vdash \bot }
+   und
+
+  
+    
+      
+        ⊤
+        ⊢
+        
+          ∼
+        
+        ⊥
+      
+    
+    {\displaystyle \top \vdash {\sim }\bot }
+  .Es gilt immer 
+  
+    
+      
+        ¬
+        A
+        ⊢
+        
+          ∼
+        
+        A
+      
+    
+    {\displaystyle \lnot A\vdash {\sim }A}
+  . Gilt auch 
+  
+    
+      
+        
+          ∼
+        
+        A
+        ⊢
+        ¬
+        A
+      
+    
+    {\displaystyle {\sim }A\vdash \lnot A}
+  , erhält man klassische Logik.Es sei 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   eine Abbildung. Eine beliebige Aussage 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   über Elemente von 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   kann per 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   in eine Aussage über 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  -Elemente transformiert werden. Notation: 
+  
+    
+      
+        A
+        ∘
+        f
+      
+    
+    {\displaystyle A\circ f}
+  .
+
+  
+    
+      
+        (
+        −
+        ∘
+        f
+        )
+      
+    
+    {\displaystyle (-\circ f)}
+   ist ein Funktor. Seine rechts- und linksadjungierten sind, respektive, All- und Existenzquantor. D.h.
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                ∘
+                f
+              
+              
+                
+                  ⊢
+                  
+                    X
+                  
+                
+              
+              
+                B
+              
+            
+            
+              
+                A
+              
+              
+                
+                  ⊢
+                  
+                    Y
+                  
+                
+              
+              
+                
+                  ∀
+                  
+                    f
+                  
+                
+                B
+              
+            
+          
+        
+        
+          ↑
+        
+        
+          ↓
+        
+        
+        
+          
+            
+              
+                C
+              
+              
+                
+                  ⊢
+                  
+                    X
+                  
+                
+              
+              
+                A
+                ∘
+                f
+              
+            
+            
+              
+                
+                  ∃
+                  
+                    f
+                  
+                
+                C
+              
+              
+                
+                  ⊢
+                  
+                    Y
+                  
+                
+              
+              
+                A
+              
+            
+          
+        
+        
+          ↑
+        
+        
+          ↓
+        
+      
+    
+    {\displaystyle {\begin{array}{lcr}A\circ f&\vdash _{X}&B\\\hline A&\vdash _{Y}&\forall _{f}B\end{array}}{\uparrow }{\downarrow }\qquad {\begin{array}{rcl}C&\vdash _{X}&A\circ f\\\hline \exists _{f}C&\vdash _{Y}&A\end{array}}{\uparrow }{\downarrow }}
+  .

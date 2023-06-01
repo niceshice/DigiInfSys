@@ -1,0 +1,28 @@
+Das Jakarta-Projekt war ein 1999 begonnenes Projekt der Apache Software Foundation. Es beherbergte, entwickelte und unterstützte freie Software, die in der Programmiersprache Java geschrieben wurde. Seit 2005 wurden mehr und mehr Jakarta-Projekte zu Apache-Top-Level-Projekten. Im Dezember 2009 bestand Jakarta noch aus folgenden Unterprojekten:
+Byte Code Engineering Library (BCEL): erleichtert das Analysieren, Erstellen und Manipulieren von Java-Bytecode.
+Bean Scripting Framework (BSF)
+Cactus (ehemals J2EE Unit)
+Element Construction Set (ECS)
+JCS
+Apache JMeter
+ORO
+RegexpAm 21. Dezember 2011 waren alle ehemaligen Jakarta-Projekte eingestellt oder zu Apache-Top-Level-Projekten geworden und Jakarta somit beendet.Ant
+Commons: Das Apache-Commons-Projekt enthält mehrere Dutzend kleine, wiederverwendbare Komponenten, die die Java-Library ergänzen. Viele dieser Komponenten werden auch von anderen Jakarta-Projekten genutzt.
+Excalibur
+Gump
+HttpComponents
+James
+Logging
+Lucene
+Maven
+POI: Das Ziel des POI-Projekts ist es, Bibliotheken zu entwickeln, die die von Microsoft Office verwendeten Dateiformate lesen und schreiben können
+Struts
+Tapestry
+Tomcat
+Turbine
+VelocityAvalon
+HiveMind
+Log4j (jetzt Teil des Apache-Logging-Projektes)
+Portals
+Taglibs: Bibliotheken spezieller Tags für JavaServer Pages (teilweise in Apache Taglibs übernommen)
+Watchdog

@@ -1,0 +1,18 @@
+N-Methyliminodiessigsäure ist ein dreizähniger Komplexbildner, der Chelatkomplexe mit Kationen mit einer Ladungszahl von mindestens +2, z. B. den „Wasserhärte-bildnern“ Ca2+ oder Mg2+ bildet. Als MIDA-Schutzgruppe in Borsäureestern, den so genannten Burke-Boronaten, spielt N-(Carboxymethyl)-N-methylglycin eine wichtige Rolle z. B. in Suzuki-Miyaura-Kupplungen.Die Darstellung von N-Methyliminodiessigsäure wurde bereits 1894 von Wilhelm Eschweiler aus Methylamin und Glycolnitril (hier „Methylencyanhydrin“ genannt) beschrieben.
+
+MIDA (hier „Methyldiglycolamidsäure“ genannt) wird nach Hydrolyse des N-Methyliminodiacetonitrils „in gut ausgebildeten, farblosen Säulen erhalten.“
+Die Reaktion von Methylamin mit Monochloressigsäure liefert MIDA in 63- bis 71%iger Ausbeute.
+
+Bei der Umsetzung von Iminodiessigsäure IDA mit einem Gemisch aus Ameisensäure und Formaldehyd entsteht N-Methyliminodiessigsäure in 83%iger Ausbeute.
+
+In jüngerer Zeit wurde eine ausführliche Prozessbeschreibung für diese Eschweiler-Clarke-Methylierung publiziert, nach der MIDA als weißes Pulver in 88%iger Ausbeute erhalten wird.Da Iminodiessigsäure als Schlüsselrohstoff in zwei Standardverfahren für die Herstellung des Herbizids Glyphosat in Großmengen zur Verfügung steht, sollte diese Route derzeit die ökonomisch sinnvollste sein.N-Methyliminodiessigsäure ist ein Feststoff, der als weißes Kristallpulver anfällt und in Wasser gut, in Dimethylsulfoxid und Ethanol nur wenig löslich bzw. praktisch unlöslich ist. Zur Reinigung kann die Substanz in warmem Wasser gelöst und durch Zugabe von Methanol ausgefällt werden.Die deutlich niedrigeren Komplexbildungskonstanten von N-Methyliminodiessigsäure gegenüber mehrwertigen Metallionen im Vergleich zu Standardverbindungen, wie z. B. Nitrilotriessigsäure NTA, (für Ca2+ 3,75 gegenüber 6,41 für NTA) machen MIDA als Komplexbildner für technische Anwendungen uninteressant.
+Dagegen hat N-Methyliminodiessigsäure in den letzten Jahren erhebliche Bedeutung als Schutzgruppe in funktionellen Borsäureestern, den so genannten MIDA-Boronaten oder – nach dem Autor der Erstveröffentlichung Martin D. Burke – „Burke boronates“ erlangt.
+
+MIDA-Boronate sind einfach zugänglich, problemlos handhabbar, an Luft stabil und bei Raumtemperatur mit verdünnten Basen, wie z. B. mit einmolarer Natronlauge, in die entsprechenden Borsäuren rückspaltbar.
+
+Sie haben sich als wertvolle Reagentien erwiesen wegen der besonderen Robustheit der MIDA-Boronate (im Gegensatz zu vielen empfindlichen funktionellen Borsäuren), ihrer guten Löslichkeit in verschiedenen organischen Lösungsmitteln und insbesondere ihrer Eigenschaft zur langsamen Freisetzung der synthetisch aktiven Borsäuren in Gegenwart milder Basen, wie z. B. Kaliumphosphat K3PO4, bei der Suzuki-Miyaura-Kupplung, sowie der Eignung zu iterativen Kreuzkupplungen.
+
+Eine Vielzahl von MIDA-Boronaten mit aromatischen (A), heteroaromatischen (B) oder Vinyl-(C) Substituenten ist beschrieben und kommerziell verfügbar (s. Beispiele).
+
+
+== Einzelnachweise ==

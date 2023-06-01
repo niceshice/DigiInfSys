@@ -1,0 +1,28 @@
+Das Änderungswesen (auch Änderungsmanagement bzw. ÄM (engl. engineering change management)) beschreibt Funktionen und Prozesse, die in einer Organisation etabliert werden, um Änderungen an Produkten der Organisation kontrolliert und dokumentiert vorzunehmen.
+Kernelement des Änderungswesens ist die Änderungsanforderung. Nach ihrer systematischen Erfassung durchläuft sie einen Genehmigungsprozess. Nach Freigabe erfolgt die Änderungsdurchführung zu einem vorgegebenen Zieltermin. Das Änderungswesen kann sich sowohl auf externe Produkte der Organisation beziehen, als auch auf interne Produkte, insbesondere Dokumentationen. Zeitlich spielt das Änderungswesen während des gesamten Produktlebenszyklus eine wichtige Rolle, also von der Erfindung (Invention) bis zum End of Production (EOP). Besonders kritisch ist die Koordination vor dem Produktionsstart (SOP), da sich die Entwicklungszeiten immer weiter kürzen und damit verstärkt parallel gearbeitet wird. Diese Koordination ist Teil des Anlaufmanagements.
+Mit der planvollen Änderung von Organisationen befasst sich das Veränderungsmanagement.Bei der Entwicklung von Produkten definiert in der Regel die Stückliste die Teile, die in ein Endprodukt eingehen. Mit einem Änderungsantrag wird beschrieben, welche Änderung an einer Stücklistenposition und dem dazugehörigen CAD-Modell bzw. der dazugehörigen Teilzeichnung durchgeführt werden soll und welche weiteren Stücklistenpositionen berücksichtigt werden sollen.
+Die Verwaltung von Änderungen erfolgt in Konstruktionsprojekten in einem Produktdatenmanagement-System.Im Rahmen des Projektmanagements wird unter Änderungswesen die systematische Verwaltung von Änderungen im Projektstrukturplan (PSP) verstanden.
+Aufgrund neuer Anforderungen, entdeckter Fehler oder neu gewonnener Erkenntnisse kann es sich als erforderlich erweisen, einmal aufgestellte Planungen anzupassen. Das Konfigurationsmanagement regelt den formalen Vorgang vom Antrag über dessen Genehmigung bis hin zur Plananpassung.
+Ein Änderungszyklus kann folgende Schritte umfassen:
+
+Aufnahme des Änderungswunsches, z. B. in Form eines Änderungsantrages
+Analyse des Änderungsumfanges (unter Zuhilfenahme der jeweiligen Fachabteilungen)
+Aufwandsschätzung (Material, Ressourcen, Finanzen, Zeit etc.)
+Risikoabschätzung
+Entscheidung über die Freigabe der Änderung, Beauftragung der Durchführung in den Fachabteilungen
+Durchführung und Dokumentation der Änderung
+Qualifizierung und Test des geänderten Produktes
+Freigabe des neuen Produktes
+ggf. Überführung in die Produktion
+Abschluss des ÄnderungszyklusDer Aufwand des Änderungswesens steigt mit der Komplexität des Produktes durch Wechselwirkungen im System. Wechselwirkungen entstehen an Schnittstellen zwischen Modulen.
+Der Aufwand im Änderungswesen kann durch strategische Modularisierung mit dem Ziel minimaler Schnittstellen zwischen den Modulen deutlich reduziert werden.
+Da die Modularisierung in der Konstruktion festgelegt wird, sind dort die primären Stellhebel zur Aufwandsreduktion zu finden.Speziell in der Automobilindustrie gibt es bei OEM’s teilweise mehr als 1000 Änderungsvorhaben pro Monat, die ca. 7000 interne und externe Partner betreffen können. Dabei reichen die Lösungen zur technischen Dokumentation und Umsetzung eines Änderungsvorhabens von (Papier-)Formularen und Excel-Tabellen bis zu spezialisierten IT-Lösungen, die unternehmensspezifische Komponenten enthalten.
+Aufgrund der Komplexität und Variantenvielfalt von Fahrzeugen können die Änderungsvorhaben anhand ihrer Bedeutung und ihres Umfanges unterschieden werden nach:
+Produkt-Erweiterung (z. B. neues Produktmodell) oder neue Produktvariante (s. Produktvariation)
+Produkt-Pflege (s. Modellpflege)
+Produkt-Änderung (laufende technische Änderung)Die unterschiedlichen Änderungsvorhaben haben einen signifikant anderen konstruktiven und fertigungstechnischen Aufwand und daher auch einen unterschiedlichen Zeitbedarf erfordern angepasste Änderungsprozesse im Produktentwicklungsprozess. Eine einfache technische Änderung, z. B. das Ersetzen einer einfachen Schraube durch eine höherwertige Schraube, kann innerhalb von Wochen abgewickelt werden, während die Veränderung des Produktes um und durch eine neue Produktvariante viele Monate in Anspruch nehmen kann.
+Oft sind die verschiedenen Lösungen nicht miteinander kompatibel und weisen Bearbeitungsbrüche zwischen den verschieden beteiligten Partnern auf. Dann müssen Daten zu den Änderungsvorhaben mehrfach manuell eingegeben werden.
+Durch spezifische unterschiedliche Betrachtungsweisen eines Ingenieurs oder eines Kaufmanns resultieren ebenfalls Bearbeitungsschleifen für die Lösungsfindung, da Missverständnisse zwischen den beiden Bereichen entstehen.
+Die Verteilung relevanter Informationen auf unterschiedlichen Verwaltungssystemen (Änderungsmanagement, technische Dokumente, Finanzkalkulationen) und Partner (OEM’s, Zulieferer) erschwert die Rekonstruktion des Entscheidungsprozesses bzw. macht sie unmöglich.
+Dabei kann durch Harmonisierung und Standardisierung der Teilprozesse eines Änderungsvorhabens die Bearbeitungszeit zwischen den Partnern reduziert, die Prozessqualität und -sicherheit gesteigert werden. Somit wird auch die Prozessqualität für alle Partner transparenter.
+Hierzu haben der VDA (VDA 4965), der ProSTEP iViP e.V. (PSI 3-2) und die SASIG Empfehlungen erarbeitet, wie das Änderungswesen (Engineering Change Management) in verschiedenen Anwendungsfällen umzusetzen ist.

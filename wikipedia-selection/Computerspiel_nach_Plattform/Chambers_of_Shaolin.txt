@@ -1,0 +1,4 @@
+Chambers of Shaolin ist ein 1989 für den Commodore C64, Amiga und Atari ST erschienenes Computerspiel.
+Herausgebracht wurde es von Grandslam, entwickelt vom deutschen Softwarehaus Thalion Software. Es handelt sich um ein Beat ’em up für ein bis zwei Spieler.
+Die Besonderheit dieses Spieles ist, dass man vor den eigentlichen Kämpfen und den verschiedenen Stages erst einige Shaolin-Prüfungen bestehen muss. Hierbei handelt es sich meist um Geschicklichkeitseinlagen. Je besser man bei diesen abschneidet, desto besser ist der eigene Kämpfer später im Spiel.
+Die Grafik des Spieles stammt von Monika Krawinkel, Erik Simon, Günter Schmitz und Holger Flöttmann, die Musik von Jochen Hippel. Die Programmierung übernahm Marc Rosocha. Die C64-Version wurde von Matthias Sykosch gemeinsam mit Günter Schmitz entwickelt.

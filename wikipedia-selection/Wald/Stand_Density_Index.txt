@@ -1,0 +1,64 @@
+Der Stand Density Index (SDI) ist ein Maß für die Bestandsdichte in der Forstwirtschaft, welches von Reineke 1933 in den USA entwickelt wurde. Er hatte beobachtet, dass unbewirtschaftete und vollbestockte Wälder einer bestimmten Baumart unabhängig vom Alter und der Ertragsklasse die gleiche Baumzahl pro Flächeneinheit erreichen, wenn sie denselben Mitteldurchmesser haben. Als Bezugsbasis verwendete Reineke einen Durchmesser von 10 Inch. 
+Den SDI haben Daniel und Sterba ins metrische übertragen und einen Mitteldurchmesser von 25 cm als Bezugsmaßstab verwendet. Die Formel lautet:
+
+  
+    
+      
+        S
+        D
+        I
+        =
+        N
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  d
+                  g
+                
+                25
+              
+            
+            )
+          
+          
+            1
+            ,
+            605
+          
+        
+        =
+        N
+        ⋅
+        
+          
+            (
+            
+              
+                25
+                
+                  d
+                  g
+                
+              
+            
+            )
+          
+          
+            −
+            1
+            ,
+            605
+          
+        
+      
+    
+    {\displaystyle SDI=N\cdot \left({\frac {dg}{25}}\right)^{1,605}=N\cdot \left({\frac {25}{dg}}\right)^{-1,605}}
+  
+wobei
+
+N = Stammzahl/ha
+dg = Kreisflächenmittelstamm cm

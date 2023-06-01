@@ -1,0 +1,216 @@
+Xenonsäure ist eine Säure des Edelgases Xenon. Ihre Salze sind die Xenate XeO42− und die Hydrogenxenate HXeO4−. Ihre Existenz wurde von Linus Pauling vorhergesagt.Xenonsäure kann durch Hydrolyse von Xenon(VI)-oxid XeO3 hergestellt werden, wobei nur ein kleiner Teil zur Säure reagiert.
+  
+    
+      
+        
+          
+            XeO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            XeO
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {XeO3 + H2O -> H2XeO4}}}Xenonsäure ist ein starkes Oxidationsmittel. In saurer Lösung ist es in der Lage Iod schnell zu oxidieren. Die saure Lösung ist nur schwach sauer.Durch die Hinzugabe einer Base zu Xenon(VI)-oxid kann das Hydrogenxenat-Ion HXeO4− produziert werden.
+
+  
+    
+      
+        
+          X
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          O
+          
+            H
+            
+              
+              −
+            
+          
+          ⟶
+        
+      
+    
+    {\displaystyle \mathrm {XeO_{3}+OH^{\,-}\longrightarrow } }
+   
+  
+    
+      
+        
+          H
+          X
+          e
+          
+            O
+            
+              4
+            
+            
+              
+              −
+            
+          
+           
+          K
+          =
+          1
+          
+            ,
+          
+          5
+          ⋅
+          
+            10
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HXeO_{4}^{\,-}\ K=1{,}5\cdot 10^{3}} }
+  
+Die Disproportionierung des Hydrogenxenat-Ion lässt das Perxenat-Ion XeO64− entstehen.
+  
+    
+      
+        
+          2
+           
+          H
+          X
+          e
+          
+            O
+            
+              4
+              (
+              a
+              q
+              )
+            
+            
+              
+              −
+            
+          
+          +
+          2
+           
+          O
+          
+            H
+            
+              (
+              a
+              q
+              )
+            
+            
+              
+              −
+            
+          
+        
+        ⟶
+      
+    
+    {\displaystyle \mathrm {2\ HXeO_{4(aq)}^{\,-}+2\ OH_{(aq)}^{\,-}} \longrightarrow }
+   
+  
+    
+      
+        
+          X
+          e
+          
+            O
+            
+              6
+              (
+              a
+              q
+              )
+            
+            
+              
+              4
+              −
+            
+          
+          +
+          X
+          e
+          +
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              (
+              l
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {XeO_{6(aq)}^{\,4-}+Xe+O_{2}+2\ H_{2}O_{(l)}} }
+  
+
+
+== Einzelnachweise ==

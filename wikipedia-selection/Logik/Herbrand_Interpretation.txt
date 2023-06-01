@@ -1,0 +1,373 @@
+In der mathematischen Logik ist eine Herbrand-Interpretation einer Sprache der Logik erster Stufe mit Signatur 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+   eine 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  -Interpretation 
+  
+    
+      
+        
+          
+            I
+          
+        
+        =
+        (
+        U
+        ,
+        I
+        )
+      
+    
+    {\displaystyle {\mathcal {I}}=(U,I)}
+  , bei der das Universum 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   das Herbrand-Universum über 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  , d. h. die Menge aller Terme ohne Variablen, ist, und jeder Term „durch sich selbst“ interpretiert wird. Somit lässt sich eine Herbrand-Interpretation vollständig durch die Angabe der Interpretation der Relationssymbole beschreiben.
+Formal wird jedes Funktionssymbol 
+  
+    
+      
+        f
+        ∈
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle f\in {\mathcal {S}}}
+   durch die Funktion 
+  
+    
+      
+        
+          f
+          
+            I
+          
+        
+        :
+        U
+        →
+        U
+        ;
+         
+        t
+        ↦
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f^{I}\colon U\to U;\ t\mapsto f(t)}
+   interpretiert. Die Menge 
+  
+    
+      
+        H
+        B
+      
+    
+    {\displaystyle HB}
+   der einfachen Aussagen heißt Herbrand-Basis zu 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  . Die Interpretation der Relationssymbole ist nun vollständig spezifiziert durch eine Teilmenge 
+  
+    
+      
+        
+          
+            A
+          
+        
+        ⊆
+        H
+        B
+      
+    
+    {\displaystyle {\mathcal {A}}\subseteq HB}
+   der Herbrand-Basis, wobei jedes 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -stellige Relationssymbol 
+  
+    
+      
+        R
+        ∈
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle R\in {\mathcal {S}}}
+   durch die Relation 
+  
+    
+      
+        
+          R
+          
+            I
+          
+        
+        =
+        {
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+        )
+        ∈
+        
+          U
+          
+            n
+          
+        
+        ∣
+        R
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+        )
+        ∈
+        
+          
+            A
+          
+        
+        }
+      
+    
+    {\displaystyle R^{I}=\{(t_{1},\dotsc ,t_{n})\in U^{n}\mid R(t_{1},\dotsc ,t_{n})\in {\mathcal {A}}\}}
+   interpretiert wird.Enthalte die Signatur 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   nur das Konstantensymbol 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   und das Funktionssymbol 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  . Das zugehörige Herbrand-Universum ist 
+  
+    
+      
+        D
+        
+          (
+          
+            
+              S
+            
+          
+          )
+        
+        =
+        {
+        a
+        ,
+        f
+        (
+        a
+        )
+        ,
+        f
+        (
+        f
+        (
+        a
+        )
+        )
+        ,
+        .
+        .
+        .
+        }
+      
+    
+    {\displaystyle D\left({\mathcal {S}}\right)=\{a,f(a),f(f(a)),...\}}
+  . Dann lautet die Zuordnung zwischen Funktionssymbolen und Elementen aus dem Universum:
+
+  
+    
+      
+        
+          f
+          
+            I
+          
+        
+        (
+        a
+        )
+        =
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f^{I}(a)=f(a)}
+  
+
+  
+    
+      
+        
+          f
+          
+            I
+          
+        
+        (
+        f
+        (
+        a
+        )
+        )
+        =
+        f
+        (
+        f
+        (
+        a
+        )
+        )
+      
+    
+    {\displaystyle f^{I}(f(a))=f(f(a))}
+  
+
+  
+    
+      
+        
+          f
+          
+            I
+          
+        
+        (
+        f
+        (
+        f
+        (
+        a
+        )
+        )
+        )
+        =
+        f
+        (
+        f
+        (
+        f
+        (
+        a
+        )
+        )
+        )
+      
+    
+    {\displaystyle f^{I}(f(f(a)))=f(f(f(a)))}
+  
+...

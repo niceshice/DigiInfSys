@@ -1,0 +1,17 @@
+Eine Rewrite-Engine (von englisch rewrite, „umschreiben“ und engine, „Maschine“) ermöglicht es, an einen Webserver gerichtete Anfragen intern umzuschreiben oder extern weiterzuleiten. Für den Apache-Webserver erledigt das Softwaremodul mod_rewrite diese Aufgabe. Andere Webserver wie etwa Microsoft IIS, Nginx, Lighttpd oder Hiawatha Webserver bieten ähnliche Funktionen.
+Geschaffen wurde diese Funktionalität, um nach außen ein von internen Faktoren unabhängiges Adressierungsschema zur Verfügung stellen zu können, sodass beispielsweise selbst bei einer Änderung der Dateihierarchie die URLs weiterhin gültig bleiben. Man spricht in diesem Fall auch von Permanentlinks.
+Die Rewrite-Engines erlauben, die Adressumleitung von zusätzlichen Bedingungen neben der angefragten URL abhängig zu machen, zum Beispiel von der referenzierenden URL, der User-Agent-Kennung oder der IP-Adresse des anfragenden Clients. Auf diese Weise können beispielsweise Weiterleitungen oder auch Cloaking realisiert werden.Rewrite-Engines werden häufig genutzt, um Ressourcen mit dynamischen URLs unter Alternativadressen erreichbar zu machen.
+Die Ressource mit der internen, technisch bedingten Adresse
+
+/w/index.php?title=Beispielist so beispielsweise auch unter folgender Adresse erreichbar
+
+/wiki/BeispielNach außen werden dann statt der dynamischen, parametrisierten Adressen scheinbar statische Adressen verwendet. Dies ist nützlich, da kurze, selbsterklärende Adressen meist als lesbarer, einfacher zu merken und ganz allgemein als vertrauenswürdiger eingestuft werden. Man spricht in diesem Fall auch von Clean URLs.
+Die Umsetzung des gezeigten Anwendungsfalls variiert je nach verwendeter Webserver-Software und Kontext. In der Regel werden reguläre Ausdrücke verwendet, um ein Suchmuster zu definieren, das auf ein gewünschtes Zielmuster angewendet wird. Das Suchmuster ist dabei die scheinbare statische Adresse. Das Zielmuster ist die interne oder physikalische Ressource. Die dynamischen Bereiche, also beispielsweise die Artikel-ID eines Artikels aus dem Suchmuster, werden dabei meist mit Hilfe von Variablen auf das Zielmuster übertragen.
+Folgend einige Beispiele der konkreten Umsetzung für das Apache-Modul mod_rewrite, den Webserver nginx und den Webserver Lighttpd.RewriteEngine on
+RewriteRule ^/wiki/(.*)$ /w/index.php?title=$1location /wiki {
+   rewrite ^/wiki/(.*)$ /index.php?title=$1;
+}url.rewrite-once = (
+    "^/wiki/(.*)$" => "/index.php?title=$1"
+)
+
+Der in Fettschrift markierte Teil des regulären Ausdrucks bedeutet, dass jedes beliebige Zeichen in die Variable $1 geschrieben und somit auf das Zielmuster angewendet wird.

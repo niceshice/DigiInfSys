@@ -1,0 +1,16 @@
+iTraxx SovX Western Europe Index, ein am 28. September 2009 von der Bank of America/ Merrill Lynch, Barcap, BNP Paribas; Citi; JP Morgan, Morgan Stanley und Nomura als Over-the-Counter-Instrument eingeführter Risikoindex der Markit Group of London: The Markit iTraxx SovX Western Europe will provide investors with an efficient, standardised trading tool to gain or hedge exposure to this asset class on a diversified basis.Der von Stephan Flagel betreute repräsentative Credit Default Swap Index des Kreditderivatmarktes beobachtet den Credit Default Swap (CDS) Europas in täglicher Aktualisierung: Tendenziell wird dabei eine größere erwartete Stabilität von Firmen gegenüber Europäischen Staaten sichtbar.Im Western Europe Index sind folgende Staaten erfasst:
+DBR Bundesrepublik Deutschland
+FRTR Frankreich
+GREECE Griechenland
+IRELND Irland
+BELG Belgien
+DENK Dänemark
+NORWAY Norwegen
+SPAIN Spanien
+SWED Schweden
+NETHRS Niederlande
+PORTUG Portugal
+AUST Österreich
+FINL Finland
+ITALY Italien
+UKIN United KingdomPrekär sind die vom Markt eingeschätzten Haushaltsrisiken von Griechenland, Irland, Portugal, Italien und Spanien, da der das Gesamtbild prägende Staat Griechenland selbst mit Swapgeschäften seine Staatsbilanzen geschönt hat. Allein daraus ergeben sich verschiedene Szenarien.

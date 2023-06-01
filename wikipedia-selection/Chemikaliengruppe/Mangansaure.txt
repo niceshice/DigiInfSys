@@ -1,0 +1,16 @@
+Mangansäure (Mangan(VI)-säure) ist die formale Oxosäure des Elements Mangans mit der Formel (H2MnO4). Die Mangansäure ist unbeständig, allerdings sind ihre tiefgrünen Salze (Manganate, MnO42−) wohlbekannt und isolierbar. Ein bekanntes Beispiel hierfür ist das Kaliummanganat (K2MnO4).Mangansäure kann nicht erhalten werden, da es rasch zur Disproportionierung zu MnO4− und MnO2 kommt. Dennoch kann die Säurekonstante für die zweite Dissoziation mittels Radiolyse errechnet werden:
+HMnO4− 
+  
+    
+      
+        
+           
+          ⇌
+        
+      
+    
+    {\displaystyle \mathrm {\ \rightleftharpoons } }
+   MnO42− + H+,   pKs = 7,4 ± 0,1
+
+
+== Einzelnachweise ==

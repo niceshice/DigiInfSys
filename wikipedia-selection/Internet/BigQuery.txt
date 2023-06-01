@@ -1,0 +1,5 @@
+BigQuery ist ein vollständig verwaltetes, serverloses Data Warehouse auf der Google Cloud Platform Infrastruktur, das skalierbare, kostengünstige und schnelle Analysen über Petabyte von Daten ermöglicht. Es handelt sich um eine Software as a Service (SaaS), die Abfragen mit ANSI SQL unterstützt. Außerdem verfügt es über integriertes Maschinelles Lernen.Nach einer begrenzten Testphase im Jahr 2010 war BigQuery im November 2011 auf der Google Atmosphere Konferenz allgemein verfügbar.Zu Beginn des Jahres 2013 wurden die Funktionen Big Join und Big Group Aggregations eingeführt.
+Im April 2016 erlitten die europäischen Nutzer des Dienstes einen 12-stündigen Ausfall. Im Mai 2016 wurde die Unterstützung von Google Sheets angekündigt.BigQuery bietet externen Zugriff auf die Dremel Query Servicesoftware, ein skalierbares, interaktives Ad-hoc-Abfragesystem zur Analyse schreibgeschützter verschachtelter Daten. BigQuery erfordert, dass alle Anfragen authentifiziert werden, wobei eine Reihe von Google-eigenen Mechanismen sowie OAuth unterstützt werden.
+
+
+== Einzelnachweise ==

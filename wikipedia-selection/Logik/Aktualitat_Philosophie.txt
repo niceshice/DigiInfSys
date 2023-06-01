@@ -1,0 +1,6 @@
+In der Philosophie wird in unterschiedlichen Kontexten mit entsprechend unterschiedlicher Bedeutung von Aktualität gesprochen, darunter
+
+In der Ontologie: Aktualität bezieht sich dabei auf die auf Aristoteles zurückgehende Rede von Akt und Potenz oder von ontologischen Dispositionen.
+In speziellerem Sinn kann von Gott und seinem Wesen bzw. seiner Erkenntnis als reinem Akt actus purus (ohne nicht-erfüllte Noch-Potentialität) die Rede sein.
+Ferner werden hin und wieder potenzielle und aktuale Unendlichkeit unterschieden (Realisten bezüglich mathematischer Entitäten wären beispielsweise auf eine aktuale Unendlichkeit verpflichtet, insofern beispielsweise die Klasse bzw. Reihe natürlicher Zahlen unendlich ist; derartige ontologische Verpflichtungen auf aktuale Unendlichkeiten werden dagegen von anderen Theoretikern von vornherein ausgeschlossen)
+In der Logik, genauer der Modallogik: Aktualität bedeutet hier das, was nicht nur logisch möglich oder gar logisch unmöglich ist, sondern (kontingenterweise oder notwendigerweise) wirklich der Fall ist, nach einigen Auffassungen über Modalität: dasjenige, was in einer bestimmten unter vielen möglichen Welten der Fall ist, nämlich jener Welt, in der wir (die wir einen Sprachausdruck gebrauchen oder auswerten) faktisch leben.

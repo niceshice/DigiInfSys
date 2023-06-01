@@ -1,0 +1,56 @@
+Mit dem Ausdruck logische Inversion bezeichnen Paul Lorenzen und andere Logiker den Vorgang der Umkehrung einer  Kalkülregel.
+Sei 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   eine gültige Regel eines Kalküls:
+
+  
+    
+      
+        P
+        ⇒
+        K
+      
+    
+    {\displaystyle P\Rightarrow K}
+  .Hierbei ist 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   die Prämisse und 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   die Konklusion von 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  . Dann lautet die inverse Regel:
+
+  
+    
+      
+        K
+        ⇒
+        P
+      
+    
+    {\displaystyle K\Rightarrow P}
+  .Die Inverse einer gültigen Regel ist natürlich im Allgemeinen keine im Kalkül gültige, d. h. ableitbare Regel; dies muss im Einzelfall erst nachgewiesen werden.

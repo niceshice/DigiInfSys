@@ -1,0 +1,72 @@
+Eine Liste (von italienisch lista „Leiste, Papierstreifen“) ist eine „schriftliche Zusammenstellung, Aufstellung … unter einem bestimmten Gesichtspunkt aufgeführter Personen oder Sachen“. Die Darstellung erfolgt in einer einheitlichen, sich für die jeweiligen Einzelinhalte wiederholenden Form, beispielsweise als gleichartige Zeilen, oft in einer festgelegten Sortierfolge (alphabetisch, numerisch oder chronologisch).
+Listen können manuell (handschriftlich) oder automatisiert, zum Beispiel durch Computerprogramme (siehe auch Reportgenerator) erstellt werden. Sie werden häufig auf Papier oder elektronisch in Formaten wie PDF bereitgestellt, können jedoch z. B. auch als (Teil des) Bildschirminhalt(s) auftreten. Die Inhalte sind häufig zeichenorientiert (als Text- und Zahlenfelder, auch Fließtext), doch sind in Listen auch grafische Elemente möglich.
+Grundlage für Listen sind beliebige vorhandene Informationsquellen, im Computerbereich meist Datenbestände. Durch Sortierung und Gliederung der „aufgelisteten“ Daten/Sachverhalte können Kategorien gebildet und dabei z. B. Gruppensummen und Totalsummen ausgewiesen werden. Für derartige einander hierarchisch unter-/übergeordnete Objekte (z. B. Kunde > Bestellung) oder zur Darstellung besonderer Sachverhalte (wie Summen, Fehlerhinweise) können bestimmte typografische Stilmittel (wie „hängender Einzug“, Schriftarten usw.) angewendet werden.
+Der Ausdruck „Liste“ tritt oft auch als Teilbegriff in der Bezeichnung konkreter Informationssammlungen auf (Mitarbeiterliste, Wählerliste, Einkaufsliste …) bzw. steht generell für die Art und Weise, Daten/Informationen in einer einheitlichen Form und fortlaufenden Folge darzustellen. Die Bandbreite reicht dabei vom einfachen Einkaufszettel bis zu umfassenden Verzeichnissen wie Telefonbücher u. v. a. Als „Liste“ gelten im Allgemeinen in sich abgeschlossene Dokumente/Medien (Mitgliederliste, Produktkatalog). In engerem Sinn versteht man darunter aber auch die Form, in der Informationen (‚listenmäßig‘, fortlaufend) dargestellt werden; sie kann in anderen Medien/Schriftstücken (Buch, Werbeprospekt) enthalten sein oder auch rekursiv als Liste in einer Liste (Bestellungen in der Kundenliste).
+Abgrenzung: In der Programmierung steht der Begriff „Liste“ auch für „eine verkettete Folge von Elementen eines gegebenen Datentyps“ mit einer endlichen Anzahl von Elementen. Diese Elemente können unterschiedlichen Typs sein, siehe Liste (Datenstruktur).Listen geben einen Überblick unter quantitativem Aspekt. Sie machen Mengen sichtbar, vorhandene oder/und fehlende; sie zeigen Erreichtes ebenso wie noch Fehlendes, Richtiges und Falsches. Sie ermöglichen aufgrund ihrer Anordnung (Hierarchie und Sortierung) ein einfaches Auffinden von Einzelinhalten.„Liste“ steht für den Begriff, unter dem man die Bereitstellung/Darstellung sich gleichartig wiederholender Informationen/Daten versteht. Im Sprachgebrauch werden für Listen oft andere Bezeichnungen oder Teilbezeichnungen synonym verwendet, wodurch bestimmte Wesensmerkmale oder Informationszwecke besonders zum Ausdruck gebracht werden können. Beispiele dafür sind:
+
+Verzeichnis oder Katalog werden Listen mit Inventarcharakter genannt. Sie zeigen die Elemente einer gegebenen, meist im Listentitel bezeichneten Gesamtheit (Produkte, Mitglieder). Personenverzeichnisse (wie im Katalog der Bischöfe von Schleswig) werden meist nicht 'Katalog' genannt.
+Unter der Bezeichnung Register bieten Listen in einem guten Sachbuch Suchmöglichkeiten, die über die Orientierung mittels Inhaltsverzeichnis hinausgehen. Darin wird als Einzeleintrag häufig nur ein (1) Ausdruck (Name, Ort, beliebiges relevantes Stichwort) „registriert“ – der meist auf eine Seitennummer verweist. Auch amtliche Verzeichnisse werden häufig „Register“ genannt, z. B. das Handelsregister.
+Reports oder Berichte informieren meist bestimmte Empfänger, oft in regelmäßigem Turnus und mit individuell festgelegten Zwecken (Beispiel ‚Umsatzstatistik‘: Verkaufsmengen je Produkt pro Filiale und Monat).
+Als Chronik wird eine Aufzählung/Sammlung bestimmter Sachverhalte/Ereignisse in zeitlicher Anordnung, meist für zurückliegende Zeitpunkte, bezeichnet.
+Tabelle werden Listen genannt, wenn die Einzeldaten als Datenfelder in Zeilen und Spalten, oft jeweils mit einem Rahmen umgeben, dargestellt sind. Liste/Tabelle gelten dann als Synonym. Tabellen können auch innerhalb einer Liste für sich wiederholende Einträge ausgewiesen werden (z. B. die Aufträge jedes Kunden).Zahlreiche weitere Bezeichnungen sind als Synonym zu „Liste“ bekannt, beispielsweise Übersicht, Zusammenstellung, Aufstellung, Aufzählung, Auflistung, Nachweis u. v. a.Verschiedene dieser Bezeichnungen treten auch mit anderen Wortbedeutungen als „Liste“ auf (Homonyme). Beispiele:
+
+Tabelle als Ausdruck für Datenbanktabelle: Eine Datenbanktabelle enthält i. d. R. nur die Daten eines (1) bestimmten, methodisch festgelegten Sachverhalts wie Kunde ODER Auftrag ODER Produkt; siehe dazu Entitätstyp. Listen dagegen können Daten aus unterschiedlichen Datenbanktabellen über Mechanismen der Datenbank als zusammengehörend und in beliebiger Form (nicht nur als Tabelle mit Zeilen/Spalten) darstellen und zusätzlich zum Beispiel Summen daraus bilden.
+Katalog werden auch Darstellungs-/Präsentationsmittel genannt, in denen Sachverhalte/Dinge nicht in streng einheitlicher Listen-Form und oft überwiegend bildhaft oder auch in Buchform angeboten werden. Beispiele: Ausstellungskatalog, Versandhauskatalog.
+Bericht werden auch Aufzeichnungen genannt, die nicht in Listen-/Verzeichnisform, sondern in beliebig offenem Format (Texte, Bilder …) vorliegen. Beispiele: Expeditionsbericht, Abschlussbericht.Listen können (außer für Einzelzeilen) optional aus mehreren Teilen bestehen, die sich als jeweils individuelle Zeilentypen darstellen. Diese werden, besonders bei Verwendung von Computerprogrammen, unterschiedlich bezeichnet:
+
+Listenkopf: Was ganz am Anfang der Liste steht; z. B. der Firmenname, Listentitel, Hersteller der Liste u. ä.
+Listenfuß: Am Ende der gesamten Liste; z. B. Summe/Anzahl aller in der Liste ausgewiesenen Objekte (Kunden, Aufträge …)
+Seitenkopf: Am Anfang jeder Seite; z. B. eine oder mehrere Überschriften mit der Bezeichnung der in den Einzelzeilen dargestellten Felder (Lfd.Nr  Datum  Name  Betrag …) , ggf. mit hervorgehobenen Farben/Schriftarten
+Gruppenkopf, ggf. mehrerstufig: Z. B. Name/Adresse des Kunden im Gruppenkopf_Kunde, Bestelldatum im Gruppenkopf_Auftrag
+Einzelzeile(n) oder Detailbereich: Enthält die Einzelheiten der Liste, z. B. Angaben zu einem (1) bestellten Produkt (Produktnummer, Bezeichnung, Gewicht, Preis … in einer Bestellliste).
+Gruppenfuß: Am Ende jeder Gruppe, z. B. Anzahl und Gesamtpreis bestellter Produkte im Gruppenfuß_Kunde
+Seitenfuß: Am Ende jeder Seite, z. B. das Erstellungsdatum und/oder die laufende SeitennummerDie Anzahl der Zeilen je Zeilentyp ist abhängig von den darzustellenden Informationsdetails, ggf. variable Zeilenzahl.
+Die Gliederung (und die Sortierung) ergibt sich häufig aus Attributen der aufzulistenden Daten, zum Beispiel der Kundennummer, Bestellnummer, Artikelnummer, dem Auftragsdatum oder anderen Zeitangaben.
+Sind derartige implizite Identifikatoren nicht gegeben, so werden, vor allem bei textorientierten Listen, häufig laufende Nummerierungen benutzt. Dabei werden für Einträge mit hierarchischer Struktur entsprechend unterschiedliche Formen zur Nummerierung (siehe auch Artikel Gliederung) verwendet. Beispiele:
+
+A, B, C … oder 1, 2, 3 … (nur 1 Sortier-/Gruppierungsbegriff)
+1a, 1b, 1c, 2, 3a … oder A1, A2, B1, B2, B3 … (zwei Sortierbegriffe)
+I.A.1, I.A.2 …, II.A.1 … (drei Sortierbegriffe)Bei Erstellung der Liste mittels Datenverarbeitung können derartige Strukturen mit Unterstützung eines Reportgenerators erstellt werden.Liegt in einer vertikalen Liste das alphabetisch bzw. chronologisch folgende Element unterhalb, spricht man von einer aufsteigenden Liste oder aufsteigend sortierten Liste wie im folgenden Beispiel:
+
+A… bzw. 1. Januar 2004
+B… bzw. 2. Januar 2004
+C… bzw. 3. Januar 2004
+D… bzw. 4. Januar 2004Liegt dagegen das alphabetisch bzw. chronologisch folgende Element oberhalb, spricht man von einer absteigenden Liste oder absteigend sortierten Liste wie im folgenden Beispiel:
+
+C… bzw. 3. Januar 2004
+B… bzw. 2. Januar 2004
+A… bzw. 1. Januar 2004Wird eine Liste alphabetisch sortiert (beispielsweise bei Buch- oder Filmtiteln), so wird meist der führende (bestimmte oder unbestimmte) Artikel – durch ein Komma getrennt – hintenangestellt. Das hat den einfachen Grund der besseren Übersichtlichkeit, da sonst ein Großteil der Einträge unter „D“ (der, die, das) oder „E“ (ein, eine) zu finden wäre. Beispiel:
+
+Addams Family in verrückter Tradition, Die
+Affäre in Paris, Eine
+Alte Mann und das Meer, Der
+Anatomie
+Barbarella
+Bauch des Architekten, DerUm Listeninhalte handhabbar und übersichtlich zu machen, werden für zahlreiche Sachverhalte, besonders bei durch Computerprogramme erzeugten Listen, bestimmte Stilmittel verwendet, beispielsweise und optional:
+
+Listengröße (z. B. DIN A4 o. a.) und -format (hoch oder quer)
+Schrifttypen, -Größen oder -Farben, Fettdruck zur Hervorhebung/Unterscheidung je nach Zeilentyp oder bei besonderen Situationen (z. B. Fehlerhinweisen)
+Ein- oder mehrzeilige Anordnung der gelisteten Angaben/Daten
+Hierarchische Zusammenhänge (wie Kunde > Auftrag > Produkte) als eingerückte Absätze („hängender Einzug“), mit Aufzählungszeichen („Spiegelstrichliste“)
+Überschriften – mit unterschiedlich starken und ggf. verschiedenfarbigen Rahmen oder Unterstreichungen
+Summen in Fettdruck
+Seitenwechsel nach/vor bestimmten Daten-/Zeilentypen, ggf. mit ‚bedingtem Zusammenhalten‘ bestimmter Zeilen (sonst neues Blatt)
+bedingtes Nichtanzeigen (‚verbergen‘) bestimmter DetaildatenWelche Einträge eine Liste enthält, wird stets durch eine vorher festgelegte oder durchgeführte Selektion bestimmt. So können in einer Adressenliste zum Beispiel nur die „Freunde“ oder alle Adressen aufgelistet werden. Die Auswahlfunktion gehört jedoch im engeren Sinn nicht zum Begriff „Liste“.Eine Besonderheit sind Checklisten (eigentlich Prüflisten), die einen Arbeitsablauf unterstützen. Eine Checkliste enthält Punkte mit erledigten und unerledigten Tätigkeiten oder Überprüfungen. Checklisten können Bestandteil einer sogenannten Standard Operating Procedures (SOP) sein, siehe auch Fragenkatalog.Im weiteren Sinne ist auch eine nach Netzplantechnik erstellte Übersicht eine graphisch oder tabellarisch aufbereitete Liste von Ereignissen oder Tätigkeiten, die in zeit- und/oder ereignisbezogener Abhängigkeit dargestellt werden.Der Ausdruck „Liste“ wird in zahlreichen Zusammenhängen benutzt. Dabei tragen Zusammenstellungen über bestimmte Gegenstände/Personen/Objekte usw. den Teilbegriff „Liste“ häufig in ihrem Titel:
+
+Mitgliederliste: Liste aller Mitglieder (in einem Verein),
+Mahnliste: Liste der Kunden mit rückständigen Zahlungen (im Mahnwesen),
+Mitarbeiterliste (z. B. Mitarbeiter einer bestimmten Abteilung),
+Adressenliste, Geburtstagsliste, Terminliste, Wählerverzeichnis,
+Einkaufsliste, Preisliste (z. B. als Speisenkarte).Mit festgelegten Bedeutungen ist der Begriff „Liste“ auch im Zusammenhang mit Farben bekannt:
+
+Rote Liste, Rosa Liste, Schwarze Liste, Gelbe Liste, Weiße ListeWeitere Listen mit spezieller Bedeutung sind zum Beispiel unter folgenden Bezeichnungen bekannt:
+
+Backlist, Robinsonliste, Schindlers Liste, Cibulkas Listen, WahllisteIn der Form von Listen treten zum Beispiel auch folgende Informationen im Zusammenhang Internet auf:
+
+Ergebniszeilen, die eine Suchmaschine für das Internet liefert
+Übersichten über die Börsenkurse bestimmter Wertpapiere
+Auflistung der im „Posteingang“ stehenden E-Mails; durch Anklicken einer Zeile öffnet sich die jeweilige E-Mail im Detailformat.Keine Liste wären zum Beispiel:
+
+Informationsdarstellungen auf Formularen oder Karteikarten oder z. B. die Detailanzeige einer eingegangenen E-Mail.
+Eine Website; allerdings können in ihr Listen enthalten sein, z. B. für Börsenkurse.
+Bücher und Zeitschriften sind ebenfalls keine Listen, können aber solche enthalten.

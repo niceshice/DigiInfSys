@@ -1,0 +1,190 @@
+Als Wahrheitsbaum oder Baummethode wird in der Logik eine Methode bezeichnet, Aussagen darauf zu prüfen, ob sie Tautologien sind.
+
+Hauptartikel: BaumkalkülDie Baummethode ist eine Form der Reductio ad absurdum: Die Annahme, dass eine Aussage in jedem Fall wahr ist (Tautologie), wird dadurch bewiesen, dass gezeigt wird, dass das Gegenteil nie eintreten kann. Ein Wahrheitsbaum beginnt also damit, einer Aussage den Wahrheitswert 0 (falsch) zuzuweisen. Als Nächstes wird die Aussage so gegliedert, dass jeder Fall für das Eintreten des Wahrheitswertes einen eigenen Zweig erhält, an dessen Ende alle Teilbedingungen mit entsprechenden Wahrheitswerten stehen. Mit den Enden dieser Zweige wird genauso verfahren, bis innerhalb eines Zweiges ein Widerspruch feststellbar ist. Wenn dies eintritt, ist gezeigt, dass dieser Fall nicht möglich ist und der Zweig wird (gewöhnlich mit einem x am Ende des Zweiges) geschlossen. Bleiben bis zum Ende der Aufgliederung keine Zweige widerspruchsfrei, ist gezeigt, dass die Anfangsaussage tatsächlich immer falsch ist. Damit ist bewiesen, dass die Aussage eine Tautologie ist.Als einfaches Beispiel für eine Tautologie soll die Aussage 
+  
+    
+      
+        A
+        ∨
+        ¬
+        A
+      
+    
+    {\displaystyle A\lor \neg A}
+   dienen. Sie wird offensichtlich immer wahr, da die Negation (
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \neg }
+  ) den Wahrheitswert von A umkehrt. Der Hauptoperator ist das oder (
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+  ). Es wird dann wahr, wenn mindestens eines der beiden verknüpften Elemente wahr ist.
+Wir nehmen nun also an, die Aussage wäre falsch (1 bedeutet wahr, 0 falsch).
+
+  
+    
+      
+        A
+        ∨
+        ¬
+        A
+      
+    
+    {\displaystyle A\lor \neg A}
+  :0
+Nun muss die Aussage so aufgegliedert werden, dass jeder Fall, in dem der Hauptoperator den angegebenen Wahrheitswert erhält, in einem Zweig erfasst ist. Das ist im Falle des oder nur in einem Fall möglich: beide Teile sind falsch.
+
+  
+    
+      
+        A
+        ∨
+        ¬
+        A
+      
+    
+    {\displaystyle A\lor \neg A}
+  :0
+|
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+    :0
+  
+    
+      
+        ¬
+        A
+      
+    
+    {\displaystyle \neg A}
+    :0X
+
+Es hat sich direkt ein Widerspruch ergeben: Wenn A falsch ist, müsste Nicht A zwingend wahr sein und umgekehrt. Damit ist der einzige Zweig geschlossen und gezeigt, dass das Gegenteil der Annahme, die Aussage wäre wahr, niemals eintreffen kann.Mit der Baummethode kann nicht zugleich geprüft werden, ob eine Aussage eine Tautologie oder inkonsistent (wird niemals wahr) ist. Damit kann auch streng genommen nicht die Kontingenz einer Aussage in einem einzigen Verfahren geprüft werden. Prinzipiell ist es jedoch möglich, den Wahrheitsbaum mit dem Wahrheitswert 1 zu beginnen und damit einen Inkonsistenztest durchzuführen.
+Im Folgenden soll jedoch ein Fall für einen Tautologietest mit negativem Ergebnis gezeigt werden. Die Aussage 
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+        →
+        (
+        A
+        ∧
+        B
+        )
+      
+    
+    {\displaystyle (A\lor B)\rightarrow (A\land B)}
+   ist augenscheinlich keine Tautologie. Die Aussage ist nur wahr, wenn A und B den gleichen Wahrheitswert haben.
+Die Implikation (Pfeil nach rechts) ist der Hauptoperator. Er wird nur dann falsch, wenn das Antezedens (erster Teil) wahr und das Konsequens (zweiter Teil) falsch ist.
+
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+        →
+        (
+        A
+        ∧
+        B
+        )
+      
+    
+    {\displaystyle (A\lor B)\rightarrow (A\land B)}
+   :0|
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+      
+    
+    {\displaystyle (A\lor B)}
+   :1
+
+  
+    
+      
+        (
+        A
+        ∧
+        B
+        )
+      
+    
+    {\displaystyle (A\land B)}
+   :0
+Für diesen Fall gibt es zwei Möglichkeiten: Entweder A ist wahr und B ist falsch oder A ist falsch und B ist wahr (denn: A oder B ist wahr aber A und B ist falsch).
+
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+        →
+        (
+        A
+        ∧
+        B
+        )
+      
+    
+    {\displaystyle (A\lor B)\rightarrow (A\land B)}
+   :0|
+  
+    
+      
+        (
+        A
+        ∨
+        B
+        )
+      
+    
+    {\displaystyle (A\lor B)}
+   :1
+  
+    
+      
+        (
+        A
+        ∧
+        B
+        )
+      
+    
+    {\displaystyle (A\land B)}
+   :0
+/        \
+|        |
+A :1       A :0
+B :0       B :1
+
+Keiner der beiden entstandenen Zweige enthält einen Widerspruch. Damit gibt es zwei Fälle, für die die Aussage falsch wird.

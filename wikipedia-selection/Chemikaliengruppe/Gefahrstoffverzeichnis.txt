@@ -1,0 +1,8 @@
+Ein Gefahrstoffverzeichnis gibt einen Überblick über die in einem Betrieb (sinngemäß auch Schule, Amt, Apotheke …) verwendeten Gefahrstoffe.
+
+Deutschland: Die Pflicht zur Führung eines Gefahrstoffverzeichnisses ergibt sich aus der Gefahrstoffverordnung und der TRGS 400, Abschnitt 5.8.
+In  Österreich lautet die offizielle Bezeichnung: "Verzeichnis gefährlicher Arbeitsstoffe nach Dok-VO". Die Dok-VO ist die Verordnung des Bundesministers für Arbeit und Soziales über die Sicherheits- und Gesundheitsschutzdokumente, BGBl. Nr. 478/1996 in der Fassung der Verordnung BGBl. II Nr. 53/1997.
+In der Schweiz gilt der Interkantonale Leitfaden über die Lagerung gefährlicher Stoffe. Der Fachbegriff lautet hier "Lagerliste" (Abschnitt 9.1, 5. Absatz).Zur Erstellung eines Gefahrstoffverzeichnisses wird sinnvollerweise eine Datenbanksoftware verwendet, für die es je nach Tätigkeitsbereich (z. B. Chemiesammlung einer Schule, Materiallager einer Apotheke, eines chemisch-pharmazeutischen Betriebs, …) unterschiedliche Anpassungen gibt. In allen Fällen ist vorgeschrieben, dass die zugehörigen Sicherheitsdatenblätter ausgedruckt oder digital zur Hand sein müssen, dass Zugang und Aufbewahrung des Gefahrstoffverzeichnisses/ der Lagerliste mit der Betriebsleitung vereinbart sein müssen und dass gewährleistet ist, dass im Not- oder Gefahrenfall (Diebstahl, Brand, Sabotage) Auskunft an Polizei und Feuerwehr gegeben werden kann.
+
+
+== Einzelnachweise ==

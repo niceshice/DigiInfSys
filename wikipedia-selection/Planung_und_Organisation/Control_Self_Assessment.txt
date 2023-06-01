@@ -1,0 +1,5 @@
+Control Self Assessment (CSA) (Selbstbeurteilung Interner Kontrolle) ist ein Konzept zur gezielten Sammlung und Auswertung von Informationen zu organisations- und/oder prozessbezogenen Zielen, Risiken und Kontrollen. 
+Es gibt zwei grundlegende Vorgehensweisen, Workshops oder Erhebungen. 
+Bei einem als Befragung durchgeführten Control Self Assessment füllen ein oder mehrere befragte Einheiten Fragebögen aus, die selbständig oder zentral ausgewertet werden können. Diese Befragung kann den Einheiten (Menschen, Gruppen, Abteilungen, Regionen, …) helfen sich ihrer Ziele, Risiken, Schwächen oder Stärken bewusst zu werden.
+Ein CSA kann den Umfang eines kleinen Tests, bis hin zu einer großen Befragung haben. 
+Das Ergebnis ist für jede teilnehmende Einheit einzeln auswertbar und nicht von der Größe der befragten Gruppe abhängig.

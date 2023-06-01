@@ -1,0 +1,72 @@
+Als Liegezeit (englisch laytime) wird in der Schifffahrt allgemein der Zeitraum verstanden, den Wasserfahrzeuge im Hafen verbringen. In der Frachtschifffahrt steht der Begriff für die Zeit, die für die Be- oder Entladung eines Schiffes zur Verfügung steht.Die Liegezeit ist der Oberbegriff für die Lade-, Lösch- und Überliegezeit von Schiffen. Der Verfrachter will die Beförderung so schnell wie möglich durchführen, weil der Hafenaufenthalt mit den hohen Kosten des Hafengelds verbunden ist und deshalb das Schiff für neue Aufträge frei werden soll. Die Begrenzung der Liegezeit ist daher im Interesse des Verfrachters, um die Transportkosten zu senken. Die Liegezeit ist deshalb unproduktiv, weil die der Entladung vorausgegangene oder der Beladung folgende Schiffsreise erst zu Frachteinnahmen führt.Nach § 529 Abs. 1 HGB hat der Verfrachter dem Befrachter die Ladebereitschaft anzuzeigen, sobald das Schiff am Ladeplatz zur Einnahme des Frachtgutes bereit ist. Nach den Bestimmungen des HGB beginnt mit dem auf die Anzeige folgenden Tag (auch Sonntag oder Feiertag) die kostenlose Ladezeit (§ 530 HGB). Abweichend von den Bestimmungen des HGB ist dies in Frachtverträgen vielfach individuell geregelt. Wartet der Verfrachter auf Grund vertraglicher Vereinbarung oder aus Gründen, die nicht seinem Risikobereich zuzurechnen sind, über die Ladezeit hinaus (Überliegezeit), so hat er Anspruch auf eine angemessene Vergütung, das so genannte Liegegeld (§ 530 Abs. 3 HGB). Korrespondierend darf der Verfrachter am Löschplatz kostenlos auf die Abnahme der Ladung warten (Löschzeit; § 535 Abs. 1 HGB).
+Der Beginn der Liegezeit setzt mithin die Lade- oder Löschbereitschaft, die Bereitschaftsanzeige des Kapitäns hierzu und den Ablauf einer Zeitspanne nach der Abgabe der Bereitschaftsanzeige voraus. Die Zeitdauer, die die Schiffsbesatzung oder die Schauerleute zur Vorbereitung der Hafenanlagen benötigen, gehört ebenfalls zur Liegezeit. Die Dauer der Liegezeit wird üblicherweise im Frachtvertrag vereinbart; sie kann auch durch örtliche Hafenordnungen geregelt sein. Sicherheitskontrollen, Zollkontrollen oder Warten auf Wasserstandstiefen sind ebenfalls Bestandteil der Liegezeit. Auch Zeiten für die Verholung innerhalb eines Hafens und die An- und Ablegemanöver können zur Liegezeit gezählt werden. Dies ist insbesondere bei Containerfeederschiffen der Fall, die in einem Hafen oft mehrere Terminals zum Laden bzw. Löschen anlaufen.Die Gesamtliegezeit eines Schiffs im Hafen 
+  
+    
+      
+        
+          T
+          
+            L
+          
+        
+      
+    
+    {\displaystyle T_{L}}
+   wird deshalb definiert als:
+
+  
+    
+      
+        
+          T
+          
+            L
+          
+        
+        =
+        
+          T
+          
+            H
+          
+        
+        +
+        
+          T
+          
+            U
+          
+        
+      
+    
+    {\displaystyle T_{L}=T_{H}+T_{U}}
+  ,also den Zeiten für Festmachen, Zollkontrollen und anderen Tätigkeiten 
+  
+    
+      
+        
+          T
+          
+            H
+          
+        
+      
+    
+    {\displaystyle T_{H}}
+   sowie frachtmengenunabhängigen Umschlagszeiten 
+  
+    
+      
+        
+          T
+          
+            U
+          
+        
+      
+    
+    {\displaystyle T_{U}}
+  . Die Höhe des Hafengelds richtet sich nach der Schiffsgröße, dessen Tiefgang sowie nach der Dauer dieser Gesamtliegezeit. Das Hafengeld ist Bestandteil der Transportkosten, die zur Fracht gehören. Deshalb ist es für die Wettbewerbsfähigkeit von Häfen erforderlich, die Liegezeiten der Schiffe durch ausreichende Anzahl von Liegeplätzen und den schnellen Umschlag mit effizienten Umschlaggeräten zu minimieren.Die Dauer der Liegezeit ist einerseits abhängig von der Güte der Hafeneinrichtungen, vor allem der Lösch- und Ladeeinrichtungen: je vollkommener diese sind, umso schneller wird das Schiff den Hafen verlassen können. Noch größeren Einfluss auf die Liegezeit hat andererseits die Zahl der Liegeplätze im Hafen, damit Schiffe nicht auf ihre Abfertigung warten müssen.Bei Kreuzfahrtschiffen wird die Liegezeit auch dadurch bestimmt, wie schnell die Passagiere vom Landgang zurückkehren. Das hängt von der Vielfalt des touristischen Angebots vor Ort und der Entfernung der Ausflugsziele vom Hafen ab. Die Auswahl der Häfen erfolgt auch unter dem Aspekt, von dort möglichst kurze Tagesausflüge anzubieten und die Reisenden nicht zu überanstrengen.
+
+
+== Einzelnachweise ==

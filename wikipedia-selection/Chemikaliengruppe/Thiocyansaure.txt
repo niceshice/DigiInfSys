@@ -1,0 +1,122 @@
+Thiocyansäure (veraltet: Rhodanwasserstoffsäure) ist eine instabile chemische Verbindung mit der Summenformel HSCN. Sie ist das Schwefel­analogon der Cyansäure HOCN. Ihre Salze und Ester werden Thiocyanate genannt.Die Darstellung von Thiocyansäure kann durch Reaktion von Schwefelwasserstoff mit Quecksilber(II)-cyanid erfolgen. Die Herstellung wässriger Lösungen der Säure erfolgt praktischerweise durch Zersetzung einer wässrigen Lösung von Ammoniumthiocyanat mit verdünnter Schwefelsäure. Noch besser ist die Reaktion von Bariumthiocyanat mit verdünnter Schwefelsäure geeignet, da hierbei das schwerlösliche Bariumsulfat aus dem Gleichgewicht entfernt wird und nur die Thiocyansäure in Lösung verbleibt.
+
+  
+    
+      
+        
+          2
+           
+          N
+          
+            H
+            
+              4
+            
+          
+          S
+          C
+          N
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          2
+           
+          H
+          S
+          C
+          N
+          +
+          (
+          N
+          
+            H
+            
+              4
+            
+          
+          
+            )
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ NH_{4}SCN+H_{2}SO_{4}\longrightarrow 2\ HSCN+(NH_{4})_{2}SO_{4}} }
+  
+  
+    
+      
+        
+          B
+          a
+          (
+          S
+          C
+          N
+          
+            )
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          2
+           
+          H
+          S
+          C
+          N
+          +
+          B
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+          ↓
+        
+      
+    
+    {\displaystyle \mathrm {Ba(SCN)_{2}+H_{2}SO_{4}\longrightarrow 2\ HSCN+BaSO_{4}\downarrow } }Thiocyansäure ist eine farblose flüchtige Verbindung, welche einen Schmelzpunkt von 5 °C besitzt. Sie ist gut in Wasser und wenigen organischen Lösungsmitteln löslich. Thiocyansäure ist instabil und nur bei niedrigen Temperaturen beständig. Wässrige Lösungen sind bis zu 5 % HSCN-Gehalt beständig und bilden eine sehr starke Säure. Höhere Konzentrationen ergeben als Zersetzungsprodukte Cyanwasserstoff und Perthiocyansäure. Thiocyansäure (links) liegt in einem tautomeren Gleichgewicht mit der Isothiocyansäure (rechts) vor, wobei das Gleichgewicht auf der linken Seite, also bei der Thiocyansäure liegt:
+Des Weiteren existiert mit dem Thiazirin (einem Schwefelderivat des Azirins) ein heterocyclisches Thiocyansäureisomer, welches intermediär auftreten kann:
+
+
+== Einzelnachweise ==

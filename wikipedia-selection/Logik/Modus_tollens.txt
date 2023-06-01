@@ -1,0 +1,115 @@
+Modus tollens (lat. für „Modus des Aufhebens“, wörtlich: „aufhebender Modus“), eigentlich Modus tollendo tollens (in Abgrenzung zum Modus ponendo tollens), ist eine Schlussfigur, die in etlichen Kalkülen der klassischen Logik als Schlussregel verwendet wird. Er besagt, dass aus den Voraussetzungen „Wenn 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , dann 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  .“ und „Nicht 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  .“ auf „Nicht 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  .“ geschlossen werden kann.
+Der lateinische Name Modus tollendo tollens, „durch Aufheben aufhebende Schlussweise“, erklärt sich daraus, dass es sich um eine Schlussfigur (modus) handelt, die bei gegebener erster Prämisse, 
+  
+    
+      
+        A
+        →
+        B
+      
+    
+    {\displaystyle A\rightarrow B}
+  , durch das „Aufheben“ (tollendo) des Satzes B, also durch das Setzen seiner Verneinung, 
+  
+    
+      
+        ¬
+        B
+      
+    
+    {\displaystyle \neg B}
+  , einen anderen Satz, nämlich 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , ebenfalls „aufhebt“ (tollens), also zu seiner Verneinung, 
+  
+    
+      
+        ¬
+        A
+      
+    
+    {\displaystyle \neg A}
+  , führt.
+Der Modus tollendo tollens ist damit ein Gegenstück zum Modus ponendo ponens.Obwohl der Modus tollendo tollens eine Schlussregel, also ein metasprachliches Konzept ist, wird die Bezeichnung Modus tollens gelegentlich auch für objektsprachliche Ausdrücke der folgenden Gestalt verwendet:
+
+  
+    
+      
+        (
+        ¬
+        B
+        ∧
+        (
+        A
+        →
+        B
+        )
+        )
+        →
+        ¬
+        A
+      
+    
+    {\displaystyle (\neg B\land (A\rightarrow B))\rightarrow \neg A}
+  
+Aussagen dieser Form sind in den meisten aussagenlogischen Kalkülen Tautologien, d. h. immer wahr. Da aber Schlussregeln und Aussagen unterschiedliche Konzepte sind, ist es wissenschaftlich betrachtet nicht glücklich, die beiden Begriffe mit derselben Bezeichnung zu benennen. Generell ist die Vermischung von Objekt- und Metasprache problematisch.Die logische Äquivalenz der Aussagen 
+  
+    
+      
+        A
+        →
+        B
+      
+    
+    {\displaystyle A\rightarrow B}
+   und 
+  
+    
+      
+        ¬
+        B
+        →
+        ¬
+        A
+      
+    
+    {\displaystyle \neg B\rightarrow \neg A}
+   folgt aus den Definitionen der Subjunktion und der Negation.Nach dem Kritischen Rationalismus ist der Modus (tollendo) tollens die grundlegende Schlussweise  der wissenschaftlichen Forschung. Dabei ist A eine abstrakte hypothetische Theorie, B ein Beobachtungssatz, der aus der Theorie folgt. Wissenschaftliche Experimente haben die Funktion, durch Beobachtung festzustellen, ob B wahr oder falsch ist. Ist B falsch, dann auch die ihm zugrundeliegende Theorie, die damit falsifiziert ist.

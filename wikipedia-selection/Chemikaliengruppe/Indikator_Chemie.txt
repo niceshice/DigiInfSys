@@ -1,0 +1,295 @@
+Indikatoren (lat. indicare, „anzeigen“) sind allgemein Hilfsmittel, die gewisse Informationen anzeigen sollen. Sie gestatten die Feststellung von Zuständen und die Verfolgung von Abläufen, indem sie das Erreichen oder Verlassen bestimmter Zustände anzeigen.
+In der Chemie versteht man unter einem Indikator einen Stoff oder auch ein Gerät, das zur Überwachung einer chemischen Reaktion bzw. eines Zustandes dient. Häufig wird ein Zustand durch eine bestimmte Farbe, die Änderung durch eine Farbveränderung angezeigt. Am häufigsten werden Indikatoren bei Titrationen verwendet.
+Je nachdem, welche Art von chemischen oder physikalischen Zuständen oder Reaktionen man mit einem Indikator verfolgt, unterscheidet man zwischen den folgenden Typen von Indikatoren:
+
+pH-Indikatoren (bei Säure-Base-Titrationen und zur Bestimmung des pH-Wertes)
+Redox-Indikatoren (bei Redox-Titrationen)
+Komplexindikatoren (bei der Komplexometrie)
+Thermoindikatoren (zur Anzeige eines Temperaturbereichs)Ein dafür oft verwendetes Beispiel sind die Indikatoren, die den pH-Wert bestimmter Stoffe anhand eines Vergleiches mit einer Farbskala anzeigen. Oft verwendet man hier Lackmus, Bromthymolblau oder Phenolphthalein. Letzteres zeigt nur bei Zugabe einer alkalischen Lösung einen Farbwechsel.
+Es gibt für eine genauere Messung des pH-Wertes auch Universalindikatoren. Diese werden, meist in Form eines Papierstreifens, mit der zu prüfenden Lösung benetzt, anschließend vergleicht man die Färbung des Papierstreifens mit der Farbskala. Man spricht nun entweder von einer sauren, alkalischen oder neutralen Lösung.
+Die folgende Tabelle zeigt die Farben von verschiedenen Indikatoren in Abhängigkeit vom pH-Wert an.
+
+Sie unterscheiden sich
+
+in den Farben, die sie in sauren, neutralen oder alkalischen Lösungen haben
+in dem pH-Bereich, in welchem der Wechsel zwischen den beiden Farben stattfindet (diesen pH-Bereich nennt man auch Umschlagsbereich, der bei pKa ± 1 liegt).Auch Rotkohlsaft kann als pH-Indikator verwendet werden. Der im Rotkohlsaft enthaltene Farbstoff Cyanidin kann dabei Farben von rot = sauer bis blau = alkalisch annehmen (im noch stärker alkalischen Milieu wird er grün und bei pH > 10 sogar gelb). Je nach Zubereitungsart nimmt Rotkohlgemüse eine mehr rote Färbung an (etwa durch Zugabe von Apfelstücken oder etwas Essig), oder eine violette bis blaue Färbung (Zubereitung mit basisch reagierendem Haushalts-Natron), was der ebenfalls geläufige Name Blaukraut zum Ausdruck bringt.
+Teetrinker kennen die Abhängigkeit der Teefarbe vom Säuregehalt: Wird dem Schwarztee Zitronensaft zugegeben, dann wechselt die Farbe von dunkelbraun auf hellrötlichbraun. Auch dieser Farbumschlag ist auf Farbstoffe im Tee zurückzuführen, die wie Indikatoren wirken.Die Moleküle der Säure-Base-Indikatoren sind selbst schwache Säuren (oder Basen), das heißt, sie können Protonen abgeben oder aufnehmen. Das Molekül der Indikatorsäure wird vereinfacht als HInd bezeichnet. Nach Abgabe eines Protons bleibt Ind−, die so genannte korrespondierende Indikatorbase, zurück.
+Das Protolyse-Gleichgewicht für die Abgabe beziehungsweise Aufnahme eines Protons bei einer wässrigen Indikator-Lösung ist das folgende:
+
+  
+    
+      
+        
+          H
+          I
+          n
+          
+            d
+            
+              (
+              a
+              q
+              )
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              (
+              l
+              )
+            
+          
+          ⇋
+          I
+          n
+          
+            d
+            
+              (
+              a
+              q
+              )
+            
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              (
+              a
+              q
+              )
+            
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HInd_{(aq)}+H_{2}O_{(l)}\leftrightharpoons Ind_{(aq)}^{-}+H_{3}O_{(aq)}^{+}} }
+  Das Indikator-Molekül kann also ein Proton abgeben aber auch wieder aufnehmen.
+Bei einer hohen Konzentration an H3O+-Ionen (also in einer sauren Lösung), findet verstärkt die Reaktion nach links statt, wodurch die Konzentration von HInd (Indikatorsäure) größer ist als die Konzentration Ind−. Bei einer sehr geringen Konzentration an H3O+-Ionen (also in einer alkalischen Lösung) findet verstärkt die Reaktion nach rechts statt, wodurch die Konzentration von Ind− größer ist als die Konzentration HInd.
+Dieser Sachverhalt wird besonders deutlich, wenn man das Massenwirkungsgesetz auf die oben genannte allgemeine Gleichung anwendet. Dann gilt mit konstantem 
+  
+    
+      
+        
+          K
+          
+            s
+          
+        
+      
+    
+    {\displaystyle K_{s}}
+  :
+
+  
+    
+      
+        
+          K
+          
+            s
+          
+        
+        =
+        
+          
+            
+              c
+              (
+              
+                
+                  I
+                  n
+                  d
+                
+                
+                  −
+                
+              
+              )
+              ⋅
+              c
+              (
+              
+                
+                  
+                    H
+                    
+                      3
+                    
+                  
+                  O
+                
+                
+                  +
+                
+              
+              )
+            
+            
+              c
+              (
+              
+                H
+                I
+                n
+                d
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle K_{s}={c(\mathrm {Ind} ^{-})\cdot c(\mathrm {H_{3}O} ^{+}) \over c(\mathrm {HInd} )}}
+  Wie üblich wird die konstante Konzentration des Wassers in die Konstante mit einbezogen.
+Zu beachten ist, dass die Konzentration des H3O+ in einer anderen Größenordnung liegt als die des Indikators. Wenn nun diese Konzentration stark erhöht oder erniedrigt wird – je nachdem, ob die Lösung sauer oder basisch wird – muss sich das Gleichgewicht neu einstellen, denn Ks ist konstant. Deshalb muss sich die Konzentration von Ind− stark verändern, wodurch gleichzeitig, da HInd aus Ind− entsteht, die Konzentration von HInd sich entsprechend stark in die andere Richtung bewegen muss. Deshalb erfolgt der Indikatorumschlag im Allgemeinen sehr schnell.
+Die eigentliche Wirkung des Indikators beruht darauf, dass die Verbindung HInd eine andere Farbe besitzt als Ind−. Als Folge der Protonierung bzw. Deprotonierung des Indikators ändert sich dessen Mesomeriestabilisierung. In saurer Lösung überwiegt die Konzentration von HInd, so dass die Lösung die Farbe der protonierten Form annimmt. Erhöht man den pH-Wert, so steigt die Konzentration von Ind−, während die Konzentration von HInd abnimmt, bis erstere schließlich überwiegt und die Lösung die Farbe von Ind− annimmt (siehe z. B. Phenolphthalein). Die unterschiedliche Farbe von protonierten und nichtprotonierten Farbstoffmolekülen bezeichnet man als Halochromie.
+Der Umschlagspunkt des Indikators ist dadurch charakterisiert, dass
+
+  
+    
+      
+        c
+        (
+        H
+        I
+        n
+        d
+        )
+        =
+        c
+        (
+        I
+        n
+        
+          d
+          
+            −
+          
+        
+        )
+      
+    
+    {\displaystyle c(HInd)=c(Ind^{-})}
+  . An diesem Punkt gilt also auch, da die beiden Terme sich in der oben genannte Gleichung des Massenwirkungsgesetzes dann wegkürzen, 
+  
+    
+      
+        
+          K
+          
+            s
+          
+        
+        =
+        c
+        (
+        
+          H
+          
+            3
+          
+        
+        
+          O
+          
+            +
+          
+        
+        )
+      
+    
+    {\displaystyle K_{s}=c(H_{3}O^{+})}
+   und 
+  
+    
+      
+        p
+        
+          K
+          
+            s
+          
+        
+        =
+        p
+        H
+      
+    
+    {\displaystyle pK_{s}=pH}
+  . Der pH-Wert der Lösung am Umschlagspunkt entspricht also theoretisch der 
+  
+    
+      
+        p
+        
+          K
+          
+            s
+          
+        
+      
+    
+    {\displaystyle pK_{s}}
+  -Konstante des Indikators. Der für das menschliche Auge wahrnehmbare Umschlagspunkt weicht davon oft ab, da das menschliche Auge den Farbwechsel erst ab einem Konzentrationsverhältnis von 9:1 erkennen kann. Der pH-Bereich, der als Mischfarbe zu erkennen ist, wird Umschlagsintervall genannt.Beim Titrieren wird durch die quantitativ genau bekannte Zugabe einer Säure bzw. einer Lauge (Titrationsmittel) der pH-Wert eines Puffersystems so weit verschoben, dass die zu bestimmende Base bzw. Säure (Titrand) vollständig neutralisiert ist. Der pH-Indikator stellt aber ebenfalls ein Puffersystem dar, das gleichzeitig Hydroxidionen bzw. Oxoniumionen aus den Titrationsmittel verbraucht. Die Konzentration von Indikatoren in der Titrationslösung liegt meist in der Größenordnung von 10−4 mol/l. Bei wesentlich konzentrierteren Titranden spielt der Indikator kaum eine Rolle. In der Analytik natürlichen Wassers jedoch liegt die Pufferkonzentration der Wasserinhaltsstoffe je nach Wasserhärte bei der gleichen bis etwa 10-fach höheren Konzentration. Deshalb kann der Indikator hier einen bedeutenden Fehler verursachen.
+Ein weiteres Problem kann dadurch entstehen, dass der Indikatorfarbstoff meist in Form einer alkoholischen Lösung zugegeben wird. Alleine dadurch kann das ganze Puffersystem seine Eigenschaften verändern.Der einfachste Einsatz von Redox-Indikatoren ist die Bestimmung des Endpunktes bei Redox-Titrationen (Oxidimetrie).
+Gängige Redox-Indikatoren sind:
+
+Methylenblau
+Neutralrot
+Ferroin
+Dichlorphenolindophenol (DCPIP)
+ResazurinMögliche Anwendung ist die maßanalytische Bestimmung der Konzentration von Metallionen, zum Beispiel die komplexometrische Titration. Eine typische Anwendung ist die Wasserhärtebestimmung.
+Bekannte komplexometrische Indikatoren:
+
+Murexid
+Tiron
+Thorin
+Calconcarbonsäure
+Eriochromschwarz T
+Diphenylcarbazon
+Xylenolorange
+Fura-2
+Furaptra
+Calcein
+Aequorin
+Indo-1Solvatochrome Indikatoren ändern ihre Farbe nach dem umgebenden Lösungsmittel.
+
+Brookers Merocyanin
+Reichardt-FarbstoffSpannungsabhängige Farbstoffe ändern ihre Farbe nach der elektrischen Spannung
+
+Merocyanin 540
+DiBAC4
+ANNINE-6
+ANNINE-6plus
+DI-4-ANEPPS
+DI-8-ANEPPS
+RH237
+VSFP
+PROPSThermoindikatoren werden oft dort eingesetzt, wo die Temperatur nicht einfach mit dem Thermometer gemessen werden kann. Beispielsweise wird ein Schmelztiegel mit Thermokreide markiert und das Erreichen einer gewünschten Temperatur in der Flamme durch die Verfärbung der Thermokreide angezeigt. Auch eine hinreichende Abkühlung kann durch Thermochrome angezeigt werden.
+Thermoindikatoren als Aufkleber beruhen auf Flüssigkristallen. Es gibt reversibel und irreversibel reagierende Varianten. Letztere sind insbesondere dafür geeignet, an bei Betrieb unsichtbaren Stellen das Überschreiten bestimmter Temperaturwerte zu registrieren.
+Siehe ferner Segerkegel.Mischindikatoren sind Gemische von verschiedenen Indikatoren, wodurch der Umschlagbereich erweitert wird oder mehrere Umschlagsbereiche erzeugt werden. Zu den Mischindikatoren gehören auch die Kontrastindikatoren. Ein gebräuchliches Beispiel für einen Mischindikator ist Tashiro.Kontrastindikatoren bestehen meist aus einem Indikator und einem Farbstoff, der seine Farbe beibehält. Durch diesen Zusatz wird der Kontrast des Umschlagbereich verstärkt. Ein gebräuchliches Beispiel für einen Kontrastindikator ist Eriochromschwarz T in Mischung mit Methylorange.Feuchtigkeitsindikatoren führen einen Farbwechsel aus, wenn bestimmte Luftfeuchtigkeitswerte überschritten werden, denen sie ausgesetzt sind. Die Farbwechselreaktion beruht auf Wasseraufnahme, daher spielt die Zeit der Einwirkung ebenfalls eine Rolle. Am bekanntesten ist das blaue, mit Kobaltchlorid versetzte Silicagel (Blaugel), welches sich bei Feuchtigkeitseinfluss nach violett bzw. pink verfärbt.
+Es wird, auf Papier aufgetragen, feuchteempfindlichen Warensendungen beigegeben oder in hermetisch abgedichteten Baugruppen hinter Schaugläsern untergebracht.
+Aufgrund der Giftigkeit des Kobaltsalzes werden auch kobaltfreie Alternativen angeboten (Orangegel).Fluoreszenzindikatoren sind Stoffe, die ihre Fluoreszenz am Äquivalenzpunkt einer Titration ändern. Ebenfalls als Fluoreszenzindikatoren werden Leuchtstoffe bezeichnet, die der stationären Phase (Trennschicht) von Platten für die Dünnschichtchromatographie beigemischt werden. Sie ermöglichen es, farblose Substanzen unter einer UV-Lampe infolge Fluoreszenzlöschung zu erkennen.

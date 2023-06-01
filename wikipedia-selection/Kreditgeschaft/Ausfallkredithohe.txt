@@ -1,0 +1,185 @@
+Die Ausfallkredithöhe (oder das Ausfallvolumen; Abkürzung EaD von englisch exposure at default) ist im Bankwesen ein bankenaufsichtsrechtlicher Risikoparameter zur Messung der Kreditrisiken. Weitere Bezeichnungen sind Kredithöhe zum Zeitpunkt des Ausfalls, Forderungshöhe bei Ausfall und Kreditvolumen bei Ausfall.
+Das Ausfallvolumen als Parameter stellt eine Schätzung für die tatsächliche Kredithöhe im Zeitpunkt eines Ausfalls eines Kreditnehmers an.Neben der Ausfallkredithöhe (EaD) gibt es als Risikoparameter noch die Ausfallwahrscheinlichkeit (PD) und die Ausfallverlustquote (LGD). Alle drei Parameter sind hypothetische Größen, die auf stochastischen Wahrscheinlichkeiten beruhen.
+Diese Parameter wurden erstmals im Januar 2007 in allen EU-Mitgliedstaaten eingeführt, in Deutschland durch die Solvabilitätsverordnung. Deren aufsichtsrechtliche Funktion hat seit Januar 2014 die ebenfalls in allen EU-Mitgliedstaaten geltende Verordnung (EU) Nr. 575/2013 (Kapitaladäquanzverordnung) (englische Abkürzung CRR) übernommen. Sie sieht für diese Parameter Legaldefinitionen vor. Danach handelt es sich bei der Ausfallkredithöhe um „die Forderungshöhe sämtlicher auf den … Schuldner bezogener Risikopositionen“ (Art. 261 Abs. 1 CRR). In Art. 304 Abs. 4 CRR wird die EaD („Forderungshöhe bei Ausfall“) als Berechnungsgrundlage für Clearing-Mitglieder erwähnt.Die Ausfallkredithöhe (EaD) ist allgemein das Kreditvolumen, das wahrscheinlich im Zeitpunkt des Ausfalls eines Kreditnehmers noch aussteht, also potenziell nicht zurückgezahlt wird (Forderungsausfall). Als Berechnungsgrundlagen werden in der Fachliteratur alternativ die Wertkonventionen Buchwert, Nominalwert oder Marktwert angeführt. Im klassischen Kreditgeschäft entspricht die Ausfallkredithöhe im Regelfall zunächst dem Buchwert aller Forderungen gegenüber einem Kreditnehmer. Die EZB wiederum sieht in der Ausfallkredithöhe den „Nominalwert der Verschuldung des Kreditnehmers zu dem Zeitpunkt, an dem dieser seinen Verpflichtungen nicht mehr nachkommen kann“. Buchwert und Nominalwert sind jedoch aus bankbetrieblichen Gründen wenig geeignet, den bei Ausfall entstehenden wirtschaftlichen Schaden zu quantifizieren, weil bei Forderungsausfall die Wiederbeschaffung einer vergleichbaren Kreditposition nur zum aktuellen Marktwert im Ausfallzeitpunkt möglich ist. Deshalb sind bei der Schätzung der Ausfallkredithöhe die voraussichtlichen Wiederbeschaffungskosten eines alternativen Kreditvolumens anzusetzen.
+Bei der Ermittlung der Ausfallkredithöhe sind die Kreditarten unterschiedlich zu berücksichtigen. Tilgungsdarlehen (Ratenkredite und Annuitätendarlehen) werden regelmäßig getilgt, so dass in der Regel im Zeitpunkt des Kreditausfalls bereits ein gegenüber dem Ausgangskredit verringertes Kreditvolumen vorhanden ist. Bei endfälligen Darlehen oder nicht regelmäßig zu tilgenden Kreditarten (Kontokorrentkredit, Dispositionskredit, Lombardkredit, revolvierender Kredit oder Stand-by-Kredit) ist die Höhe der Ausnutzung der ursprünglichen Kreditlinien und Fazilitäten zum Ausfallzeitpunkt zu schätzen. Von entscheidender Bedeutung für die Risikohöhe sind derartige Kreditlinien und Fazilitäten, weil ihre Inanspruchnahme im Zeitverlauf schwanken kann. Zwischen dem Rating des Kreditnehmers und der Inanspruchnahme (Exposure) derartiger Kreditlinien besteht eine positive Korrelation, so dass bei sich verschlechternder Bonität die Wahrscheinlichkeit einer höheren Kreditinanspruchnahme zunimmt.Teilweise in Anspruch genommene Kreditzusagen mit über einem Jahr Laufzeit, bei denen ein Kündigungsrecht fehlt, werden zur Ermittlung der Ausfallkredithöhe wie folgt berücksichtigt:
+
+  
+    
+      
+        
+          EaD
+        
+        =
+        
+          K
+          
+            L
+          
+        
+        ⋅
+        50
+        
+        %
+        +
+        
+          K
+          
+            A
+          
+        
+        ⋅
+        100
+        
+        %
+      
+    
+    {\displaystyle {\text{EaD}}=K_{L}\cdot 50\,\%+K_{A}\cdot 100\,\%}
+  .Dabei sind
+
+  
+    
+      
+        
+          K
+          
+            L
+          
+        
+      
+    
+    {\displaystyle K_{L}}
+   die nicht in Anspruch genommene Kreditlinie und
+
+  
+    
+      
+        
+          K
+          
+            A
+          
+        
+      
+    
+    {\displaystyle K_{A}}
+   die in Anspruch genommene Kreditlinie.Der in Anspruch genommene Teil der Kreditlinie wird demnach zu 100 %, der nicht in Anspruch genommene Teil zu 50 % beim EaD berücksichtigt.
+Die Ausfallkredithöhe bezieht sich wie die Ausfallwahrscheinlichkeit auf die Kreditnehmereinheit (Konzern), da im Normalfall nicht ein einzelner Kredit, sondern ein Schuldner mit sämtlichen Krediten ausfällt. Die Ausfallkredithöhe ist mithin die gesamte Inanspruchnahme an Krediten eines Kreditnehmers zum Zeitpunkt des Ausfalls. Die Legaldefinition in Art. 261 Abs. 1 CRR bringt dies zum Ausdruck. Bereits bestehende Einzelwertberichtigungen sind bei der Ausfallkredithöhe ebenso nicht zu berücksichtigen wie vorhandene Kreditsicherheiten – diese werden als Reduktion der Ausfallverlustquote (das entspricht einer Erhöhung der komplementären Erlösquote) berücksichtigt.Kreditinstitute, die beim Rating den Kreditrisiko-Standardansatz oder den IRB-Basisansatz wählen, bekommen die Ausfallkredithöhe (EaD) von der Bankenaufsicht als Standardwert vorgegeben. Diese Institute müssen lediglich die Ausfallwahrscheinlichkeit (PD) selbst schätzen. Nur Institute, die den fortgeschrittenen IRB-Ansatz anwenden, müssen die EaD selbst wie folgt ermitteln:
+
+  
+    
+      
+        
+          EL
+        
+        =
+        
+          PD
+        
+        ⋅
+        
+          LGD
+        
+        ⋅
+        
+          EaD
+        
+      
+    
+    {\displaystyle {\text{EL}}={\text{PD}}\cdot {\text{LGD}}\cdot {\text{EaD}}}
+  Hierin sind:
+
+  
+    
+      
+        
+          EL
+        
+      
+    
+    {\displaystyle {\text{EL}}}
+   die erwartete Ausfallsumme (englisch expected loss),
+
+  
+    
+      
+        
+          PD
+        
+      
+    
+    {\displaystyle {\text{PD}}}
+   die Ausfallwahrscheinlichkeit (englisch probability of default) und
+
+  
+    
+      
+        
+          LGD
+        
+      
+    
+    {\displaystyle {\text{LGD}}}
+   die Ausfallverlustquote (englisch loss given default).Ab Januar 2017 gilt für Gegenparteiausfallrisiken aus Derivaten und Geschäften mit langer Abwicklungsfrist die folgende Berechnungsformel:
+
+  
+    
+      
+        
+          EaD
+        
+        =
+        α
+        ⋅
+        (
+        
+          RC
+        
+        +
+        
+          PFE
+        
+        )
+      
+    
+    {\displaystyle {\text{EaD}}=\alpha \cdot ({\text{RC}}+{\text{PFE}})}
+  .Hierin sind:
+
+  
+    
+      
+        α
+        =
+        1
+        
+          ,
+        
+        4
+      
+    
+    {\displaystyle \alpha =1{,}4}
+   eine regulatorische Vorgabe, die eventuell später geändert wird,
+
+  
+    
+      
+        
+          RC
+        
+      
+    
+    {\displaystyle {\text{RC}}}
+   die Austausch-Kosten (englisch replacement costs)
+
+  
+    
+      
+        
+          PFE
+        
+      
+    
+    {\displaystyle {\text{PFE}}}
+   die künftige potenzielle Inanspruchnahme (englisch potential future exposure).Für diese beiden Größen gibt es Berechnungsregeln in Abhängigkeit von der Forderungsklasse (Zinsderivate, Devisenderivate, Kreditderivate, Aktienderivate, Commodity-Derivate), dem Margining, der hinterlegten Kreditsicherheit, dem Marktwert des Portfolios, der Laufzeit und einigem mehr. Dabei sind die eigentlichen Rechenschritte meist elementarer Art; die Komplexität des Modells ergibt sich insbesondere aus den zahlreichen Fallentscheidungen.Der Risikoparameter Ausfallkredithöhe (EaD) gibt bei Krediten die Restkredithöhe zum Ausfallzeitpunkt eines Kreditnehmers an. In empirischen Untersuchungen wurde festgestellt, dass eine starke positive Korrelation zwischen dem Rating und der Ausfallkredithöhe besteht. Denn Kreditnehmer mit schlechteren Ratings neigen eher dazu, ihre Kreditlinien in der Unternehmenskrise voll auszuschöpfen als Kreditnehmer besserer Bonitäten.
+
+
+== Einzelnachweise ==

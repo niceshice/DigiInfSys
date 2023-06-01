@@ -1,0 +1,5 @@
+Carnegie Airborne Observatory ist ein Fernerkundungssystem für die makroökologische Forschung. Es ermöglicht u. a. die Katalogisierung und 3D-Modellierung von tropischen Regenwäldern.
+Das System wurde im Carnegie Institution's Department of Global Ecology der Stanford University entwickelt. Technisch kombiniert das System optische, chemische und laserbasierte Sensoren, um hochauflösende Bilder zu erzeugen und Daten für dreidimensionale Karten der Vegetationsstruktur zu sammeln. Das System wird an Bord von Flugzeugen bei Überfliegungen eingesetzt. Laut Carnegie hat das System eine Kapazität, um eine Fläche von 40.000 acres Regenwald auf seine chemischen und spektralen Konditionen (Lichtreflexionen) zu untersuchen.
+
+
+== Einzelnachweise ==

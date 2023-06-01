@@ -1,0 +1,6 @@
+Eriochromschwarz T ist ein Azofarbstoff, der als Indikator in der Komplexometrie und bei der Wasserhärtebestimmung eingesetzt wird. Die intensive Farbe wird durch die Azogruppe bedingt und die Wasserlöslichkeit durch die Sulfonsäuregruppe.Wässrige Lösungen von Eriochromschwarz sind bis zu einem pH-Wert von 6,3 weinrot. Die Sulfonsäure ist hier deprotoniert und die beiden Hydroxygruppen protoniert. Durch Zugabe von Basen werden die beiden Hydroxygruppen stufenweise deprotoniert und die Lösung färbt sich zunächst tiefblau (Dianion). Bei weiterer Erhöhung des pH-Werts findet bei pH 11,5 ein Farbumschlag nach orange statt (Trianion). Diese Indikatoranionen bilden nun mit zweiwertigen Metallionen einen schwachen purpurgefärbten Komplex, der durch Zugabe eines stärkeren Komplexbildners wie zum Beispiel EDTA wieder zerstört wird. Um einen größeren Kontrast am Umschlagspunkt zu erzeugen, wird Eriochromschwarz T häufig als Mischindikator mit Methylorange verwendet. Hiermit erfolgt der Farbumschlag von Rot über einen grauen Zwischenton nach Grün.
+
+Struktur von Eriochromschwarz T bei verschiedenen pH-Werten und des entsprechenden Metallkomplexes
+
+
+== Einzelnachweise ==

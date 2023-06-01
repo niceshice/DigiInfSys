@@ -1,0 +1,24 @@
+Das Funktionendiagramm (Funktionsmatrix, engl. activity distribution chart) wurde 1929 von Eva und Ernst Hijmans entwickelt. Es ordnet die einzelnen Aufgaben den beteiligten Stellen und die entsprechende Kompetenz in Form einer zweidimensionalen Matrix zu. Das Funktionendiagramm verknüpft die Prozesse der Ablauforganisation mit den Strukturen der Aufbauorganisation.
+Das Beispiel zeigt ein einfaches Funktionendiagramm:
+
+Stelle 1 obliegt die Kontrolle von Aufgabe A und die Planung von Aufgabe C.
+Stelle 2 obliegt die Entscheidung über Aufgabe A und die Kontrolle über Aufgabe B.
+Stelle 3 ist für die Ausführung von Aufgabe A zuständig und hat gleichzeitig eine Gesamtfunktion (X) für die Aufgaben B und C
+Stelle 4 übernimmt eine Gesamtfunktion (X) für Aufgabe DAus den Zeilen des Funktionendiagramms wird ersichtlich, wie die Funktionen zur Lösung einer Sachaufgabe auf verschiedene Stellen verteilt werden. Die Zeilen sind somit eine Grundlage für Arbeitsablaufdarstellungen. Aus den Spalten sind die Funktionen ersichtlich, die von einzelnen Stellen an verschiedenen Sachaufgaben zu erfüllen sind. Die Spalten sind dadurch Grundlage für die Erstellung von Stellenbeschreibungen. Im Gegensatz zu einer Stellenbeschreibung enthält ein Funktionendiagramm wesentlich weniger Informationen über die einzelnen Stellenaufgaben, es vermittelt dafür aber eine Übersicht der beteiligten Stellen.
+Vorteile
+
+Kompetenzkonflikte werden durch klare Zuweisung verhindert
+Präzise Vorgaben für die Stellenbesetzung und Personalentwicklung
+Organisatorische Mängel lassen sich leicht erkennen
+Niedriger ÄnderungsaufwandNachteile
+
+Abgrenzungsschwierigkeiten bei der Aufgabengliederung
+Gefahr der Überorganisation durch zu starke Formalisierung
+Aufgrund der schematischen Darstellung lassen sich detaillierte Regelungen nicht darstellen
+Behinderung von Initiative und KreativitätKooperative Prozesse
+Bei kooperativen Prozessen fallen die oben genannten Nachteile weg, denn sie sind auf eine „Fließband“-Philosophie zurückzuführen. Ein einfaches Funktionendiagram, mit kooperativen Funktionen und klarer Verantwortung für die Gesamtleitung und die einzelnen Bereichs-/Fach-/Projektleitungen, kann für Übersichten sowohl bei einfachen wie bei komplexen (Projekt-)Organisationen eingesetzt werden.Das folgende Beispiel zeigt ein einfaches Funktionendiagramm, in dem die leitenden Funktionen und die Mitarbeit dargestellt sind:
+
+(Fach-)Stelle 1 übernimmt die GesamtLeitung von Aufgabenbereich A und die Mitarbeit im Aufgabenbereich C.
+(Fach-)Stelle 2 übernimmt die Fachliche Leitung von Aufgabenbereich A und die Mitarbeit in den Aufgabenbereichen B und D.
+(Fach-)Stelle 3 übernimmt die Mitarbeit in den Aufgabenbereichen A und D und gleichzeitig die Fachliche Leitung in den Aufgabenbereichen B und C
+(Fach-)Stelle 4 übernimmt die GesamtLeitung des Aufgabenbereichs DBemerkung: Überall dort, wo es die Kompetenzordnungen der Beteiligten verlangt haben, hat man die, rein formelle, Gesamtleitung einer der Fachleitungen zugeordnet.

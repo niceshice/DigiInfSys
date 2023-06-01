@@ -1,0 +1,215 @@
+Arsensäure (auch Arsen(V)-säure genannt) ist die von Diarsenpentaoxid abgeleitete Säure mit der Summenformel H3AsO4. Es ist eine dreiprotonige, mittelstarke Säure und etwa so stark wie Phosphorsäure. Die Salze der Arsensäure heißen Arsenate.Arsensäure bildet sich durch Lösen von Arsenpentaoxid in Wasser:
+
+  
+    
+      
+        
+          A
+          
+            s
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇌
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          A
+          s
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {As_{2}O_{5}+3\ H_{2}O\rightleftharpoons 2\ H_{3}AsO_{4}} }
+  
+Das Gleichgewicht dieser chemischen Reaktion kann zur linken Seite verschoben werden. Durch Entzug von Wasser beispielsweise mit Phosphorpentoxid bildet sich aus Arsensäure wieder Arsenpentaoxid.
+Eine weitere Reaktion zur Darstellung von Arsensäure ist die Oxidation von Arsen oder Arsen(III)-oxid mit Hilfe konzentrierter Salpetersäure. Dabei bildet sich das Hemihydrat:
+
+  
+    
+      
+        
+          A
+          s
+          +
+          5
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          5
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              3
+            
+          
+          A
+          s
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {As+5\ HNO_{3}\longrightarrow 5\ NO_{2}+H_{2}O+H_{3}AsO_{4}} }
+  
+
+  
+    
+      
+        
+          A
+          
+            s
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+        
+      
+    
+    {\displaystyle \mathrm {As_{2}O_{3}+2\ HNO_{3}+3\ H_{2}O\longrightarrow } }
+   
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          A
+          s
+          
+            O
+            
+              4
+            
+          
+          ⋅
+          
+            
+              
+                1
+                2
+              
+            
+          
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {N_{2}O_{3}+2\ H_{3}AsO_{4}\cdot {\tfrac {1}{2}}H_{2}O} }
+  
+Das Dihydrat (H3AsO4 · 2H2O) ist nur über die Kristallisation während mehrerer Tage bei −30 °C zugänglich.Feste Arsensäure entzieht der Luft sehr schnell Wasser und bildet Hydrate: H3AsO4 · ½H2O beziehungsweise H3AsO4 · 2H2O bei −30 °C. Beim Erhitzen auf 100 °C entsteht As2O5 · 1,66H2O, über 300 °C wird alles Wasser freigesetzt.
+Eine gesättigte wässrige Lösung ist ungefähr 80%ig.Arsensäure wurde im Dezember 2011 aufgrund seiner Einstufung als krebserzeugend (Carc. 1A) in die Kandidatenliste der besonders besorgniserregenden Stoffe (Substance of very high concern, SVHC) aufgenommen. 
+Im August 2014 wurde Arsensäure danach in das Verzeichnis der zulassungspflichtigen Stoffe mit dem Ablauftermin für die Verwendung in der EU zum 22. August 2017 aufgenommen. 
+Als Arsenverbindung unterliegt Arsensäure außerdem den Beschränkungen im Anhang XVII, Nummer 19 der REACH-Verordnung.
+
+
+== Einzelnachweise ==

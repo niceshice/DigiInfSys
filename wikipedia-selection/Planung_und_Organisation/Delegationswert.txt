@@ -1,0 +1,526 @@
+Der Delegationswert ist ein Konzept der entscheidungsorientierten Organisationstheorie, das sich mit der Frage beschäftigt, wann ein Aufgabenträger (im Rahmen der Delegationswert-Theorie als Instanz bezeichnet, z. B. ein Manager) ein Problem besser selbst entscheidet und wann er diese Entscheidung besser an einen anderen Entscheidungsträger (z. B. Mitarbeiter oder Beratungsunternehmen) delegiert.Betrachtet wird folgende Situation:
+Eine Instanz steht vor einem Objektentscheidungsproblem (Was soll getan werden). Ihr stehen dabei die Alternativen 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+      
+    
+    {\displaystyle A_{1}}
+   bis 
+  
+    
+      
+        
+          A
+          
+            A
+          
+        
+      
+    
+    {\displaystyle A_{A}}
+   zur Verfügung. Die Konsequenzen dieser Alternativen hängen auch von den in der Zukunft eintretenden Umweltzuständen 
+  
+    
+      
+        
+          S
+          
+            1
+          
+        
+      
+    
+    {\displaystyle S_{1}}
+  bis 
+  
+    
+      
+        
+          S
+          
+            S
+          
+        
+      
+    
+    {\displaystyle S_{S}}
+   ab.
+Die Instanz möchte den erwarteten Gewinn maximieren.
+Die Instanz kann dieses Objektentscheidungsproblem nun an jemanden delegieren und muss dabei entscheiden ob sie dies tut und an wen sie delegiert (Organisationsentscheidungsproblem).
+Die Instanz hat das Objektentscheidungsproblem bereits in Form einer Ergebnismatrix gegliedert. Sie kann also zu jeder Umweltzustand eine Eintrittswahrscheinlichkeit 
+  
+    
+      
+        W
+        (
+        
+          S
+          
+            S
+          
+        
+        )
+      
+    
+    {\displaystyle W(S_{S})}
+   angeben und für alle Alternativen und Umweltzuständen den entsprechenden Gewinn angeben. Diese Annahme ist zwar Einschränkend, wenn die Instanz jedoch gar keine Vorstellungen über das Objektproblem hat, so fehlt ihr auch die Basis zur Entscheidung über die Delegation.
+Die Instanz trifft ihre Entscheidung auf Basis des Gewinnerwartungswertes. Die Möglichkeit, zusätzliche Informationen einzuholen wird vernachlässigt.
+Die Instanz erwägt die Delegation da sie vermutet, dass die möglichen Entscheidungsträger mehr/bessere Informationen über die Eintrittswahrscheinlichkeiten haben oder beschaffen können oder sie besser prognostizieren können.
+Folgende Delegationen sind möglich
+Delegation an einen einzelnen Entscheidungsträger (eventuell unterstützt durch einen Stab)
+Zerlegung des Problems in Teilprobleme und Delegation an mehrere Entscheidungsträger.
+Delegation an ein Gremium, wobei die Instanz die Abstimmungsregel selbst bestimmt.
+Die Instanz gibt als Ziel vor den Gewinnerwartungswert zu maximieren.
+Die Instanz hat die Möglichkeit die Ergebnisse der Alternativen zu Ändern z. B. durch gewährung von Erfolgsprämien
+Die Delegation verursacht grundsätzlich Kosten in Form von Ausgaben oder Opportunitätskosten. Die Kosten sind selten sicher bekannt; es wird jedoch davon ausgegangen, dass wenigstens ihr Erwartungswert angegeben werden kann.Entscheidet die Instanz selbst, so wählt sie diejenige Alternative die den höchsten Gewinnerwartungswert E hat.
+  
+    
+      
+        E
+        =
+        
+          ∑
+          
+            s
+            =
+            1
+          
+          
+            S
+          
+        
+        w
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+        
+          G
+          
+            
+              
+                
+                  a
+                  ^
+                
+              
+            
+            s
+          
+        
+        =
+        
+          max
+          
+            a
+          
+        
+        
+          ∑
+          
+            s
+            =
+            1
+          
+          
+            S
+          
+        
+        w
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+        
+          G
+          
+            a
+            s
+          
+        
+      
+    
+    {\displaystyle E=\sum _{s=1}^{S}w(S_{s})G_{{\hat {a}}s}=\max _{a}\sum _{s=1}^{S}w(S_{s})G_{as}}
+  
+-Gas ist dabei der Gewinn der Alternative a, falls der Umweltzustand s eintritt
+-â ist der Index derjenigen Alternative die den höchsten Gewinnerwartungswert aufweistFür einen positiven Delegationswert ist es nötig (aber nicht hinreichend), dass der potentielle Entscheidungsträger, seine Entscheidung von den Wahrscheinlichkeiten der Umweltzustände abhängig macht. Wählt er mit Sicherheit eine bestimmte Alternative, so kann die Instanz selbst diese Alternative wählen. Wählt der potentielle Entscheidungsträger zufällig zwischen den Alternativen, wobei sie die erste Alternative mit der Wahrscheinlichkeit 
+  
+    
+      
+        
+          w
+          
+            1
+          
+        
+      
+    
+    {\displaystyle w_{1}}
+  , die zweite mit 
+  
+    
+      
+        
+          w
+          
+            2
+          
+        
+      
+    
+    {\displaystyle w_{2}}
+   wählt, so erzielt die Instanz denselben Erwartungswert, wenn sie nach einem Zufallsmechanismus entscheidet der dieselben Wahrscheinlichkeiten liefert.
+Der Delegationswert berechnet sich nach folgender Formel:
+
+  
+    
+      
+        W
+        D
+        =
+        E
+        D
+        −
+        E
+      
+    
+    {\displaystyle WD=ED-E}
+  
+WD - Delegationswert
+ED - Erwartungswert bei Delegation
+E - Erwartungswert bei Entscheidung durch die Instanz
+Um den Erwartungswert bei Delegation zu berechnen (ED) müssen zunächst die bedingten Wahrscheinlichkeiten eingeführt werden:
+
+  
+    
+      
+        p
+        (
+        
+          A
+          
+            a
+          
+        
+        
+          |
+        
+        
+          S
+          
+            S
+          
+        
+        )
+        :=
+      
+    
+    {\displaystyle p(A_{a}|S_{S}):=}
+   Wahrscheinlichkeit (Im Urteil der Instanz) dafür, dass bei Delegation die Alternative 
+  
+    
+      
+        
+          A
+          
+            a
+          
+        
+      
+    
+    {\displaystyle A_{a}}
+   gewählt wird, wenn in Zukunft der Umweltzustand 
+  
+    
+      
+        
+          S
+          
+            s
+          
+        
+      
+    
+    {\displaystyle S_{s}}
+   eintritt.Wenn der Umweltzustand 
+  
+    
+      
+        
+          S
+          
+            s
+          
+        
+      
+    
+    {\displaystyle S_{s}}
+   eintritt, so wird bei Delegation der folgende Gewinnerwartungswert (vor Abzug der Kosten) erzielt:
+
+  
+    
+      
+        E
+        D
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+        =
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            A
+          
+        
+        p
+        (
+        
+          A
+          
+            a
+          
+        
+        
+          |
+        
+        
+          S
+          
+            s
+          
+        
+        )
+        
+          G
+          
+            a
+            s
+          
+        
+      
+    
+    {\displaystyle ED(S_{s})=\sum _{a=1}^{A}p(A_{a}|S_{s})G_{as}}
+  
+Allgemein gilt dann für den Gewinnerwartungswert bei Delegation (vor Abzug der Kosten)
+
+  
+    
+      
+        E
+        D
+        =
+        
+          ∑
+          
+            s
+            =
+            1
+          
+          
+            S
+          
+        
+        w
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+        E
+        D
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+      
+    
+    {\displaystyle ED=\sum _{s=1}^{S}w(S_{s})ED(S_{s})}
+   was sich umformen lässt zu
+
+  
+    
+      
+        E
+        D
+        =
+        
+          ∑
+          
+            s
+            =
+            1
+          
+          
+            S
+          
+        
+        w
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            A
+          
+        
+        p
+        (
+        
+          A
+          
+            a
+          
+        
+        
+          |
+        
+        
+          S
+          
+            S
+          
+        
+        )
+        
+          G
+          
+            a
+            s
+          
+        
+      
+    
+    {\displaystyle ED=\sum _{s=1}^{S}w(S_{s})\sum _{a=1}^{A}p(A_{a}|S_{S})G_{as}}
+  
+Daraus folgt:
+
+  
+    
+      
+        W
+        D
+        =
+        
+          ∑
+          
+            s
+            =
+            1
+          
+          
+            S
+          
+        
+        w
+        (
+        
+          S
+          
+            s
+          
+        
+        )
+        [
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            A
+          
+        
+        p
+        (
+        
+          A
+          
+            a
+          
+        
+        
+          |
+        
+        
+          S
+          
+            s
+          
+        
+        )
+        
+          G
+          
+            a
+            s
+          
+        
+        −
+        
+          G
+          
+            
+              
+                
+                  a
+                  ^
+                
+              
+            
+            s
+          
+        
+        ]
+      
+    
+    {\displaystyle WD=\sum _{s=1}^{S}w(S_{s})[\sum _{a=1}^{A}p(A_{a}|S_{s})G_{as}-G_{{\hat {a}}s}]}
+  
+In eckigen Klammern steht der positive oder negative Zuwachs des Gewinnerwartungswertes bei Delegation gegenüber der Entscheidung durch die Instanz.
+
+
+== Einzelnachweise ==

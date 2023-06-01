@@ -1,0 +1,17 @@
+Als Vorwärtsverkettung (engl.: forward chaining oder forward reasoning) bezeichnet man eine Strategie zur Verknüpfung von Regeln in einem System zur Ableitung logischer Folgerungen, einer sogenannten Inferenzmaschine. Auf der Basis einer Regel, die in der Form
+
+wenn Faktum, dann Folgerung
+
+repräsentiert wird, kann eine einfache Schlussfolgerung gezogen werden. Häufig will man jedoch komplexere Schlussfolgerungen aus mehreren gegebenen Regeln ziehen. Eine Möglichkeit hierzu besteht in der Verkettung von Regeln. Die Vorwärtsverkettung geht dabei transitiv vor, d. h. aus einem Faktum wird anhand einer Regel und einer Inferenzmethode (z. B. modus ponens) eine Schlussfolgerung gezogen, die wiederum als Prämisse und mittels einer weiteren Regel für eine weitere Schlussfolgerung verwendet wird usw. Da von einem meist fallspezifischen Faktum ausgegangen wird, bezeichnet man diese Inferenzstrategie auch als datengetriebene Inferenz.
+Eine verwandte Inferenz-Strategie besteht in der Rückwärtsverkettung.Arbeitsspeicher: X, Y, Z
+Regelwissensbasis:
+
+X, Y -> S
+S, Z -> T
+S, Y -> A
+Y, T -> B
+X, T -> CZiel: C steht im Arbeitsspeicher
+Konfliktresolution:
+
+Ignoriere Regeln, die bereits im Arbeitsspeicher stehende Symbole erneut hinzufügen
+Berücksichtige Regeln gemäß ihrer Reihenfolge im RegelspeicherMögliche Lösung:

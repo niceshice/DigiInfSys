@@ -1,0 +1,61 @@
+Die perniziöse Anämie (lateinisch Anaemia perniciosa, kurz Perniziosa, von perniziös = schädlich, verderbend), auch Morbus Biermer oder Biermersche Anämie (benannt nach Anton Biermer) und Addisonsche Anämie oder Addison-Anämie (benannt nach Thomas Addison) genannt, ist eine Form der Anämie (Blutarmut), die auf einem Mangel an Vitamin B12 beruht. Im engeren Sinn wird der Begriff perniziöse Anämie (M. Biermer) nur für die Formen verwendet, bei denen die Bildung des intrinsischen Faktors gestört ist.
+Vitamin B12 spielt eine bedeutende Rolle in der Blutbildung und beim Abbau von sogenannten ungradzahligen Fettsäuren; außerdem ist es für die Synthese der DNA wichtig.
+Vitamin B12 kann ausschließlich von Mikroorganismen produziert werden. Diese finden sich in der Darmflora von Tieren und auch des Menschen. Das Vorkommen in tierischen Lebensmitteln wie Leber ist durch die Speicherung des aufgenommenen Vitamin B12 im tierischen Organismus begründet. Der tägliche Bedarf beträgt 2–6 µg. Das Vitamin wird aus der Nahrung im Darm mit Hilfe eines speziellen, im Magen ausgeschütteten Eiweißmoleküls (intrinsischer Faktor) aufgenommen, welches das Vitamin bindet und es so vor einer Zerstörung schützt. Im Zwölffingerdarm findet parallel eine passive Aufnahme durch Diffusion statt. Diese ist proportional zur vorliegenden Menge Vitamin B12, wobei rund 1–5 % des freien Cobalamins durch die passive Diffusion über die Darmschleimhaut resorbiert werden.Ein Mangel an B12 kann zu einer Anämie und/oder vielfältigen neurologischen Schäden führen. Unbehandelt kann er zum Tod führen.infolge eines Mangels an intrinsischem Faktor
+Probleme im resorbierenden Abschnitt des Darmes (terminales Ileum)
+möglicherweise durch intensiven Gebrauch von Magensäure hemmenden Mitteln wie z. B. Pantoprazol, sogenannter „Magenschutz“
+Anwendung von Distickstoffmonoxid (N2O, Lachgas) bei Operationen, Betäubungen oder beim Missbrauch als Droge.Dieser Faktormangel entsteht entweder als Folge einer Typ-A-Gastritis, (einer Autoimmungastritis, bei der Antikörper gegen die Parietalzellen und den intrinsischen Faktor gerichtet sind), also eine chronische Entzündung der Magenschleimhaut,
+oder durch eine Entfernung des Magenabschnittes (Gastrektomie), in dem der intrinsische Faktor gebildet wird, also Corpus und Fundus. Eine Typ-B-Gastritis führt typischerweise nicht zu einem Vitamin-B12-Mangel, da hier in der Regel das Antrum betroffen ist.durch erhöhten Vitamin-B12-Verbrauch durch Parasiten im Darm (Würmer)
+verminderter Gehalt in der Nahrung, z. B. AlkoholismusDie Kombination und Ausprägung der Symptome kann von Fall zu Fall unterschiedlich sein.
+Die in der Symptomatik der perniziösen Anämie (englisch auch addisonian anemia genannt) ähnelnde (primäre Form der) Nebenniereninsuffizienz (genannt auch Addisonsche Krankheit) wurde von Thomas Addison anfänglich mit dieser verwechselt.Die typischen Beschwerden sind Müdigkeit, Leistungsverminderung, Erhöhung der Herzfrequenz, Blässe und Kollapsneigung als Folge der Blutarmut. Weiter wird ein Ikterus (Gelbfärbung der Haut) beobachtet, eine entzündlich gerötete, „glatte“ Zunge (atrophische oder Hunter-Glossitis: feuerrote, eingesunkene Flecken oder Streifen, umgeben von hellen, violettgrauen Bezirken mit unveränderter oder fehlender Papillenzeichnung; die Atrophie kann fortschreiten und zu weitgehendem oder vollständigem Verlust der Zungenpapillen führen, der sogenannten Spiegelzunge), Verdauungsstörungen und Bauchschmerzen.Neurologische Symptome treten häufig ohne Anzeichen einer Anämie auf.
+Diese imponieren als Missempfindungen oder Taubheitsgefühl der Haut (Kribbeln, pelziges Gefühl), eingeschlafene Hände und Füße, Gangunsicherheit, Koordinationsstörungen oder seltener Lähmungen. Das Vollbild dieser durch eine demyelinisierende Rückenmarksdegeneration entstehenden Symptome heißt funikuläre Myelose. Auch Sehstörungen oder das Bild einer Polyneuropathie sind möglich. Schließlich sind auch psychische Symptome wie mangelhafte Merkfähigkeit, Konzentrationsschwäche, Depressionen und Psychosen („megaloblastic madness“) sowie Schizophrenie und Demenz beschrieben worden.Die Diagnose wird durch Laboruntersuchungen gesichert:Sicherer Test
+
+Methylmalonsäure im Urin, positiv, wenn erhöhtzusätzlich zu testen:
+
+Homocystein im Blut
+Vitamin B12 im BlutNeuer Test
+
+Holo-TC (Holo-Transcobalamin) im Blut, allerdings mit möglicherweise hohen falsch-negativ RatenUnterstützende Tests
+(hohe Gefahr von falschen (negativ wie positiv) Ergebnissen)
+Methylmalonsäure im Blut (nicht anwendbar bei Nierenkrankheiten und Dehydrierung)
+Hinweis auf Anämie, wenn im Blutbild die typische makrozytär-hyperchrome Anämie besteht. (Wenige große rote Blutzellen mit viel Hämoglobin beladen; siehe auch Erythrozytenverteilungsbreite.) Folsäure kann das Blutbild trotz B12-Mangels als „normal“ erscheinen lassen. Neurologische Schäden entstehen oft vor den Anzeichen einer Anämie im Blut.
+Hinweis auf Aufnahmestörung von Vitamin B12 durch den Darm mit Hilfe des Schilling-Tests (Einnahme von radioaktiv markiertem Vitamin B12, das bei Aufnahme anschließend im Harn erscheint). Gefahr von falschen Normalwerten, da einige zwar kristallines B12, aber nicht nahrungsgebundenes B12 aufnehmen können.Bei der Ursachensuche ist eine Magenspiegelung (Gastroskopie) mit Probenentnahme (Stufenbiopsie) zum Nachweis einer atrophischen Gastritis üblich. Auch Stuhluntersuchungen mit Kulturen auf Mikroorganismen und die Prüfung auf Wurmeier kann man durchführen. Die Gastroskopie kann allerdings keinen B12-Mangel ausschließen.
+Zur Diagnose gehört eine körperliche inklusive neurologischer Untersuchung.Bei der autoimmunen Form des Vitamin-B-12-Mangels finden sich nur bei ca. 60 % Anti-Parietalzellen-Autoantikörper, die sich gegen die a- und b-Untereinheit der Magen-H+/K+-ATPase richten. Bei der H+/K+-ATPase handelt es sich um ein Wasserstoffionen transportierendes Enzym, das für die Bildung der Magensäure notwendig ist („Protonenpumpe“). Die H+/K+-ATPase gehört zu den elektroneutralen Ionenpumpen.Eine perniziöse Anämie kann auch ohne Veränderungen im Blutbild bestehen.
+Infolge eines Mangels verringert sich die Anzahl der roten Blutkörperchen (Erythrozyten); außerdem erscheinen sie zu groß und enthalten pro Zelle vermehrt Hämoglobin, denn es kommt zu einer Störung der Zellteilung in den unreifen Vorläuferzellen der roten Blutkörperchen im Knochenmark. In der mikroskopischen Untersuchung werden sogenannte Megaloblasten (sehr große Vorläuferzellen) und Megalozyten (sehr große Erythrozyten) gefunden. Im Verlauf wird auch die Bildung weißer Blutzellen (Leukozyten) und Blutplättchen (Thrombozyten) beeinträchtigt.
+bei megaloblastärer Anämie:
+
+Blutbild, mikroskopisches Differentialblutbild (übersegmentierte Neutrophile?), Retikulozyten
+CRP, LDH, Bilirubin, ASAT (GOT), ALAT (GPT), AP, γ-GT, Elektrolyte
+Vitamin-B12-, Folsäure-, Ferritinkonzentration im Serum
+bei unklarer Befundkonstellation: KnochenmarksuntersuchungErhöhte Blutwerte von Methylmalonat und Homocystein zeigen sehr sensitiv eine Störung des Folatstoffwechsels an und können zur Differentialdiagnose bei Patienten mit neurologischen Veränderungen herangezogen werden, bei denen die Blutbildveränderungen und Vitaminkonzentrationen nur grenzwertig verändert sind. Folsäure kann einen B12-Mangel im Blutbild überdecken.Nebennierenrindeninsuffizienz
+Polyneuropathie, Fibromyalgie, generalisiertes Schmerzsyndrom
+rheumatoide Arthritis, Rheuma, Arthritis
+undifferenzierte Kollagenose, Lupus erythematodes, Antiphospholipid-Syndrom, Sklerodermie, Sjögren-Syndrom,
+Borreliose
+Krankheiten aufgrund erhöhten Homocysteins (Herzinfarkt, Schlaganfall)
+Osteoporose
+Arteriosklerose
+Erkrankungen der Wirbelsäule, HWS / funikuläre Myelose
+Karpaltunnel-Syndrom, Repetitive Strain Injury Syndrom
+Restless-Legs-Syndrom / RLS und Tremor
+Chronisches Erschöpfungssyndrom
+Demenz, Autismus, Alzheimer-Krankheit
+Parkinson-Krankheit
+Depression
+Schizophrenie
+Erkrankungen der Schilddrüse, Hashimoto-Thyreoiditis
+Unfruchtbarkeit, Fehlgeburt
+Syndrom der blinden Schlinge (englisch blind-loop syndrome)
+Erkrankungen mit gastrointestinalen Symptomen, z. B. Morbus Crohn, Colitis ulcerosa, Sprue
+Diabetes mellitus
+Hautkrankheiten wie Psoriasis-Arthritis/Schuppenflechte und NeurodermitisAllgemeine Risikogruppen:
+
+Vegetarier und Veganer, insbesondere deren Kinder und Stillkinder
+Senioren ab ca. 60 JahreKrankheiten, die einem Mangel zugrunde liegen können:
+
+Alkoholismus
+Zollinger-Ellison-Syndrom
+FischbandwurmWenn die Ursache nicht beseitigt werden kann, muss das Vitamin B12 lebenslang zugeführt werden.
+B12 muss in diesem Fall in sehr hohen Dosen von mindestens 1000 µg verabreicht werden. Das erste kommerziell erhältliche Medikament zur Behandlung der perniziösen Anämie mit Vitamin B12 als wirksamem Hauptbestandteil war Anfang der 1930er Jahre der aus Lebern von Schlachttieren gewonnene Extrakt Campolon der Firma Bayer AG, der bis etwa 1970 auf dem Markt blieb.
+Im Falle der chronischen Magenschleimhautentzündung wird es in die Muskulatur oder subkutan gespritzt (ebenso bei einem ganz oder teilweise entfernten Magen). In den Fällen, bei denen ein Mangel des intrinsischen Faktors diagnostiziert werden kann, kann dieser gegeben werden, um die Fehlabsorption zu beheben. Bei einer chronisch atrophischen Gastritis vom Typ A besteht die Möglichkeit, die anfänglichen Entzündungszeichen und Veränderungen der Schleimhaut mit Cortison zu therapieren.
+Die Therapie mit Vitamin B12 in der Form von Methylcobalamin und Adenosylcobalamin verspricht den größten Erfolg. In einer typischen Therapie werden in den ersten Wochen täglich bis dreitäglich 1000 µg gespritzt, sodann in einem ein- bis zweimonatigen Abstand lebenslang weiter Spritzen von ca. 1000 µg verabreicht.
+Orale Therapie (Tabletten): Entgegen der verbreiteten Annahme verspricht auch eine orale Therapie (Tabletten) erfolgreich zu sein. Durch Absorption von ca. 1 % ist selbst ohne intrinsischen Faktor eine Aufnahme möglich. Zu beachten ist hier eine Mindestdosis von 500 µg, um die Absorption zu ermöglichen. Um vergleichbare Erfolge zu erzielen, ist hier eine tägliche Dosis von mindestens 1000 µg erforderlich. In jedem Fall ist eine regelmäßige Überprüfung der Werte wichtig.

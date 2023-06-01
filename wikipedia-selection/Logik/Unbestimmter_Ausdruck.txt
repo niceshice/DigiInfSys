@@ -1,0 +1,6 @@
+In jedem theoretischen Axiomensystem gibt es unbestimmte Ausdrücke.
+So wird zum Beispiel in der Mengenlehre davon gesprochen, dass eine Menge eine Zusammenfassung von bestimmten und wohlunterschiedenen Objekten unserer Anschauung oder unseres Denkens zu einem Ganzen [ist]. Es wird aber nicht näher erklärt, was eine Zusammenfassung von Objekten sein soll. Hier handelt es sich um einen unbestimmten Ausdruck.
+Derartige Unbestimmtheiten können zu einem Widerspruch zur erlebten Realität oder innerhalb des Axiomensystems führen. Kurt Gödel hat gezeigt, dass ein System nicht zum Beweis seiner eigenen Widerspruchsfreiheit verwendet werden kann.
+Im Sinne von David Hilbert sind unbestimmte Ausdrücke notwendiger Bestandteil einer Theoriesprache. Ihm zufolge ist eine Theorie am Anfang nur ein konsistentes Satzsystem und steht in keinerlei Zusammenhang mit der Welt. Um die Bedeutung zu unterstreichen, dass unbestimmte mathematische Ausdrücke total abstrakt gehalten werden müssen sagte er, angewendet auf die Geometrie: 
+
+„Man muss jederzeit in der Lage sein, statt Punkte, Geraden oder Flächen - Stühle, Tische oder Bierkrüge zu sagen.“

@@ -1,0 +1,49 @@
+Die Winkelzählprobe (synonym: Winkelzählmethode) ist ein Stichprobenverfahren der Waldinventur.
+Die Winkelzählprobe dient der Bestimmung der relativen Bestandesgrundfläche (G) von Bäumen in einem Wald; meist wird sie nur für die Hauptbestandesschicht bestimmt. Mit der Winkelzählprobe wird stichprobenartig die „Summe der Brusthöhendurchmesser-Kreisflächen der Bäume je Waldbodenfläche“ erfasst; im Metrischen System ergibt das die Angabe: „Holzquadratmeter je Hektar“. Die hergeleitete Grundfläche dient u. a. einerseits der Bestimmung des Bestockungsgrades (B°) (i. V. m. Werten der Ertragstafel) und andererseits zusammen mit der Bestandes-Mittelhöhe (Hg) und der (baumartenspezifischen) Formzahl der Bestimmung des Vorrats eines Waldes bzw. das Bestandesvolumen (V = G * Hg * f [bzw. F als Bestandesformzahl]).
+Funktionsweise
+Der Aufnehmende dreht sich mit einem Grundflächenmessgerät um seine eigene Achse bzw. um die Achse des Messgerätes und visiert im 360°-Vollkreis sämtliche Baumstämme in Brusthöhe an (in ca. 1,3 m Höhe über dem Waldboden). Das verwendete Grundflächenmessgerät spannt dabei einen vordefinierten, horizontalen Öffnungswinkel auf (z. B. beim Zählfaktor 1 den Winkel 0,02 rad bzw. Proportionalität 1/50). Durch eine nun erfolgte Zählung der Baumstämme, deren wahrgenommenen Breiten in Brusthöhe diesen Öffnungswinkel überschreiten (Baum steht innerhalb des Stichprobenkreises) oder dem Öffnungswinkel gerade noch entsprechen (Baum steht am Rande des Stichprobenkreises; bzw. Grenzbaum), wird die relative Bestandesgrundfläche bestimmt. Alle anderen Baumstämme, die kleiner als der aufgespannte Öffnungswinkel erscheinen, gelangen folglich nicht in die Stichprobe hinein (solche Bäume stehen außerhalb der baumindividuellen Stichprobenkreise). Alle aufgenommenen, d. h. „gezählten“ Baumstämme (N) repräsentieren folglich einen stichprobenartigen Grundflächenanteil des Bestandes. Mit der Winkelzählprobe wird somit die Anzahl (N) der Bäume innerhalb eines virtuellen Probekreises ermittelt, deren Brusthöhendurchmesser (BHD) die Zählbreite (Z aus 1,2,4) überschreiten. Dieser virtuelle Probekreis variiert damit für jeden Baum und sein Radius lässt sich aus dem BHD mit 
+  
+    
+      
+        
+          
+            R
+            
+              G
+              r
+              e
+              n
+              z
+            
+          
+          =
+          
+            
+              
+                B
+                H
+                D
+                ∗
+                100
+              
+              
+                2
+                ∗
+                
+                  
+                    Z
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle R_{Grenz}={\frac {BHD*100}{2*{\sqrt {Z}}}}}
+   bestimmen. Die Grundfläche ergibt sich wie folgt: G = N * Z (Zählbreite/ -faktor des Geräts).
+Zwei Messprinzipien zur Winkelerzeugung
+Um den bei der Winkelzählmethode benötigten Öffnungswinkel zu erzeugen, gibt es grundsätzlich zwei Möglichkeiten: Man kann den Winkel über eine Zählbreite (Zählbreitenprinzip) oder aber durch ein Prisma (Prismenprinzip) erzeugen. Bei dem Zählbreitenprinzip wird der vordefinierte Öffnungswinkel über eine vordefinierte Zählbreite und eine vordefinierte Länge zur Zählbreite hin ausgedrückt (= Proportionalität). Über die Zählbreite wird der Baum in Brusthöhe angepeilt. Beim Prismenprinzip entsteht der vordefinierte Öffnungswinkel über ein Keilprisma (bzw. Winkelzählprisma). Dabei wird das Licht am Prisma gebrochen, und das Objekt „Baumstamm“ erscheint dem Betrachter im Prisma optisch zur Seite hin abgelenkt. Der Winkel entsteht durch die Sichtachse auf das Objekt „Baumstamm“ und der Ablenk- bzw. Bildachse im Prisma (= Proportionalität).
+Das Verfahren wurde in den 1940er Jahren von dem österreichischen Forstwissenschaftler Walter Bitterlich entwickelt.
+Ursprünglich wurde dazu ein an einer Schnur befestigtes Messplättchen verwendet (Zählbreitenprinzip), mit dem die Bäume angepeilt werden (Daumenpeilung). Alle Bäume innerhalb eines Probekreises, die breiter als das Messplättchen erscheinen, werden gezählt. Das einfache Dendrometer ("kleiner Kramer") nach Kramer kann zum Beispiel für diesen Zweck eingesetzt werden. Bitterlich entwickelte für die Erfassung der Grundfläche das Spiegelrelaskop (1948), mit dem auch eine einfache Korrektur der Grundfläche bei einer bestehenden Hangneigung erfolgen kann. In der Praxis werden häufig auch Winkelzählprismen für die Winkelzählprobe eingesetzt (Prismenprinzip), mit denen ebenfalls die einfache Korrektur der Grundfläche bei einer bestehenden Hangneigung erfolgen kann.
+Der Vorteil des Verfahrens liegt in seiner Effizienz. Da stärkere Bäume eine größere Auswahlwahrscheinlichkeit haben als dünnere Bäume, nimmt die Durchführung einer Winkelzählprobe in Jungbeständen deutlich weniger Zeit in Anspruch als die Aufnahme fester Probekreise, wenn gleichzeitig in Altbeständen die Bestandesgrundfläche mit hinreichender Genauigkeit ermittelt werden soll. In der deutschen Bundeswaldinventur (1987 und 2002) wurden Winkelzählproben verwendet.

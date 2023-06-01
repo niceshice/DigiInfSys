@@ -1,0 +1,4 @@
+Humes Prinzip ist ein Prinzip der Logik, das von David Hume in A Treatise of Human Nature aufgestellt und von George Boolos Humes Prinzip oder HP genannt wurde.
+Humes Prinzip lautet: Die Anzahl der Fs ist gleich der Anzahl der Gs genau dann, wenn es eine Bijektion zwischen den Fs und den Gs gibt.
+Gottlob Frege verwendet Humes Prinzip in seiner Philosophie, um aus ihm gemäß Freges Theorem die Peano-Axiome der Arithmetik abzuleiten, was die Grundlage des Neo-Logizismus ist.
+Freges Auffassung der Zahlen unterscheidet sich von der Georg Cantors, da Frege Kardinal- und Ordinalzahlen unabhängig voneinander definiert. Cantors Definition der Kardinalzahlen mittels der Ordinalzahlen ist allerdings Bestandteil von Theorien der transfiniten Zahlen.

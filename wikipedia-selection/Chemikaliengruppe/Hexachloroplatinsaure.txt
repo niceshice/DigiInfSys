@@ -1,0 +1,55 @@
+Hexachloroplatinsäure H2[PtCl6] ist eine chemische Verbindung. Reine Hexachloroplatinsäure ist eine gelbe bis schwach orange, stark hygroskopische, an der Luft zerfließliche Substanz. Bei oft minimal vorhandenen Iridium-Verunreinigungen variiert die Farbe von Rot bis Braun oder ist noch dunkler. Die Salze der Hexachloroplatinsäure bezeichnet man als Hexachloroplatinate. In Isopropanol gelöst wird Hexachloroplatinsäure auch als Speier-Präkatalysator bezeichnet.Hexachloroplatinsäure kann durch oxidative Auflösung von Platin in Königswasser dargestellt werden:
+
+  
+    
+      
+        
+          P
+          t
+          +
+          (
+          3
+           
+          H
+          C
+          l
+          
+            /
+          
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          )
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          [
+          P
+          t
+          C
+          
+            l
+            
+              6
+            
+          
+          ]
+          +
+          .
+          .
+          .
+        
+      
+    
+    {\displaystyle \mathrm {Pt+(3\ HCl/HNO_{3})\longrightarrow H_{2}[PtCl_{6}]+...} }
+  
+Platin löst sich in Königswasser unter Bildung von Hexachloroplatinsäure.Aus wässriger Lösung entsteht dabei das Hexachloroplatinsäure-Hexahydrat H2[PtCl6] · 6 H2O, welches sich bis zum Dihydrat entwässern lässt.  Darüber hinaus erfolgt ein Zerfall in Wasser, Salzsäure und Platintetrachlorid, da die Protonen der Oxonium-Ionen nach dem Entzug des Wassers keine geeignete Koordinationsstelle am [PtCl6]2−-Ion finden.Bei der Umsetzung der Säure mit verschiedenen Kationen wie Kalium (K+), Rubidium (Rb+), Cäsium (Cs+), Ammonium (NH4+), Silber (Ag+) und Thallium (Tl+) entstehen dabei schwerlösliche gelbe Niederschläge der allgemeinen Formel M2[PtCl6], die Hexachloroplatinate.Hexachloroplatinsäure ist Ausgangsverbindung zur Synthese platinhaltiger Zytostatika, z. B. Cisplatin, Oxaliplatin oder Carboplatin. Hexachloroplatinsäure wird zur Herstellung von Katalysatoren durch Imprägnierung von Trägersubstanzen, zum Beispiel für  den Drei-Wege-Katalysator oder für das katalytische Reforming verwendet.  Durch Wahl der Imprägnierungsbedingungen kann dabei die Verteilung des Metalls auf dem Träger eingestellt werden.

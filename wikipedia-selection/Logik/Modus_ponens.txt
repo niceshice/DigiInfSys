@@ -1,0 +1,89 @@
+Der Modus ponens ist eine schon in der antiken Logik geläufige Schlussfigur, die in vielen logischen Systemen (siehe Logik, Kalkül) als Schlussregel verwendet wird. Er erlaubt es, aus zwei Aussagen der Form (Wenn A, dann B) und (A) (den beiden Prämissen der Schlussfigur) eine Aussage der Form B (die Konklusion der Schlussfigur) herzuleiten.
+Die technisch korrekte Bezeichnung für den Modus ponens ist – in Abgrenzung zum Modus tollendo ponens – Modus ponendo ponens. Synonym werden unter anderem die Ausdrücke Abtrennungsregel oder Implikationsbeseitigung verwandt. In halbformalen Kalkülen wird die Schlussregel vielfach mit MP abgekürzt.Der Ausdruck Modus ponens leitet sich aus den lateinischen Wörtern modus (hier: Schlussfigur) und ponere (stellen, setzen) ab und bedeutet setzende Schlussfigur, d. h. Schlussfigur, bei der eine positive Aussage hergeleitet wird.
+Der vollständige lateinische Name, Modus ponendo ponens, "Schlussfigur (modus), die durch das Setzen (ponendo) einer Aussage eine andere Aussage setzt (ponens)", lässt sich so erklären, dass bei gegebener erster Prämisse, "Wenn A, dann B", durch das "Setzen" (Annehmen) der zweiten Prämisse, A, der aus beiden folgende Satz B "gesetzt" (hergeleitet) wird.
+Er entspricht einer der fünf Typen des hypothetischen Syllogismus nach Chrysipp:  'Wenn das erste, dann das zweite; aber das erste; also das zweite'.Aus den Prämissen der Form 
+  
+    
+      
+        A
+        →
+        B
+      
+    
+    {\displaystyle A\to B}
+   und 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   wird auf die Conclusio 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   geschlossen.
+Formal wird der Modus ponens mit dem Ableitungsoperator 
+  
+    
+      
+        ⊢
+      
+    
+    {\displaystyle \vdash }
+   als Schlussregel 
+  
+    
+      
+        A
+        ,
+        A
+        →
+        B
+        ⊢
+        B
+      
+    
+    {\displaystyle A,A\to B\vdash B}
+   notiert.Obwohl der Modus ponendo ponens eine Schlussregel, also ein metasprachliches Konzept ist, wird die Bezeichnung "Modus ponens" gelegentlich auch für objektsprachliche Ausdrücke mit der folgenden Gestalt verwendet:
+
+(A ∧ (A → B)) → BDa aber Schlussregeln und Aussagen ganz unterschiedliche Konzepte sind, ist es wissenschaftlich eher unglücklich, sie mit derselben Bezeichnung zu benennen. Generell ist die Vermischung von Objekt- und Metasprache problematisch und sollte normalerweise unterbleiben.Als Abtrennungsregel in logischen Kalkülen (auch: Beseitigungsregel der Subjunktion (Implikation) in den Systemen des natürlichen Schließens) lautet er so:
+
+→ Abtrennregel: (A → B), A  ⇒  BIn metalogischer Fassung ist es die Schnittregel:
+
+  
+    
+      
+        
+        
+          
+            
+              Γ
+              ‖
+              A
+              
+              A
+              ,
+              Δ
+              ‖
+              B
+            
+            
+              Γ
+              ,
+              Δ
+              ‖
+              B
+            
+          
+        
+      
+    
+    {\displaystyle \qquad {\frac {\Gamma \|A\qquad A,\Delta \|B}{\Gamma ,\Delta \|B}}}
+  (Hier wird der Doppelstrich || für die Abschließbarkeit von Dialogstellungen benutzt.)
+Dass die Schnittregel in den Gentzentypkalkülen zulässig ist, besagt der Gentzensche Hauptsatz.

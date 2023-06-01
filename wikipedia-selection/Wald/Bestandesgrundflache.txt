@@ -1,0 +1,156 @@
+Die Bestandesgrundfläche G (auch kurz Grundfläche und früher oft Kreisfläche genannt) ist ein wichtiger Faktor in der forstwirtschaftlichen Ertragskunde. Sie ist eine Größe, die der Einschätzung von stehenden Holzvorräten in einem Wald dient, und ein wichtiger Bestandteil aller forstlichen Inventuren. Sie ergibt sich aus der Aufsummierung der Grundflächen sämtlicher Einzelbäume je Hektar und wird in 
+  
+    
+      
+        
+          
+            
+              
+                m
+                
+                  2
+                
+              
+              
+                h
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\tfrac {m^{2}}{ha}} }
+   angegeben.
+
+Grundfläche-Formel:   
+  
+    
+      
+        G
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          g
+          
+            k
+          
+        
+      
+    
+    {\displaystyle G=\sum _{k=1}^{N}g_{k}}
+  Die Grundfläche ist ein Maß für die Dichte des Bestandes und eignet sich besser als z. B. die Stammzahl bei der Entscheidung der Stärke der Durchforstung. Sie kann durch eine Vollaufnahme oder stichprobenartig mit Hilfe der Winkelzählprobe ermittelt werden.
+
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   ist die Kreisfläche der Einzelbäume und entspricht der Fläche des Stammquerschnittes in Brusthöhe (Brusthöhendurchmesser BHD = 1,30 m).
+
+Kreisfläche-Formel:   
+  
+    
+      
+        g
+        =
+        
+          (
+          
+            
+              π
+              4
+            
+          
+          )
+        
+        ×
+        B
+        H
+        
+          D
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g=\left({\frac {\pi }{4}}\right)\times BHD^{2}}Assmann (1961) schreibt in seinem Buch Waldertragskunde über die Grundflächeerhaltung und kategorisiert diese nach Dichte des Bestandes.
+Er unterscheidet zwischen:
+
+Maximale Grundfläche (100 % Grundfläche): Grundfläche auf der die höchstmögliche Anzahl von Bäumen wächst. Natürlicher Bestockungsgrad eines Bestandes. (Unbewirtschafteter und ungestörter Bestand)
+Optimale Grundfläche: Grundfläche, bei der der maximale Zuwachs geleistet wird. (Zuwachs 100 %)
+Kritische Grundfläche: Grundfläche, bei der nur noch 95 % des Zuwachses erreicht werden.Die Grundfläche in einem bewirtschafteten Bestand variiert je nach Stärke der Pflegemaßnahmen. Während der Durchforstungen wird 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   reduziert und dies hat Auswirkungen unter anderem auf:
+
+die Krone: Die Kronen expandieren und breiten sich aus. Es findet eine Vergrößerung der Kronenfläche statt.
+Durchmesser/Höhe: Durch die Reduzierung von 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   wird das Wachstum des Durchmessers gefördert. Die Bäume nehmen an Dicke sowie an Höhe zu (allerdings wesentlich weniger als an dem Durchmesser) und die Abholzigkeit der Stämme steigt.
+Volumen/Biomasse: Es findet auch eine Steigerung des Volumenzuwachses (Wuchsbeschleunigung) und der Biomasse statt.Alle diese Auswirkungen sind u. a. abhängig von der Baumart, dem Bestandesalter, der Durchforstungsart und Bonität (Leistungsfähigkeit des Standortes).Mit Hilfe der Grundfläche 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , der durchschnittlichen Bestandshöhe 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   und der Formzahl 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   (Abholzigkeit-ausgleich-wert) wird der Holzvorrat (Holzvolumen in Vfm/ha) eines Bestandes berechnet und somit die Erntemenge abgeschätzt.
+Es gilt:
+
+  
+    
+      
+        
+          Holzvorrat
+        
+        =
+        h
+        ×
+        G
+        ×
+        f
+      
+    
+    {\displaystyle {\text{Holzvorrat}}=h\times G\times f}

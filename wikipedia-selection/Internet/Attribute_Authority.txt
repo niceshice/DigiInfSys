@@ -1,0 +1,5 @@
+Bei einer Attributive Authority (etwa: deutsch Attributsauthorität) bzw. einem Attribute Store (etwa: deutsch Attributsspeicher) handelt es sich um ein Informationssystem, welche Attribute zu einem Benutzer oder einer Klientanwendung eines Dienstes auf eine sichere Art bereitstellt.Eine Attributive Authority dient als Identitätsprovider (englisch identity provider (IdP) oder englisch identity assertion provider) und ermöglicht eine Attributbasierte Zugriffskontrolle (englisch attribute-based access control, ABAC). Attributive Authorities kommen in föderierten Authentifizierungssystemen, wie OpenID und OAuth, zum Einsatz. 
+Die Attribute werden in Form von digital zertifizierten und ggf. verschlüsselten Tokens, wie etwa einem SAML-Token oder JSON Web Token (JWT), bereitgestellt.
+
+
+== Quellen ==

@@ -1,0 +1,108 @@
+Die Thioschwefelsäure ist eine Sauerstoffsäure des Schwefels bzw. eine Thiosäure der Schwefelsäure, die sich formal von der Schwefelsäure ableitet, wobei ein Sauerstoffatom durch ein Schwefelatom ersetzt wird.Die Darstellung der wasserfreien Säure kann durch Umsetzung von Schwefelwasserstoff (H2S) mit Schwefeltrioxid (SO3) in Diethylether bei −20 °C erfolgen. Ab einer Temperatur von −10 °C zerfällt Thioschwefelsäure wieder in H2S und SO3. Ohne Ether entsteht dagegen das ebenfalls leicht zersetzliche Lewis-Addukt H2S·SO3.Thioschwefelsäure liegt in der SH-Form vor.
+Die tautomere Struktur mit einer Doppelbindung zwischen den Schwefelatomen ist um 41 kJ/mol energiereicher.
+Die beiden Schwefelatome haben eine mittlere Oxidationszahl von +2. H2S−1S+5O3Die Salze der Thioschwefelsäure, die Thiosulfate, sind in Wasser beständig. Sie können durch Kochen von Sulfitlösungen mit Schwefel gemäß folgender Gleichung hergestellt werden:
+
+  
+    
+      
+        
+          
+            S
+            
+              8
+            
+          
+          +
+          8
+           
+          N
+          
+            a
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          8
+           
+          N
+          
+            a
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {S_{8}+8\ Na_{2}SO_{3}\longrightarrow 8\ Na_{2}S_{2}O_{3}} }
+  Angesäuerte Thiosulfatlösungen zersetzen sich unter Schwefelabscheidung:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          S
+          
+            O
+            
+              2
+            
+          
+          +
+          S
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}S_{2}O_{3}\longrightarrow H_{2}O+SO_{2}+S} }
+  In der Photographie hat Natriumthiosulfat praktische Bedeutung als Fixiersalz. Thiosulfationen wirken reduzierend. In Bleichereien wird es zur Entfernung von Chlor aus chlorgebleichtem Gewebe benutzt.
+Die quantitative Reaktion mit Iod zu Tetrathionat-Ionen S4O62− wird in der analytischen Chemie (Iodometrie) verwendet.
+
+
+== Einzelnachweise ==

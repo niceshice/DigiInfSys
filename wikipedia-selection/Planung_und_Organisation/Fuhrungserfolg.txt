@@ -1,0 +1,58 @@
+Als Führungserfolg einer Führungskraft wird in der Managementlehre der Erfolg durch die mehr oder weniger vollständige Realisierung der Führungs- und Unternehmensziele bezeichnet.Jede Aufgabe oder Tätigkeit ist darauf ausgerichtet, das mit ihr verbundene Ziel (Unternehmensziel bei Unternehmen, persönliches Ziel bei Privatpersonen oder Staatsziel bei Regierungen und Behörden) zu erfüllen. Auch der Führungsprozess verfolgt den Zweck, vorgegebene (Zielvorgaben) oder selbst gesetzte Ziele zu erreichen. Den Erfolg in der Menschenführung oder Führung von Organisationen zu erklären oder zu ermöglichen ist das Anliegen jeder Führungstheorie, der Forschung über Führungsstile und der verschiedenen Führungsmodelle. Zur Bestimmung des Führungserfolgs dienen ökonomische (wie etwa die erreichten Umsatzerlöse und Marktanteile oder der Beitrag zur Kostensenkung) oder personale (Arbeitszufriedenheit, Betriebsklima oder Beförderungen) Erfolgsfaktoren.
+Der Erfolg der Führung ist dabei nicht nur eine Funktion des Einsatzes der Führungsinstrumente, sondern auch der Persönlichkeiten des Vorgesetzten und des Mitarbeiters bzw. der jeweils gegebenen Führungssituation. Nachhaltiger Führungserfolg wirkt sich positiv auf die Führungslaufbahn aus.Der Führungsprozess unterliegt den Führungsgrundsätzen der Effektivität, Effizienz und Wirtschaftlichkeit:
+
+  
+    
+      
+        
+          Effektivität
+        
+        =
+        
+          
+            Zielerreichung
+            Zielvorgabe
+          
+        
+      
+    
+    {\displaystyle {\text{Effektivität}}={\frac {\text{Zielerreichung}}{\text{Zielvorgabe}}}}
+  ,
+
+  
+    
+      
+        
+          Effizienz
+        
+        =
+        
+          
+            Ergebnis (Output)
+            eingesetzte Ressourcen (Input)
+          
+        
+      
+    
+    {\displaystyle {\text{Effizienz}}={\frac {\text{Ergebnis (Output)}}{\text{eingesetzte Ressourcen (Input)}}}}
+   und
+
+  
+    
+      
+        
+          Wirtschaftlichkeit
+        
+        =
+        
+          
+            entstandene Kosten
+            geplante Kosten
+          
+        
+      
+    
+    {\displaystyle {\text{Wirtschaftlichkeit}}={\frac {\text{entstandene Kosten}}{\text{geplante Kosten}}}}
+  .Der Zielerreichungsgrad spiegelt das Maß der Erfüllung des gesetzten Führungsziels wider und schwankt zwischen den Extremwerten „vollständige Zielerfüllung“ bis „vollständige Zielverfehlung“. Sollen beispielsweise 100 Stück pro Stunde produziert werden, tatsächlich verlassen aber nur 80 Stück die Produktionsanlage, liegt der Zielerreichungsgrad bei 80 %. Effizienz liegt nur dann vor, wenn das Ergebnis (Ertrag) höher ist als der Input (Aufwand). Bei der Wirtschaftlichkeit von Führungszielen müssen die entstandenen Kosten möglichst deutlich unter den Plankosten liegen.Die Operationalisierung des Führungserfolgs und die Vernachlässigung von situativen Variablen bei der Erklärung des Zusammenhangs zwischen Führungsstil und Führungserfolg werden vielfach kritisiert. Situative Theorien (siehe situatives Führen) sehen in einer Harmonie von Führungskraft, ihrem Führungsverhalten und der Situation den entscheidenden Faktor für den Führungserfolg. Fred Edward Fiedler versuchte 1967 in seiner Kontingenztheorie eine Verbindung herzustellen und misst den situativen Einflüssen („Kontingenzfaktoren“) auf den Führungserfolg eine zentrale Bedeutung bei. Die Effektivität eines Teams hänge vom gemeinsamen Auftreten zweier Faktoren ab (englisch contingency, Abhängigkeit von bestimmten Umständen), und zwar dem Führungsstil (englisch leadership style) und seinen „situativen Einflusschancen“ (englisch situational control). Fiedler zufolge bezieht sich das Führungsverhalten auf die Koordination und Organisation der Aufgaben der Mitarbeiter. Bei unzureichendem Führungserfolg sei es zweckmäßig, entweder situative Bedingungen zu verändern oder Führungspersonen auszutauschen.
+Der Erfolg der Führung ist nicht einfach zu messen, weil der Anteil des Einsatzes der Führungsinstrumente von den anderen Einflussgrößen schwierig zu trennen ist. Von Führungserfolg ist im Rahmen der Personalführung jedenfalls dann auszugehen, wenn es Vorgesetzten gelungen ist, das leistungsrelevante Verhalten der Mitarbeiter wirksam in die gewünschte Richtung zu lenken. Werden die angestrebten Führungsziele dagegen nicht erreicht, liegt ineffektive Führung vor. Von schlechter Führung spricht man, wenn die Führungskraft die Vermittlung zwischen ihren Führungszielen und den übergeordneten Unternehmenszielen systematisch verfehlt. Kommt der Vorgesetzte bei seinen Führungsaktivitäten nicht zum angestrebten Erfolg, kann von einem Führungsmisserfolg gesprochen werden, der in der Führungspraxis durchaus nicht selten eintritt, weil Führung nicht etwa einfach durchschaubar und nicht leicht zu beherrschen ist.Sowohl die Theorie als auch die Praxis ist an Informationen darüber interessiert, wie sich erfolgreiche Menschenführung von erfolgloser Führung unterscheidet. Von den Folgen der Mitarbeiterführung sind sowohl die Führungskraft als auch der Geführte betroffen. Die Frage nach dem Führungserfolg weist aber weit über die Perspektive einer Führungsbeziehung zwischen Vorgesetztem und Mitarbeiter hinaus. In vielen Definitionen über Führung wird implizit und explizit davon ausgegangen, dass Führung ein zielgerichtetes Bewirken von Ergebnissen sei. Das Endprodukt von Führung – nämlich der „Erfolg“ – hat vergleichsweise wenig theoretische und empirische Beachtung gefunden.Die allgemeine Betrachtung des Erfolgs ist sowohl mit dem Blick auf die Führungskraft, auf den Mitarbeiter, auf das Team und auf das gesamte Unternehmen zu sehen. Wird der Beitrag der Führung am Unternehmenserfolg analysiert, dann geht es beispielsweise um die Erfüllung der gesamten Umsatz-, Kosten- und Gewinnziele einer Organisation. Außerdem kann hier zwischen Sachzielen, wie zum Beispiel Produktivität und Rentabilität sowie Verhaltenszielen, wie zum Beispiel Kunden- oder Mitarbeiterorientierung unterschieden werden. Die Zielerreichung wird in der Regel durch betriebswirtschaftliche Kennzahlen (Key Performance Indicators) zum Beispiel in einer Balanced Scorecard operationalisiert und gemessen.
+Im Rahmen der Mitarbeiterführung darf der Führungserfolg keineswegs mit dem persönlichen Erfolg des Geführten gleichgesetzt werden, der sich in Position, Gehalt, Status oder Entscheidungsbefugnissen niederschlägt. Eine Betrachtung des Führungserfolges hat immer auch die Seite des Geführten einzubeziehen, denn die Wirkungen von Führung zeigen sich in den Leistungen (Leistungserfolg), Verhaltensweisen (Verhaltenserfolg) und in den Einstellungen (Zufriedenheitserfolg) des Geführten. Der Geführte strebt mehr oder weniger nach einem persönlichen Erfolg als dem positiven Resultat der Aktivitäten des Mitarbeiters hinsichtlich der Erfüllung seiner Mitarbeiterziele, die keineswegs mit den Führungszielen des Vorgesetzten übereinstimmen müssen, denn Mitarbeiter verfolgen mitunter Eigeninteressen, die mit eigensinnigem bzw. eigenmächtigem Verhalten verbunden sein könnenBei der Beurteilung der Führungskräfte durch deren Vorgesetzte oder bei der Personalauswahl von Führungskräften mittels Leistungsbeurteilung, Mitarbeiterbewertung oder dienstliche Beurteilung müssen Kriterien herangezogen werden, die den Führungserfolg repräsentieren. Diese müssen objektiv und zuverlässig messbar sein, relevant, repräsentativ und verzerrungsfrei erhoben werden können sowie offen und transparent sein. Als Kriterien des Führungserfolges kommen unter anderem in Frage Anzahl und Fluktuation der unterstellten Mitarbeiter, Betriebsklima, Fehlzeiten, Karrieregeschwindigkeit, Produkt- oder Dienstleistungsqualität oder Zielerreichungsgrad.

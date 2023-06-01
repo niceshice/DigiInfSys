@@ -1,0 +1,8 @@
+1,2-Bis(dimethylphosphino)ethan (dmpe) ist eine chemische Verbindung aus der Gruppe der Diphosphane mit häufigem Einsatz in der Koordinationschemie.Die Synthese erfolgt durch Reaktion von Methylmagnesiumiodid mit 1,2-Bis(dichlorphosphino)ethan:
+
+Alternativ kann dmpe auch durch Alkylierung von Natriumdimethylphosphid gewonnen werden.
+Die Synthese aus Thiophosphoryltrichlorid hat zu schweren Unfällen geführt und sollte nicht mehr verwendet werden.Bei 1,2-Bis(dimethylphosphino)ethan handelt es sich um eine farblose, luftempfindliche Flüssigkeit, die in organischen Lösungsmitteln löslich ist.
+Es dient als stark basischer Beobachterligand. Repräsentative Komplexe sind V(dmpe)2(BH4)2, Mn(dmpe)2(AlH4), Tc(dmpe)2(CO)2Cl und Ni(dmpe)Cl2.Tetramethylethylendiamin ist das Diaminanalogon von dmpe. Bis(dicyclohexylphosphino)ethan ist ein sterisch anspruchsvolleres Analogon, welches außerdem den Vorteil bietet, ein Feststoff zu sein.
+
+
+== Einzelnachweise ==

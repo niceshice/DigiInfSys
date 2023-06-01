@@ -1,0 +1,19 @@
+Das Tilgungsstreckungsdarlehen (oder Disagiodarlehen) ist im Bankwesen ein Darlehen, das bei Krediten mit einem Disagio dem Kreditnehmer genau in der Höhe des Disagios zusätzlich gewährt wird.Das Disagio (oder Damnum) ist ein Abschlag von der Kreditsumme, der bei der Kreditauszahlung von Kreditinstituten einbehalten wird, sofern auf Wunsch des Kreditnehmers ein niedrigerer Nominalzins berechnet werden soll. Benötigt der Kreditnehmer jedoch die gesamte Kreditsumme, so kann ihm zusätzlich ein Tilgungsstreckungsdarlehen in Höhe des Disagios gewährt werden. Solche Darlehen sind bei der Immobilienfinanzierung üblich. Die mit Disagio versehenen Hypothekendarlehen werden in der Form des Annuitätendarlehens mit meist sehr langen Laufzeiten gewährt, während die Tilgungsstreckungsdarlehen maximal 4 Jahre Laufzeit und kein Disagio aufweisen. Aus diesen Gründen ist bei Tilgungsstreckungsdarlehen der Kreditzins höher als bei den Annuitätendarlehen. Die Annuitäten werden zunächst als Tilgung für das Tilgungsstreckungsdarlehen verwandt, bis dieses getilgt ist; erst dann setzt die Tilgung des Annuitätendarlehens ein, die Tilgung wird mithin „gestreckt“ durch die beim Hypothekendarlehen eintretende Laufzeitverlängerung.Zur Finanzierung eines Bauvorhabens wird ein Annuitätendarlehen von 2.000.000 Euro (Hauptdarlehen) zu folgenden Bedingungen aufgenommen:
+
+    Kreditsumme:     2.000.000 €
+    Nominalzinssatz: 6,5 % p. a.
+    Tilgung:         1 % p. a.
+    Disagio:         4 % (entspricht 80.000 €)
+    Auszahlung:      1.920.000 €
+
+Das Disagio wird mit einem Tilgungsstreckungsdarlehen ausgeglichen:   
+
+    Kreditsumme:     80.000 €
+    Zinssatz:        7,5 % p. a.
+    Tilgung:         Ratenkredit in 4 gleichen Jahresraten
+    Auszahlung:      80.000 €
+
+Demnach wird in den ersten vier Jahren das Disagio mit je 20.000 € komplett getilgt (zzgl. 7,5 % Zinsen p. a.) und erst im fünften Jahr damit begonnen, das Hauptdarlehen von 2.000.000 Euro mit der ersten Tilgungsrate von 20.000 € (1 % von 2.000.000 Euro) zu tilgen.Tilgungsstreckungsdarlehen kann es nur in Verbindung mit einem Disagio bei einem Hauptdarlehen geben. Sie werden stets von dem Kreditinstitut gewährt, das auch das Hauptdarlehen zur Verfügung stellt. Disagien dienen zur Reduzierung des Nominalzinses, so dass Tilgungsstreckungsdarlehen nur beim Hochzinsniveau vorkommen.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,67 @@
+Polnische Notation (PN), auch Normale Polnische Notation (NPN), Präfixnotation, Łukasiewicz-Notation oder Warschauer Normalform genannt, ist (in der Informatik und mathematischen Logik) eine klammerfreie Schreibweise für Formeln bzw. allgemein für Ausdrücke, bei der der Operator vor seinen Operanden geschrieben wird:
+
+Operator Operand1 Operand2 … OperandNDie polnische Notation verdankt ihren Namen dem polnischen Mathematiker Jan Łukasiewicz, der sie in den 1920er-Jahren entwickelte (eine genauere Datierung ist wohl nicht möglich). Łukasiewicz stellte die polnische Notation als kompakte und klammerfreie Schreibweise für die Aussagenlogik vor. Als Junktoren (bzw. Konnektive) verwendet er N für die Negation, K für die Konjunktion, A für die Disjunktion, C für das Konditional  und E für das Bikonditional. Als Satzbuchstaben, die für beliebige Aussagen stehen, verwendet er Kleinbuchstaben. Daraus lassen sich Aussagen wie Np („es ist nicht der Fall, dass p“) oder Cpq („Wenn p, dann q“) zusammensetzen.
+Łukasiewicz weist selbst darauf hin, dass seine Schreibweise zwar die kompakteste und die erste linear geschriebene klammerfreie Schreibweise ist, aber nicht die erste klammerfreie Schreibweise überhaupt. Das  Verdienst, die Logik von der Klammer befreit zu haben, kommt Gottlob Frege mit seiner bereits 1879 veröffentlichten Begriffsschriftnotation zu.
+Neben einer Nische in der Logik hat die polnische Notation heute vor allem bei Programmiersprachen einen festen Platz. Hier ist der Operator ein Befehlswort (z. B. Mnemonic in der Assemblersprache) oder die Bezeichnung der gewünschten Funktion und sind die Operanden die zugehörigen Parameter bzw. Funktionsargumente:
+
+Befehlswort Parameter1 Parameter2 … ParameterNbzw.
+
+Funktionsbezeichnung Argument1 Argument2 … ArgumentNIm Bereich der Mathematik werden in der üblichen Schreibweise die meisten Funktionen in polnischer Notation angeschrieben, z. B. Sinus („
+  
+    
+      
+        sin
+        ⁡
+        30
+      
+    
+    {\displaystyle \sin 30}
+  “) oder Logarithmus („
+  
+    
+      
+        ln
+        ⁡
+        10
+      
+    
+    {\displaystyle \ln 10}
+  “). Eine Ausnahme bilden zweistellige Verknüpfungen wie z. B. die Grundrechenarten. Hier ist eine Infix-Schreibweise üblich, bei der der Operator zwischen seine Argumente („Operanden“) geschrieben wird („
+  
+    
+      
+        a
+        +
+        b
+      
+    
+    {\displaystyle a+b}
+  “ statt „
+  
+    
+      
+        
+          +
+        
+        
+        a
+        
+        b
+      
+    
+    {\displaystyle {+}\;a\;b}
+  “). Auch in der Aussagenlogik dominieren heute Infix-Notationen, meist Varianten der frühen Peano-Russell-Notation.Die Addition der Zahlen 21 und 43 wird in der Präfixnotation folgendermaßen dargestellt:
+
++ 21 43Die Aussage „P → Q“ wird in polnischer Notation wie folgt geschrieben:
+
+CpqIn der gewohnten Infix-Notation benötigt der folgende Term mehrere Klammern:
+
+(4 + 9) : (17 + 2)Mit der Präfixnotation hingegen keine:
+
+: + 4 9 + 17 2Analog wird die Aussage
+
+(P → (Q → R)) → ((P → Q) → (P → R))zum kürzeren
+
+CCpCqrCCpqCprNeben der Funktionsschreibweise in der Mathematik, bei der in vielen Fällen der Funktionsname seinen Argumenten vorangeht (z. B. „sin 30“ oder „lg 10“) und einer Nischenposition in der Logik, in der auch heute noch von manchen Autoren polnische Notation verwendet wird, ist diese Schreibweise derzeit am prominentesten in der Informatik vertreten. So verwenden die meisten Kommandozeileninterpreter polnische Notation (z. B. „dir *.doc“ oder „ls -a /“).
+In Analogie zum mathematischen Gebrauch werden in den meisten Programmiersprachen mathematische Funktionen bzw. generell Funktionsaufrufe in polnischer Notation geschrieben, dann allerdings meist mit zusätzlicher Klammerung (z. B. „sin(30)“ oder „exp(log(10))“). Programmiersprachen mit polnischer Notation sind APL, Assembler, Tcl und Lisp. Letztere wird (wie ihre Dialekte, z. B. Scheme) wegen ihrer Nähe zum Lambda-Kalkül und der damit verbundenen Funktionsschreibweise zu den Anwendungen der polnischen Notation gezählt. Der Vorteil der Klammerfreiheit geht in Lisp allerdings verloren, weil dort erstens Operatoren im Kontext nicht eindeutig von Operanden unterschieden werden können (Variablen, Funktionen als Operanden) und weil zweitens die Stelligkeit eines Operators (d. h. die Anzahl seiner Operanden) nicht eindeutig ist. Die in Lisp gewählte Lösung, eine öffnende Klammer vor den Operator und eine schließende Klammer nach seinen letzten Operanden zu setzen, wird „Cambridge-Variante der Polnischen Notation“ genannt.Die polnische Notation (und noch mehr die umgekehrte polnische Notation, siehe unten) eignet sich gut dazu, auf einfache Weise maschinell ausgewertet zu werden. Vor allem in der Anfangszeit der elektronischen Datenverarbeitung wurde diese Schreibweise daher gerne als intermediäres Produkt von Compilern und Interpretern erzeugt bzw. verwendet, um die weitere Verarbeitung einer in benutzerfreundlicherer Schreibweise vorliegenden Eingabe für die Rechenanlage zu vereinfachen.Die umgekehrte polnische Notation, kurz UPN, ist eine Variante der polnischen Notation, bei der die Operatoren nicht vor, sondern nach ihren Argumenten geschrieben werden. Entsprechend wird die UPN Postfixnotation oder auch umgekehrte Präfixnotation, selten auch Schinlop-Notation genannt.
+Sie findet bei den Taschenrechnern der Firma Hewlett-Packard sowie bei den Programmiersprachen Forth und PostScript Verwendung, blieb aber weitestgehend auf diese beschränkt.

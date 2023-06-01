@@ -1,0 +1,25 @@
+Nichtklassische Logiken sind formale Systeme, die sich signifikant von den klassischen Logiksystemen wie der Aussagenlogik und der Prädikatenlogik unterscheiden. Es gibt verschiedene Möglichkeiten, wie dies der Fall sein kann – z. B. durch Variation gewisser Grundgesetze der klassischen Logik oder durch deren Abänderungen bzw. Erweiterungen. Das Ziel aller solchen Abweichungen ist es, verschiedene Möglichkeiten des logischen Schließens und der logischen Wahrheit aufzuzeigen und Prinzipien zu variieren, die innerhalb der klassischen Systeme als selbstverständlich und unverrückbar gelten.Parakonsistente Logiken sind formale Systeme,
+
+Die intuitionistische Logik geht von einem anderen Begriff der Wahrheit aus als die klassische Logik:Ein spezieller Typ nichtklassischer Logiken sind die Erweiterungen der klassischen Logik. In einer nichtklassischen Erweiterung werden zusätzliche logische Operatoren hinzugefügt, z. B. “
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+  ” in der Modallogik; dieses neue Zeichen steht für „Es ist notwendig, dass …“. – Für  Erweiterungen der klassischen Logik gilt:
+Die Menge der wohlformulierten Formeln (Ausdrücke) ist eine echte Obermenge der Menge der Ausdrücke, die durch die klassische Logik erzeugt werden.
+Die Menge der beweisbaren Theoreme ist eine echte Obermenge der Menge von Theoremen, die in der klassischen Logik gelten – aber nur in dem Sinn, dass die „neuen“ Theoreme der erweiterten Logik auf der Bildung der neuen Ausdrücke beruhen.Mehrwertige Logik
+Fuzzylogik
+Intuitionistische Logik
+Quantenlogik
+Modallogik
+Intensionale Logiken
+Deontische Logik
+Parakonsistente Logik
+Lineare Logik, eine Verfeinerung der klassischen und der intuitionistischen Logik.
+Relevanzlogik
+Nichtmonotone Logik
+Temporale Logik
+Interrogativlogik

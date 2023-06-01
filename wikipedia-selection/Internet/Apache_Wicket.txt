@@ -1,0 +1,43 @@
+Apache Wicket ist ein komponentenbasiertes Webframework für die Programmiersprache Java. Es ist ein Open-Source-Projekt und heute unter Version 2.0 der Apache-Lizenz verfügbar.Wicket verfolgt das Ziel, eine komfortable, leistungsfähige und flexible Möglichkeit zur Erstellung von Webanwendungen für erfahrene Java-Programmierer bereitzustellen, wodurch es ermöglicht werden soll, komplexen Anforderungen gerecht zu werden und eine hohe Produktivität zu erlangen. Durch den komponentenorientierten Ansatz von Wicket ist es sehr leicht möglich, eigene wiederverwendbare Komponenten zu entwickeln.
+Wicket zwingt den Programmierer, im Gegensatz zu vielen anderen Frameworks, konsequent objektorientiert zu programmieren. Es wird großer Wert auf Wiederverwendbarkeit gelegt.Eigenschaften von Wicket sind:
+
+Trennung von Logik (Java) und Darstellung (HTML und CSS).
+Jede Komponente kann ihre Daten in ein zugehöriges Datenmodell speichern.
+Automatische Zustandsverwaltung.
+Bis auf web.xml sind keine XML-Konfigurationsdateien nötig. Für die Arbeit mit Wicket sind ausschließlich Java- und (X)HTML-Kenntnisse erforderlich.
+Die Übernahme der Benutzereingaben erfolgt mit Java. Dabei wird durch Java zuerst geprüft, ob eine Eingabe erforderlich ist, anschließend werden die Daten in den entsprechenden Datentyp umgewandelt. Abschließend werden die Daten auf Zulässigkeit (Validierung) geprüft. Diese drei Schritte können komponentenweise oder gemeinsam für ein Web-Formular über ein Fehlerbehandlungssystem abgefangen werden. Werden alle Schritte fehlerfrei durchlaufen, so werden die Daten im Datenmodell abgelegt.
+Ajax ist ohne JavaScript-Kenntnisse möglich. Dafür gibt es einzelne Klassen, die Ajax-Funktionalität bereitstellen.
+Allen Komponenten kann (auch nachträglich) Ajax-Funktionalität über sogenannte Behaviors hinzugefügt werden. So gibt es unter anderem die Klasse AjaxEventBehavior, zum Reagieren auf ein bestimmtes JavaScript-Ereignis oder die Klasse AbstractSelfUpdatingTimerBehavior, zum automatischen Aktualisieren einzelner Komponenten in bestimmten Zeitintervallen.
+Mit sogenannten Panels kann man Teile einer Seite ändern oder austauschen bzw. die Seite aus verschiedenen Komponenten aufbauen.
+Es ist sehr leicht möglich, wiederverwendbare Komponenten zu entwickeln und diese ggf. mit Ajax-Funktionalität anzureichern.
+Alle erforderlichen Dateien einer Komponente (Java- und HTML-Datei plus ggf. Icon-, CSS- oder JavaScript-Dateien) können zur besseren Wiederverwendbarkeit in eine jar-Datei gepackt werden.
+Sogenannte Ressourcen ermöglichen es, dynamisch generierte Daten einzubinden (z. B. PDF-Daten) oder auf statische Daten (JavaScript-/CSS-Dateien) zuzugreifen.
+Der Aufbau einer URL kann über URLCodingStrategies bestimmt werden.
+Leichte Integrierbarkeit von externen JavaScript-Bibliotheken
+Schrittweise Migration von HTML-Seiten nach Wicket ist möglich.
+Ab Version 1.5 können alle Komponenten sehr einfach Events miteinander austauschen.
+WicketTester ermöglicht den UnitTest einzelner Seiten und auch den Ablauf über mehrere Seiten.Konzeptionell ist Wicket am ehesten mit Apache Tapestry vergleichbar, konkurriert aber in erster Linie mit JavaServer Faces und Google Web Toolkit.Die Architektur von Wicket wurde 2004 von Jonathan Locke und Miko Matsumura entworfen und war bis zur Version 1.2 auf sourceforge.org verfügbar.
+Später wurde das Framework dann unter der Apache-Lizenz als Open-Source-Projekt verfügbar. Eine Gruppe von Programmierern der niederländischen Firma Topicus, die von Eelco Hillenius, Martijn Dashorst und Johan Compagner geleitet wurden, bilden neben einigen anderen bis heute das Kernteam. Wicket ist als Open-Source-Projekt unter der Apache-Lizenz, Version 2.0 verfügbar.
+Ab der Version 6.0.0 setzt Wicket zwingend JDK 6 oder höher voraus. Darüber hinaus wird nun von Wicket im Hintergrund jQuery als Ajax-Implementierung verwendet.
+Mit Wicket 7.x wird zwingend Java 7 und Servlet (Version 3.x) Container voraus gesetzt.
+Seit Wicket 8.x besteht eine vollständige Unterstützung von Java 8.Jede Wicket-Komponente durchläuft einen bestimmten Lebenszyklus. Dabei gibt es drei Hauptphasen:
+
+Initialisierung
+Rendering
+RemovingDie einzelnen Methoden können jeweils bei Bedarf überschrieben werden.Ein einfaches Beispiel besteht aus vier Dateien:
+
+eine Application-Klasse, die als erstes aufgerufen wird
+eine Java-Datei, die die Seite darstellt
+eine zur Java-Datei zugehörige HTML-Datei
+und die Datei web.xml, den Deployment Descriptor der Web Application für die Konfiguration, welche Klasse die Applications-Klasse ist.Die Application-Klasse dient als zentraler Einstiegspunkt für die Webapplikation. Hier können verschiedene Einstellungen vorgenommen werden, die für die ganze Applikation gültig sind. Unter anderem wird hier die Startseite festgelegt:Jede Seite (Page) wird durch eine Java-Klasse und eine zugehörige gleichnamige HTML-Datei repräsentiert.
+Alle Komponenten der Klasse werden hier definiert. Alle Komponenten, die in der HTML-Datei eine wicket:id haben, werden als Komponenten hinzugefügt.
+OnePage.java:Für jede Komponente, die dynamisch verändert werden soll, muss ein Attribut wicket:id angelegt werden.
+OnePage.html:Die Application wird lediglich über die folgende web.xml - Datei in den Servlet-Container als Web-Applikation eingebunden:Wicket ist sehr leistungsfähig, wenn es darum geht, komplexe Anforderungen an die Webapplikation zu erfüllen. Geschäftslogik kann vollständig in Java programmiert werden, ohne sich über die Besonderheiten einer Webanwendung Gedanken machen zu müssen. Der Status der Bearbeitung innerhalb einer Session wird jedoch von Wicket serverseitig geführt, wodurch der Entwickler einer Wicketanwendung gezielt das Ressourcenproblem vieler gleichzeitiger Benutzer lösen muss. Im Gegensatz dazu werden oft bei JavaScript-basierten Webframeworks der Status clientseitig gehalten und nur ggf. die Daten vom Server nachgeladen.
+Da in Wicket sehr gut JavaScript- oder auch CSS-Frameworks eingebunden werden können, stellt Wicket eine flexible Webentwicklungsplattform dar.Wicket hat im Laufe der Zeit eine große Entwicklung durchlebt.
+
+ab Wicket 1.4 gibt es Unterstützung für Generische Datentypen. Die letzte Version der 4er-Reihe ist hier Wicket 1.4.23.
+mit Wicket 1.5 wurde die API radikal geändert. Die letzte Version ist hier Wicket 1.5.10.
+mit Wicket 6.x wurde die Wicket-eigene Ajax-Unterstützung durch jQuery ersetzt. Die letzte Version ist Wicket 1.6.20.
+mit Wicket 7.x setzt Wicket zwingend Java 7 und Servlet (Version 3.x) Container voraus.
+seit Wicket 8.0 wird Java 8 vollständig unterstützt. Es wird zusätzlich Servlet 3.1 voraus gesetzt.
+Das kommende Wicket 9.0 basiert auf Java 11 und nutzt JUnit5. Die interne Klasse Duration wird durch java.time.Duration aus dem JDK ersetzt.

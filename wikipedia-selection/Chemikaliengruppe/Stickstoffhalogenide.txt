@@ -1,0 +1,23 @@
+Stickstoffhalogenide sind binäre Verbindungen des Stickstoff mit Halogenen. Bei den meisten bisher bekannten Vertretern besitzen diese die Zusammensetzung NX3 (mit X = Halogen), es sind aber auch Halogenamine bzw. Halogenidhydride und Verbindungen mit zwei oder drei Stickstoffatomen pro Molekül bekannt.Die Stickstofftrihalogenide besitzen analog zum Ammoniak (NH3) eine pyramidale Struktur mit 3 gleichwertigen Halogenatomen. Außer dem Stickstofftrifluorid sind diese Stickstoffhalogenide endotherme Verbindungen, die beim Erhitzen oder teils bei Berührung explodieren.
+Folgende pyramidalen Stickstofftrihalogenide sind bekannt:
+Stickstofftrifluorid (NF3)
+Stickstofftrichlorid (NCl3)
+Stickstofftribromid (NBr3)
+Iodstickstoff (Stickstofftriiodid, NI3)Aufsteigend mit dem beteiligten Halogen variieren auch die Stabilität, Farbe und Struktur der Stickstofftrihalogenide:
+
+das farblose Fluorid und das gelbe Chlorid bilden relativ stabile Einzelmoleküle, die sich erst beim Erhitzen zersetzen,
+das äußerst instabile, rote Bromid kann sowohl monomere, als auch polymere Modifikationen ausbilden,
+das hochexplosive Iodid schließlich liegt nur als schwarzes Polymer vor.Neben binären Halogeniden wurden auch ebenfalls pyramidal gebaute Stickstoffwasserstoffhalogenide oder Stickstoffhalogenidhydride der Typen NHX2 und NH2X gefunden, die auch als Halogenamine bezeichnet werden. Diese sind keine binären Verbindungen und im strengen Sinne keine Stickstoffhalogenide, werden aber von den meisten Lehrbüchern dennoch zu dieser Gruppe gezählt. Dazu gehören:Monofluoramin (NH2F)
+Monochloramin (NH2Cl)
+Monobromamin (NH2Br)
+Monoiodamin (NH2I)Difluoramin (NHF2)
+Dichloramin (NHCl2)
+Dibromamin (NHBr2)
+Diiodamin (NHI2)Neben den vom Ammoniak abgeleiteten, einfach-pyramidalen Stickstofftrihalogeniden und Halogenaminen existieren auch einige Verbindungen mit zwei oder drei Stickstoffatomen im Molekül. Die Distickstofftetrahalogenide N2X4 sind bipyramidal aufgebaut, ähnlich dem Ethan, wobei jedoch ein Wasserstoffatom durch ein freies Elektronenpaar ersetzt ist bzw. analog zu Hydrazin. Die Distickstoffdihalogenide N2X2 besitzen eine N=N-Doppelbindung und es treten cis-trans-Isomere auf. Die Halogenazide N3X sind Derivate der Stickstoffwasserstoffsäure und besitzen deren Struktur. Die einzig stabile, nicht endotherme Verbindung ist das Distickstofftetrafluorid, alle anderen Verbindungen sind nur bei tiefen Temperaturen darstellbar und empfindlich auf Schlag und Temperaturerhöhung.Distickstofftetrafluorid (N2F4)
+Distickstofftetrachlorid (N2Cl4)Distickstoffdifluorid (N2F2)
+Distickstoffdichlorid (N2Cl2)Fluorazid (N3F)
+Chlorazid (N3Cl)
+Bromazid (N3Br)
+Iodazid (N3I)
+
+== Einzelnachweise ==
